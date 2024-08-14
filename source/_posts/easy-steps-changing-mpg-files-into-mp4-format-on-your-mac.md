@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Changing MPG Files Into MP4 Format on Your Mac"
-date: 2024-08-12 14:58:22
-updated: 2024-08-14 11:40:51
+date: 2024-08-13T23:51:07.620Z
+updated: 2024-08-14T23:51:07.620Z
 tags:
   - video
   - converter
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 ## 3D - What You Should Know about 3D in This Quick Guide
 
 ![3D Intro](https://www.aiseesoft.com/images/video-converter-ultimate/3d-intro.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 
  3D (three-dimensional) means something that has width, height and depth (length). It is a concept relative to 2D (something only has width and height).
 
@@ -35,6 +38,9 @@ Common 3D film formats include Anaglyph and Split Screen.
 ### 1\. Anaglyph
 
 ![Anaglyph 3D](https://www.aiseesoft.com/images/3d/anaglyph.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 
  Anaglyph 3D were the earliest method of presenting theatrical 3D and it requires less specialized hardware.
 
@@ -44,6 +50,9 @@ Common 3D film formats include Anaglyph and Split Screen.
 
  To watch the Anaglyph 3D video, what you need is just a pair of archetypical 3D glasses. And you can play the 3D video on common TV, computer monitors, and even the common portable devices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Split Screen 3D
 
  Split screen 3D can be divided into**Side by Side 3D** and**Top and Bottom 3D** .
@@ -77,13 +86,23 @@ Let's take a 720p (resolution of 1280×720) source video as an example.
 **Top and Bottom 3D** \- In the Top and Bottom 3D format, one video frame is divided into two sub-frames, the upper one consisting of the sub-frame meant for the left eye and the lower sub-frame meant for the right eye.
 
 Top and Bottom (Half-height) ![Top and Bottom 3D half](https://www.aiseesoft.com/images/3d/top-bottom-half.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Top and Bottom (Full) ![Top and Bottom 3D full](https://www.aiseesoft.com/images/3d/top-bottom-full.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 
  And the difference between Top and Bottom (Half-height) and Top and Bottom (Full) can be largely understood the same as the difference between the two Side by Side modes. The output Top and Bottom (Half-height) 3D video will keep the resolution of the source video, and the output Top and Bottom (Full) will double the vertical resolution of the original video.
 
  When playing a Side by Side 3D or Top and Bottom video, a 3D PC or 3D TV and the assorted 3D glasses are necessary. But the visual effect of Side by Side 3D and Top and Bottom 3D video is much better compared to that of Anaglyph 3D video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3D TV and 3D Glasses
 
  3D TV is television that conveys depth perception to the viewer. 3D glasses refer to any form of stereoscopic viewers.
@@ -115,10 +134,16 @@ Active shutter 3D TVs include:
  Samsung H6400, Samsung H7150, Samsung H8000, Samsung HU8550, Samsung HU9000, Sony W800B, Sony W850B, Sony X900B, Sony X950B, etc.
 
 ![Samsung](https://www.aiseesoft.com/images/3d/samsung.jpg) ![Sony](https://www.aiseesoft.com/images/3d/sony.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
 **Polarization 3D**
 
 ![Polarization 3D glasses Model](https://www.aiseesoft.com/images/3d/polarization-3d.jpg) ![Polarization 3D glasses](https://www.aiseesoft.com/images/3d/polarization-3d-glasses.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Polarization 3D uses 3D glasses with liquid crystal membrane like sunglasses. The TV screen has an outer membrane matched with the 3D glasses and when watching 3D videos on TV, the outer membrane makes separate images filtered through left and right lens and then 3D effect is produced in our brain.
 
@@ -155,7 +180,13 @@ Glasses-free 3D TVs include:
  Samsung 55-inch Glasses-Free 3D UHD TV, Sharp 85-inch 8K Glasses-Free 3D TV, Toshiba 56-inch Glasses-Free 3D TV, Haier Glasses-Free 3D TV, Leyard 110-inch Glasses-Free 3D TV, etc.
 
 ![Samsung](https://www.aiseesoft.com/images/3d/samsung.jpg) ![Sharp](https://www.aiseesoft.com/images/3d/sharp.jpg) ![Toshiba](https://www.aiseesoft.com/images/3d/toshiba.jpg) ![Haier](https://www.aiseesoft.com/images/3d/haier.jpg) ![Leyard](https://www.aiseesoft.com/images/3d/leyard.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2D to 3D Conversion
 
  Sometimes you only have 2D videos but are eager to experience 3D effect. You may ask is there a way to achieve so except buying another 3D video? The answer is yes. You can convert[2D to 3D video](https://tools.techidaily.com/aiseesoft/video-converter-ultimate/) with 2D to 3D software. Then you are able to enjoy your converted 3D videos on your 3D TV, 3D video player or other 3D devices.

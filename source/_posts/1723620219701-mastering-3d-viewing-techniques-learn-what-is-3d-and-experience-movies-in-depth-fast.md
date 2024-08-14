@@ -1,7 +1,7 @@
 ---
 title: Mastering 3D Viewing Techniques - Learn What Is 3D and Experience Movies in Depth Fast
-date: 2024-08-13 16:11:45
-updated: 2024-08-14 11:46:58
+date: 2024-08-13T23:51:05.571Z
+updated: 2024-08-14T23:51:05.571Z
 tags:
   - video
   - converter
@@ -12,6 +12,9 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ## Mastering 3D Viewing Techniques - Learn What Is 3D and Experience Movies in Depth Fast
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3D - What You Should Know about 3D in This Quick Guide
 
 ![3D Intro](https://www.aiseesoft.com/images/video-converter-ultimate/3d-intro.jpg)
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
  According to this principal, if we make two separate images of a same picture from two eyes' visual angle difference, and show these two separate images simultaneously - one to each eye, we can feel the stereoscopic effect of the image with the help of special projection hardware and/or eyewear like 3D glasses.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Common 3D Movies Formats
 
 Common 3D film formats include Anaglyph and Split Screen.
@@ -44,6 +50,9 @@ Common 3D film formats include Anaglyph and Split Screen.
 
  To watch the Anaglyph 3D video, what you need is just a pair of archetypical 3D glasses. And you can play the 3D video on common TV, computer monitors, and even the common portable devices.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Split Screen 3D
 
  Split screen 3D can be divided into**Side by Side 3D** and**Top and Bottom 3D** .
@@ -79,11 +88,17 @@ Let's take a 720p (resolution of 1280×720) source video as an example.
 Top and Bottom (Half-height) ![Top and Bottom 3D half](https://www.aiseesoft.com/images/3d/top-bottom-half.jpg)
 
 Top and Bottom (Full) ![Top and Bottom 3D full](https://www.aiseesoft.com/images/3d/top-bottom-full.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 
  And the difference between Top and Bottom (Half-height) and Top and Bottom (Full) can be largely understood the same as the difference between the two Side by Side modes. The output Top and Bottom (Half-height) 3D video will keep the resolution of the source video, and the output Top and Bottom (Full) will double the vertical resolution of the original video.
 
  When playing a Side by Side 3D or Top and Bottom video, a 3D PC or 3D TV and the assorted 3D glasses are necessary. But the visual effect of Side by Side 3D and Top and Bottom 3D video is much better compared to that of Anaglyph 3D video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## 3D TV and 3D Glasses
 
  3D TV is television that conveys depth perception to the viewer. 3D glasses refer to any form of stereoscopic viewers.
@@ -99,6 +114,9 @@ Top and Bottom (Full) ![Top and Bottom 3D full](https://www.aiseesoft.com/images
 **Active Shutter 3D**
 
 ![Active Shutter 3D](https://www.aiseesoft.com/images/3d/3d.jpg) ![Active Shutter 3D glasses](https://www.aiseesoft.com/images/3d/active-shutter-3d.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  Active Shutter 3D uses rechargeable 3D glasses. The lenses are actually two LCD screens. The current controls two lenses transmitting light alternatively and in the meantime, the 3D TV display twinkles alternatively in keeping with lenses. In this way, our eyes can see two separate images and 3D images are produced in our brain.
 
@@ -115,6 +133,9 @@ Active shutter 3D TVs include:
  Samsung H6400, Samsung H7150, Samsung H8000, Samsung HU8550, Samsung HU9000, Sony W800B, Sony W850B, Sony X900B, Sony X950B, etc.
 
 ![Samsung](https://www.aiseesoft.com/images/3d/samsung.jpg) ![Sony](https://www.aiseesoft.com/images/3d/sony.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 **Polarization 3D**
 
@@ -135,7 +156,13 @@ Polarization 3D TVs include:
 LG LB7100, LG LB7200, Sony W950B, Sony X850B, etc.
 
 ![LG](https://www.aiseesoft.com/images/3d/lg.jpg) ![Sony](https://www.aiseesoft.com/images/3d/sony.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Without lenses
 
 **Glasses-free 3D**
@@ -155,6 +182,9 @@ Glasses-free 3D TVs include:
  Samsung 55-inch Glasses-Free 3D UHD TV, Sharp 85-inch 8K Glasses-Free 3D TV, Toshiba 56-inch Glasses-Free 3D TV, Haier Glasses-Free 3D TV, Leyard 110-inch Glasses-Free 3D TV, etc.
 
 ![Samsung](https://www.aiseesoft.com/images/3d/samsung.jpg) ![Sharp](https://www.aiseesoft.com/images/3d/sharp.jpg) ![Toshiba](https://www.aiseesoft.com/images/3d/toshiba.jpg) ![Haier](https://www.aiseesoft.com/images/3d/haier.jpg) ![Leyard](https://www.aiseesoft.com/images/3d/leyard.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 
 ## 2D to 3D Conversion
 

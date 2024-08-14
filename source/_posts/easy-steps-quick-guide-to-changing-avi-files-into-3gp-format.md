@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Quick Guide to Changing AVI Files Into 3GP Format"
-date: 2024-08-12 18:52:38
-updated: 2024-08-14 11:55:31
+date: 2024-08-13T23:51:05.832Z
+updated: 2024-08-14T23:51:05.832Z
 tags:
   - video
   - converter
@@ -12,14 +12,23 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ## Mastering 3D Viewing Techniques - Learn What Is 3D and Experience Movies in Depth Fast
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 3D - What You Should Know about 3D in This Quick Guide
 
 ![3D Intro](https://www.aiseesoft.com/images/video-converter-ultimate/3d-intro.jpg)
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 
  3D (three-dimensional) means something that has width, height and depth (length). It is a concept relative to 2D (something only has width and height).
 
  3D movies refer to the motion pictures adding stereoscopic vision.[3D Blu-ray Movie](https://tools.techidaily.com/) is encoded at 1080p/24 and delivers full HD 1080p resolution to each eye.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stereoscopic principal - Polarizing Theory
 
  3D movies are made use of human eyes' visual angle difference and convergence to produce stereoscopic effect.
@@ -32,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 Common 3D film formats include Anaglyph and Split Screen.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Anaglyph
 
 ![Anaglyph 3D](https://www.aiseesoft.com/images/3d/anaglyph.jpg)
@@ -44,6 +56,9 @@ Common 3D film formats include Anaglyph and Split Screen.
 
  To watch the Anaglyph 3D video, what you need is just a pair of archetypical 3D glasses. And you can play the 3D video on common TV, computer monitors, and even the common portable devices.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Split Screen 3D
 
  Split screen 3D can be divided into**Side by Side 3D** and**Top and Bottom 3D** .
@@ -61,6 +76,9 @@ Side by Side (Half-width)
 Side by Side (Full)
 
 ![Side by Side 3D full](https://www.aiseesoft.com/images/3d/full.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 
 Let's take a 720p (resolution of 1280×720) source video as an example.
 
@@ -77,8 +95,14 @@ Let's take a 720p (resolution of 1280×720) source video as an example.
 **Top and Bottom 3D** \- In the Top and Bottom 3D format, one video frame is divided into two sub-frames, the upper one consisting of the sub-frame meant for the left eye and the lower sub-frame meant for the right eye.
 
 Top and Bottom (Half-height) ![Top and Bottom 3D half](https://www.aiseesoft.com/images/3d/top-bottom-half.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 Top and Bottom (Full) ![Top and Bottom 3D full](https://www.aiseesoft.com/images/3d/top-bottom-full.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 
  And the difference between Top and Bottom (Half-height) and Top and Bottom (Full) can be largely understood the same as the difference between the two Side by Side modes. The output Top and Bottom (Half-height) 3D video will keep the resolution of the source video, and the output Top and Bottom (Full) will double the vertical resolution of the original video.
 
@@ -115,6 +139,9 @@ Active shutter 3D TVs include:
  Samsung H6400, Samsung H7150, Samsung H8000, Samsung HU8550, Samsung HU9000, Sony W800B, Sony W850B, Sony X900B, Sony X950B, etc.
 
 ![Samsung](https://www.aiseesoft.com/images/3d/samsung.jpg) ![Sony](https://www.aiseesoft.com/images/3d/sony.jpg)
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 
 **Polarization 3D**
 
@@ -136,6 +163,10 @@ LG LB7100, LG LB7200, Sony W950B, Sony X850B, etc.
 
 ![LG](https://www.aiseesoft.com/images/3d/lg.jpg) ![Sony](https://www.aiseesoft.com/images/3d/sony.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 2\. Without lenses
 
 **Glasses-free 3D**
