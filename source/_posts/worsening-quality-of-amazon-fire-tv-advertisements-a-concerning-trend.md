@@ -1,0 +1,41 @@
+---
+title: "Worsening Quality of Amazon Fire TV Advertisements: A Concerning Trend"
+date: 2024-08-27 21:57:36
+updated: 2024-08-29 12:48:50
+tags:
+  - streaming
+categories:
+  - tech
+thumbnail: https://thmb.techidaily.com/0817e17832f9eb6eaafa089134585eb7da7e6eb5282db756bf22aa798c8924ed.jpg
+---
+
+## Worsening Quality of Amazon Fire TV Advertisements: A Concerning Trend
+
+No one likes ads, but all those big-budget movies and shows don't pay for themselves. Streaming services and smart TV platforms have been experimenting with new types of ads, some of which are pretty annoying. If you happen to have a Fire TV device, not only will you have to put up with more ads on your streaming services of choice, but you'll also have ads on the home screen as well.
+
+ Amazon has announced new advertising options for advertisers on Fire TV, with the company saying that it aims to let advertisers reach roughly 155 million unduplicated monthly viewers, or six out of every 10 U.S. adults, with its ads. Notably, Amazon is opening up the "Feature Rotator," which was previously reserved only for streaming services to advertise their content, to other advertisers, so you might see ads for real-life products such as cars, snacks, and everything in between as a banner on top of your home screen. This banner basically takes half your screen, and it will also have a video component that will let the ad play a video for you — you _can_ disable autoplay, at least, so it won't straight up get loud the second it loads unless you want it to, but it's still there.
+
+![Amazon Fire TV Ads 2023](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/amazon-fire-tv-ads-2023.jpg) 
+
+Amazon via StreamTV Insider
+
+ In addition to this, Amazon is also throwing in some ads on the search page, which was previously ad-free. Amazon is going to sell slots to advertisers to put "sponsored tiles" next to search results, which will be shown next to the top search result in any given query.
+
+ Google TV [took a similar step earlier this year](https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-narzo-n55-by-drfone-android/), when it yanked up the number of ads throughout the system and notably also opened up its top-banner ads to third-party advertisers. So, this seems to be a common theme by this point, and something that will likely become unescapable across most, if not all, smart TV platforms. Some platforms are still less invasive with advertising than others — Roku's home screen is still relatively minimal for the moment — but the trend is definitely becoming more tiresome.
+
+ Source: [StreamTV Insider](https://www.streamtvinsider.com/advertising/amazon-fire-tv-intros-new-options-advertisers-including-contextual-sponsored-tiles) via [TechHive](https://www.techhive.com/article/2123287/fire-tv-banner-ads-are-about-to-get-worse.html)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
