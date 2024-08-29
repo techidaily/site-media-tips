@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Tablo 4Th Gen DVR Evaluation: Enjoy Regional Broadcasts with Minor Limitations"
-date: 2024-08-28 19:24:24
-updated: 2024-08-29 10:41:32
+date: 2024-08-28T04:03:11.231Z
+updated: 2024-08-29T04:03:11.231Z
 tags:
   - streaming
 categories:
@@ -75,6 +75,9 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
 
 ![Ports on the Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  The USB 2.0 port can be used to add more storage for recordings. Tablo claims you can connect USB hard drives up to 8TB in size, which would give you around 1,000 hours of HD storage. Any external USB hard drive or solid-state drive should work, but not flash drives, since most of them can't sustain the read and write speeds required for streaming media. The new Tablo DVR has enough built-in flash storage for 50 hours of HD recordings.
@@ -121,6 +124,9 @@ Close
 
 ![Tablo player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_5401.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tablo says in [the FAQ section on its website](https://www.tablotv.com/product/) that a 4-tuner Tablo is under development, which would allow more simultaneous recordings and/or more devices streaming live TV at once. If you _absolutely_ need more tuners right now, you could buy another Tablo unit and switch between them as needed in the Tablo app. You would also need another antenna for the other Tablo, or you could share the same antenna across multiple devices with an [amplified splitter](https://www.amazon.com/Amplified-Splitter-Pixelated-Low-Strength-Distributes/dp/B083KKFJLY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate).
 
  With the Tablo connected to my router with an ethernet cable, I didn't have any problems watching TV. Live channels opened within a few seconds (as long as the antenna signal was strong), and playback for recordings started instantly. Tablo also passes through 5.1 Surround Sound when available, so audio quality in live TV and recordings should match the original broadcast. The video quality also looked great for me, but the resolution will depend on the given channel. Many broadcast channels in the US are still 720p or 480p/480i.
@@ -137,10 +143,16 @@ Close
 
  Sling TV has also sold some AirTV receivers over the years, which are designed to add local channels to an existing Sling TV package, but you don't strictly need a Sling subscription. I've [been using an AirTV 2](https://www.spacebar.news/p/antenna-tv-is-pretty-cool-actually), allowing me to watch TV through the Sling app (which is [available on more platforms than Tablo](https://sling-tv.pxf.io/c/156932/1132376/14334?subId1=UUhtgUeUpU2000923&subId2=ehtg&u=https%3A%2F%2Fwww.sling.com%2Fsupported-devices)) or through a desktop browser. However, Sling only appears to be [selling the AirTV devices](https://sling-tv.pxf.io/c/156932/1132376/14334?subId1=UUhtgUeUpU2000923&subId2=ehtg&u=https%3A%2F%2Fwww.sling.com%2Fsupported-devices%2Fairtv-mini) in bundle packages with a Sling TV subscription, as of the time of writing. You can find standalone AirTV 2 receivers on eBay and other similar sites, but it doesn't seem to be as well-supported as Tablo at this point.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Tablo 4th Gen?
 
 ![Tablo 4th Gen from top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  The [Tablo (4th Generation) DVR](http://www.amazon.com/Tablo-Broadcast-TV-Streaming-Whole-Home/dp/B0CBVT6SLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate) is an easy and simple way to watch over-the-air TV from anywhere in your home, and it does what it sets out to do. I have some complaints, especially the lack of ATSC 3.0 support and the sometimes-buggy app, but it's probably still the best option for someone who wants a plug-and-play solution. It brings some of the conveniences of cable TV subscriptions to over-the-air channels, like multi-device streaming and DVR recording, without any recurring costs.
@@ -151,8 +163,14 @@ Corbin Davenport / How-To Geek
 
 ![Tablo 4th Gen DVR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Tablo 4th Gen
 
 8/ 10 
@@ -175,3 +193,53 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-integrate-twitter-videos-into-your-instagram-feed/"><u>[New] In 2024, Integrate Twitter Videos Into Your Instagram Feed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-6-unique-sources-for-premium-youtube-imagery/"><u>[New] Top 6 Unique Sources for Premium YouTube Imagery</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-impact-of-authenticity-in-insta-self-portraits/"><u>[Updated] 2024 Approved  The Impact of Authenticity in Insta Self-Portraits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capture-your-sounds-on-pc-with-x-recorder/"><u>[Updated] In 2024, Capture Your Sounds on PC with X-Recorder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-privacy-filter-concealing-visual-details-in-media/"><u>[Updated] The Privacy Filter  Concealing Visual Details in Media</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-5-cinematiccamera-tips/"><u>2024 Approved  Top 5 Cinematic/Camera Tips</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-of-the-best-selecting-the-ideal-movie-subtitle-translator-among-the-top-five-picks/"><u>Best of the Best: Selecting the Ideal Movie Subtitle Translator Among the Top Five Picks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-top-5-text-to-subtitles-software-transforming-txt-into-srt-stl-ass-scc-and-ttml-formats/"><u>Best Top 5 Text-to-Subtitles Software: Transforming TXT Into SRT, STL, ASS, SCC & TTML Formats</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-analysis-top-10-tools-for-converting-blackberry-videos/"><u>Comprehensive Analysis: Top 10 Tools for Converting BlackBerry Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-guide-on-imovie-mp4-conversion-techniques-and-expert-tutorials/"><u>Comprehensive Guide on iMovie MP4 Conversion Techniques & Expert Tutorials</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-your-m4p-audio-tracks-to-mp3-at-no-cost-with-our-simple-tool/"><u>Convert Your M4P Audio Tracks to MP3 at No Cost with Our Simple Tool</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-your-mts-videos-to-mp4-with-these-quick-tips-for-windows-11mac-users/"><u>Convert Your MTS Videos to MP4 with These Quick Tips for Windows 11/Mac Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/converting-your-video-files-from-asf-to-mp4-on-mac-top-free-and-premium-options-for-iphone-playback/"><u>Converting Your Video Files From ASF to MP4 on Mac - Top Free and Premium Options for iPhone Playback</u></a></li>
+<li><a href="https://media-tips.techidaily.com/directly-transferring-films-onto-your-ipod-a-step-by-step-guide-without-using-itunes/"><u>Directly Transferring Films Onto Your iPod: A Step-by-Step Guide Without Using iTunes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-guide-how-to-turn-any-video-into-mp3-aac-flac-or-m4a-files/"><u>Easy Guide: How to Turn Any Video Into MP3, AAC, FLAC, or M4A Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficient-techniques-for-upgrading-videos-to-high-quality-4k-resolution/"><u>Efficient Techniques for Upgrading Videos to High-Quality 4K Resolution</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-conversion-three-proven-techniques-for-mini-dv-digitalization/"><u>Effortless Conversion: Three Proven Techniques for Mini DV Digitalization</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exhaustive-list-and-evaluation-of-10-leading-blackberry-video-transformation-apps/"><u>Exhaustive List and Evaluation of 10 Leading BlackBerry Video Transformation Apps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-gourmandise-guide-decoding-chocolate-in-30-languages/"><u>Global Gourmandise Guide: Decoding Chocolate in 30 Languages</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-to-transforming-video-content-into-mp4-on-a-mac-a-step-by-step-process/"><u>Guide to Transforming Video Content Into MP4 on a Mac - A Step-by-Step Process</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-correctly-restore-a-lost-or-hidden-msvcr70dll-error-on-windows/"><u>How to Correctly Restore a Lost or Hidden Msvcr70.dll Error on Windows</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-seamlessly-convert-avchd-video-clips-to-mov-file-format-using-pc-or-web-services/"><u>How to Seamlessly Convert AVCHD Video Clips to Mov File Format Using PC or Web Services</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-honor-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Honor online without jailbreak</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-multi-format-conversion-change-your-media-to-mp4-3gp-wmv-and-more-with-superior-total-video-converter/"><u>Mastering Multi-Format Conversion: Change Your Media to MP4, 3GP, WMV & More with Superior Total Video Converter</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-the-mp4-file-type-a-comprehensive-resource-for-every-thing-you-must-know/"><u>Mastering the MP4 File Type: A Comprehensive Resource for Every Thing You Must Know</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mpeg-4-to-mp4-conversion-methods-comprehensive-tutorial-for-online-and-offline-software-solutions/"><u>MPEG-4 to MP4 Conversion Methods: Comprehensive Tutorial for Online and Offline Software Solutions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620233692-preserve-precision-with-easy-avchd-to-avi-conversion-follow-these-simple-steps/"><u>Preserve Precision with Easy AVCHD to AVI Conversion – Follow These Simple Steps!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-conversion-and-editing-techniques-for-high-definition-videos/"><u>Simple Conversion & Editing Techniques for High-Definition Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-guide-converting-avi-files-for-apple-devices-itunes-compatibility/"><u>Simple Guide: Converting AVI Files for Apple Devices - iTunes Compatibility</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-guide-uploading-videos-to-your-ipod-seamlessly-no-itunes-required/"><u>Simple Guide: Uploading Videos to Your iPod Seamlessly, No iTunes Required</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simplified-guide-how-to-stream-media-content-onto-your-blackberry-device/"><u>Simplified Guide: How to Stream Media Content Onto Your BlackBerry Device</u></a></li>
+<li><a href="https://media-tips.techidaily.com/solving-movavis-video-export-error-a-step-by-step-solution-to-restore-your-files/"><u>Solving Movavi's Video Export Error: A Step-by-Step Solution to Restore Your Files</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-mov-files-into-mp3-format-across-windows-macos-and-mobile/"><u>Step-by-Step Guide: Converting MOV Files Into MP3 Format Across Windows, MacOS & Mobile</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620232639-step-by-step-guide-converting-mxf-files-to-mov-format-on-your-mac-solutions-inside/"><u>Step-by-Step Guide: Converting MXF Files to MOV Format on Your Mac - Solutions Inside</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-sharing-your-imovie-on-youtube/"><u>Step-by-Step Guide: Sharing Your iMovie on YouTube</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-how-to-converting-avi-files-to-mov-for-both-pc-and-mac-users/"><u>Step-by-Step How-To: Converting AVI Files to MOV for Both PC and Mac Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-iphone-and-ipad-video-transcoding-tools-for-macos-users/"><u>Top 5 iPhone & iPad Video Transcoding Tools for macOS Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-rated-vob-to-mp4-convertors-an-in-depth-review/"><u>Top 5 Rated VOB to MP4 Convertors: An In-Depth Review</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-resources-for-farsi-movie-subtitles-download-and-steps-to-integrate-them-into-videos/"><u>Top Resources for Farsi Movie Subtitles Download & Steps to Integrate Them Into Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-tips-effortlessly-stream-mkv-files-on-your-ipad/"><u>Top Tips: Effortlessly Stream MKV Files on Your iPad</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transform-your-4k-xavc-videos-seamlessly-into-mp4-format-with-an-exceptional-free-converter-for-avid-users/"><u>Transform Your 4K XAVC Videos Seamlessly Into MP4 Format with an Exceptional Free Converter for AVID Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-quicktime-mov-files-into-webm-format-7-simple-no-cost-online-methods/"><u>Transforming QuickTime MOV Files Into WebM Format: 7 Simple, No-Cost Online Methods</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-list-of-top-12-tools-add-ons-and-plugins-to-boost-your-windows-movie-maker-experience/"><u>Ultimate List of Top 12 Tools, Add-Ons, and Plugins to Boost Your Windows Movie Maker Experience</u></a></li>
+</ul></div>

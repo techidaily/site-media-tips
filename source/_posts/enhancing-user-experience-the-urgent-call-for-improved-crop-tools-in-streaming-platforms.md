@@ -1,7 +1,7 @@
 ---
 title: "Enhancing User Experience: The Urgent Call for Improved Crop Tools in Streaming Platforms"
-date: 2024-08-26 18:50:28
-updated: 2024-08-29 10:56:25
+date: 2024-08-28T04:00:05.614Z
+updated: 2024-08-29T04:00:05.614Z
 tags:
   - streaming
 categories:
@@ -27,12 +27,19 @@ thumbnail: https://thmb.techidaily.com/083891d80d305e3e5a22e685512649ae9de124749
 
  While cinematic purists may balk at this idea, in many films and shows, the parts of the frame that are lost by "punching in" like this may not make much of a difference, and even if it's not the most artistically pure way to watch the content, the principle that you should have the choice certainly means something.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Streaming Apps Rarely Have Cropping Features
 
  Sadly, streaming apps rarely have tools built in to let you crop or zoom the image if you don't like having black bars. At least not mainstream paid apps like Netflix or Amazon Prime Video. When you stream your own content with apps like [Plex](https://network-issues.techidaily.com/instantly-eradicate-playback-problems/), you do have the option to flip between different aspect ratios.
 
  There are also clever methods of stretching video that don't distort the picture quite so much, such as nonlinear video stretching, where the image is more stretched to the edges of the frame and less to the middle, so you don't really notice it and characters and objects in the center of the frame still appear normal. Either way, there are lots of viable and valid reasons to have these options in these apps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Native Aspect Ratio vs Containers
 
  While I would personally not usually stretch or crop movies and shows to fit the screen, the whole reason I'm disappointed this isn't possible in these apps has to do with video formatting. You see, I watch a lot (even most) of my movies and shows on my iPad Pro. This device has a native aspect ratio of 4:3, which means I absolutely love watching older content on its gorgeous mini LED screen.
@@ -41,18 +48,27 @@ thumbnail: https://thmb.techidaily.com/083891d80d305e3e5a22e685512649ae9de124749
 
 ![An iPad playing an episode of Star Trek The Next Generation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/star-trek-tng.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek / Paramount
 
  However, on some streaming services (I'm looking at you [Crunchyroll](https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-s23-fe-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/)) 4:3 content seems to be encoded in a 16:9 container. In other words, the black bars are built into the video! Consequently, on my iPad I get both black bars _and_ black pillars!
 
 ![Gundam shown on an iPad with double black bars.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gundam.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek / Bandai Namco
 
  If the app had any sort of native cropping tool, I could solve this issue with the tap of a button, but sadly it does not.
 
  Despite usually offering native 4:3 content, Netflix isn't totally off the hook. Consider the infamous _Seinfeld_ episodes that were cropped to widescreen natively, making some scenes nonsensical. Netflix could simply have offered the native 4:3 video, and given us the choice of whether seeing [the pothole](https://www.indiewire.com/features/general/seinfeld-netflix-aspect-ratio-pothole-cropped-1234668934/) mattered or not.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Using Your TV’s Native Tools to Adjust the Picture
 
  While you can't restore pre-cropped images, if you want to convert 4:3 or 21:9 content to your 16:9 TV, you may have the option to do it by using built-in options on your screen. Assuming you're using a device like an Android or Apple TV, you can usually override the aspect ratio by using an option on your TV.
@@ -73,3 +89,46 @@ Sydney Louw Butler / How-To Geek / Bandai Namco
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-webcam-pro-step-by-step-recording-on-macbooks/"><u>[New] 2024 Approved  Webcam Pro  Step-by-Step Recording on MacBooks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-android-mobas-a-decade-of-favorite-titles-top-10-for-2024/"><u>[New] Android MOBAs  A Decade of Favorite Titles - Top 10 for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-streamlining-media-transformation-from-xml-to-srt/"><u>[New] Streamlining Media Transformation From XML to SRT</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-inside-influence-a-peek-at-top-25-social-media-icons-on-insta/"><u>[Updated] 2024 Approved  Inside Influence  A Peek at Top 25 Social Media Icons on Insta</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-earinsight-exploring-audio-samples/"><u>2024 Approved  EarInsight  Exploring Audio Samples</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-9-tiff-image-viewers-available-on-windows-android-and-ios-platforms/"><u>Best 9 TIFF Image Viewers Available on Windows, Android & iOS Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capturing-games-in-plain-sight-choose-between-obs-and-shadowplay/"><u>Capturing Games in Plain Sight  Choose Between OBS and ShadowPlay</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-leading-whatsapp-video-converter-tools-for-stunning-results/"><u>Discover the Leading WhatsApp Video Converter Tools for Stunning Results</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-for-when-you-cant-find-rockaldlldll-on-your-pc/"><u>Easy Fixes for When You Can't Find Rockaldll.dll on Your PC</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-guide-to-converting-mp4-to-premium-webm-content-for-the-web-cost-free-methods/"><u>Easy Guide to Converting MP4 to Premium WebM Content for the Web - Cost-Free Methods</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-guide-converting-any-video-file-to-mp4-on-a-mac-computer/"><u>Easy Guide: Converting Any Video File to MP4 on a Mac Computer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-methods-to-play-and-watch-movies-on-amazons-kindle-fire-tablet/"><u>Easy Methods to Play and Watch Movies on Amazon's Kindle Fire Tablet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-steps-converting-avi-files-to-compatible-formats-for-your-ipad-using-a-mac/"><u>Easy Steps: Converting AVI Files to Compatible Formats for Your iPad Using a Mac</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortlessly-transform-3gp-files-into-iphones-friendly-formats-for-flawless-media-play/"><u>Effortlessly Transform 3GP Files Into iPhones-Friendly Formats for Flawless Media Play</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-your-pcs-potential-with-a-windows-11-in-place-step-by-step-guide/"><u>Elevating Your PC's Potential with a Windows 11, In-Place Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-lenovo-display-brightness-levels/"><u>Enhancing Lenovo Display Brightness Levels</u></a></li>
+<li><a href="https://media-tips.techidaily.com/explore-the-leading-free-mp4-to-asf-converter-tools-available-online/"><u>Explore the Leading Free MP4-to-ASF Converter Tools Available Online</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-xbox-wireless-gear-running-instant-driver-download/"><u>Get Your Xbox Wireless Gear Running: Instant Driver Download!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-google-pixel-7a-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Google Pixel 7a Safely | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-seamlessly-move-video-files-from-mac-to-your-ipad-air/"><u>How To Seamlessly Move Video Files From Mac To Your iPad Air</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-your-wmv-videos-into-mp3-format-no-cost-solution/"><u>How to Transform Your WMV Videos Into MP3 Format - No Cost Solution!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-12-mini-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone 12 mini SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-asus-rog-phone-7-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Asus ROG Phone 7 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-12-pro-max-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 12 Pro Max to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-iphone-gps-software-a-must-try-list-of-favorites/"><u>Leading iPhone GPS Software: A Must-Try List of Favorites</u></a></li>
+<li><a href="https://media-tips.techidaily.com/leading-zero-fee-converters-from-mp4-to-wmv-simplify-your-video-format-switching/"><u>Leading Zero Fee Converters From MP4 to WMV: Simplify Your Video Format Switching</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-video-formats-comprehensive-step-by-step-guide-on-switching-from-mts-to-mp4mpeg-4-with-simple-tools/"><u>Mastering Video Formats: Comprehensive Step-by-Step Guide on Switching From MTS to MP4/MPEG-4 with Simple Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-the-dark-windows-11-issue/"><u>Overcoming the Dark Windows 11 Issue</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-conversion-tips-switch-your-media-from-mp4-to-xvid-both-online-and-off-line/"><u>Quick Conversion Tips: Switch Your Media From MP4 to XviD Both Online and Off-Line</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-transition-from-mp4-to-3gp-two-effortless-techniques-for-effective-media-file-conversion/"><u>Seamless Transition From MP4 to 3GP: Two Effortless Techniques for Effective Media File Conversion</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-guide-removing-subtitles-from-mkv-videos-in-easy-steps/"><u>Simple Guide: Removing Subtitles From MKV Videos in Easy Steps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-steps-to-activate-captions-on-your-apple-tv/"><u>Simple Steps to Activate Captions on Your Apple TV</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-creating-personalized-android-ringtone-sounds/"><u>Step-by-Step Tutorial on Creating Personalized Android Ringtone Sounds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/supreme-10-royale-face-offs-for-2024/"><u>Supreme 10 Royale Face-Offs for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-tutorial-for-watching-movies-and-vids-on-kindle-fire-with-video-conversion-tools/"><u>The Ultimate Tutorial for Watching Movies & Vids on Kindle Fire with Video Conversion Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oneplus-frp-by-drfone-android/"><u>The Updated Method to Bypass OnePlus FRP</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transform-mp4-videos-into-flv-format-using-top-ranked-gratis-media-conversion-tools/"><u>Transform MP4 Videos Into FLV Format Using Top-Ranked, Gratis Media Conversion Tools</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-video-experience-top-tools-for-adjusting-audio-bitrates/"><u>Transforming Video Experience: Top Tools for Adjusting Audio Bitrates</u></a></li>
+</ul></div>

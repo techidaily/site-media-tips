@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of the New Tablo (Generation 4) DVR: Access Local Channels for Free, Though Some Conditions Apply"
-date: 2024-08-26 23:13:52
-updated: 2024-08-29 12:27:36
+date: 2024-08-28T04:00:02.323Z
+updated: 2024-08-29T04:00:02.323Z
 tags:
   - streaming
 categories:
@@ -67,6 +67,9 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
 
  You can buy the Tablo DVR from [Tablo's online store](https://www.tablotv.com/product/), [Amazon](https://amazon.com/dp/B0CBVT6SLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate), [Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftablo-4th-gen-2-tuner-128gb-over-the-air-dvr-streaming-player-white%2F6554313.p%3FskuId%3D6554313), and other retailers. Not all stores sell both versions, so be sure to check that you're not over paying for gear you don't need.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Design of a Modern DVR
 
  The 4th Gen Tablo DVR is a white circular box, measuring 5 inches across (127mm) and 1.37 inches tall (35mm). It's small enough to easily fit wherever it's needed, whether that's in a TV cabinet next to an existing antenna setup, next to your router for a wired internet connection, or somewhere else. The only visible features are a Tablo logo on the top and an LED status light. There are four ports on the back: the power input, ethernet (100 Mb/s), USB 2.0, and the coax port for the TV antenna.
@@ -75,6 +78,9 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
 
 ![Ports on the Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  The USB 2.0 port can be used to add more storage for recordings. Tablo claims you can connect USB hard drives up to 8TB in size, which would give you around 1,000 hours of HD storage. Any external USB hard drive or solid-state drive should work, but not flash drives, since most of them can't sustain the read and write speeds required for streaming media. The new Tablo DVR has enough built-in flash storage for 50 hours of HD recordings.
@@ -85,10 +91,16 @@ Corbin Davenport / How-To Geek
 
 ![Holding a TV antenna from Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
 ![Holding a TV antenna from Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
 Close 
@@ -129,6 +141,9 @@ Close
 
  Tablo's lack of ATSC 3.0 support doesn't mean you lose any channels, though. The FCC has [said](https://docs.fcc.gov/public/attachments/FCC-23-53A1.pdf) that channels must continue broadcasting ATSC 1.0 until July 17, 2027, at the earliest, and it's likely that most channels will continue broadcasts past that point (otherwise they would lose viewers).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ##  Competition
 
  There are a few other popular over-the-air streaming and DVR boxes. The most powerful option is probably the [HDHomeRun series](https://www.silicondust.com/hdhomerun/) from SiliconDust, some of which have up to 4 tuners and support for ATSC 3.0\. The low-end [HDHomeRun Flex Duo](https://shop.silicondust.com/shop/product/hdfx-2us/) is almost the same price ($110) as the Tablo, with the same two tuners and ATSC 1.0 support, but no integrated storage. You have to plug in a drive or buy one of the higher-end models with internal storage.
@@ -137,6 +152,9 @@ Close
 
  Sling TV has also sold some AirTV receivers over the years, which are designed to add local channels to an existing Sling TV package, but you don't strictly need a Sling subscription. I've [been using an AirTV 2](https://www.spacebar.news/p/antenna-tv-is-pretty-cool-actually), allowing me to watch TV through the Sling app (which is [available on more platforms than Tablo](https://sling-tv.pxf.io/c/156932/1132376/14334?subId1=UUhtgUeUpU2000923&subId2=ehtg&u=https%3A%2F%2Fwww.sling.com%2Fsupported-devices)) or through a desktop browser. However, Sling only appears to be [selling the AirTV devices](https://sling-tv.pxf.io/c/156932/1132376/14334?subId1=UUhtgUeUpU2000923&subId2=ehtg&u=https%3A%2F%2Fwww.sling.com%2Fsupported-devices%2Fairtv-mini) in bundle packages with a Sling TV subscription, as of the time of writing. You can find standalone AirTV 2 receivers on eBay and other similar sites, but it doesn't seem to be as well-supported as Tablo at this point.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Tablo 4th Gen?
 
 ![Tablo 4th Gen from top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-2.jpg) 
@@ -175,3 +193,62 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-tape-to-broadcast-ready-using-studio-editor/"><u>[New] 2024 Approved  From Raw Tape to Broadcast-Ready  Using Studio Editor</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-accelerated-download-solutions-for-vimeo-files/"><u>[New] Accelerated Download Solutions for Vimeo Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-humor-haven-free-tools-for-meme-artistry/"><u>[New] Humor Haven  FREE Tools for Meme Artistry</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-picks-for-top-rated-free-srt-translation-tools/"><u>[New] Ultimate Picks for Top-Rated Free SRT Translation Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-maximizing-revenue-crafting-engaging-fb-animation-ads-for-2024/"><u>[Updated] Maximizing Revenue  Crafting Engaging FB Animation Ads for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-elevate-your-play-with-these-5-windows-11-recording-approaches/"><u>2024 Approved  Elevate Your Play with These 5 Windows 11 Recording Approaches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/502-bad-gateway-error-what-it-is-and-how-to-fix-it/"><u>502 Bad Gateway Error: What It Is and How to Fix It</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-methods-for-converting-mxf-files-to-m4v-format-a-guide-for-pc-and-mac-users/"><u>Best Methods for Converting MXF Files to M4V Format: A Guide for PC & Mac Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/choosing-between-avchd-and-mp4-a-comprehensive-guide-on-selecting-your-ideal-video-format/"><u>Choosing Between AVCHD and MP4: A Comprehensive Guide on Selecting Your Ideal Video Format</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g04-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-guide-unveiling-the-secrets-of-mkv-video-files/"><u>Comprehensive Guide: Unveiling the Secrets of MKV Video Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/converting-from-wonderfilm-to-mp4-with-ease-your-guide/"><u>Converting From Wonderfilm to MP4 with Ease: Your Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/costless-methods-for-editing-and-converting-avchd-video-formats/"><u>Costless Methods for Editing and Converting AVCHD Video Formats</u></a></li>
+<li><a href="https://media-tips.techidaily.com/deciding-between-h264-and-h265-comprehensive-analysis-of-video-codecs-for-enhanced-quality/"><u>Deciding Between H.2ˈ64 and H.2ˈ65: Comprehensive Analysis of Video Codecs for Enhanced Quality</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-13c-5g-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Redmi 13C 5G support MKV video files?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-and-enjoy-the-ultimate-selection-of-6-best-free-subtitle-tools/"><u>Download & Enjoy - The Ultimate Selection of 6 Best Free Subtitle Tools!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620233790-download-premium-english-captions-at-no-cost-the-ultimate-guide-for-top-4-websites/"><u>Download Premium English Captions at No Cost: The Ultimate Guide for TOP 4 Websites</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620218861-easy-conversion-guide-transforming-flv-files-into-mov-on-pc-or-mac-discover-5-cost-free-solutions/"><u>Easy Conversion Guide: Transforming FLV Files Into MOV on PC or Mac - Discover 5 Cost-Free Solutions!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-conversion-techniques-from-m2ts-to-kindle-fire-compatible-format/"><u>Easy Conversion Techniques From M2TS to Kindle Fire Compatible Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-tutorial-on-transforming-your-h264-videos-into-the-avi-format/"><u>Easy Tutorial on Transforming Your H.264 Videos Into the AVI Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-problem-of-dead-space-remastered-not-starting-expert-advice-2024/"><u>Fixing the Problem of Dead Space Remastered Not Starting - Expert Advice 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/get-free-english-subtitles-from-the-best-4-platforms-and-apply-them-to-your-videos/"><u>Get Free English Subtitles From the Best 4 Platforms & Apply Them to Your Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-smart-8-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Smart 8 Pro Phone Screen?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-m6-pro-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Poco M6 Pro 4G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-securing-stipends-by-scrutinizing-subscriptions-on-streaming-services/"><u>In 2024, Securing Stipends by Scrutinizing Subscriptions on Streaming Services</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-unleash-the-power-of-memes-with-twitter-video-to-gif-transformation/"><u>In 2024, Unleash the Power of Memes with Twitter Video-to-GIF Transformation</u></a></li>
+<li><a href="https://media-tips.techidaily.com/in-depth-look-at-movavi-video-converter-advantages-drawbacks-and-price-breakdown/"><u>In-Depth Look at Movavi Video Converter : Advantages, Drawbacks & Price Breakdown</u></a></li>
+<li><a href="https://techidaily.com/inside-look-into-abbyys-hierarchy-of-success-the-visionary-leaders-from-founders-to-cfo-who-steered-its-course/"><u>Inside Look Into ABBYY's Hierarchy of Success: The Visionary Leaders From Founders to CFO Who Steered Its Course</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-investing-in-youtube-tv-worthwhile-herere-the-factors/"><u>Is Investing in YouTube TV Worthwhile? Here're the Factors</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620227685-modern-compatible-swf-to-mp4-transformation-tools-find-the-optimal-converter/"><u>Modern-Compatible SWF to MP4 Transformation Tools - Find the Optimal Converter</u></a></li>
+<li><a href="https://media-tips.techidaily.com/online-and-offline-methods-transforming-flv-videos-into-mp4-or-mov-formats-for-your-ipad/"><u>Online & Offline Methods: Transforming FLV Videos Into MP4 or MOV Formats for Your iPad</u></a></li>
+<li><a href="https://media-tips.techidaily.com/premium-mov-to-divx-converters-top-picks/"><u>Premium Mov-to-DivX Converters: Top Picks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-simple-techniques-transforming-rmvb-files-into-mpeg-format/"><u>Quick & Simple Techniques: Transforming RMVB Files Into MPEG Format</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fix-how-to-resolve-issues-with-non-functioning-steamvr/"><u>Quick Fix: How to Resolve Issues with Non-Functioning SteamVR</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-guide-converting-mts-video-files-into-mp4-for-windows-and-macos-users/"><u>Quick Guide: Converting MTS Video Files Into MP4 for Windows and macOS Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-integration-of-xavc-video-files-with-final-cut-pro-nand-fcp-x-editing-software/"><u>Seamless Integration of XAVC Video Files with Final Cut Pro Nand FCP X Editing Software</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simplified-guide-how-to-transcode-webm-files-into-mp3-format-on-windows-or-mac/"><u>Simplified Guide: How to Transcode WebM Files Into MP3 Format on Windows or Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/soaring-through-style-the-new-age-of-bebop-parrot-for-2024/"><u>Soaring Through Style – The New Age of Bebop Parrot for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/softening-volume-windowsmac-audio-tips-for-2024/"><u>Softening Volume  Windows/Mac Audio Tips for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-for-seamlessly-switching-from-ogg-format-to-mp4-whether-online-or-via-desktop-software/"><u>Step-by-Step Guide for Seamlessly Switching From OGG Format to MP4, Whether Online or via Desktop Software</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-swf-video-files-into-high-quality-mp4-top-5-techniques/"><u>Step-by-Step Guide: Converting SWF Video Files Into High-Quality MP4 - Top 5 Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transferring-canon-mxf-footage-into-final-cut-pro-x/"><u>Step-by-Step Guide: Transferring Canon MXF Footage Into Final Cut Pro X</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-uploading-ultra-high-definition-videos-to-youtube-in-4k-720p-or-1080p/"><u>Step-by-Step Tutorial: Uploading Ultra High-Definition Videos to YouTube in 4K, 720P, or 1080P</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-comprehensive-guide-to-selecting-a-4k-smartphone-or-tablet-with-video-playback-and-recording-capabilities/"><u>The Comprehensive Guide to Selecting a 4K Smartphone or Tablet with Video Playback and Recording Capabilities</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-method-for-converting-videos-soundtrack-from-mpeg-to-mp3-quality/"><u>The Ultimate Method for Converting Video's Soundtrack From MPEG to MP3 Quality</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transferring-home-videos-from-dvds-to-itunes-for-easy-access-and-management/"><u>Transferring Home Videos From DVDs to iTunes for Easy Access and Management</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-wav-sound-files-into-high-quality-m4a-with-these-5-effective-strategies/"><u>Transforming WAV Sound Files Into High-Quality M4A with These 5 Effective Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steam-solutions-for-a-sluggish-connection/"><u>Troubleshooting Steam: Solutions for a Sluggish Connection</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-y56-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo Y56 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-transforming-wmv-files-into-flv-format-top-6-techniques/"><u>Ultimate Guide: Transforming WMV Files Into FLV Format - Top 6 Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-how-to-guide-for-using-aiseesofts-ios-video-transformation-tool-for-mac-enthusiasts/"><u>Ultimate How-To Guide for Using Aiseesoft's iOS Video Transformation Tool for Mac Enthusiasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tips-and-tricks-to-resolve-realtek-sound-driver-not-starting-problem/"><u>Ultimate Tips and Tricks to Resolve Realtek Sound Driver Not Starting Problem</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-tutorial-converting-video-object-vob-to-windows-media-video-wmv-for-seamless-editing-in-windows-movie-maker/"><u>Ultimate Tutorial: Converting Video Object (VOB) to Windows Media Video (WMV) for Seamless Editing in Windows Movie Maker</u></a></li>
+<li><a href="https://media-tips.techidaily.com/universal-dat-format-changer-quick-and-effortless-conversion-to-desired-formats/"><u>Universal DAT Format Changer: Quick and Effortless Conversion to Desired Formats</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unveiling-the-champions-expert-analysis-of-the-5-best-ipod-video-convertors-on-the-market/"><u>Unveiling the Champions: Expert Analysis of the 5 Best iPod Video Convertors on the Market</u></a></li>
+</ul></div>

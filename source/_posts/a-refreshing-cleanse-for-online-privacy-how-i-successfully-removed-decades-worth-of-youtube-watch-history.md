@@ -1,7 +1,7 @@
 ---
 title: "A Refreshing Cleanse for Online Privacy: How I Successfully Removed Decades Worth of YouTube Watch History"
-date: 2024-08-28 11:30:35
-updated: 2024-08-29 11:26:23
+date: 2024-08-28T04:01:30.071Z
+updated: 2024-08-29T04:01:30.071Z
 tags:
   - streaming
 categories:
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
  At some point before I pulled the trigger, I started to notice a decline in the quality of the videos YouTube suggested to me. After several revamps under the hood, I just wasn't seeing the interesting stuff I used to. People were still making it. If I took the extra step to go looking for the sorts of videos I wanted, I'd find them in no time. So why wasn't YouTube suggesting the right videos to me?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Subscriptions: They Do Nothing
 
  What's worse, is that subscribing to a channel doesn't seem to work the way it used to. Over these many years, I have subscribed to a huge number of [great channels](https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/), and everything those channels release would be of interest to me. However, not only was I missing new videos from channels I wanted to watch, I was getting recommendations from channels I did not subscribe to and would not subscribe to.
@@ -31,12 +34,18 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
  This is when it occurred to me that my watch history might no longer be compatible with whatever YouTube's latest algorithm was trying to do. After all, I'm not the same person I was thirteen years ago. I don't watch the exact same content I do now as I did in my early 20s. Since YouTube bases its recommendations on your past behavior, maybe it's my past behavior that's now catching up with me and ruining the experience.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ##  I Can’t Curate All That HIstory
 
  It should be said that I did not have to delete all of my watch history in order to improve my recommendations. You can go through your history manually and remove only what you don't want taken into account. However, as we've established, in my case, the sheer amount of history was massive. There's no way that I could curate that much, and it would be an enormous time investment.
 
  Maybe someone who's only been on YouTube for less than a year could realistically curate their watch history if they don't watch that much, but I think most people just won't have a practical way to do it. Which is why I just decided to delete it all.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ##  The Good and Bad of Nuking My Watch History
 
  After taking the plunge, there was an immediate and dramatic improvement in the YouTube feed. Now YouTube only has my subscriptions and the latest watch history to go on. So, as I watch new videos that reflect what I want to watch, the better my feed has become.
@@ -59,3 +68,47 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-googles-revolutionary-approach-to-speech-interpretation/"><u>[New] Google's Revolutionary Approach to Speech Interpretation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-share-a-private-youtube-video-with-google-account-for-2024/"><u>[New] How to Share a Private YouTube Video with Google Account for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-social-media-to-mp3-converter/"><u>[New] In 2024, Social Media to Mp3 Converter</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-telepresence-seminar-capture/"><u>[New] Telepresence Seminar Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-discovering-the-power-of-hdr-in-iphone-photography/"><u>[Updated] Discovering the Power of HDR in iPhone Photography</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-master-class-extracting-and-saving-vimeo-videos/"><u>2024 Approved  Master Class  Extracting and Saving Vimeo Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-of-the-best-selecting-the-ideal-movie-subtitle-translator-among-the-top-five-picks/"><u>Best of the Best: Selecting the Ideal Movie Subtitle Translator Among the Top Five Picks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-top-5-text-to-subtitles-software-transforming-txt-into-srt-stl-ass-scc-and-ttml-formats/"><u>Best Top 5 Text-to-Subtitles Software: Transforming TXT Into SRT, STL, ASS, SCC & TTML Formats</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-analysis-top-10-tools-for-converting-blackberry-videos/"><u>Comprehensive Analysis: Top 10 Tools for Converting BlackBerry Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-guide-to-choosing-the-right-3d-animator-software-for-beginners-and-seasoned-artists-unlocking-free-and-paid-versions/"><u>Comprehensive Guide to Choosing the Right 3D Animator Software for Beginners and Seasoned Artists - Unlocking FREE & Paid Versions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-your-mts-videos-to-mp4-with-these-quick-tips-for-windows-11mac-users/"><u>Convert Your MTS Videos to MP4 with These Quick Tips for Windows 11/Mac Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/converting-your-video-files-from-asf-to-mp4-on-mac-top-free-and-premium-options-for-iphone-playback/"><u>Converting Your Video Files From ASF to MP4 on Mac - Top Free and Premium Options for iPhone Playback</u></a></li>
+<li><a href="https://media-tips.techidaily.com/distinguishing-features-understanding-the-contrast-between-4k-ultra-hd-and-full-hd-1080p/"><u>Distinguishing Features: Understanding the Contrast Between 4K Ultra HD and Full HD 1080P</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficient-techniques-for-upgrading-videos-to-high-quality-4k-resolution/"><u>Efficient Techniques for Upgrading Videos to High-Quality 4K Resolution</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-edge-2023-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola Edge 2023</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exhaustive-list-and-evaluation-of-10-leading-blackberry-video-transformation-apps/"><u>Exhaustive List and Evaluation of 10 Leading BlackBerry Video Transformation Apps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/expert-tips-for-successfully-transforming-mxf-into-mov-on-macos-a-comprehensive-guide/"><u>Expert Tips for Successfully Transforming MXF Into MOV on macOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-to-transforming-video-content-into-mp4-on-a-mac-a-step-by-step-process/"><u>Guide to Transforming Video Content Into MP4 on a Mac - A Step-by-Step Process</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-effortlessly-switch-from-m2ts-video-format-to-ipad-viewing-a-guide-to-4-proven-techniques/"><u>How to Effortlessly Switch From M2TS Video Format to iPad Viewing: A Guide to 4 Proven Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-seamlessly-convert-avchd-video-clips-to-mov-file-format-using-pc-or-web-services/"><u>How to Seamlessly Convert AVCHD Video Clips to Mov File Format Using PC or Web Services</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-enhancing-online-presence-obs-and-facebook-synergy/"><u>In 2024, Enhancing Online Presence  OBS & Facebook Synergy</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ultimate-plan-for-livestream-and-document-sports-contests/"><u>In 2024, Ultimate Plan for Livestream & Document Sports Contests</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-music-blend-fundamentals/"><u>In 2024, YouTube Music Blend Fundamentals</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-multi-format-conversion-change-your-media-to-mp4-3gp-wmv-and-more-with-superior-total-video-converter/"><u>Mastering Multi-Format Conversion: Change Your Media to MP4, 3GP, WMV & More with Superior Total Video Converter</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-the-mp4-file-type-a-comprehensive-resource-for-every-thing-you-must-know/"><u>Mastering the MP4 File Type: A Comprehensive Resource for Every Thing You Must Know</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620233692-preserve-precision-with-easy-avchd-to-avi-conversion-follow-these-simple-steps/"><u>Preserve Precision with Easy AVCHD to AVI Conversion – Follow These Simple Steps!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/robotics-fun-unleashed-comprehensive-guide-to-the-wonder-workshops-dash/"><u>Robotics Fun Unleashed: Comprehensive Guide to the Wonder Workshop's Dash</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-conversion-and-editing-techniques-for-high-definition-videos/"><u>Simple Conversion & Editing Techniques for High-Definition Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-mov-files-into-mp3-format-across-windows-macos-and-mobile/"><u>Step-by-Step Guide: Converting MOV Files Into MP3 Format Across Windows, MacOS & Mobile</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620232639-step-by-step-guide-converting-mxf-files-to-mov-format-on-your-mac-solutions-inside/"><u>Step-by-Step Guide: Converting MXF Files to MOV Format on Your Mac - Solutions Inside</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-sharing-your-imovie-on-youtube/"><u>Step-by-Step Guide: Sharing Your iMovie on YouTube</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-how-to-converting-avi-files-to-mov-for-both-pc-and-mac-users/"><u>Step-by-Step How-To: Converting AVI Files to MOV for Both PC and Mac Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-resources-for-farsi-movie-subtitles-download-and-steps-to-integrate-them-into-videos/"><u>Top Resources for Farsi Movie Subtitles Download & Steps to Integrate Them Into Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-quicktime-mov-files-into-webm-format-7-simple-no-cost-online-methods/"><u>Transforming QuickTime MOV Files Into WebM Format: 7 Simple, No-Cost Online Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-the-full-experience-what-to-do-when-mass-effect-legendary-wont-open/"><u>Unlocking the Full Experience: What to Do When Mass Effect Legendary Won't Open</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-of-the-rest-10-adobe-premiere-elements-alternatives-for-video-production-for-2024/"><u>Updated The Best of the Rest 10 Adobe Premiere Elements Alternatives for Video Production for 2024</u></a></li>
+</ul></div>
