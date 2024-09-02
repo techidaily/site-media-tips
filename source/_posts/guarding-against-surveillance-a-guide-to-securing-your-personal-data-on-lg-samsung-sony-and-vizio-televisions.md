@@ -1,7 +1,7 @@
 ---
 title: "Guarding Against Surveillance: A Guide to Securing Your Personal Data on LG, Samsung, Sony and Vizio Televisions"
-date: 2024-08-26 19:23:52
-updated: 2024-08-29 10:46:32
+date: 2024-09-01T06:48:56.446Z
+updated: 2024-09-02T06:48:56.446Z
 tags:
   - streaming
 categories:
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
 
 ![Remote control for a 2020 LG CX OLED.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/remote_lg.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  The data captured about you can be combined with data from other sources, using cross-device linking. For example, if you have a smartphone on the same wireless network, it’s easy for marketers to link your watching habits with an existing profile that reveals things like your age, location, who you’re likely to vote for, whether you have children, and so on. It’s just one of the [ways advertisers track you across the web](https://facebook-videos.techidaily.com/2024-approved-convert-fb-videos-to-mp4-no-cost-high-definition-available/).
@@ -45,6 +48,14 @@ Tim Brookes / How-To Geek
 
  In addition to marketing, data itself has value. Insights can be gleaned about the habits of certain cohorts and sold for research purposes. It’s impossible to know what these companies are doing with this data, but it’s all in the pursuit of money so ultimately you become the product and your habits are the juicy prize.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  Opt out of Data Collection
 
  Most TV platforms offer a way to opt out of some of the more insidious data collection practices, notably ACR. Just because you’ve opted out of this information doesn’t necessarily mean you aren’t still being tracked, in some way.
@@ -59,6 +70,9 @@ Tim Brookes / How-To Geek
 
 **Note:** Due to the way manufacturers update and change their TV software, it’s not possible to provide a guide that applies to all models. If you can’t follow the exact steps below, we recommend having a dig through the menus and looking for similar options elsewhere.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ###  Disable Data Tracking on LG (webOS) TVs
 
  Not all LG TVs have the same options, particularly since LG refreshed its webOS interface in the 2021 (C1, G1, B1) models.
@@ -95,6 +109,9 @@ Tim Brookes / How-To Geek
 2. Highlight “Viewing Data” and use the right arrow on your remote to turn the setting “Off.”
 3. Adjust advert tracking preferences under the “Advertising” menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ###  Disable Data Tracking on Roku (TCL, Hisense, Philips, Sharp) TVs
 
  Roku is the platform of choice for brands like TCL and Hisense, among many others:
@@ -107,6 +124,9 @@ Tim Brookes / How-To Geek
 
  Note: After disabling these settings, you might find that Roku will ask you to enable these settings again under the guise of “enhancing” your TV experience.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Disable Data Tracking on Android TV (Sony)
 
  If you have a Sony TV, first disable ACR (known as Samba TV):
@@ -127,6 +147,9 @@ Tim Brookes / How-To Geek
 1. Launch Settings and navigate to Preferences > Privacy Settings.
 2. Now disable Device Usage Data, Collect App and Over-the-Air Usage, and Interest-Based Ads.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Avoid Setting Up Voice Assistants
 
  Many smart TVs now come with a choice of voice assistants including Alexa and Google Assistant. These require your permission to work, and you’ll usually be asked to pick an assistant and agree to a privacy policy when you first press the button on your remote.
@@ -151,6 +174,9 @@ Jordan Gloor / How-To Geek
 
  Another option is to reset your TV to factory settings, an option you will find buried somewhere in a Settings menu. You’ll need to set up your TV from scratch if you go this route, and you’ll get a chance to reject any privacy policies you may have agreed to the first time around. You’ll also lose any custom picture profiles, input labels, and apps you have downloaded.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Dumb TV? Get a Streaming Box
 
  You probably want to access streaming services like Netflix, free resources like YouTube, or even rental services like Apple TV. Without an internet connection, your smart TV can’t do any of that. Instead, you’ll need to invest in a streaming box.
@@ -159,6 +185,9 @@ Jordan Gloor / How-To Geek
 
 ![Apple TV device on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 [Lebedev Yury/Shutterstock.com](https://www.shutterstock.com/image-photo/berlin-germany-august-21-2016-product-471991831)
 
  Familiarize yourself with the data collection practices of companies like Apple and Google. Apple is a hardware manufacturer that has earned a decent reputation for its [robust privacy controls](https://tiktok-clips.techidaily.com/updated-2024-approved-avoid-breaches-the-pre-upload-guide-to-copyright-on-tiktok/) and [App Store policies](https://extra-approaches.techidaily.com/updated-navigating-the-world-of-no-fee-visual-aids/). Google is the web’s largest advertiser. This may play into your decision on whether you go for an Apple TV or a Chromecast. [Roku is a budget option](https://video-screen-grab.techidaily.com/new-best-extensions-to-capture-firefox-for-2024/), but you’ll probably need to follow the guide above again.
@@ -181,3 +210,51 @@ Jordan Gloor / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quick-snapshot-the-essential-skill-for-zoom-meetings-for-2024/"><u>[New] Quick Snapshot  The Essential Skill for Zoom Meetings for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-rpg-origins-vs-hybrid-designs-evolution/"><u>[New] RPG Origins Vs. Hybrid Designs  Evolution</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nleash-your-channels-premium-cost-free-intro-makers/"><u>[New] Unleash Your Channels  Premium, Cost-Free Intro Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-decoding-youtubes-procedure-after-a-video-is-uploaded/"><u>[Updated] 2024 Approved  Decoding YouTube's Procedure After a Video Is Uploaded</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-demystifying-the-math-of-youtube-ratio-perfection/"><u>[Updated] 2024 Approved  Demystifying the Math of YouTube Ratio Perfection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mastering-webinar-recording-techniques/"><u>[Updated] In 2024, Mastering Webinar Recording Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-fast-lane-to-sharing-playlists-online/"><u>[Updated] In 2024, The Fast Lane to Sharing Playlists Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mini-magnate-ryan-kajis-staggering-income-from-video-platform/"><u>[Updated] Mini Magnate  Ryan Kaji’s Staggering Income From Video Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm5pya5paw44gu5yuv55s75asj5oplusb44oe44o844or77ya57eo6zug44cb6yyy55s744cb5zyn57iu5qmf6io95qplusu6lyd44cn/"><u>「最新の動画変換ツール：編集、録画、圧縮機能比較」</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-complete-guide-streaming-the-best-of-olympic-aquatics/"><u>1. Complete Guide: Streaming the Best of Olympic Aquatics</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-enhanced-plex-search-interface-say-goodbye-to-frustration/"><u>1. Enhanced Plex Search Interface: Say Goodbye to Frustration!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-a-comprehensive-approach-to-video-assisted-instruction/"><u>2024 Approved  A Comprehensive Approach to Video-Assisted Instruction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-minecraft-homestead-essentials-6-10/"><u>2024 Approved  Minecraft Homestead Essentials #6-10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-offline-masterpieces-top-10-ios-game-selections-without-internet/"><u>2024 Approved  Offline Masterpieces  Top 10 iOS Game Selections Without Internet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/amazons-solution-how-mattercast-compares-with-chromecast-and-airplay/"><u>Amazon's Solution: How Mattercast Compares with Chromecast & AirPlay</u></a></li>
+<li><a href="https://media-tips.techidaily.com/apple-homepod-now-supports-youtube-music-streaming/"><u>Apple HomePod Now Supports YouTube Music Streaming</u></a></li>
+<li><a href="https://media-tips.techidaily.com/artificial-intelligence-enhances-music-experience-with-spotifys-innovative-ai-curated-playlists/"><u>Artificial Intelligence Enhances Music Experience with Spotify's Innovative AI-Curated Playlists</u></a></li>
+<li><a href="https://media-tips.techidaily.com/benq-unveils-stunning-low-delay-4k-resolution-projector-series-for-enhanced-visual-experience/"><u>BenQ Unveils Stunning Low-Delay, 4K Resolution Projector Series for Enhanced Visual Experience</u></a></li>
+<li><a href="https://fox-info.techidaily.com/best-storing-solution-for-sony-a7s-ii/"><u>Best Storing Solution for Sony A7S II</u></a></li>
+<li><a href="https://media-tips.techidaily.com/channel-loss-across-52-regions-impacts-directv-subscribers/"><u>Channel Loss Across 52 Regions Impacts DirecTV Subscribers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-top-streamers-apple-tv-4k-against-the-roku-ultra/"><u>Comparing Top Streamers: Apple TV 4K Against the Roku Ultra</u></a></li>
+<li><a href="https://media-tips.techidaily.com/determining-the-optimal-brightness-level-for-your-television-screen/"><u>Determining the Optimal Brightness Level for Your Television Screen</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-spotifys-hidden-exclusive-premium-subscription-offer/"><u>Discover Spotify's Hidden Exclusive Premium Subscription Offer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/disneyplus-adds-back-popular-movies-what-you-need-to-know-about-the-restrictions/"><u>Disney+ Adds Back Popular Movies: What You Need to Know About the Restrictions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhance-your-streaming-experience-with-our-guide-to-restoring-the-classic-shuffle-play-on-netflix-like-platforms/"><u>Enhance Your Streaming Experience with Our Guide to Restoring the Classic 'Shuffle Play' On Netflix-Like Platforms</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhanced-youtube-multiview-experience-now-available-for-nfl-sunday-ticket-fans/"><u>Enhanced YouTube MultiView Experience Now Available for NFL Sunday Ticket Fans</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enjoy-siriusxms-exclusive-free-taylor-swift-radio-stream-anytime-anywhere/"><u>Enjoy SiriusXM's Exclusive Free Taylor Swift Radio: Stream Anytime, Anywhere!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enjoying-streaming-bliss-rediscovering-hulu-with-disneypluss-integration/"><u>Enjoying Streaming Bliss: Rediscovering Hulu with Disney+'s Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/excellent-pick-prime-photo-organizers-for-windows/"><u>Excellent Pick: Prime Photo Organizers For Windows</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exclusive-access-fee-how-spotify-is-monetizing-your-love-for-lyrics/"><u>Exclusive Access Fee: How Spotify Is Monetizing Your Love for Lyrics!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/how-to-deafen-silent-tweets-impact-for-2024/"><u>How to Deafen Silent Tweets' Impact for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-sony-by-drfone-android-unlock-android-unlock/"><u>How to unlock Sony</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instagram-reel-creation-guide/"><u>In 2024, Instagram Reel Creation Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/innovative-ways-to-keep-track-of-tasks-using-slack-reminders/"><u>Innovative Ways to Keep Track of Tasks Using Slack Reminders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leveraging-social-media-giants-to-skyrocket-your-marketing-game/"><u>Leveraging Social Media Giants to Skyrocket Your Marketing Game</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/preventing-photo-glitches-on-windows-10-a-quick-guide/"><u>Preventing Photo Glitches on Windows 10  A Quick Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-next-generation-of-aerial-artistry-with-bebops-parrot-2/"><u>The Next Generation of Aerial Artistry with Bebop's Parrot 2</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-disneypluss-treasure-trove-of-bonus-content-more-than-just-streaming/"><u>Unlock Disney+'s Treasure Trove of Bonus Content – More Than Just Streaming!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-potential-6-key-upgrades-disneyplus-must-adopt-for-revitalization/"><u>Unlocking Potential: 6 Key Upgrades Disney+ Must Adopt for Revitalization</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-remote-access-utilizing-vpn-capabilities-on-your-apple-tv/"><u>Unlocking Remote Access: Utilizing VPN Capabilities on Your Apple TV</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-the-full-potential-of-youtube-premium-a-comprehensive-guide/"><u>Unlocking the Full Potential of YouTube Premium: A Comprehensive Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/upgrade-your-amazon-prime-video-experience-bid-farewell-to-ads-with-just-a-small-annual-premium/"><u>Upgrade Your Amazon Prime Video Experience: Bid Farewell to Ads with Just a Small Annual Premium!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/walmart-acquires-vizios-advertising-division-in-major-deal/"><u>Walmart Acquires Vizio's Advertising Division in Major Deal</u></a></li>
+<li><a href="https://media-tips.techidaily.com/watch-ufc-fight-night-294-makhachev-vs-volkanovski-for-free-live-broadcast-tips/"><u>Watch UFC Fight Night 294 Makhachev Vs. Volkanovski for Free - Live Broadcast Tips</u></a></li>
+</ul></div>

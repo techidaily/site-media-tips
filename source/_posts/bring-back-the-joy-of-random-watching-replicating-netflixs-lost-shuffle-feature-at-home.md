@@ -1,7 +1,7 @@
 ---
 title: "Bring Back the Joy of Random Watching: Replicating Netflix's Lost Shuffle Feature at Home"
-date: 2024-08-27 12:33:13
-updated: 2024-08-29 10:20:14
+date: 2024-09-01T06:44:46.433Z
+updated: 2024-09-02T06:44:46.433Z
 tags:
   - streaming
 categories:
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
 
  About two years later, Netflix quietly removed the feature—which had since been renamed to "Surprise Me"—due to low usage. If you miss the ability to find a randomly-generated TV show or movie to watch on Netflix, you'll need to get a little creative.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Shuffle Netflix (And More) With ReelGood Roulette
 
  We can't add the shuffle button back to Netflix, but we can recreate its ability to find a random TV show or movie. We'll be using a feature from Reelgood, a website for finding content on streaming services. In fact, it's probably better than Netflix's "Play Something" feature.
@@ -39,10 +42,16 @@ Close
 
 ![Spin the Reelgood Roulette wheel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-03_08-24-19.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
  A result will pop up underneath the "Spin" button, and you can select "Watch Now" to jump straight to the streaming service. Or you can pull up Netflix on your TV or wherever you'd like to watch it and find the title. Easy as that!
 
 ![Watch a title from Reelgood Roulette.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-03_08-27-29.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ---
 
  While this may not be as convenient as leaning back on your couch and clicking the "Play Something" button, it's quite a bit more useful. You're not just limited to Netflix, and you have more control over which titles it's choosing from. Happy streaming!
@@ -61,3 +70,57 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-essential-online-websites-for-acquiring-thrones-rhythms/"><u>[New] 2024 Approved  Essential Online Websites for Acquiring Thrones Rhythms</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-navigating-iphones-voice-memos-with-precision/"><u>[New] Navigating iPhone's Voice Memos with Precision</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-obs-essentials-optimizing-your-skype-call-recording-quality/"><u>[Updated] OBS Essentials  Optimizing Your Skype Call Recording Quality</u></a></li>
+<li><a href="https://media-tips.techidaily.com/7-proven-strategies-to-manage-your-monthly-streaming-costs/"><u>7 Proven Strategies to Manage Your Monthly Streaming Costs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-step-by-step-approach-for-flawless-instagrams-for-2024/"><u>A Step-by-Step Approach for Flawless Instagrams for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/april-2024-marks-the-expiration-of-federal-broadband-assistance-programs/"><u>April 2024 Marks the Expiration of Federal Broadband Assistance Programs</u></a></li>
+<li><a href="https://media-tips.techidaily.com/customizing-your-viewing-experience-how-to-bypass-the-built-in-two-hour-timeout-on-plex-streaming-service/"><u>Customizing Your Viewing Experience: How to Bypass the Built-In Two Hour Timeout on Plex Streaming Service</u></a></li>
+<li><a href="https://media-tips.techidaily.com/do-the-perks-of-spotify-premium-justify-its-cost-a-deep-dive-into-essential-features/"><u>Do the Perks of Spotify Premium Justify Its Cost: A Deep Dive Into Essential Features</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhancing-streaming-and-video-on-demand-with-unique-value-added-functions/"><u>Enhancing Streaming & Video-On-Demand with Unique Value-Added Functions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exclusive-deal-alert-get-your-max-plan-discounted-by-as-much-as-45-now/"><u>Exclusive Deal Alert: Get Your Max Plan Discounted by as Much as 45%% Now!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/experience-enhanced-viewing-with-hisenses-cutting-edge-mini-projector-featuring-4k-and-dolby-vision/"><u>Experience Enhanced Viewing with Hisense's Cutting-Edge Mini Projector Featuring 4K and Dolby Vision</u></a></li>
+<li><a href="https://media-tips.techidaily.com/experience-top-tier-soundtracks-at-no-cost-with-spotifys-limited-time-premium-offer/"><u>Experience Top-Tier Soundtracks at No Cost with Spotify's Limited-Time Premium Offer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/explore-the-hidden-world-of-youtube-gaming-start-playing-now/"><u>Explore the Hidden World of YouTube Gaming - Start Playing Now!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exploring-kodi-205-release-new-updates-and-exciting-additions-released-now/"><u>Exploring Kodi 20.5 Release: New Updates and Exciting Additions Released Now!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exploring-the-surge-of-audio-visual-episodes-in-your-spotify-library/"><u>Exploring the Surge of Audio-Visual Episodes in Your Spotify Library</u></a></li>
+<li><a href="https://media-tips.techidaily.com/firefox-126-collaborates-with-nvidia-rtx-to-supercharge-youtube-viewing-experience/"><u>Firefox 126 Collaborates with NVIDIA RTX to Supercharge YouTube Viewing Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-movie-treasure-on-playstation-plus-a-simple-guide-to-accessible-film-content/"><u>Free Movie Treasure on PlayStation Plus: A Simple Guide to Accessible Film Content</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-enjoying-the-thrills-of-the-2024-olympics-gymnastics-events/"><u>Guide: Enjoying the Thrills of the 2024 Olympics – Gymnastics Events</u></a></li>
+<li><a href="https://media-tips.techidaily.com/high-quality-apple-tvplus-shows-hindered-by-ineffective-promotion-strategies/"><u>High-Quality Apple TV+ Shows Hindered by Ineffective Promotion Strategies</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-create-and-run-your-personal-internet-radio-with-icecast-on-linux-os/"><u>How to Create and Run Your Personal Internet Radio with Icecast on Linux OS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-irisplus-graphics-655-compatible-drivers-tutorial-for-windows-10-and-11-users/"><u>Intel Iris+ Graphics 655 Compatible Drivers: Tutorial for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/is-spotifys-paid-subscription-justified-by-its-unique-benefits/"><u>Is Spotify's Paid Subscription Justified by Its Unique Benefits?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/join-the-party-with-plex-discover-track-what-your-friends-are-watching-online/"><u>Join the Party with Plex Discover - Track What Your Friends Are Watching Online</u></a></li>
+<li><a href="https://media-tips.techidaily.com/limited-access-dish-tv-discontinues-channels-in-multiple-zones/"><u>Limited Access: Dish TV Discontinues Channels in Multiple Zones</u></a></li>
+<li><a href="https://media-tips.techidaily.com/listen-securely-four-essential-tricks-to-maintain-anonymity-with-apple-music/"><u>Listen Securely: Four Essential Tricks to Maintain Anonymity with Apple Music</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-moment-best-drone-footage-editing-tools-ranked/"><u>Mastering the Moment  Best Drone Footage Editing Tools Ranked</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-your-smart-television-a-step-by-step-guide-on-linking-disassociating-and-rebooting-your-apple-tv-clicker/"><u>Mastering Your Smart Television: A Step-by-Step Guide on Linking, Disassociating, and Rebooting Your Apple TV Clicker</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maximize-entertainment-with-just-10-exclusive-offer-for-verizon-subscribers-stream-netflix-and-more/"><u>Maximize Entertainment with Just $10: Exclusive Offer for Verizon Subscribers - Stream Netflix & More!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maximize-your-gridiron-experience-with-these-5-key-streamers-for-the-entire-nfl-season/"><u>Maximize Your Gridiron Experience with These 5 Key Streamers for the Entire NFL Season</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maximize-your-value-on-disneyplus-a-guide-to-getting-the-most-from-your-subscription/"><u>Maximize Your Value on Disney+: A Guide to Getting the Most From Your Subscription</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-croatia-like-a-local-key-phrases-you-cant-miss/"><u>Navigating Croatia Like a Local: Key Phrases You Can’t Miss</u></a></li>
+<li><a href="https://media-tips.techidaily.com/nfl-game-pass-subscribers-rejoice-youtube-tv-slashes-prices-by-50/"><u>NFL Game Pass Subscribers Rejoice: YouTube TV Slashes Prices by 50%%!</u></a></li>
+<li><a href="https://facebook.techidaily.com/ownership-dynamics-in-online-image-hosting/"><u>Ownership Dynamics in Online Image Hosting</u></a></li>
+<li><a href="https://media-tips.techidaily.com/paramountplus-announces-regular-price-increases-what-subscribers-need-to-know/"><u>Paramount+ Announces Regular Price Increases: What Subscribers Need to Know</u></a></li>
+<li><a href="https://media-tips.techidaily.com/predicting-the-unknown-through-melodies-discover-your-future-on-spotifys-playlist-oracle/"><u>Predicting the Unknown Through Melodies: Discover Your Future on Spotify's Playlist Oracle</u></a></li>
+<li><a href="https://media-tips.techidaily.com/rising-subscription-fees-disneyplus-espnplus-and-hulu-announce-price-hike/"><u>Rising Subscription Fees: Disney+, ESPN+, & Hulu Announce Price Hike</u></a></li>
+<li><a href="https://media-tips.techidaily.com/roku-television-receives-significant-image-clarity-improvements-for-a-superior-display/"><u>Roku Television Receives Significant Image Clarity Improvements for a Superior Display</u></a></li>
+<li><a href="https://media-tips.techidaily.com/secure-a-250-discount-on-the-portable-marvel-xgimis-mogo/"><u>Secure a $250 Discount on the Portable Marvel: XGIMI's MoGo</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-modulenotfounderror-a-comprehensive-guide/"><u>Solving the 'ModuleNotFoundError': A Comprehensive Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/speedy-search-tips-for-checking-movies-and-tv-shows-on-popular-streaming-platforms/"><u>Speedy Search Tips for Checking Movies and TV Shows on Popular Streaming Platforms</u></a></li>
+<li><a href="https://media-tips.techidaily.com/spotifys-new-personalized-experience-my-spotify-awaits-you/"><u>Spotify's New Personalized Experience: My Spotify Awaits You!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-generating-and-sharing-your-own-spotify-link-codes/"><u>Step-by-Step Guide: Generating & Sharing Your Own Spotify Link Codes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/stuck-with-choices-in-your-streaming-library-discover-our-top-recommendations/"><u>Stuck with Choices in Your Streaming Library? Discover Our Top Recommendations!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-7-undeniable-benefits-of-choosing-smart-over-modern-television-sets/"><u>Top 7 Undeniable Benefits of Choosing Smart Over Modern Television Sets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-to-zooming-in-on-effective-win11-meetings/"><u>Ultimate Guide to Zooming In on Effective Win11 Meetings</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unleash-gaming-on-your-roku-tv-discover-the-latest-play-options/"><u>Unleash Gaming on Your Roku TV: Discover the Latest Play Options</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-savings-of-250-with-xgimis-compact-powerful-mogo-2-pro-projector/"><u>Unlock Savings of $250 with XGIMI's Compact, Powerful MoGo 2 Pro Projector!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-the-secrets-of-spotifys-overlooked-jam-session-functionality/"><u>Unlocking the Secrets of Spotify's Overlooked Jam Session Functionality</u></a></li>
+<li><a href="https://media-tips.techidaily.com/why-its-essential-the-three-key-advantages-of-rating-the-tv-series-you-enjoy-on-streaming-platforms/"><u>Why It's Essential: The Three Key Advantages of Rating the TV Series You Enjoy on Streaming Platforms</u></a></li>
+</ul></div>

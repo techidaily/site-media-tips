@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Surge of Gaming in Video Platforms & News Websites: Unraveling the Trend"
-date: 2024-08-27 12:29:15
-updated: 2024-08-29 11:12:18
+date: 2024-09-01T06:48:06.931Z
+updated: 2024-09-02T06:48:06.931Z
 tags:
   - streaming
 categories:
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 
  With [AI entering search results](https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-13-mini-after-forgetting-my-pin-code-by-drfone-ios/) or supplanting search altogether, along with unpredictable algorithm changes, many sites are seeing their web traffic plummet and their ad revenue shrink. That creates a need to find more ways to attract people that isn't so dependent on one outside company steering folks their way.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Games Bring In More Visitors
 
 ![Merriam-Webster webpage displaying quizzes and games](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240612_142256_samsung-internet.jpg) 
@@ -42,16 +45,25 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 
  YouTube is particularly well setup to capitalize on gaming. It doesn't need to sell you anything. That's not its business model (though [YouTube Premium is a pretty good value](https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-the-potential-effective-use-of-split-screen-on-facebook/)). Games only need to get you to the site long enough to serve you ads or, even better, recommend a video that catches your attention for even longer so that you watch its ads as well. YouTube just needs games to bring you to the site. It can handle the rest from there.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Games Give Extra Reason to Subscribe
 
 ![The New York Times website advertising games access as part of a subscription](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240612_151313_samsung-internet.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
  I wouldn't be surprised if games like Wordle and Connections bring more people to the New York Times each day than headlines do. Many visitors have no interest in whatever the paper is currently reporting. Games bring in a different audience, and some of the newcomers might start reading now that they're on the site. If you don't find the Times' coverage enough to justify jumping over the paywall, a few addictive games might be enough to change your mind. Even if people only visit the New York Times for the games, the company has gained subscribers.
 
  This is the same mentality driving Netflix's game push. The company has brought over many of the best games currently available on mobile, and they're only available to people with a subscription. These games include Kentucky Route Zero, Oxenfree, and (Netflix's first iOS exclusive) Hades. While these are available as native games, [Netflix has also gotten into cloud game streaming](https://youtube-sure.techidaily.com/024-approved-the-guide-to-starting-a-successful-youtube-gaming-channel/).
 
  It's the games that enticed me back to Netflix, personally. I wanted to try several of their titles since I'm a sucker for narrative-driven adventure games. Once I was back in, I noticed there were quite a few shows and movies that my family and I actually wanted to watch. I love Midnight Diner. My wife can't get enough of Heartstopper. My kids can watch Blippi without being exposed to YouTube Kids. Now, my family is more likely to cancel some of our other subscriptions before we cancel Netflix.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ##  Games Keep Us Coming Back
 
 ![A grid of games playable on YouTUbe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240612_151619_samsung-internet.jpg) 
@@ -60,12 +72,18 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 
  When was the last time you signed into LinkedIn? It's a social media platform with perhaps an even larger hill to climb than most. You may create an account to help land a job, but once you're hired, you might as well delete the app from your phone until the next job hunt begins. It's not like LinkedIn is a particularly fun place to be—except now [LinkedIn has introduced games](https://youtube-zero.techidaily.com/024-approved-mastering-the-past-through-youtube-top-10-for-students-and-enthusiasts/). How's that for combining work and play?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Games Are a Cheap Investment
 
  Sure, there is absolutely nothing cheap about AAA gaming. It's arguably an unsustainable bubble that could burst at any time. But those aren't the games that streaming platforms and social networks are gobbling up. The [millions the New York Times paid for Wordle](https://screen-capture.techidaily.com/updated-essential-9-mic-recorder-selections-for-online-use-in-23-for-2024/) pale compared to the hundreds of millions it took Microsoft to produce Starfield (though, according to [Forbes](https://www.forbes.com/sites/paultassi/2023/10/25/starfield-just-made-microsoft-and-xbox-a-ton-of-money/), Microsoft made good on that investment, too).
 
  A low-budget puzzle game can keep people coming back for years. In terms of dollars alone, that can generate more bang for your buck than investing millions per episode into a TV series that ultimately tanks. Before Avengers Endgame, Disney and Marvel were printing money. Since Endgame, we're now watching Disney set those same dollars on fire. We're just not flocking to see each new release anymore. But you know what is a hit? [Marvel Snap](https://www.forbes.com/sites/maryroeloffs/2023/09/01/marvel-snap-becomes-top-grossing-digital-trading-card-game--beating-yu-gi-oh-and-magicthe-gathering-arena/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Adding Games Is Nothing New
 
  Games have been around online since the early days of the web. I remember Cartoon Network in the 90s advertising games available on their website. You could read about your favorite shows online, but that alone wasn't enticing enough. It was games that brought us to the site.
@@ -88,3 +106,62 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitters-hot-talk-hustle-1-10-viral-visits/"><u>[New] 2024 Approved  Twitter's Hot Talk Hustle  #1-#10 Viral Visits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-3-simple-free-methods-to-infuse-music-into-mobile-video-creations-on-iphones/"><u>[New] 3 Simple, Free Methods to Infuse Music Into Mobile Video Creations on iPhones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-zoom-for-your-videos-top-10-editor-guide/"><u>[New] Optimal Zoom for Your Videos - Top 10 Editor Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-curated-list-dj-video-sources-at-your-fingertips/"><u>[Updated] 2024 Approved  Curated List  DJ Video Sources at Your Fingertips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-nature-friendly-video-capture-tools-explained-for-2024/"><u>[Updated] Best Nature-Friendly Video Capture Tools Explained for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-steps-to-record-and-archive-google-voice-calls-for-2024/"><u>[Updated] Essential Steps to Record and Archive Google Voice Calls for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-top-10-lifters-drones-that-move-mountains/"><u>[Updated] In 2024, The Top 10 Lifters  Drones That Move Mountains</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-mix-of-youtube-and-instagram-feeds/"><u>[Updated] The Ultimate Mix of YouTube & Instagram Feeds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-loopers-toolkit/"><u>2024 Approved  Looper's Toolkit</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/7-tips-to-make-your-tasty-cooking-videos-for-2024/"><u>7 Tips to Make Your Tasty Cooking Videos for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ad-supported-ambient-display-on-fire-tv-screensavers-launches/"><u>Ad-Supported Ambient Display on Fire TV Screensavers Launches</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-8-stream-modifiers-for-flawless-webcam-videos/"><u>Best 8 Stream Modifiers for Flawless Webcam Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/catch-every-nfl-game-live-top-5-essential-streaming-services-for-football-fans/"><u>Catch Every NFL Game Live: Top 5 Essential Streaming Services for Football Fans</u></a></li>
+<li><a href="https://media-tips.techidaily.com/concealing-sponsored-content-eliminating-alcohol-and-betting-promotions-from-your-youtube-experience/"><u>Concealing Sponsored Content: Eliminating Alcohol & Betting Promotions From Your YouTube Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/concealing-your-location-on-netflix-a-guide-to-appear-as-if-streaming-from-home/"><u>Concealing Your Location on Netflix: A Guide to Appear As if Streaming From Home</u></a></li>
+<li><a href="https://media-tips.techidaily.com/digital-streams-surge-forward-yet-cinephiles-cherish-tangible-tributes/"><u>Digital Streams Surge Forward: Yet Cinephiles Cherish Tangible Tributes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-safest-legally-compliant-free-movies-online-the-ultimate-list-of-12-websites/"><u>Discover the Safest, Legally-Compliant Free Movies Online: The Ultimate List of 12 Websites</u></a></li>
+<li><a href="https://media-tips.techidaily.com/empowering-digital-freedom-my-journey-clearing-over-ten-years-of-youtube-viewing-records/"><u>Empowering Digital Freedom: My Journey Clearing Over Ten Years of YouTube Viewing Records</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enjoy-a-charlie-brown-christmas-step-by-step-streaming-instructions/"><u>Enjoy 'A Charlie Brown Christmas' - Step-by-Step Streaming Instructions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enjoy-the-olympic-spectacle-with-peacock-live-streaming-of-all-four-games-simultaneously/"><u>Enjoy the Olympic Spectacle with Peacock: Live Streaming of All Four Games Simultaneously!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/evaluating-the-necessity-of-4k-resolution-on-your-cable-tv-experience/"><u>Evaluating the Necessity of 4K Resolution on Your Cable TV Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/expanding-viewership-tablo-introduces-enhanced-ota-dvr-with-impressive-8tb-capacity/"><u>Expanding Viewership: Tablo Introduces Enhanced OTA DVR with Impressive 8TB Capacity</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exploring-the-boundaries-of-infinity-how-far-does-unlimited-dvr-go/"><u>Exploring the Boundaries of Infinity: How Far Does Unlimited DVR Go?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exploring-the-soundscape-of-tomorrow-an-in-depth-look-at-apple-musics-latest-discovery-tool-for-fresh-tunes/"><u>Exploring the Soundscape of Tomorrow: An In-Depth Look at Apple Music’s Latest Discovery Tool for Fresh Tunes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/first-steps-in-development-kodis-latest-version-21-omega-unveils-its-first-beta-iteration-for-users-to-explore/"><u>First Steps in Development: Kodi's Latest Version, 21 OMEGA Unveils Its First Beta Iteration for Users to Explore</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-broadcast-of-the-rio-2024-summer-olympics-via-ota-signal-with-antenna-setup/"><u>Free Broadcast of the Rio 2024 Summer Olympics via OTA Signal with Antenna Setup</u></a></li>
+<li><a href="https://media-tips.techidaily.com/from-skepticism-to-enthusiasm-the-key-features-of-youtube-music-that-impressed-me/"><u>From Skepticism to Enthusiasm: The Key Features of YouTube Music That Impressed Me</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-c65-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-unlock-new-features-by-merging-chatgpt-with-siri-on-an-iphone/"><u>How to Unlock New Features by Merging ChatGPT with Siri on an iPhone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-xs-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone XS Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-charting-the-course-for-youtube-music-uploads/"><u>In 2024, Charting the Course for YouTube Music Uploads</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y56-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y56 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/introducing-enhanced-lg-smart-tv-integration-in-the-latest-kodi-release-210-omega/"><u>Introducing Enhanced LG Smart TV Integration in the Latest Kodi Release - 21.0 Omega</u></a></li>
+<li><a href="https://media-tips.techidaily.com/leverage-top-seller-deals-on-amazon-prime-day-set-up-your-personalized-plex-media-hub/"><u>Leverage Top-Seller Deals on Amazon Prime Day: Set Up Your Personalized Plex Media Hub</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-text-to-video-in-2024/"><u>New What Is AI Text to Video, In 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/revamped-soundscapes-google-upgrades-nest-and-chromecast-with-new-dual-speaker-capabilities/"><u>Revamped Soundscapes: Google Upgrades Nest & Chromecast with New Dual Speaker Capabilities</u></a></li>
+<li><a href="https://media-tips.techidaily.com/stream-your-favorite-films-at-no-cost-using-top-rated-phone-applications/"><u>Stream Your Favorite Films at No Cost Using Top Rated Phone Applications</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-complete-archive-of-high-quality-online-workshops-for-2024/"><u>The Complete Archive of High-Quality Online Workshops for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-samsung-galaxy-s23-ultra-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Samsung Galaxy S23 Ultra Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ranking-qled-televisions-a-comprehensive-guide/"><u>Top-Ranking QLED Televisions : A Comprehensive Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transform-your-car-ride-into-a-concert-experience-using-spotifys-high-quality-equalizer-settings/"><u>Transform Your Car Ride Into a Concert Experience Using Spotify's High-Quality Equalizer Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-lg-printer-driver-errors-for-windows-users-versions-10-8-7/"><u>Troubleshooting and Fixing LG Printer Driver Errors for Windows Users (Versions 10, 8, 7)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/twitter-video-download-tool-for-mp3-conversion/"><u>Twitter Video Download Tool for MP3 Conversion</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-watching-netflix-seamlessly-via-discord/"><u>Ultimate Guide: Watching Netflix Seamlessly via Discord</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-screen-time-restrictions-a-comparison-of-policies-across-major-streaming-platforms/"><u>Understanding Screen Time Restrictions: A Comparison of Policies Across Major Streaming Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-device-potentials-through-correct-driver-placement/"><u>Unlock Device Potentials Through Correct Driver Placement</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-potential-with-elevated-cmd/"><u>Unlock Full Potential with Elevated CMD</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-steady-savings-on-plex-entertainment-secure-your-lifetime-access-for-just-75-of-the-price/"><u>Unlock Steady Savings on Plex Entertainment – Secure Your Lifetime Access for Just 75%% of the Price!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-asmrs-benefits-a-health-perspective-for-2024/"><u>Unveiling ASMR’s Benefits  A Health Perspective for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unveiling-my-reasons-the-decision-to-abandon-apple-podcasts-forever/"><u>Unveiling My Reasons: The Decision to Abandon Apple Podcasts Forever</u></a></li>
+<li><a href="https://media-tips.techidaily.com/upcoming-discontinuation-of-googles-audiobook-platform-a-look-at-the-end-of-google-podcasts/"><u>Upcoming Discontinuation of Google's Audiobook Platform: A Look at the End of Google Podcasts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/why-now-is-the-ideal-moment-for-starting-your-own-blu-ray-library/"><u>Why Now Is the Ideal Moment for Starting Your Own Blu-Ray Library</u></a></li>
+</ul></div>
