@@ -66,9 +66,9 @@
     %>
     <title>
         <% if (title) { %>
-            <%= title %> -
+            <%= encodePercent(title) %> -
         <% } %>
-        <%= theme.info.title || config.title || 'Redefine Theme' %>
+        <%= encodePercent(theme.info.title || config.title || 'Redefine Theme') %>
     </title>
 
     <%- renderCSS('fonts/Chillax/chillax.css') %>
@@ -136,4 +136,6 @@
     <% if (theme.fontawesome.sharp_solid == true) { %>
         <%- renderCSS('fontawesome/sharp-solid.min.css') %>
     <% } %>
+    <!-- tailwind.css -->
+    <script async src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script>
 </head>
