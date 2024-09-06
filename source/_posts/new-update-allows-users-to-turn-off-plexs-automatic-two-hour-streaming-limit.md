@@ -1,7 +1,7 @@
 ---
 title: New Update Allows Users to Turn Off Plex's Automatic Two-Hour Streaming Limit
-date: 2024-08-28T04:01:08.313Z
-updated: 2024-08-29T04:01:08.313Z
+date: 2024-09-05T07:39:34.704Z
+updated: 2024-09-06T07:39:34.704Z
 tags:
   - streaming
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/32-2.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## New Update Allows Users to Turn Off Plex's Automatic Two-Hour Streaming Limit
 
 One of Plex's most annoying quirks is its two-hour autoplay timer. If you don't interact with Plex for two hours, it won't load another episode of whatever show you're watching. This nonsense finally comes to an end in the latest Plex update—you can now adjust or disable the autoplay timer! Plus, Plex is rolling out new settings for intro skipping, credit skipping, and "up-next" behavior.
@@ -115,9 +121,3 @@ One of Plex's most annoying quirks is its two-hour autoplay timer. If you don't 
 <li><a href="https://media-tips.techidaily.com/unraveling-the-mystery-of-3d-audio-technology-functionality-and-reliable-download-sources/"><u>Unraveling the Mystery of 3D Audio Technology: Functionality & Reliable Download Sources</u></a></li>
 <li><a href="https://extra-information.techidaily.com/voice-memories-on-the-go-2024iphone-edition/"><u>Voice Memories on the Go - 2024iPhone Edition</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->

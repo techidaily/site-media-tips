@@ -1,7 +1,7 @@
 ---
 title: "Evolution in Kodi Platform: Shifting Towards Flatpak Approach for Enhanced Linux Setup Experience"
-date: 2024-08-28T03:58:27.538Z
-updated: 2024-08-29T03:58:27.538Z
+date: 2024-09-05T07:39:32.133Z
+updated: 2024-09-06T07:39:32.133Z
 tags:
   - streaming
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a0ff9dab5d25b004c909ef6a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Evolution in Kodi Platform: Shifting Towards Flatpak Approach for Enhanced Linux Setup Experience
 
 Slowly but surely, the Linux ecosystem is switching to packaged software bundles, like Snap and Flatpak. The Kodi media center project has announced it will no longer distribute installations or updates through the Team Kodi PPA, instead using [Flatpak](https://flathub.org/apps/tv.kodi.Kodi) as its primary software repository on Linux.
@@ -90,7 +96,3 @@ Slowly but surely, the Linux ecosystem is switching to packaged software bundles
 <li><a href="https://media-tips.techidaily.com/ultimate-trick-to-effortlessly-transform-your-mp4-files-into-stunning-pngs-step-by-step-tutorial/"><u>Ultimate Trick to Effortlessly Transform Your MP4 Files Into Stunning PNGs – Step by Step Tutorial</u></a></li>
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy S23 | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

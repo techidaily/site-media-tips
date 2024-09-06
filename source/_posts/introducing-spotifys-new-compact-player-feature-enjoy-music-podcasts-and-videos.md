@@ -1,7 +1,7 @@
 ---
 title: "Introducing Spotify's New Compact Player Feature: Enjoy Music, Podcasts, & Videos"
-date: 2024-08-28T03:58:38.090Z
-updated: 2024-08-29T03:58:38.090Z
+date: 2024-09-05T07:39:32.301Z
+updated: 2024-09-06T07:39:32.301Z
 tags:
   - streaming
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906dab7a37be3d640b5bfda50d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Introducing Spotify's New Compact Player Feature: Enjoy Music, Podcasts, & Videos
 
 It's long overdue, but Spotify now offers a miniplayer for desktop users. The resizeable miniplayer floats over other applications on your desktop, providing music and podcast controls without distracting you from other tasks. You can even watch podcast videos in the miniplayer!
@@ -86,7 +98,3 @@ Close
 <li><a href="https://media-tips.techidaily.com/top-rated-software-for-easy-cd-ripping-convert-your-disc-collection-into-mp3-files/"><u>Top-Rated Software for Easy CD Ripping: Convert Your Disc Collection Into MP3 Files</u></a></li>
 <li><a href="https://media-tips.techidaily.com/ultimate-guide-to-choosing-a-high-quality-cd-to-mp3-transcoder-streamline-your-digital-music-library/"><u>Ultimate Guide to Choosing a High-Quality CD to MP3 Transcoder: Streamline Your Digital Music Library</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

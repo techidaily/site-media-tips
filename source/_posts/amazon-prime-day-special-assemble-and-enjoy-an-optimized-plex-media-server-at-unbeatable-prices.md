@@ -1,7 +1,7 @@
 ---
 title: "Amazon Prime Day Special: Assemble & Enjoy an Optimized Plex Media Server at Unbeatable Prices"
-date: 2024-08-28T03:59:57.706Z
-updated: 2024-08-29T03:59:57.706Z
+date: 2024-09-05T07:39:33.532Z
+updated: 2024-09-06T07:39:33.532Z
 tags:
   - streaming
 categories:
@@ -25,6 +25,12 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 
 ![A TerraMaster DAS enclosure on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/26.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Andrew Heinzman / How-To Geek
 
  Technically speaking, [_any_ computer](https://twitter-videos.techidaily.com/new-in-2024-the-complete-guide-to-tweeting-visual-content-in-form-of-customized-gifs/) can be a [Plex](https://network-issues.techidaily.com/instantly-eradicate-playback-problems/) media server. The old laptop that's hidden in your closet could get the job done. So, why are we looking at Prime Day deals?
@@ -48,6 +54,12 @@ Andrew Heinzman / How-To Geek
 
 ![TERRAMASTER F2-424 NAS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/51yvsnas6tl-_ac_sl1500_.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  TERRAMASTER F2-424 2-bay NAS
 
 The TERRAMASTER F2-424 two-bay NAS can store a maximum 22TB of data Its N95 Quad-Core CPU and integrated GPU are powerful enough for 4K video transcoding, making it an excellent option for anyone who needs a compact Plex media server.
@@ -55,14 +67,26 @@ The TERRAMASTER F2-424 two-bay NAS can store a maximum 22TB of data Its N95 Quad
 [$380 at Amazon](https://amazon.com/dp/B0CXPBM2DF?tag=htgprimedaysite-20) 
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Best Server-Ready Hard Drive Deals
 
 ![A mechanical hard drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52974816639_7b4544fc8a_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jordan Gloor / How-To Geek  
   
@@ -82,14 +106,6 @@ Jordan Gloor / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41r29akgr7l-_sl500_-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 #####  Seagate IronWolf 8TB NAS HDD
 
 $170 $179 Save $9 
@@ -99,15 +115,15 @@ Seagate's IronWolf HDD offers a durable, server-ready construction and includes 
 [$170 at Amazon](https://amazon.com/dp/B084ZV4DXB?tag=htgprimedaysite-20) [See at adorama](https://www.adorama.com/set8000vn004.html) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Deals on Useful Accessories
 
 ![A Netgear 5-port Network Switch with an Ethernet cable attached.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/c17243d1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Corbin Davenport / Review Geek_
 
  You probably won't _need_ any of these accessories when building a Plex media server. But they're useful, so I figured that they were worth highlighting.
@@ -123,7 +139,10 @@ _Corbin Davenport / Review Geek_
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/tp-link-switch-thumbnail.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  TP-Link TL-SG105 5-Port Gigabit Ethernet Switch
 

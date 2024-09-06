@@ -1,7 +1,7 @@
 ---
 title: Steps to Delete Your Plex Movie Rentals From Browser History
-date: 2024-08-28T04:00:28.668Z
-updated: 2024-08-29T04:00:28.668Z
+date: 2024-09-05T07:39:34.041Z
+updated: 2024-09-06T07:39:34.041Z
 tags:
   - streaming
 categories:
@@ -9,8 +9,32 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/plex-hero-image.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Steps to Delete Your Plex Movie Rentals From Browser History
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Plex added movie rentals in February 2023, but you can easily block these results from search.
@@ -29,18 +53,42 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Plex search filters menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-07_16-04-28.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you prefer to do it on a mobile device, open Plex for [iPhone](https://apps.apple.com/us/app/plex-watch-live-tv-and-movies/id383457673) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001939/https://play.google.com/store/apps/details?id=com.plexapp.android&hl=en%5FUS&gl=US) and tap the search icon.
 
 ![Plex on Android nav bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240207-155829.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Start searching for a title, then tap the filter icon.
 
 ![Plex for Android search results.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240207-155843.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Toggle off "Available to Rent on Plex."
 
 ![Plex search filters.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240207-155853.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  That's all there is to it! While it may be mildly annoying to some that Plex has become a movie rental service, at least it's not too prominent. And as mentioned, you won't need to toggle off "Available to Rent on Plex" every time you install Plex on a new device.
 
 <ins class="adsbygoogle"
@@ -117,7 +165,3 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 <li><a href="https://facebook-clips.techidaily.com/will-facebook-vids-air-on-tv-this-year-or-later-in-2024/"><u>Will Facebook Vids Air On TV This Year or Later, In 2024</u></a></li>
 <li><a href="https://video-screen-grab.techidaily.com/your-guide-to-cost-free-android-screenshots-for-2024/"><u>Your Guide to Cost-Free Android Screenshots for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->

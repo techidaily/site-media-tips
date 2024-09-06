@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips for Preserving the Lifespan of DVDs & Blu-Ray Discs: Avoid Damage with These Proven Techniques"
-date: 2024-08-28T03:59:24.781Z
-updated: 2024-08-29T03:59:24.781Z
+date: 2024-09-05T07:39:32.998Z
+updated: 2024-09-06T07:39:32.998Z
 tags:
   - streaming
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf84d67c3864e5678ef96194e7.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Essential Tips for Preserving the Lifespan of DVDs & Blu-Ray Discs: Avoid Damage with These Proven Techniques
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why We Need to Have “The Talk”](https://instagram-video-recordings.techidaily.com/updated-digital-portraits-proven-the-science-of-social-snap-validation/)
@@ -22,6 +34,12 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 
  With the production of optical discs seemingly nearing its end, but the numerous problems of streaming services making physical media attractive again, it's probably a good time to go over the basics of keeping your DVDs and Blu-rays in good working order. Even if you used to know all the tricks!
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why We Need to Have “The Talk”
 
  At the risk of making some readers feel a little old, there are now several generations of people who have probably never used or handled optical discs. Add to that, modern Blu-ray discs are much more robust than CD or DVD technology, and there's a good chance you either don't know how to handle or store them, or you've forgotten.
@@ -30,42 +48,44 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 
  So, if you've been convinced that it makes sense to [collect and preserve](https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nokia-105-classic-devices-by-drfone-android/) content on disc, let's talk about how you can make those discs last as long as possible.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  Always Handle Discs by the Edge
 
 ![Blu-ray disc with Blu-ray player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/3994a5fd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  Optical discs work by shining a laser on the data side of the disc, which is covered in microscopic "pits" and "lands", which represent binary code as zeroes and ones. The disc has multiple layers, with the actual data layer sandwiched between other materials, including a clear layer the laser must pass through to read the information.Fingerprints and dirt from your fingertips can distort the laser, making the data hard to read. Which is why you should always handle discs by their edges. I always hold the disc between my thumb and middle finger, putting my index finger through the hold for stability.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  It’s in the Player or in the Case
 
 ![An ASUS BW-16D1X-U external Blu-ray disc reader with a disk inside](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/692ecf3d.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jordan Gloor / How-To Geek
 
  While you can simply clean off fingerprints and dirt from a disc using a suitable cloth (I use ones for glasses), the same can't be said for scratches. If something sharp or hard scratches the disc there's a good chance you'll face playback issues. The simplest way to avoid ever scratching your disc is to follow a simple rule where a disc is either safely in its case, or it's in the player. Not shiny-side-up on top of your player, and not stacked on a bunch of other discs. Loose discs are a recipe for scratched and trashed media!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Keep Away From Heat and the Sun
 
  One of the things you want to avoid is having our discs warp, in which case it doesn't matter how scratch-free it is. Direct heat is the main enemy here. Plenty of people have thoughtlessly left their CDs on a car seat only to return and find that the disc will no longer go into the player, because it's now banana-shaped. So be mindful of where you put those discs and store them somewhere room-temperature and out of direct light.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Minimize the Odds of Disc Rot
 
  Disc "rot" is the name given to chemical deterioration that happens in some optical discs. This usually happens to the metal layer that holds the data if the seal created by the clear materials on the outside of the sandwich fails. Allowing a chemical reaction that makes the disc unreadable. Sometimes disc rot is the result of poor manufacturing standards. Which is why earlier CDs are more likely to have this issue than those pressed more recently. Different types of disc have different causes and susceptibility to disc rot. CDs seem to be the most vulnerable, with DVDs and Blu-rays more resistant. However, as any collector can tell you, the rot can strike any disc type at seemingly any time.
@@ -74,10 +94,6 @@ Jordan Gloor / How-To Geek
 
  If your disc does show signs of disc rot, such as clouding, or "bronzing", then it might be eligible for replacement if the issue was widespread. For example, certain [Criterion Collection](https://criterioncast.com/defective) discs were eligible for free replacement.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ##  Can Discs Be Repaired?
 
  There's no shortage of advice you'll get online on how to reverse the damage done to a scratched disc, but the truth is that most of it simply doesn't work. I've tested trying to polish a disc with toothpaste or metal polish such as Brasso, and in most cases it either did nothing or damaged the disc even more. Any scratch down to the metal layer where the data is stored is irreversible, but it is possible to reduce or remove superficial scratches using a disc resurfacing tool. Of course, you can only resurface a disc so many times before you actually damage it, but if you have no other recourse, there's no harm in trying.

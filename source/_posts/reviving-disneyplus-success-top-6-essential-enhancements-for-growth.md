@@ -1,7 +1,7 @@
 ---
 title: "Reviving Disney+ Success: Top 6 Essential Enhancements for Growth"
-date: 2024-08-28T04:01:13.966Z
-updated: 2024-08-29T04:01:13.966Z
+date: 2024-09-05T07:39:34.779Z
+updated: 2024-09-06T07:39:34.779Z
 tags:
   - streaming
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
 ## Reviving Disney+ Success: Top 6 Essential Enhancements for Growth
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Make more of Disney's classic content available for streaming and rely less on Star Wars and Marvel.
@@ -21,6 +27,12 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
  While I subscribe to Disney+ and enjoy watching it, these are some changes I think would make it even better.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1  Stream More Classic Disney Content 
 
  Disney has existed for over a century and in that time has produced some undisputed classics: _Cinderella_, _The Lion King_, and _Frozen_ to name but a few. While these popular flicks are all available to stream on Disney+, there are many hundreds of movies and shows from the company's archives that are missing (including from studios it has consumed).
@@ -29,12 +41,21 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
  That's not to mention shows like _Willow_ and _The Mighty Ducks: Game Changers_, which debuted as Disney+ exclusives and were [removed with dozens of others as part of a cost-saving exercise](https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2  Resurrect GroupWatch 
 
 ![GroupWatch on Disney+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/groupwatch-on-disney.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In 2023, [Disney+ removed its GroupWatch feature](https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-narzo-60-5g-to-protect-your-individual-information-by-drfone-android/) without fanfare. GroupWatch let you and up to six other subscribers remotely watch something on Disney+ simultaneously. It was perfect for long-distance relationships and the like.
 
@@ -42,25 +63,16 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
  Disney said it removed GroupWatch because of the meaningless reason that it's "always working to deliver the best product experience on Disney+." When it's not possible to gather everyone in the same room, GroupWatch is sorely missed.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3  Rework the Continue Watching Row 
 
 ![The 'Continue Watching' row on Disney+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-continue-watching-row-on-disney.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Have you ever started watching something, decided it's not for you, and then found it sticks around in your Continue Watching row for seemingly ever? Or even that shows and movies you did watch all the way through randomly reappear? You're not alone.
 
  The problem is, Disney+ has no easy way to remove something from Continue Watching. You have to skip near the end of the movie or the show's last ever episode, let it play for a bit, and then hope it disappears—a tedious and unreliable method. All it needs is a simple "Remove from row" button like Netflix.
 
  And would it be too much to ask to keep the row pinned to the top for quick access, rather than buried beneath others? Moving it around presumably helps push you into watching something new, but it's inconvenient.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4  Add More Search Filters 
 
 ![Searching on Disney+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/searching-on-disney.png) 
@@ -69,6 +81,12 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
  This is all great, but it could be better. For example, you can't search by release year, duration, or age rating. If you want to combine parameters, like to find only TV shows with Mickey Mouse in, you can't do that either. The best you can do is go to the movies or series page and filter by genre, with no further search functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5  Stop Releasing Episodes Weekly 
 
 [It's acceptable to binge-watch TV](https://os-tips.techidaily.com/how-to-retrieve-lost-viber-calls-from-your-iphone-without-a-backup-a-three-step-guide/), so it's a shame that many of Disney+'s shows release episodes weekly. While that schedule does help pace the conversation and build suspense, it also means you need to subscribe for longer if you want to keep up. Sure, you can wait until all episodes have dropped and then binge, but that requires patience.
@@ -76,15 +94,15 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
  Instead, it'd be great if Disney+ released all episodes at once, and then it's entirely up to you how you watch. In fairness, this does happen for some shows like _Echo_ and _Renegade Nell_, but others like _Loki_ and _The Mandalorian_ are firmly weekly affairs.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6  Rely Less on Star Wars and Marvel 
 
 ![Marvel shows and movies on Disney+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/marvel-shows-and-movies-on-disney.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Star Wars and Marvel are billion dollar franchises, so it makes sense that Disney would want to milk them for all they're worth. Much of Disney+'s original scripted offerings are based around these properties, and I've certainly enjoyed shows like _Andor_ and _X-Men '97_.
 
  Nevertheless, Disney has a wealth of other licenses to mine—let's see some more original programming based on these, or even entirely brand-new worlds.

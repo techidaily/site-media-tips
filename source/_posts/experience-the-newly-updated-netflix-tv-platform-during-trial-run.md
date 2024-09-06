@@ -1,7 +1,7 @@
 ---
 title: Experience the Newly Updated Netflix TV Platform During Trial Run
-date: 2024-08-28T03:59:25.962Z
-updated: 2024-08-29T03:59:25.962Z
+date: 2024-09-05T07:39:33.012Z
+updated: 2024-09-06T07:39:33.012Z
 tags:
   - streaming
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/netflix.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Experience the Newly Updated Netflix TV Platform During Trial Run
 
 Netflix is now testing an updated TV app with a new layout and easier access to content information. The new design is still a small-scale test, but it could roll out to everyone if there are no major issues.
@@ -19,6 +25,12 @@ Netflix is now testing an updated TV app with a new layout and easier access to 
 
 ![New Netflix TV app with a show selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/netflix.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Netflix / The Verge
 
  The updated layout also removes the menu on the left side of Netflix’s homepage. The options in that menu have been consolidated into a few buttons at the top: search, home, shows, movies, and “My Netflix.” Pressing the back button on the TV remote will take you directly to the menu, so you don’t have to scroll all the way to the top.
@@ -91,7 +103,3 @@ Netflix / The Verge
 <li><a href="https://media-tips.techidaily.com/ultimate-guide-to-choosing-the-best-audio-format-converter-for-pcs-windows-1187-supporting-mp3-wma-flac-wav-and-aiff/"><u>Ultimate Guide to Choosing the Best Audio Format Converter for PCs (Windows 11/8/7): Supporting MP3, WMA, FLAC, WAV, and AIFF</u></a></li>
 <li><a href="https://media-tips.techidaily.com/ultimate-guide-how-to-combine-sounds-effectively-using-pc-and-internet-tools/"><u>Ultimate Guide: How To Combine Sounds Effectively Using PC & Internet Tools</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->

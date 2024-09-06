@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tutorial for Side Loading Third-Party Apps on Amazon's Fire TV Devices
-date: 2024-08-28T04:00:33.278Z
-updated: 2024-08-29T04:00:33.278Z
+date: 2024-09-05T07:39:34.131Z
+updated: 2024-09-06T07:39:34.131Z
 tags:
   - streaming
 categories:
@@ -11,12 +11,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ## Ultimate Tutorial for Side Loading Third-Party Apps on Amazon's Fire TV Devices
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Enable Developer Options on Amazon Fire TV](https://extra-support.techidaily.com/new-revive-faded-iphone-hdri-select-4-effective-methods-in-premiere-pro/)
 * [Allow Apps From Unknown Sources on Fire TV](https://facebook-video-share.techidaily.com/new-2024-approved-discovering-8-honestly-endorsed-promotional-strategies/)
 * [How to Sideload Android Apps on Fire TV](https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-itel-a05s-device-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Sideloading allows you to install Android apps on Amazon Fire TV that are not available in the Amazon Appstore.
@@ -27,6 +39,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 [Sideloading](https://tech-haven.techidaily.com/navigating-nuance-the-human-advantage-over-bots/) is the process of installing apps without the Appstore. We'll manually download the APK and install it ourselves. There are apps made for [Android TV and Google TV](https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-apple-iphone-6s-plus-here-is-the-answer-drfone-by-drfone-virtual-ios/) that aren't available in the Amazon Appstore, and some Android apps work fine on a TV despite not being designed for it. Sideloading allows you to use them on a Fire TV.
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Enable Developer Options on Amazon Fire TV
 
  To [enable the hidden "Developer Options" menu](https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-a05s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/), go to Settings > My Fire TV or Device & Options > About > Click the device name until a message says, "You are now a developer." Here's what that process looks like.
@@ -35,6 +59,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![Select &quot;My Fire TV.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/2-fire-tv-menu.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, select "About."
 
 ![Select "About."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/12/2023-05-11_11-44-23.png) 
@@ -49,6 +85,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
  That's all there is to it! This menu used to be visible by default, but now it more closely resembles the process for [enabling the Developer Options menu on other Android devices](https://desktop-recording.techidaily.com/premium-video-capture-without-extras-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Allow Apps From Unknown Sources on Fire TV
 
  To sideload Android apps on a Fire TV device, you need to first allow "Apps From Unknown Sources" to be installed. This can be done from the Developer Options menu we enabled in the section above.
@@ -58,22 +100,30 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ![Select &quot;My Fire TV.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/2-fire-tv-menu.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Next, select "Developer Options."
 
 ![Unlocked &quot;Developer Options&quot; menu on Fire TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/5-fire-tv-developer-options.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  From the Developer Options menu, you need to select "Apps From Unknown Sources" to turn it "ON."
 
 ![Select "About."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/12/2023-05-11_11-44-23.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You're all set! Now, we can go ahead and install apps from sources other than the Amazon Appstore.
 
@@ -93,52 +143,42 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![Grant permission and tap "Send."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/2023-05-10_10-27-04.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Find the APK file you downloaded earlier, then select your Fire TV device to send it.
 
 ![Send the APK file to your Fire TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/12/2023-05-11_12-24-55.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You'll see the file transfer appear in the app on your TV. Once it's finished, select the file.
 
 ![Select the transferred APK file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/2023-05-10_10-31-59.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  Select "Open" from the menu.
 
 ![Select "Open."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/12/screen-2023-05-11-101448.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Next, select "Install" from the menu.
 
 ![Select "Install."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/12/screen-2023-05-11-101580.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Lastly, when it's finished installing, you can select "Open" or click the menu button on the remote to open the app.
 
 ![Open the newly installed app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/12/screen-2023-05-11-101592.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  The sideloaded app will appear in the "Apps & Channels" menu along with all the other apps on your Fire TV.
 
 ![Sideloaded app in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/12/screen-2023-05-11-101649.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  That's it! There are other ways to load APKs onto a Fire TV device, but this is easily the most user-friendly. Now you have a whole world of Android apps at your disposal, not just the few found in the Amazon Appstore. You can also [sideload Android apps on Amazon Fire tablets](https://screen-mirroring-recording.techidaily.com/a-comparison-of-best-linux-screenshare-utilities/), by the way—[even the Google Play Store](https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-magic-v2-drfone-by-drfone-virtual/).
 
 <ins class="adsbygoogle"

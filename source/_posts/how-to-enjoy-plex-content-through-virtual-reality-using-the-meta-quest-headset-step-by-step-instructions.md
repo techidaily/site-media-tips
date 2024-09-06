@@ -1,7 +1,7 @@
 ---
 title: How to Enjoy Plex Content Through Virtual Reality Using the Meta Quest Headset – Step-by-Step Instructions
-date: 2024-08-28T03:57:57.643Z
-updated: 2024-08-29T03:57:57.643Z
+date: 2024-09-05T07:39:31.680Z
+updated: 2024-09-06T07:39:31.680Z
 tags:
   - streaming
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## How to Enjoy Plex Content Through Virtual Reality Using the Meta Quest Headset – Step-by-Step Instructions
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [First You Need Plex (Free)](https://www.howtogeek.com/you-can-watch-plex-in-vr-on-your-meta-quest-heres-how/#first-you-need-plex-free)
@@ -20,6 +26,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Plex is a great way to stream your personal media collection to every device in your house, but its even better now that you can stream it straight to the virtual cinema that lives inside your Meta Quest headset. Let's look at how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  First You Need Plex (Free)
 
  In case you don't already have [Plex](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003587/https://www.plex.tv/) (skip to the next section if you do) let's quickly go over [what Plex is](https://network-issues.techidaily.com/instantly-eradicate-playback-problems/), and the basics of setting it up. We have a [detailed setup guide](https://facebook-clips.techidaily.com/new-2024-approved-social-storytelling-revolutionized-for-no-charge/), but the basic process is as follows:
@@ -33,7 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Now, while the Plex server software is free, you do need to pay for the client software, such as the iPad app I use most often. There's an option to pay for the app once-off, or you can pay for a Plex subscription, which comes with a few other perks, such as streaming your stuff while you're away from home. In order to watch Plex on your Meta Quest, you'll need to buy a specialized client app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Next, Get Movie Deck for Quest (Not Free)
 
@@ -43,9 +58,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can also watch Plex in your Meta Quest for free by simply using the Meta Quest browser and accessing your Plex account there, but that doesn't come with all the neat virtual theater features that Movie Deck does.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Connect Your App to Your Plex Library
 
  Once you've downloaded the app to your headset, and assuming Plex is already working, you need to connect the app to your Plex server.
@@ -57,28 +69,40 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Movie Deck browsing method selection screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/mpvie-deck-select-plex.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Choose your login method. I prefer to use a code.
 
 ![Movie Deck Login Method selection screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/movie-deck-login-method.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you've selected it, you'll be asked to enter a one-time pin to verify access, just as you would when setting up any Plex client.
 
 ![Movie Deck Plex Code.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/movie-deck-plex-code.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once you've followed the instructions and entered the code, you should see your Plex library appear, and the viewing can begin!
 
 ![Movie Deck showing Ghost in the Shell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/movie-deck-gits.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Navigate Your VR Plex Theater
 

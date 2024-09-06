@@ -1,7 +1,7 @@
 ---
 title: "Digital Content Crisis at Funimation: Sudden Shutdown Leads to User Library Deletions"
-date: 2024-08-28T04:00:50.042Z
-updated: 2024-08-29T04:00:50.042Z
+date: 2024-09-05T07:39:34.432Z
+updated: 2024-09-06T07:39:34.432Z
 tags:
   - streaming
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb6e8017e4b8755b0efa649e5.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Digital Content Crisis at Funimation: Sudden Shutdown Leads to User Library Deletions
 
 It's been a yearlong wait, but Funimation will finally shut down on April 2nd. Remaining subscribers will be transferred to Crunchyroll, where legacy pricing and digital libraries will not be honored. Other features, such as watch history and streaming queues, will be merged with or transferred to your Crunchyroll account.
@@ -117,9 +123,3 @@ It's been a yearlong wait, but Funimation will finally shut down on April 2nd. R
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-stunning-4k-videos-with-these-top-editing-tools/"><u>Updated 2024 Approved Unleash Stunning 4K Videos with These Top Editing Tools</u></a></li>
 <li><a href="https://vimeo-videos.techidaily.com/vimeos-complimentary-guide-essential-video-editing-skills/"><u>Vimeo’s Complimentary Guide  Essential Video Editing Skills</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->

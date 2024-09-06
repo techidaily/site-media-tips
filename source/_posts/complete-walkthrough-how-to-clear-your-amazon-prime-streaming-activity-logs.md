@@ -1,7 +1,7 @@
 ---
 title: "Complete Walkthrough: How to Clear Your Amazon Prime Streaming Activity Logs"
-date: 2024-08-28T04:00:01.186Z
-updated: 2024-08-29T04:00:01.186Z
+date: 2024-09-05T07:39:33.602Z
+updated: 2024-09-06T07:39:33.602Z
 tags:
   - streaming
 categories:
@@ -16,6 +16,18 @@ thumbnail: https://thmb.techidaily.com/381a81d2f0bf0f275cd73c183feb9dd23edc02b56
 * [How to Clear Watch History on Amazon Prime Video](https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-melodic-waters-a-legal-guide-on-instagram/)
 * [How to Remove Something From Continue Watching on Amazon Prime Video](https://extra-information.techidaily.com/updated-budding-filmmakers-best-gopro-upgrades/)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * To clear your watch history on Amazon Prime Video, head to your profile on the web and go to Account & Settings > Watch History. Click the "Delete Movie from Watch History" or "Delete Episodes from Watch History" button.
@@ -23,6 +35,12 @@ thumbnail: https://thmb.techidaily.com/381a81d2f0bf0f275cd73c183feb9dd23edc02b56
 
  Amazon Prime Video tracks what you watch to recommend more content you'll enjoy. However, if you share your account with people who have different tastes, they'll also receive recommendations based on your viewing habits. If you don't want this, you can clear your Prime Video watch history.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Clear Watch History on Amazon Prime Video
 
  To clear your watch history, visit the Amazon Prime Video website in a browser and then navigate to your Profile > Account & Settings > Watch History. That's where you'll find the option to remove content.
@@ -31,34 +49,60 @@ thumbnail: https://thmb.techidaily.com/381a81d2f0bf0f275cd73c183feb9dd23edc02b56
 
 ![Account & Settings option in Amazon Prime Video.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/account-settings-option-in-amazon-prime-video.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  Switch to the "Watch History" section.
 
 ![Watch History option in Amazon Prime Video.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/watch-history-option-in-amazon-prime-video.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Click "Delete Movie from Watch History" next to the movie you want to remove from the watch history.
 
 ![Delete movie from Watch History option in Amazon Prime Video.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/delete-movie-from-watch-history-option-in-amazon-prime-video.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you want to remove a web series from the watch history, click "Delete Episodes from Watch History" next to it.
 
 ![Delete episodes from Watch History option in Amazon Prime Video](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/delete-episodes-from-watch-history-option-in-amazon-prime-video.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to delete a particular episode of a web series, click the drop-down icon next to "Episodes Watched" of that web series and click the cross icon (X) next to the episode you want to delete.
 
 ![Cross icon to delete an episode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/cross-icon-to-delete-an-episode.jpg) 
 
  That is how you can clear your watch history on Amazon Prime Video. Unfortunately, there is no option to clear your entire watch history at once. You will need to manually delete each episode and movie individually.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Remove Something From Continue Watching on Amazon Prime Video
 
  To remove a movie or show from your Continue Watching list on Amazon Prime Video, access the "Options" menu of the title you want to remove and choose "Hide This Movie" or "Hide This Season." This will also hide that title from the home screen and other recommendation pages, but you'll still be able to search for it.
@@ -71,18 +115,6 @@ thumbnail: https://thmb.techidaily.com/381a81d2f0bf0f275cd73c183feb9dd23edc02b56
 
 ![Hide This movie option in Prime mobile app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/hide-this-movie-option-in-prime-mobile-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Delete Content from Continue Watching on the Prime Video Desktop App
 
  To delete Continue Watching on the [Prime Video desktop app](https://apps.microsoft.com/detail/9P6RC76MSMMJ?hl=en-US&gl=US), open the app on your computer, hover over the movie you want to remove from the list, click the three dots, and choose "Hide This Movie." If it's a show, hover over it and click the "Hide This Season" option.
@@ -90,7 +122,10 @@ thumbnail: https://thmb.techidaily.com/381a81d2f0bf0f275cd73c183feb9dd23edc02b56
 ![Hide This movie option in Prime Desktop app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/hide-this-movie-option-in-prime-desktop-app-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Delete Content from Continue Watching on the Prime Video TV App
 
@@ -100,6 +135,12 @@ thumbnail: https://thmb.techidaily.com/381a81d2f0bf0f275cd73c183feb9dd23edc02b56
 
 ![Hide This movie option in Prime TV app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/hide-this-movie-option-in-prime-tv-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Aman Kumar /How-To Geek
 
 ---

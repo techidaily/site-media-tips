@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Revamped Hub: Discover Google TV's Freshly Designed Home Dashboard"
-date: 2024-08-28T03:58:39.190Z
-updated: 2024-08-29T03:58:39.190Z
+date: 2024-09-05T07:39:32.320Z
+updated: 2024-09-06T07:39:32.320Z
 tags:
   - streaming
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/7b6a77243ca66b31a91ff4bded488c1c26ccff28e8356d366094a908c72413f6.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Introducing the Revamped Hub: Discover Google TV's Freshly Designed Home Dashboard
 
 Over the "next few months," Google TV will slowly roll out an updated home screen with rounded app icons. The update also includes various quality of life improvements, including a dedicated "reorder apps" button.
@@ -19,6 +25,12 @@ Over the "next few months," Google TV will slowly roll out an updated home scree
 
 ![Rounded app icons on Google TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/34-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Google
 
  Scrolling to the end of the redesigned "Your Apps" row reveals a new "reorder" button. It allows you to quickly change the order of pinned apps on your home screen. Previously, you had to press and hold on an individual app to change its location in the "Your Apps" lineup, which was both an unintuitive and _excruciatingly_ _s_ _low_ process.
@@ -109,7 +121,3 @@ Google
 <li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-f25-pro-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo F25 Pro 5G Device</u></a></li>
 <li><a href="https://media-tips.techidaily.com/why-choose-aac-over-mp3-discover-key-benefits-for-converting-your-tracks-today/"><u>Why Choose AAC Over MP3? Discover Key Benefits for Converting Your Tracks Today</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

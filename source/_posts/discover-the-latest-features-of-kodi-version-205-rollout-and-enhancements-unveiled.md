@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Features of Kodi Version 20.5: Rollout and Enhancements Unveiled!"
-date: 2024-08-28T04:01:42.504Z
-updated: 2024-08-29T04:01:42.504Z
+date: 2024-09-05T07:39:35.230Z
+updated: 2024-09-06T07:39:35.230Z
 tags:
   - streaming
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e935ed979e13eb915c45489fc.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Discover the Latest Features of Kodi Version 20.5: Rollout and Enhancements Unveiled!
 
 Kodi, formerly known as XBMC, is one of the most popular media center interfaces around with support for a wide variety of devices. The next Kodi 21 update is nearing completion, but in the meantime, the development team has one more update for the current Kodi 20 branch.
@@ -91,7 +97,3 @@ Kodi, formerly known as XBMC, is one of the most popular media center interfaces
 <li><a href="https://media-tips.techidaily.com/ultimate-how-to-guide-for-using-aiseesofts-ios-video-transformation-tool-for-mac-enthusiasts/"><u>Ultimate How-To Guide for Using Aiseesoft's iOS Video Transformation Tool for Mac Enthusiasts</u></a></li>
 <li><a href="https://media-tips.techidaily.com/ultimate-tutorial-converting-video-object-vob-to-windows-media-video-wmv-for-seamless-editing-in-windows-movie-maker/"><u>Ultimate Tutorial: Converting Video Object (VOB) to Windows Media Video (WMV) for Seamless Editing in Windows Movie Maker</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

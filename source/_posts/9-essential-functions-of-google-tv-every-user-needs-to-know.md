@@ -1,7 +1,7 @@
 ---
 title: 9 Essential Functions of Google TV Every User Needs to Know
-date: 2024-08-28T03:59:08.674Z
-updated: 2024-08-29T03:59:08.674Z
+date: 2024-09-05T07:39:32.767Z
+updated: 2024-09-06T07:39:32.767Z
 tags:
   - streaming
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/google-tv-logo-on-tv.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9 Essential Functions of Google TV Every User Needs to Know
 
 ### Quick Links
@@ -30,6 +36,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Google TV remote quick settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240806-165910.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  One of the best things about an internet-connected streaming device is the ability to [use your phone as a remote](https://extra-tips.techidaily.com/in-2024-comprehensive-guide-to-audiovisual-transmitters/). If you have a Google TV device and an Android phone, you can make it super quick and easy to pull up the virtual remote. Once you install the official Google TV app (and open it and sign in), you'll have [a new Quick Settings toggle available](https://video-content-creator.techidaily.com/updated-in-2024-uncover-the-best-green-screen-software-for-mac-video-editing/) called "Remote." Tapping it instantly opens up the remote on top of whatever you're doing.
 
 ##  Install Apps on the TV From Your Phone
@@ -38,14 +50,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Thanks to Google hiding the Play Store on Google TV devices, it's not as easy as it could be to [install apps directly on your TV](https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-m6-5g-drfone-by-drfone-virtual-android/). The good news is you can do it from your phone or a web browser. The Play Store's web version allows you to [install apps on any device connected to your account remotely](https://win-howtos.techidaily.com/resolving-device-detection-issues-with-bluetooth-on-microsofts-latest-os-windows-n11/), and the Play Store on Android phones can [install apps to multiple devices at once](https://instagram-video-files.techidaily.com/updated-in-2024-keeping-content-copyright-compliant-with-instra-watermarking/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ##  Remap the Buttons on Your Remote
 
 ![Chromecast with Google TV remote](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/2202984b.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Your Google TV device almost certainly came with a remote that features shortcuts to streaming services. If you don't use those services, the buttons are completely useless. So, why not remap them to something else? Thanks to a handy app called "Button Mapper," [you can do exactly that](https://digital-screen-recording.techidaily.com/updated-innovative-strategies-for-displaying-your-screen-in-google-meet-for-2024/). Reprogram any button to launch apps or perform various actions.
@@ -54,50 +74,67 @@ Justin Duino / How-To Geek
 
 ![Google TV watchlist on web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240806-170020.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Another useful integration for Google TV and your phone is the "Watchlist." As the name implies, this is essentially a list of content you'd like to watch. Titles on your Watchlist show up in the "Library" tab on your Google TV, but you can add movies and shows to the Watchlist from your phone. Simply do a Google Search for a title and tap the "Want to Watch" button under the result. It's a handy way to keep track of stuff you haven't watched yet.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Create a Kids Profile
 
 ![kids profile home screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/PXL_20210401_142818270.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Google TV devices offer [multiple profiles](https://facebook.techidaily.com/customizing-profile-information-emailphone-switch/), including a [dedicated Kids profile with parental controls](https://facebook-videos.techidaily.com/new-in-2024-top-facebook-video-mp4-downloaders/). This profile (which will add your child to your [Google Family](https://extra-tips.techidaily.com/exclusive-android-3d-video-enthusiasts-choice/)) doesn't require a separate Gmail account. By setting up a Kid's profile, you can easily manage bedtimes and screen time limits, monitor app usage, and restrict content, ensuring a safe viewing experience for your children on your Google TV device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Put the Home Screen in Apps Only Mode
 
 ![Google TV apps only home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240725-081803.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Google TV's home screen can be overwhelming with recommendations. Fortunately, ["Apps Only Mode" simplifies the interface by focusing solely on installed apps](https://hardware-help.techidaily.com/inside-look-at-the-asus-rog-swift-pg3nce-oled-monitor-a-game-changer-reviewed/). This hidden feature eliminates distracting content like "Top Picks For You" and "Continue Watching," replacing them with a clean grid of app icons. The only part of the home screen recommendations that can't be removed is the big "Highlights" carousel at the top, but everything else is wiped clean.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Get Recommendations for the Services You Use
 
 ![toggle services on or off](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/customize-google-tv-8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you don't mind the home screen recommendations, [you should take a minute to improve them](https://extra-hints.techidaily.com/a-beginners-guide-to-adding-depth-with-text-in-photoshop-for-2024/). While some recommendations are just ads, many of them are based on the streaming services you actually use. Make sure you've enabled all the services you're currently subscribed to—and remove the ones you no longer have. There's nothing more annoying than seeing a recommendation for something you can't actually watch.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Turn off Autoplaying Trailers
 
@@ -107,9 +144,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You probably have a few apps that you use more than others, so why not move them to the front of the list? [To rearrange your favorite apps and games](https://extra-guidance.techidaily.com/leading-the-charge-in-online-healthcare-promotions-and-ads-for-2024/) on the "For You" and "Apps" tabs, go to "Your Apps," highlight the app you want to move, and select "See All." Then, hold down the "Select" or "Enter" button on your remote, choose "Move," and use the D-pad to reposition the app to the desired location.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use Google Photos as Your Screen Saver
 
  Since Google TV is, well, a _Google_ TV, it obviously integrates well with other Google services—including Google Photos. [To use your Google TV device as a giant photo frame](https://extra-resources.techidaily.com/updated-10-top-tools-for-dynamic-image-background-alterations/), set up Google Photos as your "Ambient Mode," a.k.a. screen saver. This can be done during initial setup or through the Google Home app. You can choose albums and even specify certain people or pets.

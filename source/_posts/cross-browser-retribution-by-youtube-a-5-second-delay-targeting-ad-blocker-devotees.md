@@ -1,7 +1,7 @@
 ---
 title: "Cross-Browser Retribution by YouTube: A 5-Second Delay Targeting Ad Blocker Devotees"
-date: 2024-08-28T03:59:14.220Z
-updated: 2024-08-29T03:59:14.220Z
+date: 2024-09-05T07:39:32.850Z
+updated: 2024-09-06T07:39:32.850Z
 tags:
   - streaming
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907c56db6f2e6e81070455269a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cross-Browser Retribution by YouTube: A 5-Second Delay Targeting Ad Blocker Devotees
 
 After a long day of anger and speculation, Google has finally commented on the "artificial wait" that some Firefox users are encountering on YouTube. This 5-second delay, which is plainly visible in YouTube's code, is made to punish those who use ad blockers. It affects all browsers, not just Firefox.
@@ -107,7 +113,3 @@ After a long day of anger and speculation, Google has finally commented on the "
 <li><a href="https://media-tips.techidaily.com/transforming-video-experience-top-tools-for-adjusting-audio-bitrates/"><u>Transforming Video Experience: Top Tools for Adjusting Audio Bitrates</u></a></li>
 <li><a href="https://facebook-video-recording.techidaily.com/unseen-fb-video-tactics-unlock-all-sharing-options-for-2024/"><u>Unseen FB Video Tactics  Unlock All Sharing Options for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
