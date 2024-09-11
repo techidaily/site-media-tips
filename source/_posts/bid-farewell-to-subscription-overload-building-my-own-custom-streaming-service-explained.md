@@ -1,7 +1,7 @@
 ---
 title: "Bid Farewell to Subscription Overload: Building My Own Custom Streaming Service Explained"
-date: 2024-09-01T06:44:45.248Z
-updated: 2024-09-02T06:44:45.248Z
+date: 2024-09-10T10:30:17.365Z
+updated: 2024-09-11T10:30:17.365Z
 tags:
   - streaming
 categories:
@@ -9,7 +9,35 @@ categories:
 thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da38e3f5b8b4a33a2f717ba587.jpg
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Bid Farewell to Subscription Overload: Building My Own Custom Streaming Service Explained
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -25,10 +53,20 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
  We have resources if you want to [learn more about running Jellyfin](https://extra-approaches.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry-for-2024/) yourself. Instead of retreading that ground, I'm just going to cover some key information about home streaming that I wish I'd known before going in.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Early Hiccups in Building a Streaming Server
 
  One thing I didn't initially think about was that though you can avoid paying a subscription by running something like Jellyfin, you're still going to pay for something. You need a hard drive with enough space for all the movies you want. I bought a 6TB [internal HDD](https://screen-video-capture.techidaily.com/updated-2024-approved-5-secrets-to-preventing-blank-scenes-with-obs-recording/) to start with. Now, with close to 200 movies and TV shows of varying quality, I've already used up about two-thirds of the drive, so I'm looking into [affordable hard drive upgrades](https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-redmi-note-12-4g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/). A [backup drive](https://discord-videos.techidaily.com/updated-mastering-live-broadcasts-your-step-by-step-guide-to-discord-streaming/) of the same or larger size is also necessary since, otherwise, you risk losing your entire library.
@@ -37,9 +75,20 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
 ![An external Blu-ray drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52781571646_3bd529ceb6_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jordan Gloor / How-To Geek
 
  Then I wanted to make my server accessible from outside my home, and that was its own job. After trying a few different methods and running into issues with port forwarding on my router, the solution I landed on was [a Cloudflare tunnel](https://www.cloudflare.com/products/tunnel/). That solved several problems like avoiding port forwarding and enabling HTTPS.
@@ -48,9 +97,20 @@ Jordan Gloor / How-To Geek
 
 ![Asustor AS5202T](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/asustor-as5202t.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  Asustor AS5202T
 
 $269 $299 Save $30 
@@ -61,10 +121,20 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
 
  Once I got the NAS, though, I learned that a Jellyfin server is difficult to move. There's no built-in function for it at all. There are scripts you can find online that are meant to partially automate it for you, but they still require some technical knowledge to use and aren't guaranteed to work. I ultimately decided figuring it all out wasn't worth my time, so I started a new Jellyfin instance on my NAS and copied over all my movies and shows. That was a much simpler, albeit slow, process.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Was It All Worth It?
 
  So I spent a lot of time solving technical problems, and I spent a significant amount of my paycheck on equipment, but I absolutely love what I've built. I have a private library of movies and shows I like that I can stream from anywhere. No content will suddenly disappear due to licensing deals between the Hollywood powers that be. Since I'm using Jellyfin, I can't be forced to accept price hikes or watch ad breaks.

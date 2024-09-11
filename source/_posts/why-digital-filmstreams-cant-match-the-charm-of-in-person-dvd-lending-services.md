@@ -1,7 +1,7 @@
 ---
 title: Why Digital Filmstreams Can't Match the Charm of In-Person DVD Lending Services
-date: 2024-08-28T04:02:53.928Z
-updated: 2024-08-29T04:02:53.928Z
+date: 2024-09-10T10:30:16.664Z
+updated: 2024-09-11T10:30:16.664Z
 tags:
   - streaming
 categories:
@@ -9,7 +9,41 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/one-holding-some-movies-and-popcorn-coming-out-of-a-laptop.jpg
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Why Digital Filmstreams Can't Match the Charm of In-Person DVD Lending Services
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -23,41 +57,82 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  When I rented a movie at an actual movie rental store, I got the same content as someone who bought it outright. The rental version of the DVD did not have all the special features stripped out. So imagine my surprise when I rented movies from Apple TV only to find that the special features were nowhere to be found. Instead, you have to buy the movie outright if you want access to all those goodies. Am I a little miffed? Well yes, if I'm only going to watch a movie once, I don't want a 500% surcharge just to see the special features!
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  You Can Share a Physical Rental Before Returning It
 
 ![Blockbuster video store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/shutterstock_1663502479.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [Marganit](https://www.shutterstock.com/g/Marganit)[/ Shutterstock.com](https://www.shutterstock.com/image-photo/owen-sound-ontario-canada-october-12-1663502479)
 
  Let's be honest, the place where you went to rent your movies did not really care where the movie went between you picking it up and the point where you returned it. As long as it is undamaged and rewound (in the case of VHS), you are all good. If I rented some movies for the week, I could lend them to my friends and family, and we could all watch them on our own time.
 
  With digital rentals, once you start the movie, you can only watch it on one account, and that's it. Physical rentals make it a simple matter of handing the disc or tape over, but with digital rentals they control everything you do during the rental period. I do not like that!
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Viewing Period and the Rental Period Were the Same
 
  One rather irritating thing that digital rentals do is have a rental period, but if you start watching the movie, then another clock starts ticking. So, for example, you've rented a movie for 30 days, but once you start watching it, you have 48 hours before the rental ends. Not only is this needlessly complicated, but it feels a little unfair to tell me I'm renting a movie for a month, when I'm only renting it for two days. I'm not getting any extra convenience from the 30-day window to start playing the film.
 
  With a physical rental, I could watch the movie over and over during the rental period. It didn't evaporate shortly after I started playing it. Although they did actually try to make [physical DVDs that fade within 48 hours](https://www.nytimes.com/2004/12/02/technology/circuits/for-the-noreturn-dvd-rental-its-48-hrs-then-fade-to.html). Needless to say, it didn't take off, but oh boy did the movie industry get the last laugh with digital rentals.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  You Could Choose to Return It Late
 
  Returning a movie late was something you could choose to do. The only real result was that you had to pay extra money on top of the original rental amount. Effectively, you could extend your rental and just pay for it when you return the movies. No such luck with digital rentals. They "return" automatically. I guess it doesn't make that much of a difference, since you can just immediately rent it again, but I at least enjoyed the illusion of feeling like an outlaw paying my bounty for rebellious behavior.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Yes, It Was a Social Thing Too
 
  Look, I'll admit that, on balance, renting movies is now faster and more efficient, and I don't have to worry that all three copies of a new movie are already booked. Yes, that was a thing we had to deal with kids! However, what I really miss about it all is the social aspect. I like talking to people about movies, and that includes the people in the store looking for movies. I was friends with the people who worked at the store and I would hang out there from time to time, like my life was like _Clerks_ just without the witty dialog.

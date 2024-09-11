@@ -1,13 +1,27 @@
 ---
 title: Enjoy Uninterrupted Entertainment with Amazon Fire TV’s Effortless 'Continue Watching' Option
-date: 2024-09-01T06:44:52.261Z
-updated: 2024-09-02T06:44:52.261Z
+date: 2024-09-10T10:30:17.458Z
+updated: 2024-09-11T10:30:17.458Z
 tags:
   - streaming
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/52919882046_bdede59dc5_k.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Enjoy Uninterrupted Entertainment with Amazon Fire TV’s Effortless 'Continue Watching' Option
 
@@ -16,6 +30,20 @@ Picking up where you left off on most streaming services is pretty straightforwa
  The home screen of your Amazon Fire TV will now have a "Continue Watching" option. This section of the home screen will be identical to the section that you can currently see on individual streaming services such as Netflix, Prime Video, and Disney+, and it's exactly what you think it is. If you've been watching anything, this is a shortcut that will let you pick up right where you left off—clicking on an item in the list will open your streaming service of choice, right on the video where you left off. If you just finished an episode of a series, the section will show you the next episode, if there is one. If you left a movie or episode right in the middle, it'll start right back up at that same moment.
 
 ![Illustration of a "continue watching" row on a Fire TV screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/fire.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 [Amazon](https://amazonfiretv.blog/continue-watching-feature-comes-to-fire-tv-home-screen-00699b5be5a3)
 
@@ -84,7 +112,3 @@ Picking up where you left off on most streaming services is pretty straightforwa
 <li><a href="https://media-tips.techidaily.com/why-owning-music-in-mp3-format-beats-the-convenience-of-streaming-services/"><u>Why Owning Music in MP3 Format Beats the Convenience of Streaming Services</u></a></li>
 <li><a href="https://media-tips.techidaily.com/xgimi-vs-sony-battle-of-the-titans-featuring-imax-enhanced-projection-technology/"><u>XGIMI vs Sony: Battle of the Titans Featuring IMAX-Enhanced Projection Technology</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->

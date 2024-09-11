@@ -1,7 +1,7 @@
 ---
 title: The Hidden Data Collection of Your Smart TV – More Than Just Media Consumption
-date: 2024-08-28T04:02:46.167Z
-updated: 2024-08-29T04:02:46.167Z
+date: 2024-09-10T10:30:16.546Z
+updated: 2024-09-11T10:30:16.546Z
 tags:
   - streaming
 categories:
@@ -9,7 +9,41 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-tv-with-multiple-eyes-observing-and-data-streaming-into-the-tv-screen.jpg
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## The Hidden Data Collection of Your Smart TV – More Than Just Media Consumption
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -19,6 +53,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You might think that only the streaming apps, like Netflix or Amazon Prime Video, are tracking what you watch. Sadly, your smart TV is capable of seeing much more than that, even from devices like gaming consoles and Blu-ray players. How does this work, and is it possible to disable? We've got you covered.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  ACR Is Built Into Nearly Every Smart TV
 
  Most smart TVs nowadays come with a built-in technology called "Automatic Content Recognition" (ACR), and that's where this story starts. ACR works in the background, listening to the audio and capturing the video of anything playing on your TV's screen. That includes streaming apps and so much more.
@@ -27,26 +81,64 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This sneaky software matches what it records against a database to identify the program, movie, or commercial you're watching. While ACR can be used for some helpful features like suggesting similar shows, it's primarily used to collect data on viewing habits. This data is then sold to advertisers who use it to target you with hyper-specific ads.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  ACR Tracks It All: Home Videos, Third-Party Apps, and More
 
 ![Opting out of ACR on a 2020 LG CX smart TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/live_plus.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tim Brookes / How-To Geek
 
  Now, as mentioned, ACR's snooping abilities aren't limited to the main interface of your smart TV, and it's certainly not just limited to streaming apps. In many cases, it can also pick up on what's playing through other input sources. Essentially, anything that appears on your TV and plays audio can be tracked by the ACR technology built into the TV.
 
  If your TV has tracking active, the video or audio signal from your streaming box or gaming console could be fed into the ACR system. This means the old home videos you had converted to DVD or that intense Xbox gaming session might still be getting analyzed. Luckily, there are ways to disable ACR, but it's important to be aware that even your non-streaming habits might not be as private as you think.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Thankfully, You Can Turn Off Most Tracking
 
  All of this sounds pretty grim—to a degree, it is—but there is good news. You can usually turn off ACR tracking if you know where to look. Surprising to no one, manufacturers don't always make it easy to do this. The terminology is all over the place, and the settings can be difficult to find.

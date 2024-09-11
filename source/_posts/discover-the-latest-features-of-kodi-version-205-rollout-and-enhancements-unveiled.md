@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Features of Kodi Version 20.5: Rollout and Enhancements Unveiled!"
-date: 2024-09-05T07:39:35.230Z
-updated: 2024-09-06T07:39:35.230Z
+date: 2024-09-10T10:30:15.586Z
+updated: 2024-09-11T10:30:15.586Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e935ed979e13eb915c45489fc.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Discover the Latest Features of Kodi Version 20.5: Rollout and Enhancements Unveiled!
 
 Kodi, formerly known as XBMC, is one of the most popular media center interfaces around with support for a wide variety of devices. The next Kodi 21 update is nearing completion, but in the meantime, the development team has one more update for the current Kodi 20 branch.

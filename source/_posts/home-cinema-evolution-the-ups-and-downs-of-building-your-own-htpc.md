@@ -1,13 +1,33 @@
 ---
 title: "Home Cinema Evolution: The Ups and Downs of Building Your Own HTPC"
-date: 2024-08-28T04:03:10.044Z
-updated: 2024-08-29T04:03:10.044Z
+date: 2024-09-10T10:30:16.918Z
+updated: 2024-09-11T10:30:16.918Z
 tags:
   - streaming
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8fd8cb255e01f8ccef4f7fd6.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Home Cinema Evolution: The Ups and Downs of Building Your Own HTPC
 
@@ -19,6 +39,20 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
  The HTPC or _Home Theater Personal Computer_ was an idea before its time. Something only well-heeled and tech-savvy tinkering media geeks could even achieve, and then, more often than not, the juice wasn't worth the squeeze. Yet, we have the HTPC to thank for our myriad modern media options. So let's look back at the HTPC, and give it the respect it deserves.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  The HTPC Was Ahead of Its Time
 
  At it's core, an HTPC is the combination of a PC and a TV, or at least some sort of AV (Audio-Visual) technology. This goes back further than you might think. The Amiga's [Video Toaster](https://arstechnica.com/gadgets/2016/03/a-history-of-the-amiga-part-9-the-video-toaster/)—an expansion card with multiple video source inputs—is responsible for much of the titling and special effects we saw on TV in the 90s.
@@ -27,36 +61,92 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
 ![ATi All-In-Wonder-Pro Capture Card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ati-all-in-wonder-pro-capture-card.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 AMD
 
  The hardware was decent, but the software wasn't exactly lounge-friendly. However, during the 2000s, HTPC software such as [MythTV](https://www.mythtv.org/) gave us a nice frontend for a TV-connected PC. One you could use with a wireless keyboard and mouse from the other side of the room. With DVD-ROM drives and software that could easily rip discs and compress them into files for easy viewing and cataloging, HTPCs were essentially a home-made version of what people would recognize as Netflix today. Personally, I think that modern streaming services had plenty of examples of HTPC software to inspire how their own software would look and feel. As with so many things that are now mainstream, people were enjoying something similar decades before it became available to everyone else.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  HTPCs Were Too Expensive and Too Complicated to Last
 
  Even at their peak, HTPCs were a truly niche type of computer. All computers were expensive, and having one dedicated to your home entertainment setup meant you had the spare cash to afford such a luxury. Alternatively, it meant you were a dirt-poor student with just one computer that acted as your TV, Hi-Fi, and DVR. Either way, the shelves of stores were not stocked with HTPCs. Instead, DVD players, and even DVD/VHS combo systems, or DVD-recordable machines, and DVR systems with internal hard drives all offered cheaper and more user-friendly alternatives.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The First Xbox Spelled the End for HTPCs
 
  Even if you had your heart set on an HTPC and didn't want any of that consumer-grade stuff, the arrival of the original Xbox and homebrew media player apps for it. If you modded your Xbox to run homebrew, you could install applications like Xbox Media Player (XBMP), which would later become XBMC (Xbox Media Center), and today is known as [Kodi](https://digital-screen-recording.techidaily.com/updated-ultimate-screen-snaps-for-mac-users-max-156-chars/). Yes, _that_ Kodi.
 
 ![Microsoft’s original Xbox console powered on, on a green surface, and with a Controller S sitting in-front.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/shutterstock_1835035303.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 [Sam Bianchini / Shutterstock.com](https://www.shutterstock.com/image-photo/melbourne-australia-july-25th-2020-original-1835035303)
 
  With this software, you could manage and play media from a variety of local and network sources. A console like the Xbox, even taking the cost of modding into account, was still far less expensive than a custom-built HTPC. By the time the Xbox 360 and PlayStation 3 came around, the need for a dedicated HTPC was essentially gone. Especially since these consoles can run apps like Plex, which lets you stream content from a computer anywhere in your house over your LAN. Incidentally, Plex only [dropped support for the PS3 in 2023](https://fox-http.techidaily.com/new-in-2024-simplifying-video-editing-with-windows-movie-maker-for-windows-8-users/)! Combined with the advent of streaming services like Netflix, and the appeal of an HTPC goes down even further.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  You Can Still Roll Your Own HTPC
 
  That's not to say that the HTPC is entirely dead. It was always niche, but you can still easily buy an SFF (Small Form-Factor) PC or an HTPC case to add to your home theater setup. Why you would do this over, for example, an [Apple TV](https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-poco-x5-pro-by-drfone-android/) or Android TV box is a question with only a few answers. Most of them deal with specific customizations or idiosyncrasies someone wants for their setup. Access to open-source software is a big one, and, of course, some HTPCs are also built to double as a gaming console replacement.

@@ -1,7 +1,7 @@
 ---
 title: US Launch of TiVo Television Units Scheduled for Next Spring Season
-date: 2024-09-05T07:39:31.937Z
-updated: 2024-09-06T07:39:31.937Z
+date: 2024-09-10T10:30:12.710Z
+updated: 2024-09-11T10:30:12.710Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/TiVo-TV.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## US Launch of TiVo Television Units Scheduled for Next Spring Season
 
 Xperi Inc, the company behind the TiVo brand, announced during its second quarter earnings call that a new line of televisions powered by the company's TiVo OS media platform will be arriving stateside in the spring of 2025.

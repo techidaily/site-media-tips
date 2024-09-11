@@ -1,7 +1,7 @@
 ---
 title: "Revamped Interface: Dive Into Amazon Prime Video's Updated App Design"
-date: 2024-09-05T07:39:33.170Z
-updated: 2024-09-06T07:39:33.170Z
+date: 2024-09-10T10:30:13.809Z
+updated: 2024-09-11T10:30:13.809Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39180ca23996553702d15983c.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Revamped Interface: Dive Into Amazon Prime Video's Updated App Design
 
 Amazon is now pushing a redesigned Prime Video app that prioritizes "clarity and simplicity." The redesigned app should roll out to all users by the end of the week.
@@ -25,12 +33,26 @@ Amazon is now pushing a redesigned Prime Video app that prioritizes "clarity and
 
 ![A close look at the redesigned Prime Video app's horizontal navbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/37.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Amazon
 
  The left side of this navbar is dedicated to content discovery. If you open the "Movies" tab, for example, you'll be met with suggestions based on your watch history. These suggestions will span the gamut of Prime Video, meaning that some will require an additional purchase on top of your normal subscription.

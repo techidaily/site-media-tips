@@ -1,7 +1,7 @@
 ---
 title: "Pause in Venu Online Sports Broadcast: What You Need to Know"
-date: 2024-09-05T07:39:32.438Z
-updated: 2024-09-06T07:39:32.438Z
+date: 2024-09-10T10:30:13.171Z
+updated: 2024-09-11T10:30:13.171Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0c50d4cd60fbe09c3938eb3d.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Pause in Venu Online Sports Broadcast: What You Need to Know
 
 Disney, Warner Bros. Discovery, and Fox have been working on a new sports streaming service called Venu Sports. Those plans are now on hold, as a federal judge has paused the service’s launch with an injunction in favor of Fubo TV.

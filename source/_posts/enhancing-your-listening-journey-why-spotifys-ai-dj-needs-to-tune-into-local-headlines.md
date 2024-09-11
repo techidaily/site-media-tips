@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Listening Journey: Why Spotify's AI DJ Needs to Tune Into Local Headlines"
-date: 2024-09-05T07:39:32.978Z
-updated: 2024-09-06T07:39:32.978Z
+date: 2024-09-10T10:30:13.633Z
+updated: 2024-09-11T10:30:13.633Z
 tags:
   - streaming
 categories:
@@ -9,20 +9,36 @@ categories:
 thumbnail: https://thmb.techidaily.com/5f93c49b1c440b80d1268f9b261207858efb549976695493b8cd986466735cf6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Enhancing Your Listening Journey: Why Spotify's AI DJ Needs to Tune Into Local Headlines
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Enhancing Your Listening Journey: Why Spotify's AI DJ Needs to Tune Into Local Headlines
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Spotify's AI DJ is an effective way to listen to music with personalized touchpoints and new music discovery.
@@ -31,12 +47,26 @@ thumbnail: https://thmb.techidaily.com/5f93c49b1c440b80d1268f9b261207858efb54997
 
  I thought Spotify's AI DJ was just a gimmick, but after trying it out I find in many cases it's my preferred way to have Spotify play in the background as as I drive, work, or relax. However, I'd love it if the AI DJ could expand on its limited "daily drive" music and news feature, and give me personalized news that will once and for all replace radio for me.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  What Spotify DJ Is (and Isn’t)
 
  As far as I can tell, and based on what I've read, the [Spotify AI DJ](https://pr-newsroom-wp.appspot.com/2023-02-22/spotify-debuts-a-new-ai-dj-right-in-your-pocket/) is a combination of several technologies. There's the voice model, based on the voice of a real person who works for Spotify. Then there's the recommendation algorithms that take your listening history, time of day, and other tidbits of info into account.
@@ -45,24 +75,40 @@ thumbnail: https://thmb.techidaily.com/5f93c49b1c440b80d1268f9b261207858efb54997
 
  It's not anything like the advanced two-way chatbots we have access to now, which might be a cool idea at some point for someone to try. Being able to speak to my AI DJ while driving could be a cool feature, but it really boils down to an excellent synthesized voice and text generator that throws songs at you.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Spotify DJ Is Better Than Radio
 
  I'll be honest, I left listening to the radio behind a long, long, time ago. As soon as I got a car with an easy-to-use sound input to hook up my phone, I was no longer going to listen to the banality of mainstream radio anymore. I would only listen to music I liked, and didn't have to deal with advertising. Still, this was pretty much like listening to an infinite mixtape (remember those?) and while that's fine, it does lack the few charms that radio has.
 
  Using the AI DJ, I actually think this is the perfect balance of breaking the music up a little, and bringing something different to the wall of noise. Every few tracks the AI DJ will say a few words, let me know what's coming, and it feels like a much more relaxed way to listen to music.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Pulling In News Would Make It Indispensable
 
  So that got me thinkng—if you already have the synthesized voice, the power of LLMs, and a live internet connection, why not have your AI DJ read something else? It would be like the existing "[Your Daily Drive](https://pr-newsroom-wp.appspot.com/2019-06-12/your-daily-drive-music-and-news-thatll-brighten-your-commute/)" feature, but be just as customized as the music playlist. I would never have to hear news about politics or (shudder) sports, but could get periodic updates on the headlines for things I actually care about.

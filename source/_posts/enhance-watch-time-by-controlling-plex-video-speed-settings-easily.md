@@ -1,7 +1,7 @@
 ---
 title: Enhance Watch Time by Controlling Plex Video Speed Settings Easily!
-date: 2024-09-05T07:39:32.119Z
-updated: 2024-09-06T07:39:32.119Z
+date: 2024-09-10T10:30:12.880Z
+updated: 2024-09-11T10:30:12.880Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/plex-hero-image.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Enhance Watch Time by Controlling Plex Video Speed Settings Easily!
 
 Plex is a popular way to host your own media library for easy streaming and sharing, but the video player isn’t perfect. There’s now a new feature rolling out: video playback speed controls.
@@ -23,12 +37,20 @@ Plex is a popular way to host your own media library for easy streaming and shar
 
 ![Video playback settings menu overlaying a paused cooking show scene.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/cursor_and_-_arrested_development_-_s1_-_e2_-_and_canvas_in_cs-team_-_plex_-_slack.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Plex
 
  Plex said in a new support article, “Playback Speed Controls allow for speeding up or slowing down playback in some of our player/client apps. The feature is not available on all platforms, as some of them cannot support the functionality or have too many limitations to be considered useful for playback.”

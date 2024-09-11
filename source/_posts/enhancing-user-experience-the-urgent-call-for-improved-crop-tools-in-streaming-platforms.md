@@ -1,7 +1,7 @@
 ---
 title: "Enhancing User Experience: The Urgent Call for Improved Crop Tools in Streaming Platforms"
-date: 2024-09-05T07:39:33.690Z
-updated: 2024-09-06T07:39:33.690Z
+date: 2024-09-10T10:30:14.258Z
+updated: 2024-09-11T10:30:14.258Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/083891d80d305e3e5a22e685512649ae9de124749fca962e3a02d5e303b2fed4.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Enhancing User Experience: The Urgent Call for Improved Crop Tools in Streaming Platforms
 
 ### Key Takeaways
@@ -25,18 +33,26 @@ thumbnail: https://thmb.techidaily.com/083891d80d305e3e5a22e685512649ae9de124749
 
  Streaming services are great, but they have their disadvantages compared to offline and physical media. We all know the obvious ones, but have you considered that you don't get to crop services like Netflix the way you want, when you want?
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983549">
+<span id="1983471">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Aspect Ratio Mismatch
 
  Your TV almost certainly has a standard widescreen aspect ratio of 16:9, but older content from before this became the standard conforms to 4:3, which is what most TVs were in the CRT era. Additionally, many movies use an aspect ratio close to 21:9, which in modern parlance is known as "Ultrawide" but has been called "anamorphic", "Panavision", "Cinemascope", and probably a few more I'm unaware of. This is what movies meant for the cinema, such as the modern _Dune_ adaptation, are usually shot in. There are also, inexplicably, shows and movies meant for TV that nonetheless have a ever-so-slightly wider aspect ratio than 16:9, resulting in tiny black bars at the top and bottom of the picture.
@@ -45,24 +61,26 @@ thumbnail: https://thmb.techidaily.com/083891d80d305e3e5a22e685512649ae9de124749
 
  While cinematic purists may balk at this idea, in many films and shows, the parts of the frame that are lost by "punching in" like this may not make much of a difference, and even if it's not the most artistically pure way to watch the content, the principle that you should have the choice certainly means something.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Streaming Apps Rarely Have Cropping Features
 
  Sadly, streaming apps rarely have tools built in to let you crop or zoom the image if you don't like having black bars. At least not mainstream paid apps like Netflix or Amazon Prime Video. When you stream your own content with apps like [Plex](https://network-issues.techidaily.com/instantly-eradicate-playback-problems/), you do have the option to flip between different aspect ratios.
 
  There are also clever methods of stretching video that don't distort the picture quite so much, such as nonlinear video stretching, where the image is more stretched to the edges of the frame and less to the middle, so you don't really notice it and characters and objects in the center of the frame still appear normal. Either way, there are lots of viable and valid reasons to have these options in these apps.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Native Aspect Ratio vs Containers
 
  While I would personally not usually stretch or crop movies and shows to fit the screen, the whole reason I'm disappointed this isn't possible in these apps has to do with video formatting. You see, I watch a lot (even most) of my movies and shows on my iPad Pro. This device has a native aspect ratio of 4:3, which means I absolutely love watching older content on its gorgeous mini LED screen.
@@ -71,29 +89,65 @@ thumbnail: https://thmb.techidaily.com/083891d80d305e3e5a22e685512649ae9de124749
 
 ![An iPad playing an episode of Star Trek The Next Generation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/star-trek-tng.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sydney Louw Butler / How-To Geek / Paramount
 
  However, on some streaming services (I'm looking at you [Crunchyroll](https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-s23-fe-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/)) 4:3 content seems to be encoded in a 16:9 container. In other words, the black bars are built into the video! Consequently, on my iPad I get both black bars _and_ black pillars!
 
 ![Gundam shown on an iPad with double black bars.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gundam.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sydney Louw Butler / How-To Geek / Bandai Namco
 
  If the app had any sort of native cropping tool, I could solve this issue with the tap of a button, but sadly it does not.
 
  Despite usually offering native 4:3 content, Netflix isn't totally off the hook. Consider the infamous _Seinfeld_ episodes that were cropped to widescreen natively, making some scenes nonsensical. Netflix could simply have offered the native 4:3 video, and given us the choice of whether seeing [the pothole](https://www.indiewire.com/features/general/seinfeld-netflix-aspect-ratio-pothole-cropped-1234668934/) mattered or not.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Using Your TV’s Native Tools to Adjust the Picture
 

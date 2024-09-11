@@ -1,7 +1,7 @@
 ---
 title: Even After Half a Decade, Apple TV+ Lacks Crucial Functions Viewers Expect
-date: 2024-09-05T07:39:34.536Z
-updated: 2024-09-06T07:39:34.536Z
+date: 2024-09-10T10:30:14.965Z
+updated: 2024-09-11T10:30:14.965Z
 tags:
   - streaming
 categories:
@@ -9,13 +9,21 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-tv-with-apple-tv-logo-on-the-screen.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Even After Half a Decade, Apple TV+ Lacks Crucial Functions Viewers Expect
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -27,18 +35,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  However, Apple TV+ falters when it comes to functionality. I don't want it bloated with gimmicks or multiple membership plans, but there are core features missing that competitors like Netflix and Prime Video nailed years ago.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Share Your Subscription Without an Apple Account
 
  You can share your Apple TV+ subscription with up to five other people, thanks to the Family Sharing functionality. It means that everyone can watch whatever they want on their own device. This works even if those people live outside your household, which is one way [Apple TV+ is better than Netflix](https://facebook-record-videos.techidaily.com/updated-unlock-the-magic-of-capturing-youtube-content-the-no-cost-way/).
@@ -47,22 +57,44 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Apple services running on Apple devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-services-running-on-apple-devices.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Apple
 
  Another wrinkle is that everyone you invite to Family Sharing needs to create an Apple account. It's free to do that, but it's still an annoying hurdle—especially compared to the likes of Disney+ and Netflix, where you can create extra profiles within seconds from any device.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  An Android App for Phones and Tablets
 
  Apple is known for its walled garden. Typically, if you want to use an Apple service, you need to own an Apple product. But when every other major streaming service is platform-agnostic, it's baffling that Apple TV+ still doesn't have an app for Android phones and tablets.
@@ -73,28 +105,30 @@ Apple
 
  You're not entirely locked out as an Android user, mind. You can stream Apple TV+ in a web browser on mobile, but it's not as smooth as a native app would be—you may encounter plentiful buffering, for instance, and there's no support for [features like offline viewing](https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-z-fold-5-by-drfone-android/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Separate Your Watchlist From Up Next
 
  When you're partway through a show or movie on Apple TV+, it adds it to your "Up Next" row. This persistently appears on the home screen, so it's quick to jump back into what you're watching. So far, so good.
 
 ![Up Next on Apple TV+ in a web browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/up-next-on-apple-tv-in-a-web-browser.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  The issue comes when you want to mark something you're interested in so you can easily find it later. There's no separate watchlist, like there is on Netflix or Prime Video. Instead, you can only add it to your Up Next, which means that list quickly becomes a mess of things you're currently watching and what you want to watch.
 
  Having at least two lists, one to track current viewing and another for things to watch later, would solve this.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Robust and Reliable Search
 
  Apple TV+ doesn't have as much to watch as many other services, so it makes sense that its discovery functionality isn't great—it helps mask the limited catalog. Regardless, it needs to be better than it is.
@@ -102,6 +136,26 @@ Apple
  You can browse by a handful of categories, like "Drama Series" and "Feature Films", but there's no way to pair these with more specific filters (like if you only want 90-minute movies).
 
 ![Searching on Apple TV+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/searching-on-apple-tv.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  The search functionality itself is also unreliable. A search for "kids" includes the likes of adult-orientated _The Tragedy of Macbeth_. You'll also get different results depending on whether you search "kids" and then select "Movies", or just search "kids movies".
 

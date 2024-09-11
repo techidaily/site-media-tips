@@ -1,7 +1,7 @@
 ---
 title: "Explore Hisense's Latest Tech: A Compact 4K Dolby Vision Projector Revolution"
-date: 2024-09-05T07:39:31.544Z
-updated: 2024-09-06T07:39:31.544Z
+date: 2024-09-10T10:30:12.301Z
+updated: 2024-09-11T10:30:12.301Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96567f34da25c1f69a7f2e22f.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Explore Hisense's Latest Tech: A Compact 4K Dolby Vision Projector Revolution
 
 Available today, the new [Hisense C1 Laser Mini Projector](http://www.amazon.com/Hisense-C1-Portable-Projector-Correction/dp/B0C8WWS1DW/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000777&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhisense-c1-projector-reveal%2F&asc%5Fcampaign=Short-Term) offers 4K Dolby Vision video with a maximum screen size of 300 inches. It's the only Hisense projector to support 300-inch screens, and while the $2,300 price tag is a bit eye-searing, customers may be swayed by the C1's cutting-edge features and relatively compact build. Oddly, retailers currently list the Hisense C1 at $1,998.

@@ -1,7 +1,7 @@
 ---
 title: Unlock Gaming Fun - Play Interactive Video Games Directly on YouTube!
-date: 2024-09-05T07:39:34.150Z
-updated: 2024-09-06T07:39:34.150Z
+date: 2024-09-10T10:30:14.653Z
+updated: 2024-09-11T10:30:14.653Z
 tags:
   - streaming
 categories:
@@ -9,68 +9,108 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/25-1.png
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Unlock Gaming Fun - Play Interactive Video Games Directly on YouTube!
 
 YouTube is an endless sea of content for all audiences, whatever you're into. But YouTube isn't just for streaming video, since you can now play free games in your browser YouTube's new "Playables" catalog.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  What Are YouTube's "Playables?"
 
  The Playables section of YouTube is a specific category dedicated to a variety of games playable directly on the browser version of the site. Most games are simply ports of existing games from mobile devices, but they do not require a separate download.
 
 ![The "Browse" screen of the YouTube "Playables" section showing a variety of games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/playables1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- While many of the games are fairly simple, there are a good number of genres on offer. This includes everything from match-three puzzle games to strategy heavy RPGs and even just the classic game of chess. There are also a few ports of games that traditionally have online play, such as _Trivia Crack,_ that are only available in single-player modes.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ While many of the games are fairly simple, there are a good number of genres on offer. This includes everything from match-three puzzle games to strategy heavy RPGs and even just the classic game of chess. There are also a few ports of games that traditionally have online play, such as _Trivia Crack,_ that are only available in single-player modes.
+
 ##  Where to Find Free Games on YouTube
 
  As many of the games already available on mobile devices, YouTube's free selection is only accessible through the browser site and not on the app. To find them, simply navigate to the sidebar on the left side of the screen on the [YouTube homepage](http://www.youtube.com) and scroll down until you find the ["Playables"](https://www.youtube.com/playables) section.
 
 ![The YouTube homepage with the "Playables" section highlighted with a red arrow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/youtubehomepage.png) 
 
- The main page will show you the most popular games on the Playables home page, but you can find the rest of them by clicking on "Browse" near the top. This will show you all the games available on YouTube. Click on any of them to play them instantly in your browser.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ The main page will show you the most popular games on the Playables home page, but you can find the rest of them by clicking on "Browse" near the top. This will show you all the games available on YouTube. Click on any of them to play them instantly in your browser.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Why Play Games on YouTube?
 
  YouTube's games catalog is also available on mobile devices, so it is unnecessary to play them in a browser if you already have a smartphone. However, most of the titles on offer are fairly simplistic in nature and may not warrant taking up space on your phone or tablet.
@@ -81,12 +121,20 @@ YouTube is an endless sea of content for all audiences, whatever you're into. Bu
 
 ![The start screen for the YouTube Playables game "Color Burst" with my saved high score shown in the corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/colorburst.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  YouTube Playables also features several browser ports of mobile games that would previously only be playable on a mobile device or through emulation. Since they are controlled with your mouse rather than a touch screen, this can give you an alternate way to play some of them that might give you some extra precision. Third-party controllers are currently not supported for any of the games, and there are seemingly no plans to change this.
 
  It is unclear as of now whether YouTube plans to update this section with new games in the future, but there are (at the time of writing in mid-2024) 72 different titles available for free. If you are a fan of mobile games and need something to kill half an hour or so, they might be worth checking out.

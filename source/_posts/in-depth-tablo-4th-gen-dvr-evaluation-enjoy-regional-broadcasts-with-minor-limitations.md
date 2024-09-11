@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Tablo 4Th Gen DVR Evaluation: Enjoy Regional Broadcasts with Minor Limitations"
-date: 2024-08-28T04:03:11.231Z
-updated: 2024-08-29T04:03:11.231Z
+date: 2024-09-10T10:30:16.941Z
+updated: 2024-09-11T10:30:16.941Z
 tags:
   - streaming
 categories:
@@ -10,6 +10,20 @@ thumbnail: https://thmb.techidaily.com/376af438f950837c2d73b8b405a038336106e727f
 ---
 
 ## In-Depth Tablo 4Th Gen DVR Evaluation: Enjoy Regional Broadcasts with Minor Limitations
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -61,11 +75,39 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
 
 [$100 at Amazon](https://www.amazon.com/Tablo-Broadcast-TV-Streaming-Whole-Home/dp/B0CBVT6SLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate) [See at Tablo](https://us-store.tablotv.com/products/tablo?variant=44315140096298) [$99.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftablo-4th-gen-2-tuner-128gb-over-the-air-dvr-streaming-player-white%2F6554313.p%3FskuId%3D6554313) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Price and Availability
 
  The latest Tablo DVR is available for $129.95 with an antenna included in the box, called the "Tablo Total System." The antenna is advertised as having a maximum range of 35 miles, but that will depend on the terrain in your area and where the TV towers are physically located. If you already have an antenna or plan to buy a separate one, you can buy the Tablo DVR on its own for $99.95.
 
  You can buy the Tablo DVR from [Tablo's online store](https://www.tablotv.com/product/), [Amazon](https://amazon.com/dp/B0CBVT6SLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate), [Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftablo-4th-gen-2-tuner-128gb-over-the-air-dvr-streaming-player-white%2F6554313.p%3FskuId%3D6554313), and other retailers. Not all stores sell both versions, so be sure to check that you're not over paying for gear you don't need.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  The Design of a Modern DVR
 
@@ -75,9 +117,20 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
 
 ![Ports on the Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-1.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Corbin Davenport / How-To Geek
 
  The USB 2.0 port can be used to add more storage for recordings. Tablo claims you can connect USB hard drives up to 8TB in size, which would give you around 1,000 hours of HD storage. Any external USB hard drive or solid-state drive should work, but not flash drives, since most of them can't sustain the read and write speeds required for streaming media. The new Tablo DVR has enough built-in flash storage for 50 hours of HD recordings.
@@ -91,6 +144,20 @@ Corbin Davenport / How-To Geek
 Corbin Davenport / How-To Geek
 
 ![Holding a TV antenna from Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-5.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Corbin Davenport / How-To Geek
 
@@ -118,15 +185,26 @@ Close
 
  The player interface is pretty simple. There's a play and pause button in the center, and you can jump forwards and backward using the 15-second buttons or the timeline scrubber. There's also some basic information at the top, including the channel name and number, age rating, and program title. However, you can't switch channels from the player (you have to close the stream first), and there's no option to use a Chromecast or AirPlay device. I also noticed on my iPhone 15 that the app wasn't properly rotating when switching to the player. The video feed was rotated, but the app remained in portrait mode, leaving the phone's gesture button on the wrong side. The Android and iPad apps didn't have the same issue.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Performance and Playback
 
  The Tablo DVR has two built-in tuners, meaning you can watch and record up to two live channels simultaneously, and the Tablo can stream TV to up to six devices simultaneously. For example, two people could be watching different live TV channels while four other people are watching recordings, or six people could watch recordings while the Tablo DVR records shows on two channels. That can be helpful for large households, but not for sharing with friends or family somewhere else—the 4th Gen Tablo DVR can't be accessed from outside your local network, unlike [Plex live TV](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000923/https://www.plex.tv/tv/) and [previous Tablo models](https://support.tablotv.com/hc/en-us/articles/201445346-Can-I-watch-live-TV-and-recorded-programs-outside-my-home-).
 
 ![Tablo player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_5401.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tablo says in [the FAQ section on its website](https://www.tablotv.com/product/) that a 4-tuner Tablo is under development, which would allow more simultaneous recordings and/or more devices streaming live TV at once. If you _absolutely_ need more tuners right now, you could buy another Tablo unit and switch between them as needed in the Tablo app. You would also need another antenna for the other Tablo, or you could share the same antenna across multiple devices with an [amplified splitter](https://www.amazon.com/Amplified-Splitter-Pixelated-Low-Strength-Distributes/dp/B083KKFJLY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate).
 
  With the Tablo connected to my router with an ethernet cable, I didn't have any problems watching TV. Live channels opened within a few seconds (as long as the antenna signal was strong), and playback for recordings started instantly. Tablo also passes through 5.1 Surround Sound when available, so audio quality in live TV and recordings should match the original broadcast. The video quality also looked great for me, but the resolution will depend on the given channel. Many broadcast channels in the US are still 720p or 480p/480i.
@@ -134,6 +212,26 @@ Close
  Unfortunately, the Tablo DVR does not support [ATSC 3.0](https://www.watchnextgentv.com/), just the regular ATSC 1.0 standard that supports up to 1080p (there is no ATSC 2.0). ATSC 3.0, also branded as NextGen TV, is the new standard for over-the-air television that supports 4K playback, interactive content, and other features. The number of channels broadcasting in ATSC 3.0 [is growing](https://www.watchnextgentv.com/markets/), but there have been [some issues with DRM-breaking DVR features](https://youtube-tips.techidaily.com/approved-unlocking-youtube-writers-royalties-with-ad-driven-earnings-cpm/), which might be why Tablo didn't bother adding it to this model.
 
  Tablo's lack of ATSC 3.0 support doesn't mean you lose any channels, though. The FCC has [said](https://docs.fcc.gov/public/attachments/FCC-23-53A1.pdf) that channels must continue broadcasting ATSC 1.0 until July 17, 2027, at the earliest, and it's likely that most channels will continue broadcasts past that point (otherwise they would lose viewers).
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Competition
 
@@ -143,16 +241,10 @@ Close
 
  Sling TV has also sold some AirTV receivers over the years, which are designed to add local channels to an existing Sling TV package, but you don't strictly need a Sling subscription. I've [been using an AirTV 2](https://www.spacebar.news/p/antenna-tv-is-pretty-cool-actually), allowing me to watch TV through the Sling app (which is [available on more platforms than Tablo](https://sling-tv.pxf.io/c/156932/1132376/14334?subId1=UUhtgUeUpU2000923&subId2=ehtg&u=https%3A%2F%2Fwww.sling.com%2Fsupported-devices)) or through a desktop browser. However, Sling only appears to be [selling the AirTV devices](https://sling-tv.pxf.io/c/156932/1132376/14334?subId1=UUhtgUeUpU2000923&subId2=ehtg&u=https%3A%2F%2Fwww.sling.com%2Fsupported-devices%2Fairtv-mini) in bundle packages with a Sling TV subscription, as of the time of writing. You can find standalone AirTV 2 receivers on eBay and other similar sites, but it doesn't seem to be as well-supported as Tablo at this point.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Tablo 4th Gen?
 
 ![Tablo 4th Gen from top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  The [Tablo (4th Generation) DVR](http://www.amazon.com/Tablo-Broadcast-TV-Streaming-Whole-Home/dp/B0CBVT6SLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate) is an easy and simple way to watch over-the-air TV from anywhere in your home, and it does what it sets out to do. I have some complaints, especially the lack of ATSC 3.0 support and the sometimes-buggy app, but it's probably still the best option for someone who wants a plug-and-play solution. It brings some of the conveniences of cable TV subscriptions to over-the-air channels, like multi-device streaming and DVR recording, without any recurring costs.
@@ -163,14 +255,22 @@ Corbin Davenport / How-To Geek
 
 ![Tablo 4th Gen DVR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
 #####  Tablo 4th Gen
 
 8/ 10 

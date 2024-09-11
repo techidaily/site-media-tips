@@ -1,7 +1,7 @@
 ---
 title: "Exposed: How Password Reuse Endangers Over 15K Devices on Roku Platform"
-date: 2024-09-05T07:39:31.559Z
-updated: 2024-09-06T07:39:31.559Z
+date: 2024-09-10T10:30:12.314Z
+updated: 2024-09-11T10:30:12.314Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a172015085fad0a0d2520bcd157aa.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Exposed: How Password Reuse Endangers Over 15K Devices on Roku Platform
 
 In a new [breach notice](http://oag.ca.gov/system/files/Template%20Notification%203-8-2024.pdf), Roku says that hackers hijacked over 15,000 user accounts and utilized customers' saved credit card information. However, Roku's security was not compromised in this breach. This is a case of customers reusing old passwords.

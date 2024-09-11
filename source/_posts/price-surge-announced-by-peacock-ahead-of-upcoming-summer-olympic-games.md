@@ -1,7 +1,7 @@
 ---
 title: Price Surge Announced by Peacock Ahead of Upcoming Summer Olympic Games
-date: 2024-09-05T07:39:34.744Z
-updated: 2024-09-06T07:39:34.744Z
+date: 2024-09-10T10:30:15.160Z
+updated: 2024-09-11T10:30:15.160Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/peacock.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Price Surge Announced by Peacock Ahead of Upcoming Summer Olympic Games
 
 Peacock is increasing the prices of its Premium and Premium Plus plans by $2 a month. New pricing will go into effect on July 18th for new subscribers and August 17th for existing customers. Interestingly, these dates line up with last year's Peacock price hike.

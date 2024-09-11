@@ -1,7 +1,7 @@
 ---
 title: "Betas Launch: Kodi 21 OMEGA Reaches Milestone with Initial Public Testing Phase"
-date: 2024-09-05T07:39:34.317Z
-updated: 2024-09-06T07:39:34.317Z
+date: 2024-09-10T10:30:14.791Z
+updated: 2024-09-11T10:30:14.791Z
 tags:
   - streaming
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401fbcd66ce15df928f6be58b2.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Betas Launch: Kodi 21 OMEGA Reaches Milestone with Initial Public Testing Phase
 
 The Kodi 21 "Omega" update is finally available in Beta. This release boosts Kodi's performance and offers several improvements, including greater Dolby Vision compatibility. Unfortunately, Kodi 21 ends support for Windows 7 and 8.0—subsequent Windows releases, including Windows 8.1, are still supported.

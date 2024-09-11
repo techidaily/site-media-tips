@@ -1,7 +1,7 @@
 ---
 title: "Mastering YouTube Comment Formatting: Tips for Cross-Out, Bolding, and Italicizing Text"
-date: 2024-09-05T07:39:34.672Z
-updated: 2024-09-06T07:39:34.672Z
+date: 2024-09-10T10:30:15.092Z
+updated: 2024-09-11T10:30:15.092Z
 tags:
   - streaming
 categories:
@@ -9,19 +9,35 @@ categories:
 thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6ed50ee4c51fdd504d8349ee.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Mastering YouTube Comment Formatting: Tips for Cross-Out, Bolding, and Italicizing Text
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -34,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
  You'll use the same steps on both your desktop and your phone to format [your comments](https://fox-that.techidaily.com/why-doesnt-picture-recognition-work-on-my-iphone-exploring-6-possible-causes/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Strike-Through Comments on YouTube
 
  With the strike-through option, you can add a line crossing out your comment text. To use it, add a dash before and after your comment text. This will add a strike-through effect to your text.
@@ -56,20 +66,36 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Strike-through a YouTube comment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/1-strike-through-youtube-comment.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- And that's it. Pretty neat, right? You can use this formatting option for both single words and multiple sentences. Just make sure to keep your text around a dash. You can do the same [formatting in apps like Microsoft Excel](https://fox-cloud.techidaily.com/2024-approved-a-list-mobile-camera-utilities-for-iphone/).
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ And that's it. Pretty neat, right? You can use this formatting option for both single words and multiple sentences. Just make sure to keep your text around a dash. You can do the same [formatting in apps like Microsoft Excel](https://fox-cloud.techidaily.com/2024-approved-a-list-mobile-camera-utilities-for-iphone/).
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Bold Comments on YouTube
 
 [Bolding your comments](https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-x8b-drfone-by-drfone-virtual-android/) increases the thickness of your text and makes it stand out. To do this, you will put your comment text between \* (asterisk) signs.
@@ -104,14 +130,22 @@ _That is super cool_
 
 ![Italicize a YouTube comment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/3-italicize-youtube-comment.png) 
 
- And that's it. Other sites like Reddit employ a [similar comment format system](https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-reno-11-5g-frp-by-drfone-android/), but the codes are a bit different.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ And that's it. Other sites like Reddit employ a [similar comment format system](https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-reno-11-5g-frp-by-drfone-android/), but the codes are a bit different.
+
 ##  Apply Multiple Styles to Your YouTube Comments at Once
 
  You can use multiple formatting options on a single piece of text if you want. To do so, you'll combine the characters for styling your text.
@@ -128,12 +162,20 @@ This text uses multiple formatting options
 
 ![Use multiple styles for a YouTube comment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/4-multiple-styles-youtube-comment.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  YouTube's comment formatting options are really useful as they let you emphasize certain parts of your comments. This way, you can draw people's attention to certain words or sentences in your comments. While you're here, learn how to apply [text formatting in Discord](https://extra-support.techidaily.com/2024-approved-insider-secrets-smooth-videophoto-transfer-to-windows-11/), too.
 
  Happy commenting on your favorite kinds of videos!

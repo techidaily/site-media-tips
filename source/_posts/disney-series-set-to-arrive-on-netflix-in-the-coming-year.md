@@ -1,7 +1,7 @@
 ---
 title: Disney Series Set to Arrive on Netflix in the Coming Year
-date: 2024-09-05T07:39:32.051Z
-updated: 2024-09-06T07:39:32.051Z
+date: 2024-09-10T10:30:12.813Z
+updated: 2024-09-11T10:30:12.813Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/netflix.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Disney Series Set to Arrive on Netflix in the Coming Year
 
 Disney and Netflix are getting cozier with each other. Disney has already solidified itself in the streaming space, and Netflix wants even more content for its users to check out, so what better thing to do than an exchange program? As _Grey's Anatomy_ makes its way to Hulu, some Disney-owned properties will also be making landfall on Netflix.

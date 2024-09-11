@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Your Exposure to YouTube Shorts"
-date: 2024-08-28T04:01:59.333Z
-updated: 2024-08-29T04:01:59.333Z
+date: 2024-09-10T10:30:15.836Z
+updated: 2024-09-11T10:30:15.836Z
 tags:
   - streaming
 categories:
@@ -10,6 +10,20 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 ---
 
 ## Step-by-Step Guide: Turning Off Your Exposure to YouTube Shorts
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -24,9 +38,20 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
  Not a [big fan of YouTube's](https://screen-activity-recording.techidaily.com/updated-superior-sound-capture-insiders-list-of-the-best-9-microphones-online-for-2024/) short-form videos in your feed and want to get rid of them? While there's no official method to turn off [YouTube Shorts](https://hardware-help.techidaily.com/enhance-your-gaming-world-the-ultimate-guide-to-installing-asus-970-pro-gpus/), you have a few workarounds to hide them from appearing in your feed. We'll show you how to do that on your iPhone, Android phone, and desktop computer.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Use YouTube's Mobile Website to Disable Shorts
 
  A convenient way to get rid of the Shorts from your feed is by using YouTube's mobile site on your phone. On the site, you have the option to hide the "Shorts" section for 30 days, something you can't do in the platform's mobile app (at the time of writing).
@@ -37,22 +62,26 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
 ![Select &quot;X&quot; in the top-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/1-youtube-mobile-site-disable-shorts.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  As soon as you tap "X," YouTube will hide the "Shorts" section and say that the shelf will be hidden for 30 days.
 
 ![Shorts hidden on YouTube's mobile site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/2-youtube-mobile-site-shorts-hidden.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And that's it. When you start seeing those Shorts again, tap "X" again, and the section will be hidden for another 30 days.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Turn Off Shorts in YouTube's Mobile App
 
  YouTube's app for iPhone and Android doesn't offer the option to remove Shorts, but you can mark your Shorts as "Not Interested" to [remove them from your feed](https://facebook-record-videos.techidaily.com/updated-driving-income-through-youtube-shorts-crucial-elements-and-earnings-potential-for-2024/) temporarily. Unlike the method above, there's no guarantee that your Shorts will be hidden for any number of days.
@@ -61,9 +90,37 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Select "Not Interested" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/3-youtube-mobile-app-shorts-not-interested.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Repeat the above step for each video in the "Shorts" section. Once you've done that, you'll start to see them less and YouTube will temporarily hide the "Shorts" section from your feed. And that's it.
 
  If you start seeing Shorts again, simply mark them as "Not Interested" again to get rid of them.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Use an Old Version of the YouTube App on Your Phone
 
@@ -77,13 +134,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Tap "Uninstall Updates."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/4-uninstall-youtube-app-updates-android.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Select "OK" in the prompt.
 
  When you've downgraded your app, launch the app, and you won't see the "Shorts" section. You'll want to [keep your app from being updated automatically](https://youtube-zero.techidaily.com/cing-video-success-top-8-yt-thumbnail-strategies-for-2024/) so that your phone doesn't bring it to the latest version, which will start showing Shorts again.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ##  Remove Shorts From YouTube's Desktop Site
 
  If you're a desktop user, getting rid of Shorts from [YouTube's computer site](https://on-screen-recording.techidaily.com/in-2024-ultimate-arena-crafting-the-quintessential-7-total-war-tactics/) is as easy as selecting an option. You click an option that hides the Shorts for 30 days, and when that time period is over, you click the option again to remove Shorts for another 30 days, and so on.
@@ -94,9 +162,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Choose "X" in the top-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/5-youtube-desktop-site-remove-shorts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  YouTube will hide the section for 30 days. You're all set.
 
  And that's how you get rid of those annoying short-form videos from your feed. It's worth noting that you can also try certain third-party apps or browser extensions to block Shorts, but your mileage may vary. Enjoy watching YouTube!

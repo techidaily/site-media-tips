@@ -1,7 +1,7 @@
 ---
 title: Synchronize Your Workout Tunes with Spotify and Fitbit - A Complete Guide
-date: 2024-08-28T04:03:26.086Z
-updated: 2024-08-29T04:03:26.086Z
+date: 2024-09-10T10:30:17.126Z
+updated: 2024-09-11T10:30:17.126Z
 tags:
   - streaming
 categories:
@@ -25,16 +25,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  If you're tired of reaching for your phone to skip a song during your workout, you're in luck. With a compatible Fitbit device, you can control Spotify with a few taps on your wrist. Select Fitbit watches allow you to control your music playlist this way, but you'll need to connect your Spotify account first.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  What You'll Need to Start
 
 ![Fitbit Charge 6 on a wrist.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/fitbit-charge-6-14.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The Spotify app is only available on certain Fitbit devices, so you'll want to make sure you have the right watch before you try to pair your Spotify account with the watch. [According to Spotify](https://support.spotify.com/us/article/spotify-on-fitbit/), you can connect your account with the following Fitbit devices:
@@ -54,41 +62,99 @@ Joe Fedewa / How-To Geek
 
 ![Tap the Fitbit device image in the corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/fitbit-device-image.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  Choose your Fitbit watch from the list. Typically, this screen lists your Fitbit watches that are currently in use, plus your phone.
 
 ![Tap your watch on the Fitbit device screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/fitbit-device-screen.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Tap the big Spotify icon under the Fitbit menu.
 
 ![Choose the Spotify app on the Fitbit menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-app-on-fitbit-menu-2.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Choose "Settings" on the Spotify screen.
 
 ![Open Spotify settings to log in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/fitbit-spotify-settings.jpeg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Tap "Log In" and follow the instructions that follow to log in to your Spotify Premium account.
 
 ![Log into Spotify on the Fitbit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/log-into-spotify-on-fitbit-2.jpeg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Now you're ready to control music using your watch. Open the Spotify app on your phone, tablet, or other smart device and start playing music.
 
  You will need to keep your device near your watch in order for the two gadgets to be able to communicate. If you're using a phone to play Spotify, for instance, you don't need to keep the phone in your back pocket at all times. However, if you walk several rooms away, your Fitbit watch may not be able to communicate with your phone anymore.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Controlling Spotify With Your Fitbit
 
 ![Use Spotify controls to change songs and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-controls.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  You can control a variety of Spotify functions from your Fitbit watch. This includes shuffling your songs, liking a track with a heart icon, and opening up a playlist. When you make a song choice from your watch, it affects all the devices that are currently logged in with your Spotify account.
 

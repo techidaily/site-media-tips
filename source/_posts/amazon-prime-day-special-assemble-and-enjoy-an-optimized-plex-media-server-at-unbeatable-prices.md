@@ -1,7 +1,7 @@
 ---
 title: "Amazon Prime Day Special: Assemble & Enjoy an Optimized Plex Media Server at Unbeatable Prices"
-date: 2024-09-05T07:39:33.532Z
-updated: 2024-09-06T07:39:33.532Z
+date: 2024-09-10T10:30:14.139Z
+updated: 2024-09-11T10:30:14.139Z
 tags:
   - streaming
 categories:
@@ -10,6 +10,20 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 ---
 
 ## Amazon Prime Day Special: Assemble & Enjoy an Optimized Plex Media Server at Unbeatable Prices
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -25,12 +39,6 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 
 ![A TerraMaster DAS enclosure on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/26.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Andrew Heinzman / How-To Geek
 
  Technically speaking, [_any_ computer](https://twitter-videos.techidaily.com/new-in-2024-the-complete-guide-to-tweeting-visual-content-in-form-of-customized-gifs/) can be a [Plex](https://network-issues.techidaily.com/instantly-eradicate-playback-problems/) media server. The old laptop that's hidden in your closet could get the job done. So, why are we looking at Prime Day deals?
@@ -54,40 +62,64 @@ Andrew Heinzman / How-To Geek
 
 ![TERRAMASTER F2-424 NAS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/51yvsnas6tl-_ac_sl1500_.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  TERRAMASTER F2-424 2-bay NAS
 
 The TERRAMASTER F2-424 two-bay NAS can store a maximum 22TB of data Its N95 Quad-Core CPU and integrated GPU are powerful enough for 4K video transcoding, making it an excellent option for anyone who needs a compact Plex media server.
 
 [$380 at Amazon](https://amazon.com/dp/B0CXPBM2DF?tag=htgprimedaysite-20) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Best Server-Ready Hard Drive Deals
 
 ![A mechanical hard drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52974816639_7b4544fc8a_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jordan Gloor / How-To Geek  
   
  A Plex media server requires a large amount of storage for movies and shows. Don't bother with overpriced SSDs, as their increased transfer rate is of no benefit in this particular circumstance. A simple 3.5-inch HDD is your best and most cost-effective option.
@@ -106,6 +138,20 @@ Jordan Gloor / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41r29akgr7l-_sl500_-1.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 #####  Seagate IronWolf 8TB NAS HDD
 
 $170 $179 Save $9 
@@ -114,15 +160,23 @@ Seagate's IronWolf HDD offers a durable, server-ready construction and includes 
 
 [$170 at Amazon](https://amazon.com/dp/B084ZV4DXB?tag=htgprimedaysite-20) [See at adorama](https://www.adorama.com/set8000vn004.html) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Deals on Useful Accessories
 
 ![A Netgear 5-port Network Switch with an Ethernet cable attached.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/c17243d1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 _Corbin Davenport / Review Geek_
 
@@ -138,12 +192,6 @@ _Corbin Davenport / Review Geek_
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/tp-link-switch-thumbnail.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  TP-Link TL-SG105 5-Port Gigabit Ethernet Switch
 
 Spread the speed of wired internet to more devices with this 5-port unmanaged Ethernet switch.

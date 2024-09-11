@@ -1,7 +1,7 @@
 ---
 title: "The Unplanned Shift: Embracing Vinyls & DVDs After Major Internet Blackouts Sparked My Passion for Physical Media"
-date: 2024-08-28T04:02:47.277Z
-updated: 2024-08-29T04:02:47.277Z
+date: 2024-09-10T10:30:16.563Z
+updated: 2024-09-11T10:30:16.563Z
 tags:
   - streaming
 categories:
@@ -11,6 +11,26 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
 
 ## The Unplanned Shift: Embracing Vinyls & DVDs After Major Internet Blackouts Sparked My Passion for Physical Media
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * In countries affected by widespread power and internet outages, rely on offline physical media to maintain access to entertainment during blackouts.
@@ -18,24 +38,66 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
 
  Depending on where you live in the world, you may almost never have to worry about the power or internet going out. So relying on streaming and internet-based media feels fine. However, that can change for anyone in an instant, and dealing with power and internet outages has made me rethink my media collection.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Why I’m Living in the Stone Age Half the Time
 
  I live in South Africa, a country that's been struggling with infrastructure for as long as I can remember, and has been suffering severe rolling blackouts from 2007 to the present. It's become such an ingrained part of life in South Africa that we've all adapted. That's probably the main reason I have a [gaming laptop](https://visual-screen-recording.techidaily.com/updated-ioss-best-selection-of-premium-psp-emulators-for-2024/) instead of a gaming desktop. Because those desktops are too power hungry to run on [battery inverters](https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual/). It's why I have backup power on my fiber connection, and if that fails, I have a rather expensive mobile data contract to fall back on, since my livelihood depends on it.
 
  Solar power is creeping into everything more as well, although because blackouts are rolling in nature and largely scheduled, so far I've been able to simply top off my backup batteries when the power is on, so I can run things when the power is off. There's no telling if and when South Africa's energy and infrastructure woes will end, so for now that's how we're coping.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  All the Ways Online Media Has Failed Me
 
  No matter how much I prepare, eventually the power goes out for long enough that the cellular tower batteries fail, or the backup power at the fiber provider can't recharge quickly enough. So, at least a few times a year, the internet is just gone. That's if things are normal. Then we have to contend with actual internet outages caused by vandalism when some people [dig up fiber cables](https://www.timeslive.co.za/news/south-africa/2023-06-01-fibre-cable-thieves-caught-red-handed-in-south-of-johannesburg-jmpd/), mistaking them for copper cables. At other times, some of our precious few undersea internet cables are damaged either through natural causes or man-made issues such as [attacks on cargo ships](https://mybroadband.co.za/news/telecoms/527879-red-sea-houthi-attack-likely-cause-of-damaged-seacom-cable.html). Since many content providers don't actually have their data centers within our borders, it can cause all sorts of issues. After the most recent spate of undersea cable problems, we couldn't get any streaming apps to work reliably for almost a month! With constant playback errors and poor streaming quality.
 
  This also affects my gaming consoles and plenty of services on my PC and Mac. Most of my data is stored in the cloud, even some stuff that I thought was stored locally is sometimes offloaded automatically to the cloud and I only realize that when I try to open it when the internet is down.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Don’t Get Too Comfortable
 
  It doesn't take long for us to develop a false sense of security when it comes to services that depend on external resources to deliver. You don't worry about food, because the supermarket is right there. However, if the farm has issues or the store closes down, you'll suddenly be in a dire situation. The same is true for internet services. No matter how reliable or ubiquitous your power or internet has been in the past, you are just one [solar flare](https://techno-recovery.techidaily.com/master-your-dragon-ball-journey-by-watching-episode-by-episode-in-order/), weather event, or technical problem away from not having power or internet for days or even weeks.
@@ -44,27 +106,44 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
 
  It doesn't even have to be an outlier event. Some people go on holiday or have second homes in rural areas where there will be no internet. Keeping a few Blu-Rays at your holiday home in a rural area just makes sense.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  My Rainy Day Collection Is Growing
 
 ![A small movie collection comprised of DVDs and Blu Ray discs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240520_102047.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek
 
  In many ways, this is the absolute best time to start collecting DVDs, Blu-rays, and other offline physical media. Since online streaming has put such a damper on the physical market, pushing down demand, prices have taken a tumble too. We're talking DVD box sets for less than ten bucks, and Blu-ray movies for a dollar or two a piece. If you paid $100 today, you could probably buy enough offline entertainment to last you a week with no internet.
 
 ![A DVD and Blu Ray Collection with books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dvd-and-blu-ray-collection.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sydney Louw Butler / How-To Geek
 
  At least once a month, I go to my favorite online stores and arrange the DVDs and Blu-rays by price, Then I scoop up a dozen or so titles. I don't intend to watch them when I get them, they just go on the shelf. For those times I know the internet will be gone for a day or two. The used market is also booming, and you can really build up a cache of media quickly and cheaply if you focus on used titles. Most of the time, the discs are well taken care of, and Blu-ray discs in particular are basically bulletproof.

@@ -1,7 +1,7 @@
 ---
 title: "Digital Content Crisis at Funimation: Sudden Shutdown Leads to User Library Deletions"
-date: 2024-09-05T07:39:34.432Z
-updated: 2024-09-06T07:39:34.432Z
+date: 2024-09-10T10:30:14.885Z
+updated: 2024-09-11T10:30:14.885Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb6e8017e4b8755b0efa649e5.png
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Digital Content Crisis at Funimation: Sudden Shutdown Leads to User Library Deletions
 
 It's been a yearlong wait, but Funimation will finally shut down on April 2nd. Remaining subscribers will be transferred to Crunchyroll, where legacy pricing and digital libraries will not be honored. Other features, such as watch history and streaming queues, will be merged with or transferred to your Crunchyroll account.

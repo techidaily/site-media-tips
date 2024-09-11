@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of the New Tablo (Generation 4) DVR: Access Local Channels for Free, Though Some Conditions Apply"
-date: 2024-09-05T07:39:33.635Z
-updated: 2024-09-06T07:39:33.635Z
+date: 2024-09-10T10:30:14.208Z
+updated: 2024-09-11T10:30:14.208Z
 tags:
   - streaming
 categories:
@@ -9,20 +9,42 @@ categories:
 thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d090cb5ced8396683e115022.jpg
 ---
 
-## Comprehensive Analysis of the New Tablo (Generation 4) DVR: Access Local Channels for Free, Though Some Conditions Apply
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Comprehensive Analysis of the New Tablo (Generation 4) DVR: Access Local Channels for Free, Though Some Conditions Apply
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * The Tablo (4th Generation) DVR allows you to watch and record live TV without any recurring subscriptions or fees.
@@ -33,26 +55,22 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![Tablo 4th Gen DVR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  Tablo 4th Gen
 
 8/ 10 
@@ -97,18 +115,20 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
 
  You can buy the Tablo DVR from [Tablo's online store](https://www.tablotv.com/product/), [Amazon](https://amazon.com/dp/B0CBVT6SLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate), [Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftablo-4th-gen-2-tuner-128gb-over-the-air-dvr-streaming-player-white%2F6554313.p%3FskuId%3D6554313), and other retailers. Not all stores sell both versions, so be sure to check that you're not over paying for gear you don't need.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Design of a Modern DVR
 
  The 4th Gen Tablo DVR is a white circular box, measuring 5 inches across (127mm) and 1.37 inches tall (35mm). It's small enough to easily fit wherever it's needed, whether that's in a TV cabinet next to an existing antenna setup, next to your router for a wired internet connection, or somewhere else. The only visible features are a Tablo logo on the top and an LED status light. There are four ports on the back: the power input, ethernet (100 Mb/s), USB 2.0, and the coax port for the TV antenna.
@@ -127,39 +147,43 @@ Corbin Davenport / How-To Geek
 
 ![Holding a TV antenna from Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-4.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
 ![Holding a TV antenna from Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-5.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Corbin Davenport / How-To Geek
 
 Close 
 
  You might notice something missing from that list of ports: there's no video output. You can only watch content from the Tablo through the app, which is available on most streaming sticks and some smart TVs. If you don't have a compatible TV, you'll need to buy a [streaming stick](https://facebook-video-share.techidaily.com/updated-prime-selection-of-screen-capture-software-for-gaming/).
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Software & Setup
 
@@ -187,12 +211,6 @@ Close
 
 ![Tablo player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_5401.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tablo says in [the FAQ section on its website](https://www.tablotv.com/product/) that a 4-tuner Tablo is under development, which would allow more simultaneous recordings and/or more devices streaming live TV at once. If you _absolutely_ need more tuners right now, you could buy another Tablo unit and switch between them as needed in the Tablo app. You would also need another antenna for the other Tablo, or you could share the same antenna across multiple devices with an [amplified splitter](https://www.amazon.com/Amplified-Splitter-Pixelated-Low-Strength-Distributes/dp/B083KKFJLY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate).
 
  With the Tablo connected to my router with an ethernet cable, I didn't have any problems watching TV. Live channels opened within a few seconds (as long as the antenna signal was strong), and playback for recordings started instantly. Tablo also passes through 5.1 Surround Sound when available, so audio quality in live TV and recordings should match the original broadcast. The video quality also looked great for me, but the resolution will depend on the given channel. Many broadcast channels in the US are still 720p or 480p/480i.
@@ -200,6 +218,20 @@ Close
  Unfortunately, the Tablo DVR does not support [ATSC 3.0](https://www.watchnextgentv.com/), just the regular ATSC 1.0 standard that supports up to 1080p (there is no ATSC 2.0). ATSC 3.0, also branded as NextGen TV, is the new standard for over-the-air television that supports 4K playback, interactive content, and other features. The number of channels broadcasting in ATSC 3.0 [is growing](https://www.watchnextgentv.com/markets/), but there have been [some issues with DRM-breaking DVR features](https://youtube-tips.techidaily.com/approved-unlocking-youtube-writers-royalties-with-ad-driven-earnings-cpm/), which might be why Tablo didn't bother adding it to this model.
 
  Tablo's lack of ATSC 3.0 support doesn't mean you lose any channels, though. The FCC has [said](https://docs.fcc.gov/public/attachments/FCC-23-53A1.pdf) that channels must continue broadcasting ATSC 1.0 until July 17, 2027, at the earliest, and it's likely that most channels will continue broadcasts past that point (otherwise they would lose viewers).
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Competition
 
@@ -213,18 +245,20 @@ Close
 
 ![Tablo 4th Gen from top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-2.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Corbin Davenport / How-To Geek
 
  The [Tablo (4th Generation) DVR](http://www.amazon.com/Tablo-Broadcast-TV-Streaming-Whole-Home/dp/B0CBVT6SLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate) is an easy and simple way to watch over-the-air TV from anywhere in your home, and it does what it sets out to do. I have some complaints, especially the lack of ATSC 3.0 support and the sometimes-buggy app, but it's probably still the best option for someone who wants a plug-and-play solution. It brings some of the conveniences of cable TV subscriptions to over-the-air channels, like multi-device streaming and DVR recording, without any recurring costs.

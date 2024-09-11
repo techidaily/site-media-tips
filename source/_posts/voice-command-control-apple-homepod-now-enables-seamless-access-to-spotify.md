@@ -1,7 +1,7 @@
 ---
 title: "Voice Command Control: Apple HomePod Now Enables Seamless Access to Spotify"
-date: 2024-09-05T07:39:32.643Z
-updated: 2024-09-06T07:39:32.643Z
+date: 2024-09-10T10:30:13.327Z
+updated: 2024-09-11T10:30:13.327Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/ad2e7cdaba5152cc65afbc2503b95057d5e6fc76bcacfc4b43e4f27ded6f318e.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Voice Command Control: Apple HomePod Now Enables Seamless Access to Spotify
 
 The Apple HomePod only supports a handful of third-party music services, such as Pandora and Deezer. Other services, including Spotify, must be streamed to the HomePod over AirPlay or Bluetooth. But the [iOS 17 update](https://screen-recording.techidaily.com/enhanced-team-collaboration-with-slack-plus-filmora-timelines-for-2024/) is improving things a bit. Now, any streaming app that supports Siri voice commands can be played and controlled directly from the HomePod. You can tell your HomePod to "play Spotify," and it'll actually work.

@@ -1,7 +1,7 @@
 ---
 title: "Plex Abandons Virtual Reality Development: A Look Into the Future of Their Platform"
-date: 2024-09-05T07:39:31.813Z
-updated: 2024-09-06T07:39:31.813Z
+date: 2024-09-10T10:30:12.597Z
+updated: 2024-09-11T10:30:12.597Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/eb79ccc0ff831a30910246817b125d2ff7b8383215bb363feaf2e3df0b095ba4.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Plex Abandons Virtual Reality Development: A Look Into the Future of Their Platform
 
 Plex is one of the best ways to stream your own movies, TV, and music collections across all your devices. There are Plex apps for nearly every device imaginable, but now Plex is dropping support for VR platforms.
@@ -27,12 +41,20 @@ Plex is one of the best ways to stream your own movies, TV, and music collection
 
 ![VR avatars watching The Simpsons on a large screen in a virtual living room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/plex-vr-simpsons-watch-together-1-1440x810.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [Plex](https://www.plex.tv/blog/plex-now-virtual-reality-daydream/)
 
  Plex had an application available for all three platforms, allowing you to watch your movies and TV shows in a virtual theater, including with friends over voice chat. It’s not surprising that support is going away for these old platforms, but Plex doesn’t support newer virtual reality devices either. There’s no Plex app for Meta Quest headsets, PC VR, or PlayStation VR. You can use the Plex web app in the web browser on Quest headsets, or mirror a PC’s screen to your headset, but that’s not the best experience.

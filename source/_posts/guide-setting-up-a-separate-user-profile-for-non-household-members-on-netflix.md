@@ -1,7 +1,7 @@
 ---
 title: "Guide: Setting Up a Separate User Profile for Non-Household Members on Netflix"
-date: 2024-08-28T04:03:08.935Z
-updated: 2024-08-29T04:03:08.935Z
+date: 2024-09-10T10:30:16.902Z
+updated: 2024-09-11T10:30:16.902Z
 tags:
   - streaming
 categories:
@@ -9,7 +9,41 @@ categories:
 thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088f02a9b5a61fe37bc90c745a.png
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Guide: Setting Up a Separate User Profile for Non-Household Members on Netflix
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -27,9 +61,20 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 
  Extra Members have access to the full Netflix library, whether at home or while traveling. Their maximum video and audio quality also mirrors that of the account holder. Yet, unsurprisingly, there are some drawbacks to being an Extra Member compared to paying for a separate plan.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  ​Differences From a Regular Account
 
  An Extra Member is part of your Netflix plan, but their access comes with a few limitations.
@@ -38,36 +83,66 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 * Extra Members can only create one profile. This limits someone's ability to share their Extra Membership with a household of their own. Sure, there's nothing stopping everyone in a house from sharing a single profile on the family TV, but everyone will have to deal with a shared viewing history, and this single profile cannot be a Kid's profile.
 * Extra Members must activate their account in the same country as the owner of the account. Netflix content differs by country, and Extra Members are not able to get around this.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  ​How Much Is an Extra Member on Netflix
 
 ![Netflix website showing the cost of adding an extra member.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/netflix-extra-member-cost.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- An Extra Member costs $7.99 each month to add to your account. That makes this option slightly more expensive than Netflix's ad-supported tier, which goes for $6.99 a month. Extra Members can only be added to the "Standard" and "Premium" plans, which, after [price increases in 2023](https://youtube-web.techidaily.com/emystifying-video-seo-on-youtube-as-a-novice/), cost $15.49 and $22.99 respectively. Standard plans only allow for a single Extra Member, whereas Premium plans support up to two.
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ An Extra Member costs $7.99 each month to add to your account. That makes this option slightly more expensive than Netflix's ad-supported tier, which goes for $6.99 a month. Extra Members can only be added to the "Standard" and "Premium" plans, which, after [price increases in 2023](https://youtube-web.techidaily.com/emystifying-video-seo-on-youtube-as-a-novice/), cost $15.49 and $22.99 respectively. Standard plans only allow for a single Extra Member, whereas Premium plans support up to two.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  ​How to Add an Extra Member on Netflix
 
  As an account owner, there are two steps to add an Extra Member. First, you purchase an Extra Member slot (or two, depending on your plan). You can do this by going to the [Netflix website](https://www.netflix.com/) and clicking on your [custom profile image](https://extra-support.techidaily.com/in-2024-prime-buzz-generator-prodigy/) in the top-right corner. Select "Account" and scroll down to "Buy an Extra Member Slot."
 
 ![The option to buy an extra member on the Netflix website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/netflix-add-extra-member.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ​​​​​​
 
  The second step is to send an invite to your desired Extra Member. The process isn't complete until the recipient accepts your invitation and creates their account. Alternatively, your Extra Member can be someone who is willing to separate their existing profile from your account.
@@ -81,6 +156,20 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
  You can enable profile transfers by returning to your Netflix account settings and scrolling down to "Turn on Profile Transfers." The website will then ask explicitly if you wish to allow profile transfers. Click "Allow."
 
 ![The Netflix website describing the profile transfer process](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/netflix-allow-profile-transfers.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  How to Remove an Extra Member
 
@@ -96,15 +185,8 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 
 ![The Netflix website listing Extra Members tied to an account.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/netflix-extra-members.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  If you've invited someone in error or you've added an Extra Member slot by mistake, you can quickly cancel either to avoid being charged.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ##  ​​​​​Becoming an Extra Member Isn't for Everyone
 
  Adding you as an Extra Member costs someone else more ($7.99) than you would spend on your own ad-supported plan ($6.99), but it costs less than paying for your own Standard or Premium plan. After all, there's nothing stopping you from paying that $8 to the account holder yourself.

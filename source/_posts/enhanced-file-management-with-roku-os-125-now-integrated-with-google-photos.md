@@ -1,13 +1,33 @@
 ---
 title: Enhanced File Management with Roku OS 12.5, Now Integrated with Google Photos
-date: 2024-08-28T04:02:18.899Z
-updated: 2024-08-29T04:02:18.899Z
+date: 2024-09-10T10:30:16.150Z
+updated: 2024-09-11T10:30:16.150Z
 tags:
   - streaming
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/roku12.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Enhanced File Management with Roku OS 12.5, Now Integrated with Google Photos
 
@@ -90,7 +110,3 @@ Roku regularly updates the operating system on its TVs and streaming devices, ad
 <li><a href="https://media-tips.techidaily.com/ultimate-mp4-format-explained-your-definitive-guide-covering-all-essentials/"><u>Ultimate MP4 Format Explained: Your Definitive Guide Covering All Essentials</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 6? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->

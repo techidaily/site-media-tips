@@ -1,7 +1,7 @@
 ---
 title: "Bring Back the Joy of Random Watching: Replicating Netflix's Lost Shuffle Feature at Home"
-date: 2024-09-01T06:44:46.433Z
-updated: 2024-09-02T06:44:46.433Z
+date: 2024-09-10T10:30:17.381Z
+updated: 2024-09-11T10:30:17.381Z
 tags:
   - streaming
 categories:
@@ -9,7 +9,35 @@ categories:
 thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0eead8f917808b4db67b3f9f1.jpg
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Bring Back the Joy of Random Watching: Replicating Netflix's Lost Shuffle Feature at Home
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -19,15 +47,46 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
 
  Have you ever been in the mood to watch a TV show or movie but can't decide on a title? It's a common predicament in our world of streaming services. Netflix used to have a "Play Something" shuffle button to help with the overabundance of choices. The feature is gone, but we can recreate it.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  What Did the Netflix Shuffle Button Do?
 
  Netflix rolled out the "Play Something" shuffle button in 2021 as a way to take some of the decision-making out of our hands. Rather than scrolling through a [near-infinite list of movies](https://sim-unlock.techidaily.com/how-to-unlock-iphone-6s-online-here-are-6-easy-ways-by-drfone-ios/) and TV shows, you could simply select the "Play Something" button, and a random TV show or movie would start playing.
 
  About two years later, Netflix quietly removed the feature—which had since been renamed to "Surprise Me"—due to low usage. If you miss the ability to find a randomly-generated TV show or movie to watch on Netflix, you'll need to get a little creative.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Shuffle Netflix (And More) With ReelGood Roulette
 
  We can't add the shuffle button back to Netflix, but we can recreate its ability to find a random TV show or movie. We'll be using a feature from Reelgood, a website for finding content on streaming services. In fact, it's probably better than Netflix's "Play Something" feature.
@@ -42,16 +101,38 @@ Close
 
 ![Spin the Reelgood Roulette wheel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-03_08-24-19.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  A result will pop up underneath the "Spin" button, and you can select "Watch Now" to jump straight to the streaming service. Or you can pull up Netflix on your TV or wherever you'd like to watch it and find the title. Easy as that!
 
 ![Watch a title from Reelgood Roulette.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-03_08-27-29.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ---
 
  While this may not be as convenient as leaning back on your couch and clicking the "Play Something" button, it's quite a bit more useful. You're not just limited to Netflix, and you have more control over which titles it's choosing from. Happy streaming!

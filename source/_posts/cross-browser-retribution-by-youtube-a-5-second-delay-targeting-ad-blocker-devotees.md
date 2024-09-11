@@ -1,7 +1,7 @@
 ---
 title: "Cross-Browser Retribution by YouTube: A 5-Second Delay Targeting Ad Blocker Devotees"
-date: 2024-09-05T07:39:32.850Z
-updated: 2024-09-06T07:39:32.850Z
+date: 2024-09-10T10:30:13.517Z
+updated: 2024-09-11T10:30:13.517Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907c56db6f2e6e81070455269a.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Cross-Browser Retribution by YouTube: A 5-Second Delay Targeting Ad Blocker Devotees
 
 After a long day of anger and speculation, Google has finally commented on the "artificial wait" that some Firefox users are encountering on YouTube. This 5-second delay, which is plainly visible in YouTube's code, is made to punish those who use ad blockers. It affects all browsers, not just Firefox.

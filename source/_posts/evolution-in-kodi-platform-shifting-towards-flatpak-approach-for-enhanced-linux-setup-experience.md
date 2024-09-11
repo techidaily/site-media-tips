@@ -1,7 +1,7 @@
 ---
 title: "Evolution in Kodi Platform: Shifting Towards Flatpak Approach for Enhanced Linux Setup Experience"
-date: 2024-09-05T07:39:32.133Z
-updated: 2024-09-06T07:39:32.133Z
+date: 2024-09-10T10:30:12.893Z
+updated: 2024-09-11T10:30:12.893Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a0ff9dab5d25b004c909ef6a.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Evolution in Kodi Platform: Shifting Towards Flatpak Approach for Enhanced Linux Setup Experience
 
 Slowly but surely, the Linux ecosystem is switching to packaged software bundles, like Snap and Flatpak. The Kodi media center project has announced it will no longer distribute installations or updates through the Team Kodi PPA, instead using [Flatpak](https://flathub.org/apps/tv.kodi.Kodi) as its primary software repository on Linux.

@@ -1,13 +1,27 @@
 ---
 title: Who's Streaming or Listening? Track User Activity Across Popular Platforms Including Netflix & Spotify
-date: 2024-08-28T04:02:10.020Z
-updated: 2024-08-29T04:02:10.020Z
+date: 2024-09-10T10:30:16.020Z
+updated: 2024-09-11T10:30:16.020Z
 tags:
   - streaming
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/chromecast-google-tv-remote.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Who's Streaming or Listening? Track User Activity Across Popular Platforms Including Netflix & Spotify
 
@@ -26,15 +40,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you shared Netflix, Hulu, and other streaming passwords with friends and family, you may want to rein in who has access to your accounts. Thankfully, it's easy to see which devices are accessing your streaming apps. We'll help you sniff out the lurkers and remove them if you wish to do so.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Why It's Important to See Who's Using Your Account
 
  You may not want your ex-partner, a long-lost college roommate, or a bunch of other people you don't even talk to anymore using your accounts. This is especially important for platforms like Netflix—[Netflix does _not_ like you sharing your account](https://video-screen-grab.techidaily.com/screen-recorder-alternatives-in-depth-review-and-top-picks-for-2024/) with the whole village. If you want to share your account, you can always [add an extra member on Netflix](https://screen-mirroring-recording.techidaily.com/updated-2024-approved-tenfold-video-recording-tricks-on-your-windows-11-system/).
 
  Fortunately, there's a way to see who's logged into your account on most platforms. We'll explain how to do this on some popular platforms, including Netflix, Amazon Prime, Hulu, Spotify, Disney+, Max, YouTube, YouTube TV, YouTube Music, Apple TV+, and Apple Music. If your platform isn't listed, you can probably find a similar option somewhere in the settings section.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to See Who's Using Your Netflix Account
 
  To see who's using your Netflix account on the web, log in, hover your cursor over your profile avatar at the top-left of the screen, and select "Account & Settings." Navigate to the "Your Devices" tab to see the list of devices that recently logged into your Netflix account. If you want to revoke access to any accounts, click "Sign Out" on those accounts. When you're done, change the password.
@@ -45,18 +70,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![list of devices as seen on the Netflix mobile app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/netflix-devices-phone-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  How to See Who's Using Your Amazon Prime Video Account
 
  To see who's using your Amazon Prime Video account on the web, go to Prime Video, log in, and hover your cursor over your profile name. Click on "Account & Settings" and switch to the "Your Devices" tab. You should now see a list of devices logged in to your account.
 
 ![List of devices seen using the web version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/prime-devices.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  However, you'll see all the devices if you're the primary owner of an account. If you're not the primary owner, which means you're using a family member or friend's account, you'll only see your devices. You can remove a device from the list by clicking the "Deregister" option on the right of the device.
 
@@ -64,9 +102,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![List of devices viewed using the Amazon Prime Video phone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/prime-devices-phone.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  How to See Who’s Using Your Hulu Account
 
  To see who's using your Hulu account via the web, open Hulu and log in. Hover your cursor over your profile name at the top-right of the screen. Select Account > Manage devices.
@@ -75,10 +124,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Hulu logged in devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/9.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  There's currently no way to see logged-in devices using Hulu's mobile app.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  How to See Who's Using Your Spotify Account
 
@@ -88,20 +148,48 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Spotify devices list accessed via the web version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/spotify-devices.jpg) 
 
- Unfortunately, none of these options are available on the phone app at the time of writing.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Unfortunately, none of these options are available on the phone app at the time of writing.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  How to See Who's Using Your Disney+ Account
 
  When using Disney+ on the web, log into your account, hover your cursor over the profile avatar at the top-right of the screen, and select "Account." There's a "Log out of all devices" option here.
 
 ![Disney Plus log out of all devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/2024-03-07_10-47-43.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  While that's not the same as being able to see a list of devices logged into your account like on other platforms, it does allow you to regain control of your account. You can always share the new password if you want to share access with someone. The process is exactly the same for the Disney+ mobile app.
 
 ##  How to See Who's Using Your HBO Max Account
@@ -110,25 +198,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![HBO Max manage devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/auth-max-com_account_devices-ipad-air.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to remove any of these devices, click on the X icon next to the device you want to remove. Alternatively, you can choose to "Sign All Devices Out" to remove all devices, including the device you're currently using.
 
  The process is exactly the same for the phone app. Just like on the web, you can remove a device using the phone app by clicking the X icon next to the device's name, or you can choose to sign out of all devices.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  How to See Who's Using Your YouTube, YouTube TV, and YouTube Music Account
 
  Since YouTube, YouTube TV, and YouTube Music are part of the Google ecosystem, you can control the devices logged into these accounts via your Google account.
@@ -137,11 +224,39 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![List of devices logged into your Google account accessed via the web version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/google-devices.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Remember that when you remove a device from this list, the device will be signed out of the Google account. This means the device will have to log in again to use Gmail, Google Workspace, and, of course, YouTube. Unlike other platforms, there's no option to sign out of all devices at once.
 
  If you're using the phone app, launch the Google app (not YouTube) and tap your profile avatar at the top-right. Tap "Google Account," switch to the "Security" tab, and scroll down to the "Your Devices" section. Tap "Manage All Devices." Select a device you want to log out of and tap the "Sign Out" button.
 
 ![List of devices logged into Google as seen in the phone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/google-devices-phone-1.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  How to See Who's Using Your Apple TV+ and Apple Music Account
 
@@ -153,9 +268,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![List of devices appearing in System Settings on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/mac-devices.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Similarly, when using an iPhone or iPad, go to "Settings" and tap on your name. Search for the device list at the bottom, select the device you want to remove, and tap on "Remove From Account."
 
 ##  Regain Control Over Your Accounts

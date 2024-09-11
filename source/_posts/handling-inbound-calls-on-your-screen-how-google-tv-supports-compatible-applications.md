@@ -1,7 +1,7 @@
 ---
 title: "Handling Inbound Calls on Your Screen: How Google TV Supports Compatible Applications"
-date: 2024-09-05T07:39:33.828Z
-updated: 2024-09-06T07:39:33.828Z
+date: 2024-09-10T10:30:14.378Z
+updated: 2024-09-11T10:30:14.378Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/27b127c31cd1d4c4e3c7e2e3da33ec44af88b4b625ba034a78a3512eb4d83268.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Handling Inbound Calls on Your Screen: How Google TV Supports Compatible Applications
 
 Need a distraction from your favorite show or movie? Google TV will soon notify you of incoming calls from select apps, such as Google Meet. The feature is currently rolling out to streaming sticks and smart TVs, but it doesn't actually work yet.
