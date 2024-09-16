@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Your Exposure to YouTube Shorts"
-date: 2024-09-10T10:30:15.836Z
-updated: 2024-09-11T10:30:15.836Z
+date: 2024-09-15T16:08:52.138Z
+updated: 2024-09-16T16:15:18.921Z
 tags:
   - streaming
 categories:
@@ -10,20 +10,6 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 ---
 
 ## Step-by-Step Guide: Turning Off Your Exposure to YouTube Shorts
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Quick Links
 
@@ -38,20 +24,6 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
  Not a [big fan of YouTube's](https://screen-activity-recording.techidaily.com/updated-superior-sound-capture-insiders-list-of-the-best-9-microphones-online-for-2024/) short-form videos in your feed and want to get rid of them? While there's no official method to turn off [YouTube Shorts](https://hardware-help.techidaily.com/enhance-your-gaming-world-the-ultimate-guide-to-installing-asus-970-pro-gpus/), you have a few workarounds to hide them from appearing in your feed. We'll show you how to do that on your iPhone, Android phone, and desktop computer.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Use YouTube's Mobile Website to Disable Shorts
 
  A convenient way to get rid of the Shorts from your feed is by using YouTube's mobile site on your phone. On the site, you have the option to hide the "Shorts" section for 30 days, something you can't do in the platform's mobile app (at the time of writing).
@@ -61,20 +33,6 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
  After signing in, access the "Shorts" section. Here, in the section's top-right corner, tap "X."
 
 ![Select &quot;X&quot; in the top-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/1-youtube-mobile-site-disable-shorts.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  As soon as you tap "X," YouTube will hide the "Shorts" section and say that the shelf will be hidden for 30 days.
 
@@ -90,37 +48,22 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
 ![Select "Not Interested" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/3-youtube-mobile-app-shorts-not-interested.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Repeat the above step for each video in the "Shorts" section. Once you've done that, you'll start to see them less and YouTube will temporarily hide the "Shorts" section from your feed. And that's it.
 
  If you start seeing Shorts again, simply mark them as "Not Interested" again to get rid of them.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Use an Old Version of the YouTube App on Your Phone
 
@@ -133,20 +76,6 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
  To do that on your Android phone, navigate to Settings > Apps > YouTube. In the top-right corner, tap the three dots and choose "Uninstall Updates."
 
 ![Tap "Uninstall Updates."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/4-uninstall-youtube-app-updates-android.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Select "OK" in the prompt.
 
@@ -162,6 +91,19 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
 ![Choose "X" in the top-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/5-youtube-desktop-site-remove-shorts.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  YouTube will hide the section for 30 days. You're all set.
 
  And that's how you get rid of those annoying short-form videos from your feed. It's worth noting that you can also try certain third-party apps or browser extensions to block Shorts, but your mileage may vary. Enjoy watching YouTube!
@@ -172,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,38 +123,17 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gopros-new-era-a-detailed-max-360-vs-hero-11-analysis/"><u>[New] GoPro's New Era  A Detailed Max 360 vs Hero 11 Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-introduction-to-adding-new-fonts-in-ae/"><u>[New] Introduction to Adding New Fonts in AE</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-transform-your-footage-effective-strategies-for-cropping-and-export-on-instagram/"><u>[New] Transform Your Footage  Effective Strategies for Cropping & Export on Instagram</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-optimal-quality-hd-screening-units/"><u>[Updated] Optimal Quality HD Screening Units</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-premier-choices-for-accessible-screen-recorders/"><u>[Updated] Premier Choices for Accessible Screen Recorders</u></a></li>
-<li><a href="https://media-tips.techidaily.com/2024s-top-tools-for-extracting-audio-from-mp4-videos-comprehensive-desktop-and-online-solutions/"><u>2024'S Top Tools for Extracting Audio From MP4 Videos: Comprehensive Desktop & Online Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-m14-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy M14 4G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-walkthrough-of-samsung-galaxy-buds-plus-get-your-own-insights/"><u>A Comprehensive Walkthrough of Samsung Galaxy Buds Plus – Get Your Own Insights</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-practices-optimal-audiovisual-boosters-for-maximum-sound-levels-in-videos/"><u>Best Practices: Optimal Audiovisual Boosters for Maximum Sound Levels in Videos</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-top-5-mp3-mixer-apps-combine-multiple-audios-into-a-single-file-easily/"><u>Best Top 5 MP3 Mixer Apps: Combine Multiple Audios Into a Single File Easily</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-top-6-audio-merging-tools-seamless-song-creators-and-file-assemblers/"><u>Best Top 6 Audio Merging Tools: Seamless Song Creators & File Assemblers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/boosting-brand-visibility-essential-insta-highlight-upgrades/"><u>Boosting Brand Visibility  Essential Insta Highlight Upgrades</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comparing-audio-formats-aiff-wav-flac-and-alac-what-sets-them-apart/"><u>Comparing Audio Formats AIFF, WAV, FLAC & ALAC – What Sets Them Apart?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comparing-flac-vs-wav-which-audio-file-type-is-best-for-your-needs/"><u>Comparing FLAC Vs. WAV: Which Audio File Type Is Best for Your Needs?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-the-newest-titans-samsung-galaxy-s23-vs-s21/"><u>Comparing the Newest Titans: Samsung Galaxy S23 Vs. S21</u></a></li>
-<li><a href="https://media-tips.techidaily.com/complete-guide-converting-mp3-files-to-ogg-format-illustrated-steps-and-images/"><u>Complete Guide: Converting MP3 Files to OGG Format - Illustrated Steps & Images</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-your-audio-files-free-top-audio-converter-tool-for-iphone-and-ipad/"><u>Convert Your Audio Files Free: Top Audio Converter Tool for iPhone & iPad</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-guide-mastering-the-art-of-reducing-tempo-in-mp3-songs/"><u>Free Guide: Mastering the Art of Reducing Tempo in MP3 Songs</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guide-to-professional-audio-enhancement-mastering-video-sound-editing-techniques/"><u>Guide to Professional Audio Enhancement: Mastering Video Sound Editing Techniques</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-efficiently-transform-flac-files-into-high-quality-aac-format/"><u>How to Efficiently Transform FLAC Files Into High-Quality AAC Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-transform-mpeg-files-into-mp3s-a-guide-to-retrieving-pure-audio/"><u>How to Transform MPEG Files Into MP3s: A Guide to Retrieving Pure Audio</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-mp3-editing-tools-and-techniques-for-seamless-file-trimming-on-any-device/"><u>Mastering MP3 Editing: Tools & Techniques for Seamless File Trimming on Any Device</u></a></li>
-<li><a href="https://media-tips.techidaily.com/multi-platform-aiff-viewer-compatible-with-windows-mac-iphone-and-android/"><u>Multi-Platform AIFF Viewer: Compatible with Windows, Mac, iPhone & Android</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-beginners-manual-sharing-your-podcast-across-social-networks/"><u>Step-by-Step Beginner's Manual: Sharing Your Podcast Across Social Networks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-transform-ogg-audiovideo-into-mp4-for-seamless-compatibility/"><u>Step-by-Step Tutorial: Transform OGG Audio/Video Into MP4 for Seamless Compatibility</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-update-your-windows-bluetooth-stick-hardware-drivers-easily/"><u>Step-by-Step: Update Your Windows Bluetooth Stick Hardware Drivers Easily</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-artists-toolbox-essential-video-tips-for-musicians-on-youtube-for-2024/"><u>The Artist's Toolbox  Essential Video Tips for Musicians on YouTube for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-the-best-mp3-converter-for-seamless-video-and-audio-file-transformation/"><u>The Ultimate Guide to the Best MP3 Converter for Seamless Video and Audio File Transformation</u></a></li>
-<li><a href="https://media-tips.techidaily.com/three-easy-techniques-for-combining-tracks-with-illustrative-images/"><u>Three Easy Techniques for Combining Tracks with Illustrative Images</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-wav-format-converters-seamless-transformation-from-amr-aac-cda-mpeg-mov-to-wav/"><u>Top-Rated WAV Format Converters: Seamless Transformation From AMR, AAC, CDA, MPEG, MOV to WAV</u></a></li>
-<li><a href="https://media-tips.techidaily.com/universal-aiff-file-playback-software-for-pcs-and-mobile-devices-windows-mac-ios-android/"><u>Universal AIFF File Playback Software for PCs and Mobile Devices (Windows, Mac, iOS, Android)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unlocking-lenovos-full-potential-with-screen-recordings-for-2024/"><u>Unlocking Lenovo's Full Potential with Screen Recordings for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unraveling-instagrams-video-sideways-quandary/"><u>[New] Unraveling Instagram's Video Sideways Quandary</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-from-long-to-brief-how-to-shorten-youtube-footage/"><u>[Updated] 2024 Approved From Long to Brief How to Shorten YouTube Footage</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unleashing-the-power-of-visual-identity-mastering-discord-pfps/"><u>[Updated] 2024 Approved Unleashing the Power of Visual Identity Mastering Discord Pfp's</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-cracking-the-code-of-photoshop-for-beginners/"><u>2024 Approved Cracking the Code of Photoshop for Beginners</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamlining-your-gaming-experience-with-easy-recordings/"><u>2024 Approved Streamlining Your Gaming Experience with Easy Recordings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-methods-to-download-and-improve-your-intel-hd-graphics-5500-software/"><u>Easy Methods to Download & Improve Your Intel HD Graphics 5500 Software</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enjoy-nfl-games-on-sundays-for-free-special-promotion-from-verizon/"><u>Enjoy NFL Games on Sundays For Free – Special Promotion From Verizon!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/experience-premium-sound-quality-at-an-affordable-cost-with-tidals-enhanced-hifi-music-service/"><u>Experience Premium Sound Quality at an Affordable Cost with Tidal’s Enhanced HiFi Music Service</u></a></li>
+<li><a href="https://media-tips.techidaily.com/explore-hisenses-latest-tech-a-compact-4k-dolby-vision-projector-revolution/"><u>Explore Hisense's Latest Tech: A Compact 4K Dolby Vision Projector Revolution</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unique-gifting-made-simple-discover-top-10-custom-box-sellers/"><u>In 2024, Unique Gifting Made Simple Discover Top 10 Custom Box Sellers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/start-making-money-today-top-13-easy-methods-for-newbies/"><u>Start Making Money Today! Top 13 Easy Methods for Newbies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-turing-test-is-beating-it-achievable-in-modern-ai/"><u>Understanding the Turing Test: Is Beating It Achievable in Modern AI?</u></a></li>
 </ul></div>
+

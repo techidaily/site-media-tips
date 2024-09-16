@@ -1,27 +1,13 @@
 ---
 title: "Exposed: How Password Reuse Endangers Over 15K Devices on Roku Platform"
-date: 2024-09-10T10:30:12.314Z
-updated: 2024-09-11T10:30:12.314Z
+date: 2024-09-13T16:00:17.731Z
+updated: 2024-09-16T16:00:33.303Z
 tags:
   - streaming
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a172015085fad0a0d2520bcd157aa.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Exposed: How Password Reuse Endangers Over 15K Devices on Roku Platform
 
@@ -49,8 +35,6 @@ In a new [breach notice](http://oag.ca.gov/system/files/Template%20Notification%
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,51 +44,31 @@ In a new [breach notice](http://oag.ca.gov/system/files/Template%20Notification%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-demystifying-av1-a-first-time-guide-for-2024/"><u>[New] Demystifying AV1  A First-Time Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-mp4-extraction-your-fb-video-fix-for-2024/"><u>[Updated] Seamless MP4 Extraction – Your FB Video Fix for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-webcam-master-ultimate-live-recording-guide/"><u>[Updated] WebCam Master  Ultimate Live Recording Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sculpting-brilliance-a-deep-dive-into-hdr-in-lightroom/"><u>2024 Approved  Sculpting Brilliance  A Deep Dive Into HDR in Lightroom</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-free-methods-for-enhancing-and-improving-low-quality-sound-recordings-top-tips-for-both-digital-and-analog-solutions/"><u>Best Free Methods for Enhancing & Improving Low-Quality Sound Recordings: Top Tips for Both Digital & Analog Solutions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-methods-for-quickly-trimming-tunes-guides-for-mac-pc-mobile-devices-and-web-tools/"><u>Best Methods for Quickly Trimming Tunes: Guides for Mac, PC, Mobile Devices & Web Tools</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-picks-instant-access-compact-wav-file-solutions-with-compressors/"><u>Best-Picks Instant Access: Compact WAV File Solutions with Compressors</u></a></li>
-<li><a href="https://media-tips.techidaily.com/complete-guide-the-ultimate-review-of-the-newest-dfx-audio-enhancer/"><u>Complete Guide: The Ultimate Review of the Newest DFX Audio Enhancer</u></a></li>
-<li><a href="https://media-tips.techidaily.com/complete-step-by-step-tutorial-creating-personalized-ringtones-with-itunes/"><u>Complete Step-by-Step Tutorial: Creating Personalized Ringtones with iTunes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-analysis-and-latest-insights-on-dfx-audio-enhancer-full-review-unveiled/"><u>Comprehensive Analysis and Latest Insights on DFX Audio Enhancer - Full Review Unveiled</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-analysis-of-2024-wavepad-sound-editor-advantages-limitations-and-key-functionalities/"><u>Comprehensive Analysis of 2024 WavePad Sound Editor: Advantages, Limitations, and Key Functionalities</u></a></li>
-<li><a href="https://media-tips.techidaily.com/editing-iphones-voice-memo-files-a-comprehensive-guide-with-inbuilt-and-external-software/"><u>Editing iPhone's Voice Memo Files: A Comprehensive Guide with Inbuilt and External Software</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortlessly-blend-tracks-with-these-3-easy-techniques-a-visual-guide/"><u>Effortlessly Blend Tracks with These 3 Easy Techniques: A Visual Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/elevating-video-content-the-ultimate-guide-to-integrating-audio-in-7-innovative-steps/"><u>Elevating Video Content: The Ultimate Guide to Integrating Audio in 7 Innovative Steps</u></a></li>
-<li><a href="https://media-tips.techidaily.com/essential-ac-3-encoding-utilities-top-software-every-audio-professional-needs/"><u>Essential AC-3 Encoding Utilities: Top Software Every Audio Professional Needs</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expert-analysis-top-picks-for-the-best-microwave-safe-mugs-reviews-included/"><u>Expert Analysis: Top Picks for the Best Microwave-Safe Mugs - Reviews Included</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expert-music-mixing-professionals-available-remotely/"><u>Expert Music Mixing Professionals Available Remotely</u></a></li>
-<li><a href="https://media-tips.techidaily.com/four-proven-strategies-to-minimize-audio-files-for-email-attachments/"><u>Four Proven Strategies to Minimize Audio Files for Email Attachments</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-guide-perfectly-formatting-and-uploading-your-mixtape-to-datpiff/"><u>Free Guide: Perfectly Formatting & Uploading Your Mixtape to DatPiff</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guide-crafting-custom-ringtone-sounds-from-messages-for-iosandroid-phones/"><u>Guide: Crafting Custom Ringtone Sounds From Messages for iOS/Android Phones</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-separate-melody-from-lyrics-explore-3-unique-techniques/"><u>How to Separate Melody From Lyrics: Explore 3 Unique Techniques</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-supercharge-your-low-fidelity-audio-tracks-a-comprehensive-guide-to-free-innovative-techniques-online-and-offline/"><u>How to Supercharge Your Low-Fidelity Audio Tracks: A Comprehensive Guide to Free, Innovative Techniques (Online and Offline)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-neo-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Neo Phone without Any Data Loss</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-y100t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo Y100t without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-charting-the-course-for-youtube-music-uploads/"><u>In 2024, Charting the Course for YouTube Music Uploads</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-discovering-5-standout-book-trailer-creations/"><u>In 2024, Discovering 5 Standout Book Trailer Creations</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-6-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 6 With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-pro-create-with-photoshops-radial-shadow-and-blur-features/"><u>In 2024, Pro Create with Photoshop's Radial Shadow & Blur Features</u></a></li>
-<li><a href="https://media-tips.techidaily.com/in-depth-analysis-of-twistedwave-insights-into-its-strengths-weaknesses-outstanding-features-and-usage-scenarios/"><u>In-Depth Analysis of TwistedWave: Insights Into Its Strengths, Weaknesses, Outstanding Features & Usage Scenarios</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-web-audio-optimization-tips-to-keep-top-notch-quality-intact-online/"><u>Mastering Web Audio Optimization: Tips to Keep Top-Notch Quality Intact Online</u></a></li>
-<li><a href="https://media-tips.techidaily.com/optimizing-audio-clarity-on-skype-proven-solutions-for-minimizing-ambient-sounds/"><u>Optimizing Audio Clarity on Skype: Proven Solutions for Minimizing Ambient Sounds</u></a></li>
-<li><a href="https://media-tips.techidaily.com/preserving-high-quality-sound-a-guide-to-perfectly-tuning-your-audio-content-for-the-web/"><u>Preserving High-Quality Sound: A Guide to Perfectly Tuning Your Audio Content for the Web</u></a></li>
-<li><a href="https://games-able.techidaily.com/sending-playful-packages-via-steam-titles/"><u>Sending Playful Packages via Steam Titles</u></a></li>
-<li><a href="https://media-tips.techidaily.com/shrink-your-sounds-expert-guide-to-minimize-audio-file-size-on-pcs-and-smartphones/"><u>Shrink Your Sounds: Expert Guide to Minimize Audio File Size on PCs & Smartphones</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simplifying-sound-the-basics-of-audio-compression-and-quick-guide-on-making-your-recordings-tighter/"><u>Simplifying Sound: The Basics of Audio Compression & Quick Guide on Making Your Recordings Tighter</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-for-reducing-powerpoint-files-with-audios-standard-procedures-and-various-alternates/"><u>Step-by-Step Guide for Reducing PowerPoint Files with Audios: Standard Procedures and Various Alternates</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-secure-fee-less-datpiff-upload-of-your-custom-mixtape/"><u>Step-by-Step Tutorial: Secure, Fee-Less DatPiff Upload of Your Custom Mixtape</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-cutting-out-extra-sounds-in-your-tiktok-videos/"><u>The Ultimate Guide to Cutting Out Extra Sounds in Your TikTok Videos</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-tutorial-on-producing-quality-sound-effects-for-viral-tiktok-videos/"><u>The Ultimate Tutorial on Producing Quality Sound Effects for Viral TikTok Videos</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-10-audio-trimming-tools-compatible-with-all-devices-windows-mac-ios-and-android/"><u>Top 10 Audio Trimming Tools Compatible with All Devices: Windows, Mac, iOS & Android</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-30-leading-music-editing-programs-of-2024-your-ultimate-guide/"><u>Top 30 Leading Music Editing Programs of 2024: Your Ultimate Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-4-essential-ogg-audio-compressors-the-must-have-tools-for-quality-sound/"><u>Top 4 Essential Ogg Audio Compressors: The Must-Have Tools for Quality Sound</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-choice-tools-for-efficiently-compressing-wav-files-made-available-now/"><u>Top Choice Tools for Efficiently Compressing WAV Files Made Available Now</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-methods-for-optimizing-and-reducing-size-of-onlinedesktop-ogg-media/"><u>Top Methods for Optimizing and Reducing Size of Online/Desktop Ogg Media</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-perfecting-audio-file-compression-techniques-in-itunes/"><u>Ultimate Guide: Perfecting Audio File Compression Techniques in iTunes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unbiased-evaluation-of-audacity-why-it-stands-out-in-sound-recording-tools-market/"><u>Unbiased Evaluation of Audacity: Why It Stands Out in Sound Recording Tools Market</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-sailing-the-streaming-seas-navigate-youtubes-numbers-for-profitability-and-popularity/"><u>[New] In 2024, Sailing the Streaming Seas Navigate YouTube's Numbers for Profitability & Popularity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boosting-online-videography-with-key-tools/"><u>[Updated] Boosting Online Videography with Key Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-correct-facebook-status-update-delays/"><u>[Updated] Correct Facebook Status Update Delays</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-ipad-models-ipad-mini-versus-ipad-air-key-features-and-distinctions/"><u>Comparing iPad Models: IPad Mini Versus iPad Air – Key Features and Distinctions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-reduce-buffering-and-lag-turn-on-av1-in-youtube-settings/"><u>In 2024, Reduce Buffering & Lag - Turn On AV1 in YouTube Settings</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a2-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo A2 FRP</u></a></li>
+<li><a href="https://media-tips.techidaily.com/leveraging-artificial-intelligence-on-youtube-for-enhanced-video-viewing-experience/"><u>Leveraging Artificial Intelligence on YouTube for Enhanced Video Viewing Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maximize-entertainment-with-just-10-exclusive-offer-for-verizon-subscribers-stream-netflix-and-more/"><u>Maximize Entertainment with Just $10: Exclusive Offer for Verizon Subscribers - Stream Netflix & More!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maximize-your-gridiron-experience-with-these-5-key-streamers-for-the-entire-nfl-season/"><u>Maximize Your Gridiron Experience with These 5 Key Streamers for the Entire NFL Season</u></a></li>
+<li><a href="https://media-tips.techidaily.com/nfl-game-pass-subscribers-rejoice-youtube-tv-slashes-prices-by-50/"><u>NFL Game Pass Subscribers Rejoice: YouTube TV Slashes Prices by 50%!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/paramountplus-announces-regular-price-increases-what-subscribers-need-to-know/"><u>Paramount+ Announces Regular Price Increases: What Subscribers Need to Know</u></a></li>
+<li><a href="https://media-tips.techidaily.com/predicting-the-unknown-through-melodies-discover-your-future-on-spotifys-playlist-oracle/"><u>Predicting the Unknown Through Melodies: Discover Your Future on Spotify's Playlist Oracle</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unraveling-the-top-9-free-video-logo-creation-software-list/"><u>Unraveling The Top 9 Free Video Logo Creation Software List</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

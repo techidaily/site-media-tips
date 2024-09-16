@@ -1,7 +1,7 @@
 ---
 title: Effective Methods to Exit Programs on Your Google Smart Television
-date: 2024-09-10T10:30:13.559Z
-updated: 2024-09-11T10:30:13.559Z
+date: 2024-09-10T16:04:56.543Z
+updated: 2024-09-16T16:12:41.342Z
 tags:
   - streaming
 categories:
@@ -9,35 +9,7 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/03/853aa658.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Effective Methods to Exit Programs on Your Google Smart Television
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -52,39 +24,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Google TV settings icon on Sony TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/google-tv-settings-icon.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Cory Gunther / How-To Geek
 
  In Settings, scroll down and select "Apps," which will then show your recently opened Google TV apps. (Or, click "See All Apps" to find the one you'd like to close.)
 
 ![Google TV apps in settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/google-tv-apps-settings.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Cory Gunther / How-To Geek
 
@@ -92,39 +36,11 @@ Cory Gunther / How-To Geek
 
 ![Google TV all apps list in settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/google-tv-all-apps-list.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Cory Gunther / How-To Geek
 
  The Google TV app has now been closed. Repeat these steps for any recently opened apps.
 
 ![Google TV force stop to close an app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/google-tv-close-stop-app.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Cory Gunther / How-To Geek
 
@@ -140,8 +56,6 @@ Cory Gunther / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,57 +65,23 @@ Cory Gunther / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://media-tips.techidaily.com/1723620226617-yeh-jawaani-hai-deewani-watch-with-top-rated-english-subtitles-online-now/"><u>'Yeh Jawaani Hai Deewani': Watch With Top-Rated English Subtitles Online Now</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mov-file-management-made-simple-on-windows-10/"><u>[New] In 2024, .mov File Management Made Simple on Windows 10</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-trending-upwards-todays-most-effective-instagram-tags/"><u>[New] In 2024, Trending Upwards  Today's Most Effective Instagram Tags</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flawless-soundscape-secrets-to-high-resolution-audio-recording/"><u>[Updated] 2024 Approved  Flawless Soundscape  Secrets to High-Resolution Audio Recording</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-facebook-video-marketing-top-20-strategies-to-watch-for-2024/"><u>[Updated] Facebook Video Marketing  Top 20 Strategies to Watch for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-simplified-guide-to-creating-movies-in-windows-8-movie-maker/"><u>[Updated] Simplified Guide to Creating Movies in Windows 8 Movie Maker</u></a></li>
-<li><a href="https://article-tips.techidaily.com/a-guide-to-perfect-portraits-with-background-blur/"><u>A Guide to Perfect Portraits with Background Blur</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/apex-legends-solo-play-tips-and-platform-preference-guide-for-2024/"><u>Apex Legends Solo Play Tips & Platform Preference Guide for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-5-tools-to-convert-video-from-avi-to-mp4-format-on-mac-and-pc/"><u>Best 5 Tools to Convert Video From AVI to MP4 Format on Mac & PC</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-free-and-paid-applications-convert-mxf-video-to-uncompressed-wav-audio-without-quality-compromise/"><u>Best Free and Paid Applications: Convert MXF Video to Uncompressed WAV Audio Without Quality Compromise</u></a></li>
-<li><a href="https://media-tips.techidaily.com/complete-tutorial-easily-convert-mxf-to-compatible-clips-for-imovie-on-mac-using-top-rated-mxf-conversion-software/"><u>Complete Tutorial: Easily Convert MXF to Compatible Clips for iMovie on Mac Using Top-Rated MXF Conversion Software</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-mkv-files-instantly-and-flawlessly-to-wmv-format-at-no-cost/"><u>Convert MKV Files Instantly & Flawlessly to WMV Format at No Cost</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-rmvb-videos-effortlessly-to-mp4-the-new-and-improved-methods/"><u>Convert RMVB Videos Effortlessly to MP4 - The New and Improved Methods</u></a></li>
-<li><a href="https://media-tips.techidaily.com/converting-h2n-codec-to-mp4-a-guide-through-5-different-strategies/"><u>Converting H.2n Codec to MP4: A Guide Through 5 Different Strategies</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-guide-converting-hd-videos-down-to-standard-definition-sd/"><u>Easy Guide: Converting HD Videos Down to Standard Definition (SD)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-instructions-on-transforming-your-avi-videos-to-xvid-compatibility/"><u>Easy Instructions on Transforming Your AVI Videos to Xvid Compatibility</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-steps-transform-videos-into-ipad-compatible-formats/"><u>Easy Steps: Transform Videos Into iPad-Compatible Formats</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620232609-effortlessly-change-mxf-to-mp4-with-our-easy-cost-free-techniques-go-digital/"><u>Effortlessly Change MXF to MP4 with Our Easy, Cost-Free Techniques - Go Digital!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elite-fighters-unleashed-selecting-superior-street-fighter-clones/"><u>Elite Fighters Unleashed  Selecting Superior Street Fighter Clones</u></a></li>
-<li><a href="https://media-tips.techidaily.com/explore-the-leading-alternatives-to-formattable-filesystems-in-macos-and-windows-1011-a-comprehensive-guide/"><u>Explore the Leading Alternatives to Formattable Filesystems in macOS and Windows 10/11: A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exploring-the-basics-of-mp4-format-tutorials-for-easy-opening-and-enjoyment/"><u>Exploring the Basics of MP4 Format: Tutorials for Easy Opening & Enjoyment</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fastest-ways-convert-dat-files-into-mp4-format-with-top-3-reliable-tools/"><u>Fastest Ways: Convert DAT Files Into MP4 Format with Top 3 Reliable Tools</u></a></li>
-<li><a href="https://media-tips.techidaily.com/hassle-free-methods-for-changing-mts-video-to-wmv-with-simple-steps/"><u>Hassle-Free Methods for Changing MTS Video to WMV with Simple Steps</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-effortlessly-change-wmv-video-format-to-flv-discover-the-best-6-strategies/"><u>How To Effortlessly Change WMV Video Format to FLV: Discover The Best 6 Strategies</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-quickly-activate-subtitles-in-your-plex-media-player/"><u>How to Quickly Activate Subtitles in Your Plex Media Player</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/how-to-screen-record-on-ipad-more-easily/"><u>How to Screen Record on iPad More Easily?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nubia-z50-ultra-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nubia Z50 Ultra Unlock Without Password</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-components-to-creativity-designing-your-own-4k-editor-pc/"><u>In 2024, From Components to Creativity  Designing Your Own 4K Editor PC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-art-of-recording-expert-strategies-for-vr-gameplay-preservation/"><u>In 2024, The Art of Recording  Expert Strategies for VR Gameplay Preservation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-understanding-image-validity-on-insta/"><u>In 2024, Understanding Image Validity on Insta</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagrams-video-chatting-compendium-for-2024/"><u>Instagram's Video Chatting Compendium for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/is-meta-ai-a-step-forward-or-back-for-social-networks/"><u>Is Meta AI a Step Forward or Back for Social Networks?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/modern-compatible-swf-to-mp4-transformation-tools-find-the-optimal-converter/"><u>Modern-Compatible SWF to MP4 Transformation Tools - Find the Optimal Converter!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/preserve-clarity-when-switching-from-mov-to-wmv-discover-the-best-5-toolkits-for-flawless-format-change/"><u>Preserve Clarity When Switching From MOV to WMV: Discover the Best 5 Toolkits for Flawless Format Change</u></a></li>
-<li><a href="https://media-tips.techidaily.com/preserve-precision-with-easy-avchd-to-avi-conversion-follow-these-simple-steps/"><u>Preserve Precision with Easy AVCHD to AVI Conversion – Follow These Simple Steps</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-simple-methods-converting-mts-video-format-to-mp4-on-pc-and-mac/"><u>Quick & Simple Methods: Converting MTS Video Format to MP4 on PC and Mac</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-easy-steps-making-your-avi-files-compatible-with-ipad-devices/"><u>Quick and Easy Steps: Making Your AVI Files Compatible with iPad Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-guide-speedy-conversion-of-videos-to-galaxy-tablet-format/"><u>Quick Guide: Speedy Conversion of Videos to Galaxy Tablet Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-steps-converting-video-object-files-vob-into-transport-streams-ts/"><u>Simple Steps: Converting Video Object Files (VOB) Into Transport Streams (TS)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-steps-how-to-effortlessly-transform-your-hd-videos-into-perfectly-playable-formats-for-psp-using-a-specialized-video-converter/"><u>Simple Steps: How to Effortlessly Transform Your HD Videos Into Perfectly Playable Formats for PSP Using a Specialized Video Converter</u></a></li>
-<li><a href="https://media-tips.techidaily.com/speedy-transformation-from-mxf-to-hd-mkv-video-format-for-enhanced-clarity/"><u>Speedy Transformation From MXF to HD MKV Video Format for Enhanced Clarity</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-wmv-files-to-mp4-format-on-your-kindle-fire/"><u>Step-by-Step Guide: Converting WMV Files to MP4 Format on Your Kindle Fire</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-converting-your-video-clips-to-mp4-via-vlc-media-player/"><u>Step-by-Step Tutorial on Converting Your Video Clips to MP4 via VLC Media Player</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-mobvoi-ticwatch-e2-on-a-budget-is-it-really-cheap-enough-to-ignore-its-flaws/"><u>The Mobvoi TicWatch E2 on a Budget - Is It Really Cheap Enough to Ignore Its Flaws?</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-transition-from-xbox-live-gold-to-game-pass-core-explained/"><u>The Transition From Xbox Live Gold to Game Pass Core Explained</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-methods-for-converting-wtv-files-into-avi-format-a-comprehensive-guide/"><u>Top Methods for Converting WTV Files Into AVI Format: A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-your-videos-effortlessly-learn-how-to-switch-from-flip-mp4-to-mov-or-wmv-formats/"><u>Transform Your Videos Effortlessly: Learn How to Switch From Flip MP4 to MOV or WMV Formats</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-your-vob-files-into-modern-formats-with-our-expert-mac-video-converter/"><u>Transform Your VOB Files Into Modern Formats with Our Expert Mac Video Converter</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-tips-fixing-instagram-video-upload-problems/"><u>Troubleshooting Tips: Fixing Instagram Video Upload Problems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-how-to-transfer-and-convert-movies-for-playstation-portable-psp/"><u>Ultimate Guide: How to Transfer and Convert Movies for PlayStation Portable (PSP)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ultimate-mac-screen-recorder-solutions-beyond-bandicam-for-2024/"><u>Ultimate Mac Screen Recorder Solutions Beyond Bandicam for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-youtube-videos-to-english-subtitles-for-2024/"><u>Updated How to Translate YouTube Videos to English Subtitles for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/watching-media-content-enabling-kindle-fire-apps-on-macos-devices/"><u>Watching Media Content: Enabling Kindle Fire Apps on macOS Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-strategic-use-of-instagram-story-sections-for-brands/"><u>[New] 2024 Approved The Strategic Use of Instagram Story Sections for Brands</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-step-by-step-full-screen-preview-in-premiere/"><u>[New] In 2024, Step-by-Step Full Screen Preview in Premiere</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-premier-hd-theater-experience-best-players-list/"><u>[New] Premier HD Theater Experience - Best Players List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-vidvault-screen-recording-review-for-2efficiency-seekers/"><u>[Updated] In 2024, 'VidVault' Screen Recording Review for 2Efficiency Seekers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/experience-premium-sound-quality-at-an-affordable-cost-with-tidals-enhanced-hifi-music-service/"><u>Experience Premium Sound Quality at an Affordable Cost with Tidal’s Enhanced HiFi Music Service</u></a></li>
+<li><a href="https://media-tips.techidaily.com/explore-hisenses-latest-tech-a-compact-4k-dolby-vision-projector-revolution/"><u>Explore Hisense's Latest Tech: A Compact 4K Dolby Vision Projector Revolution</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exposed-how-password-reuse-endangers-over-15k-devices-on-roku-platform/"><u>Exposed: How Password Reuse Endangers Over 15K Devices on Roku Platform</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-audible-books-access-on-spotify-for-us-elite-memberships/"><u>Free Audible Books Access on Spotify for US Elite Memberships</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-stunning-slideshow-for-social-sharing/"><u>In 2024, Stunning Slideshow for Social Sharing</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-chatgpt-in-2024/"><u>New What Is ChatGPT, In 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-user-manual-unlock-the-full-potential-of-your-seagate-backup-plus-with-pro-tips/"><u>Ultimate User Manual: Unlock the Full Potential of Your Seagate Backup Plus with Pro Tips</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Transforming an Old MacBook Into an Ultimate Plex Media Server - Beyond Impressive Results!
-date: 2024-09-10T10:30:15.289Z
-updated: 2024-09-11T10:30:15.289Z
+date: 2024-09-13T16:06:43.257Z
+updated: 2024-09-16T16:05:19.729Z
 tags:
   - streaming
 categories:
@@ -9,41 +9,7 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-broken-macbook-with-plex-logo-in-the-background.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Transforming an Old MacBook Into an Ultimate Plex Media Server - Beyond Impressive Results!
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -53,39 +19,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Plex is a great way to make your personal media library available to all devices on your local network, but for a laptop user like me it's hard to have a Plex server that's always plugged in. Until I ended up with a MacBook that's just broken enough for the job.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  A Mac Too Expensive to Fix, but Too Valuable to Throw Away
 
  My daily driver is an [M1 MacBook Air](https://facebook-video-share.techidaily.com/new-2024-approved-discover-the-best-tools-and-tips-to-accurately-tag-your-videos/) which I dock to a desk setup most of the time, and grab to take with me when needed. My wife had an M1 MacBook Pro, but sadly the Touch Bar started freaking out and flashing constantly about one month after the warranty expired. Our local iStore informed me that it would cost an eye-watering $400 to fix this issue since, like so many things, this repair needs a top-case replacement.
 
  Without the top row of "keys" and that annoying, eye-searing flashing, the MacBook Pro is effectively unusable as a laptop, and not worth the money to fix. Otherwise, it's in perfect condition and still a cracking little computer. So I decided I'd hook it up permanently, and turn it into (among other things) our Plex server.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Setting Up Plex and Drives Was Easy
 
@@ -93,19 +31,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I have a dual-port USB-C dock connected to the Mac, which is in turn connected to a Dell monitor with a built-in USB hub, and that's what my media drive is connected to. One way or another, I recommend a powered USB hub rather than running the drives from the MacBook's internal power, since even one big drive might put too much strain on the little guy as a permanently-connected media drive.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Zero Performance Issues
 
@@ -113,19 +44,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The M1 has four performance cores and four efficiency cores, and this model has 8GB of RAM and a 512GB SSD. I tried watching multiple 4K streams on different devices, and it went off without a hitch. So far I haven't found a way to make the little MacBook choke, so I can only imagine that any Apple Silicon Mac would be simply great at this job. Like an M1 Mac Mini that you pick up used for a bargain, perhaps.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  It’s My New Desktop Mac Too!
 
@@ -139,8 +63,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,41 +72,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cut-buffering-time-turn-on-av1-in-youtube-settings/"><u>[New] 2024 Approved  Cut Buffering Time – Turn On AV1 in YouTube Settings</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-essential-photographic-tool-dynamic-wallpaper-editor/"><u>[New] 2024 Approved  Essential Photographic Tool  Dynamic Wallpaper Editor</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-screen-recording-faceoff-bandicam-versus-camtasiaenas-for-2024/"><u>[New] The Screen Recording Faceoff  Bandicam Versus Camtasia'enas for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-marketing-playbook-for-digital-beginners-on-reddit/"><u>[Updated] The Ultimate Marketing Playbook for Digital Beginners on Reddit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-ways-to-open-the-remote-desktop-connection-tool-in-windows-11/"><u>10 Ways to Open the Remote Desktop Connection Tool in Windows 11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/arsenal-of-classics-top-7-precision-games/"><u>Arsenal of Classics  Top 7 Precision Games</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-top-5-dvd-ripper-tools-convert-your-movies-from-dvd-to-flv-on-windows-and-macos/"><u>Best Top 5 DVD Ripper Tools: Convert Your Movies From DVD to FLV on Windows and macOS</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comparing-h264-and-h265-a-detailed-guide-on-optimal-video-encoding-choices/"><u>Comparing H.264 And H.265: A Detailed Guide on Optimal Video Encoding Choices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-breakdown-of-avi-file-type-key-facts-and-features-explained/"><u>Comprehensive Breakdown of AVI File Type: Key Facts & Features Explained</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-your-mp4-files-to-vob-for-free-tips-and-tricks-for-both-online-and-offline-methods/"><u>Convert Your MP4 Files to VOB for Free - Tips and Tricks for Both Online and Offline Methods</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-conversion-techniques-for-wmv-to-mp4-videos-making-them-playable-on-apple-devices-using-a-mac/"><u>Easy Conversion Techniques for WMV to MP4 Videos - Making Them Playable on Apple Devices Using a Mac</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-htc-u23-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from HTC U23.</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-avchd-to-mp4-transformation-techniques-for-optimizing-kindle-fire-viewing-experience/"><u>Effortless AVCHD to MP4 Transformation Techniques for Optimizing Kindle Fire Viewing Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-conversion-techniques-from-avi-to-wma-without-compromising-quality/"><u>Effortless Conversion Techniques From AVI to WMA Without Compromising Quality</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-itel-p55plus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Itel P55+ Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-aiseesofts-quick-sync-intelligent-species-conversion-techniques/"><u>Mastering Aiseesoft's Quick Sync: Intelligent Species Conversion Techniques</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-ipod-video-compatibility-essential-info-for-optimal-viewing-experience/"><u>Mastering iPod Video Compatibility: Essential Info for Optimal Viewing Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mod-to-ipad-2-format-ultimate-ipad-2-video-converter-guide/"><u>MOD to iPad 2 Format: Ultimate IPAD 2 Video Converter Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/premier-film-selection-available-on-disneyplus-this-moment/"><u>Premier Film Selection Available on Disney+ This Moment</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-foolproof-guide-to-editing-high-definition-movies-into-psp-compatible-versions-with-the-latest-video-conversion-tool/"><u>Quick and Foolproof Guide to Editing High-Definition Movies Into PSP Compatible Versions with the Latest Video Conversion Tool</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamlessly-adapt-avi-videos-for-your-ipad-2-with-our-expert-video-conversion-tool/"><u>Seamlessly Adapt AVI Videos for Your iPad 2 with Our Expert Video Conversion Tool</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-speedster-breakdown-honoring-the-legacy-of-voron/"><u>Sovol SV08 Speedster Breakdown: Honoring the Legacy of Voron</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-flv-videos-to-compatible-formats/"><u>Step-by-Step Guide: Converting FLV Videos to Compatible Formats</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-tecno-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Tecno FRP</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-how-to-adapt-video-content-for-kindle-ereaders-with-macos/"><u>Step-by-Step Tutorial: How to Adapt Video Content for Kindle eReaders with macOS</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-top-free-video-to-gif-conversion-software-11-picks/"><u>The Ultimate Guide to Top Free Video-to-GIF Conversion Software (11 Picks)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-transforming-wmv-files-into-gifs-essential-tips/"><u>The Ultimate Guide: Transforming WMV Files Into GIFs - Essential Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/time-taken-for-a-20mb-video-playback/"><u>Time Taken for a 20MB Video Playback</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-magic-v2-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor Magic V2 Phones</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-superior-substitutes-to-fat32-on-macos-and-windows-1011/"><u>Top 5 Superior Substitutes to FAT32 on macOS & Windows 10/11</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transforming-avi-videos-to-compatible-mp4-playback-on-amazon-kindle-fire-devices/"><u>Transforming AVI Videos to Compatible MP4 Playback on Amazon Kindle Fire Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/understanding-mp4-files-a-comprehensive-guide-on-opening-and-playback/"><u>Understanding MP4 Files: A Comprehensive Guide on Opening & Playback</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-openais-shap-e-how-does-it-work-and-what-functions-offer/"><u>Understanding OpenAI's SHAP-E: How Does It Work and What Functions Offer?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/video-transformation-tool-edit-and-adapt-movies-for-your-handheld-device-compatible-with-pdas/"><u>Video Transformation Tool: Edit and Adapt Movies for Your Handheld Device Compatible with PDAs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-precious-playtimes-kids-fun-and-games-anthology-for-2024/"><u>[New] Precious Playtimes Kids' Fun & Games Anthology for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeos-video-segments-the-chapter-creation-handbook/"><u>[Updated] In 2024, Vimeo's Video Segments The Chapter Creation Handbook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-websites-for-3d-graffiti-fonts/"><u>2024 Approved Top 8 Websites for 3D Graffiti Fonts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/broadcasting-in-the-olympics-how-and-where-to-find-unlisted-live-streams/"><u>Broadcasting in the Olympics: How and Where to Find Unlisted Live Streams</u></a></li>
+<li><a href="https://media-tips.techidaily.com/capture-more-content-than-ever-before-discover-tablos-latest-ota-dvr-featuring-robust-8tb-storage-options/"><u>Capture More Content Than Ever Before: Discover Tablo's Latest OTA DVR Featuring Robust 8TB Storage Options</u></a></li>
+<li><a href="https://media-tips.techidaily.com/catch-every-weeks-monday-night-matchup-at-no-charge-discover-your-viewing-choices-for-free/"><u>Catch Every Week's Monday Night Matchup at No Charge - Discover Your Viewing Choices for Free!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/despite-its-age-apple-tvplus-remains-deficient-in-key-capabilities-compared-to-competitors/"><u>Despite Its Age, Apple TV+ Remains Deficient in Key Capabilities Compared to Competitors</u></a></li>
+<li><a href="https://media-tips.techidaily.com/digital-content-crisis-at-funimation-sudden-shutdown-leads-to-user-library-deletions/"><u>Digital Content Crisis at Funimation: Sudden Shutdown Leads to User Library Deletions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-x9b-frp-by-drfone-android/"><u>Full Guide to Bypass Honor X9b FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-cut-outs-on-logitech-wireless-headphones-g930-model/"><u>Troubleshooting Cut Outs on Logitech Wireless Headphones (G930 Model)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-art-of-audio-blend-with-audacity-techniques-for-2024/"><u>Unveiling the Art of Audio Blend with Audacity Techniques for 2024</u></a></li>
 </ul></div>
+
