@@ -1,7 +1,7 @@
 ---
 title: "The Unplanned Shift: Embracing Vinyls & DVDs After Major Internet Blackouts Sparked My Passion for Physical Media"
-date: 2024-09-11T16:16:37.376Z
-updated: 2024-09-16T16:21:09.069Z
+date: 2024-09-15T17:05:52.613Z
+updated: 2024-09-21T16:42:02.957Z
 tags:
   - streaming
 categories:
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
  This also affects my gaming consoles and plenty of services on my PC and Mac. Most of my data is stored in the cloud, even some stuff that I thought was stored locally is sometimes offloaded automatically to the cloud and I only realize that when I try to open it when the internet is down.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don’t Get Too Comfortable
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
 
  It doesn't even have to be an outlier event. Some people go on holiday or have second homes in rural areas where there will be no internet. Keeping a few Blu-Rays at your holiday home in a rural area just makes sense.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  My Rainy Day Collection Is Growing
 
 ![A small movie collection comprised of DVDs and Blu Ray discs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240520_102047.jpg) 
@@ -54,13 +61,6 @@ Sydney Louw Butler / How-To Geek
  In many ways, this is the absolute best time to start collecting DVDs, Blu-rays, and other offline physical media. Since online streaming has put such a damper on the physical market, pushing down demand, prices have taken a tumble too. We're talking DVD box sets for less than ten bucks, and Blu-ray movies for a dollar or two a piece. If you paid $100 today, you could probably buy enough offline entertainment to last you a week with no internet.
 
 ![A DVD and Blu Ray Collection with books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dvd-and-blu-ray-collection.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -85,15 +85,19 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-quick-guide-merging-igtv-with-instagram-stories-for-2024/"><u>[New] Quick Guide Merging IGTV with Instagram Stories for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unveiling-the-top-text-styling-portals-for-creatives/"><u>[Updated] In 2024, Unveiling the Top Text Styling Portals for Creatives</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-optimal-and-economical-selecting-the-top-free-webm-playback-options-for-2024/"><u>[Updated] Optimal and Economical Selecting the Top Free WebM Playback Options for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capture-every-moment-the-power-of-spring-screenrecorder/"><u>Capture Every Moment - The Power of Spring ScreenRecorder</u></a></li>
-<li><a href="https://media-tips.techidaily.com/deteriorating-conditions-how-t-mobiles-included-netflix-faces-setbacks-with-certain-subscribers/"><u>Deteriorating Conditions: How T-Mobile's Included Netflix Faces Setbacks with Certain Subscribers</u></a></li>
-<li><a href="https://media-tips.techidaily.com/disabling-adult-songs-and-playlists-on-spotify-a-comprehensive-guide/"><u>Disabling Adult Songs and Playlists on Spotify - A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-safest-lawful-platforms-for-watching-movies-for-free-a-comprehensive-list-of-top-picks/"><u>Discover the Safest, Lawful Platforms for Watching Movies for Free: A Comprehensive List of Top Picks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-premium-iphone-organizer-at-no-cost-optimize-and-securely-back-up-your-device/"><u>Download Premium iPhone Organizer at No Cost – Optimize and Securely Back Up Your Device</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-12-mini-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone 12 mini</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-sony-xperia-10-v-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Sony Xperia 10 V Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-video-decks-smart-description-templates/"><u>[Updated] Elevate Video Decks Smart Description Templates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pictureweaversierra-blending-apple-media-artfully/"><u>[Updated] PictureWeaverSierra Blending Apple Media Artfully</u></a></li>
+<li><a href="https://media-tips.techidaily.com/apple-tvpluss-exceptional-media-offerings-suffer-due-to-unconventional-advertising-approaches/"><u>Apple TV+'s Exceptional Media Offerings Suffer Due to Unconventional Advertising Approaches</u></a></li>
+<li><a href="https://media-tips.techidaily.com/avoiding-costly-pitfalls-how-your-fire-tv-can-mislead-on-freebie-apps/"><u>Avoiding Costly Pitfalls: How Your Fire TV Can Mislead on Freebie Apps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/brace-yourself-for-increased-interruptions-amazons-plan-to-boost-prime-video-advertising/"><u>Brace Yourself for Increased Interruptions - Amazon's Plan to Boost Prime Video Advertising!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/bypassing-unwanted-endorsements-a-guide-to-removing-beer-brands-and-casino-ads-from-your-youtube-feed/"><u>Bypassing Unwanted Endorsements: A Guide to Removing Beer Brands and Casino Ads From Your YouTube Feed</u></a></li>
+<li><a href="https://media-tips.techidaily.com/catch-the-roku-craze-exclusive-discounts-on-smart-tvsstreaming-gadgets-for-labor-day-weekend/"><u>Catch the Roku Craze: Exclusive Discounts on Smart TVs/Streaming Gadgets for Labor Day Weekend!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/connect-with-cinema-buffs-anywhere-why-letterboxd-is-essential-social-platform-for-cinephiles/"><u>Connect with Cinema Buffs Anywhere: Why Letterboxd Is Essential Social Platform for Cinephiles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dev-error-6634-troubleshooting-guide-ultimate-solution-for-fortnite-warzone/"><u>Dev Error 6634 Troubleshooting Guide: Ultimate Solution for Fortnite Warzone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-iphone-camera-settings-simplified-for-2024/"><u>Expert iPhone Camera Settings Simplified for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hassle-free-remedies-to-get-past-windows-updates-stagnation-at-no-progress/"><u>Hassle-Free Remedies to Get Past Windows Update's Stagnation at No Progress</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-13-pro-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 13 Pro or iPad?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-breakdown-of-blue-screen-error-codes-and-their-implications-bsod-explained/"><u>The Essential Breakdown of Blue Screen Error Codes and Their Implications (BSOD Explained)</u></a></li>
 </ul></div>
 

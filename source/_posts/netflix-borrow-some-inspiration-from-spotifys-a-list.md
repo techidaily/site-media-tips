@@ -1,7 +1,7 @@
 ---
 title: Netflix, Borrow Some Inspiration From Spotify's A-List!
-date: 2024-09-15T16:06:25.044Z
-updated: 2024-09-16T16:11:38.535Z
+date: 2024-09-17T16:00:48.429Z
+updated: 2024-09-21T16:53:29.173Z
 tags:
   - streaming
 categories:
@@ -40,10 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Netflix, add a shuffle button where it makes sense. Put a shuffle button on the pages for TV series. Serve me up a random episode of a specific show, not just any random show. I mean, Spotify doesn’t put a shuffle button on its entire library. The shuffle button is used for albums and playlists—its use is narrower.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Access to More Data For a Richer Experience
@@ -55,10 +55,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Based on Google searches and anecdotal evidence from talking with other people, it’s clear everyone is looking for more information about shows and movies. Netflix, don’t make people leave the site or app to get that info. Let us tap into that curiosity on your turf.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  We Need More Features (If You’re Going to Keep Raising Prices)
@@ -82,20 +82,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-pretending-playfulness-making-mocks-and-laughs-for-2024/"><u>[Updated] Pretending Playfulness Making Mocks and Laughs for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-trends-in-advanced-iptv-video-capture-methods-for-2024/"><u>[Updated] Trends in Advanced IPTV Video Capture Methods for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-video-making-smartphones-announced-here/"><u>2024 Approved Best Video-Making Smartphones Announced Here</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-leading-graphics-for-high-res-media-creation/"><u>2024 Approved Leading Graphics for High Res Media Creation</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-players-perspective-why-portable-consoles-win-for-me-in-gaming/"><u>A Player's Perspective: Why Portable Consoles Win for Me in Gaming</u></a></li>
-<li><a href="https://fox-info.techidaily.com/blurry-looks-simple-ways-to-hide-identities-in-pictures-for-2024/"><u>Blurry Looks Simple Ways to Hide Identities in Pictures for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-12-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus 12 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone XS Max</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-razr-40-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Razr 40 Phone FRP Lock</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-youtube-comment-formatting-tips-for-cross-out-bolding-and-italicizing-text/"><u>Mastering YouTube Comment Formatting: Tips for Cross-Out, Bolding, and Italicizing Text</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maxs-exclusive-offer-invest-in-premium-quality-with-enhanced-4k-experience/"><u>Max's Exclusive Offer: Invest in Premium Quality with Enhanced 4K Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/new-update-allows-users-to-turn-off-plexs-automatic-two-hour-streaming-limit/"><u>New Update Allows Users to Turn Off Plex's Automatic Two-Hour Streaming Limit</u></a></li>
-<li><a href="https://media-tips.techidaily.com/new-update-fire-tv-introduces-advertising-in-its-ambient-theme-screen-saver-feature/"><u>New Update: Fire TV Introduces Advertising in Its Ambient Theme Screen Saver Feature</u></a></li>
-<li><a href="https://media-tips.techidaily.com/plex-announces-launch-of-new-video-rental-service-in-current-year/"><u>Plex Announces Launch of New Video Rental Service in [Current Year]</u></a></li>
-<li><a href="https://media-tips.techidaily.com/price-surge-announced-by-peacock-ahead-of-upcoming-summer-olympic-games/"><u>Price Surge Announced by Peacock Ahead of Upcoming Summer Olympic Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-warriors-pantheon-valhalla-rebirth/"><u>[New] Warriors' Pantheon Valhalla Rebirth</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-mastering-360-video-making-with-ios-devices/"><u>[Updated] In 2024, Mastering 360 Video Making with iOS Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-sharexs-competitors-unveiled/"><u>2024 Approved ShareX's Competitors Unveiled</u></a></li>
+<li><a href="https://media-tips.techidaily.com/even-after-half-a-decade-apple-tvplus-lacks-crucial-functions-viewers-expect/"><u>Even After Half a Decade, Apple TV+ Lacks Crucial Functions Viewers Expect</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/examining-the-capabilities-of-the-gigabyte-g6x-solid-for-gamers-lacks-unique-traits/"><u>Examining the Capabilities of the Gigabyte G6X - Solid for Gamers, Lacks Unique Traits</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exclusive-look-espn-unveils-innovative-sports-live-streaming-platform-at-just-4299month/"><u>Exclusive Look: ESPN Unveils Innovative Sports Live Streaming Platform at Just $42.99/Month</u></a></li>
+<li><a href="https://media-tips.techidaily.com/expand-your-viewing-party-with-hulu-double-the-fun-with-disneys-new-sharing-plan/"><u>Expand Your Viewing Party with Hulu - Double the Fun with Disney's New Sharing Plan!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-using-gifs-in-instagram-comments-like-a-pro/"><u>The Ultimate Guide: Using GIFs in Instagram Comments Like a Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-crashes-in-ni-no-musume-2-full-version/"><u>Troubleshooting Steps for Fixing Crashes in Ni No Musume 2 Full Version</u></a></li>
 </ul></div>
 

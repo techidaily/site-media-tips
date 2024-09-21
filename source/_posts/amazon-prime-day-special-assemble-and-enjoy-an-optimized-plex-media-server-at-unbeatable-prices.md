@@ -1,7 +1,7 @@
 ---
 title: "Amazon Prime Day Special: Assemble & Enjoy an Optimized Plex Media Server at Unbeatable Prices"
-date: 2024-09-09T16:07:30.256Z
-updated: 2024-09-16T16:06:33.535Z
+date: 2024-09-19T16:01:20.491Z
+updated: 2024-09-21T16:55:27.126Z
 tags:
   - streaming
 categories:
@@ -84,15 +84,28 @@ Seagate's IronWolf HDD offers a durable, server-ready construction and includes 
 
 [$170 at Amazon](https://amazon.com/dp/B084ZV4DXB?tag=htgprimedaysite-20) [See at adorama](https://www.adorama.com/set8000vn004.html) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Deals on Useful Accessories
 
 ![A Netgear 5-port Network Switch with an Ethernet cable attached.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/c17243d1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Corbin Davenport / Review Geek_
@@ -108,19 +121,6 @@ _Corbin Davenport / Review Geek_
  Any NAS device that you buy _should_ come with an Ethernet cable, though this isn't guaranteed. An Ethernet switch simply adds more ports to the back of your router.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/tp-link-switch-thumbnail.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  TP-Link TL-SG105 5-Port Gigabit Ethernet Switch
 
@@ -143,21 +143,15 @@ Spread the speed of wired internet to more devices with this 5-port unmanaged Et
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-building-brand-identity-with-instagram-video-content/"><u>[Updated] 2024 Approved Building Brand Identity with Instagram Video Content</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-fundamentals-of-archiving-webcam-conversations-for-2024/"><u>[Updated] Fundamentals of Archiving Webcam Conversations for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-subtitles-that-shine-discover-the-best-free-online-tools/"><u>[Updated] In 2024, Subtitles That Shine - Discover the Best Free Online Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-narrative-nooks-the-leading-10-rogues-for-2024/"><u>[Updated] Narrative Nooks The Leading 10 Rogues for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-link-minimizers-transforming-youtube-watchability/"><u>5-Top Link Minimizers Transforming YouTube Watchability</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gute-auftaktsatze-im-deutschen-ausgewahlt/"><u>Gute-Auftaktsätze Im Deutschen Ausgewählt</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2021-has-encountered-a-problem-by-stellar-guide/"><u>How to Fix Excel 2021 has Encountered a Problem</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-sphere-unveiled-in-film-tech/"><u>In 2024, The Complete Sphere Unveiled in Film Tech</u></a></li>
-<li><a href="https://media-tips.techidaily.com/new-era-of-sports-viewing-espn-fox-warner-team-up-to-launch-innovative-streaming-service/"><u>New Era of Sports Viewing: ESPN, Fox, Warner Team Up to Launch Innovative Streaming Service</u></a></li>
-<li><a href="https://media-tips.techidaily.com/solving-the-issue-how-to-restore-your-youtube-videos-original-quality/"><u>Solving the Issue: How to Restore Your YouTube Video's Original Quality</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-installing-third-party-applications-on-your-google-tv/"><u>Step-by-Step Guide: Installing Third-Party Applications on Your Google TV</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-lasting-appeal-of-internet-broadcasts-amidst-modern-streaming-services/"><u>The Lasting Appeal of Internet Broadcasts Amidst Modern Streaming Services</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-must-check-list-for-every-collector-evaluating-secondhand-dvds-and-blu-ray-movies/"><u>The Must-Check List for Every Collector: Evaluating Secondhand DVDs & Blu-Ray Movies</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transforming-playlists-into-connections-spotifys-evolution-into-a-social-hub/"><u>Transforming Playlists Into Connections: Spotify's Evolution Into a Social Hub</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-made-simple-learn-to-connect-detach-and-reinitialize-your-apple-tv-remote-controller-instructions/"><u>Troubleshooting Made Simple: Learn to Connect, Detach & Reinitialize Your Apple TV Remote Controller Instructions.</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-13t-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi 13T Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quintet-of-top-10-royale-battles/"><u>[Updated] 2024 Approved Quintet of Top 10 Royale Battles</u></a></li>
+<li><a href="https://media-tips.techidaily.com/breaking-up-with-tech-giants-how-and-why-i-parted-ways-with-apple-podcasts-permanently/"><u>Breaking Up with Tech Giants: How and Why I Parted Ways with Apple Podcasts Permanently</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/building-a-custom-google-cardboard-for-immersive-experience-for-2024/"><u>Building a Custom Google Cardboard for Immersive Experience for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/bypassing-the-maximum-screens-displayed-on-netflix-a-simple-guide/"><u>Bypassing the Maximum Screens Displayed on Netflix: A Simple Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/complete-tutorial-how-to-download-youtube-videos-onto-your-iphoneipad-or-android-for-easy-access-anywhere/"><u>Complete Tutorial: How to Download YouTube Videos Onto Your iPhone/iPad or Android for Easy Access Anywhere!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-new-low-cost-xumo-televisions-at-best-buy/"><u>Discover New Low-Cost Xumo Televisions at Best Buy!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-40c-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 40C Phone without Google Account?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-g54-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola G54 5G FRP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-nuances-of-color-grading-for-gopro-editors-for-2024/"><u>Navigating the Nuances of Color Grading for GoPro Editors for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-optimal-results-the-latest-intel-gpu-drivers-for-windows-pcs/"><u>Secure Optimal Results: The Latest Intel GPU Drivers for Windows PCs</u></a></li>
 </ul></div>
 

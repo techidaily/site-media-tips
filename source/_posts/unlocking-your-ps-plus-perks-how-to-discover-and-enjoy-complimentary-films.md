@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your PS Plus Perks: How To Discover & Enjoy Complimentary Films"
-date: 2024-09-09T16:02:29.126Z
-updated: 2024-09-16T16:08:06.785Z
+date: 2024-09-19T16:47:04.381Z
+updated: 2024-09-21T16:06:48.685Z
 tags:
   - streaming
 categories:
@@ -45,20 +45,27 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 
  On a PS4 you can launch the PlayStation Store app and search for "Sony Pictures Core" and then launch the app from the main interface.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Find Free Movies on Sony Pictures Core
 
  In addition to exclusive weekly discounts, subscribers to the Premium tier of PlayStation Plus also have access to a select catalog of films available at no extra cost. In the Sony Pictures Core app, navigate to the sidebar by pressing left on your controller's directional pad until the menu appears. Then, select the tab called "Included With PlayStation Plus" indicated by a checkmark icon.
 
 ![The PlayStation Plus section of Sony Pictures Core that offers free movies for Premium tier subscribers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229130349.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here, you will find a select library of movies of various genres that are available to stream immediately with no purchase required. Titles range from animated video game tie-ins to classic sci-fi and drama films, with over 100 total movies available as of the time of this writing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Purchase or Rent Movies in Core Too
 
@@ -69,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
  Keep in mind that PlayStation Plus subscribers of any tier can get exclusive discounts on some films, with seven select titles going on sale every week. Sony Pictures Core offers PlayStation Plus users the option to purchase movies at full price or rent them for a significant discount using the "Purchase" or "Rent" options.
 
 ![The main screen on Sony Pictures Core when users select a film, with the options to rent or purchase it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229124327.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Zachary Cimaglio/How-To Geek
 
@@ -100,16 +100,13 @@ Zachary Cimaglio/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-unraveling-the-mystery-of-vr-gear-selection-wireless-elegance-versus-cable-convenience/"><u>[Updated] Unraveling the Mystery of VR Gear Selection Wireless Elegance versus Cable Convenience</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/audience-attraction-in-a-minute-comparing-youtubes-shorts-and-tiktoks/"><u>Audience Attraction in a Minute Comparing YouTubes Shorts and TikToks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Nokia C210? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/rising-subscription-fees-disneyplus-espnplus-and-hulu-announce-price-hike/"><u>Rising Subscription Fees: Disney+, ESPN+, & Hulu Announce Price Hike</u></a></li>
-<li><a href="https://media-tips.techidaily.com/roku-television-receives-significant-image-clarity-improvements-for-a-superior-display/"><u>Roku Television Receives Significant Image Clarity Improvements for a Superior Display</u></a></li>
-<li><a href="https://media-tips.techidaily.com/secure-a-250-discount-on-the-portable-marvel-xgimis-mogo/"><u>Secure a $250 Discount on the Portable Marvel: XGIMI's MoGo</u></a></li>
-<li><a href="https://media-tips.techidaily.com/speedy-search-tips-for-checking-movies-and-tv-shows-on-popular-streaming-platforms/"><u>Speedy Search Tips for Checking Movies and TV Shows on Popular Streaming Platforms</u></a></li>
-<li><a href="https://media-tips.techidaily.com/spotifys-new-personalized-experience-my-spotify-awaits-you/"><u>Spotify's New Personalized Experience: My Spotify Awaits You!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-tutorial-on-how-to-openedit-srt-on-mac/"><u>The Ultimate Tutorial on How to Open/Edit SRT on Mac</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/unintended-tiktok-reset-how-to-get-back-old-videos/"><u>Unintended TikTok Reset – How to Get Back Old Videos?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-the-secrets-of-like-a-dragon-achieve-unlimited-prosperity-on-your-pc/"><u>Unlocking the Secrets of 'Like A Dragon': Achieve Unlimited Prosperity on Your PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-gaming-filmmaking-techniques-to-record-games-flawlessly-for-2024/"><u>[New] Gaming Filmmaking Techniques to Record Games Flawlessly for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamline-screen-scans-your-essential-toolkit-for-vid-saving-for-2024/"><u>[New] Streamline Screen Scans Your Essential Toolkit for Vid Saving for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ballot-bonanza-5-best-political-game-line-ups/"><u>[Updated] In 2024, Ballot Bonanza 5 Best Political Game Line-Ups</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-cropping-settings-in-digital-editors/"><u>2024 Approved Understanding Cropping Settings in Digital Editors</u></a></li>
+<li><a href="https://media-tips.techidaily.com/dont-miss-out-get-your-plex-lifetime-subscription-at-a-20-discount-immediately/"><u>Don't Miss Out! Get Your Plex Lifetime Subscription at a 20% Discount Immediately!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/embrace-the-post-apocalyptic-journey-with-the-new-fallout-hit-dive-into-survival-now/"><u>Embrace the Post-Apocalyptic Journey with the New Fallout Hit - Dive Into Survival Now!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhancing-your-privacy-on-apple-music-top-4-strategies-for-discreet-enjoyment/"><u>Enhancing Your Privacy on Apple Music: Top 4 Strategies for Discreet Enjoyment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premium-sound-quality-best-of-the-best-9-mic-recording-tools-2e/"><u>Premium Sound Quality Best of the Best 9 Mic Recording Tools (2E)</u></a></li>
 </ul></div>
 

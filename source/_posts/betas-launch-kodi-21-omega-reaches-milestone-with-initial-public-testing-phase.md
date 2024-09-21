@@ -1,7 +1,7 @@
 ---
 title: "Betas Launch: Kodi 21 OMEGA Reaches Milestone with Initial Public Testing Phase"
-date: 2024-09-15T16:13:36.148Z
-updated: 2024-09-16T16:13:29.881Z
+date: 2024-09-20T16:03:05.258Z
+updated: 2024-09-21T16:13:30.484Z
 tags:
   - streaming
 categories:
@@ -38,32 +38,28 @@ The Kodi 21 "Omega" update is finally available in Beta. This release boosts Kod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-direct-from-google-meet-securely-live-stream-on-youtube/"><u>[New] 2024 Approved Direct From Google Meet Securely Live Stream on YouTube</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-12-proipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone 12 Pro/iPad/iPod</u></a></li>
-<li><a href="https://media-tips.techidaily.com/amazon-music-showdown-understanding-the-key-distinctions-between-prime-and-unlimited-membership-plans/"><u>Amazon Music Showdown: Understanding the Key Distinctions Between Prime and Unlimited Membership Plans.</u></a></li>
-<li><a href="https://media-tips.techidaily.com/another-jump-coming-soon-spotify-readies-upcoming-subscription-fee-boost/"><u>Another Jump Coming Soon: Spotify Readies Upcoming Subscription Fee Boost</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/asmr-excellence-superior-performance-for-less-money/"><u>ASMR Excellence Superior Performance for Less Money</u></a></li>
-<li><a href="https://media-tips.techidaily.com/bid-farewell-to-subscription-overload-building-my-own-custom-streaming-service-explained/"><u>Bid Farewell to Subscription Overload: Building My Own Custom Streaming Service Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-methods-for-disentangling-software-in-windows-11-systems/"><u>Effective Methods for Disentangling Software in Windows 11 Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpts-future-foresight-outshining-magazine-astrology/"><u>GPT's Future Foresight: Outshining Magazine Astrology?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-introducing-dimensional-text-with-photoshop-expertise/"><u>In 2024, Introducing Dimensional Text with Photoshop Expertise</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-instagram-photography-guide-for-crafting-perfect-covers/"><u>The Ultimate Instagram Photography Guide for Crafting Perfect Covers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-the-latest-computer-hardware/"><u>Tom's Tech Review: Expert Insights on the Latest Computer Hardware</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-9-streaming-platforms-with-current-free-trial-options/"><u>Top 9 Streaming Platforms with Current Free Trial Options</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unlock-hidden-gems-discover-5-strategies-to-find-rarely-streamed-films/"><u>Unlock Hidden Gems: Discover 5 Strategies to Find Rarely-Streamed Films</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visual-filmmaking-tools-environmentally-friendly/"><u>Visual Filmmaking Tools Environmentally Friendly</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-discovering-the-potential-apple-devices-on-your-youtube-channel-for-2024/"><u>[Updated] Discovering the Potential Apple Devices on Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-beam-your-best-lol-playing-moments-onto-screen-3-ways/"><u>[Updated] In 2024, Beam Your Best LOL Playing Moments Onto Screen (3 Ways)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/firefox-126-collaborates-with-nvidia-rtx-to-supercharge-youtube-viewing-experience/"><u>Firefox 126 Collaborates with NVIDIA RTX to Supercharge YouTube Viewing Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-movie-treasure-on-playstation-plus-a-simple-guide-to-accessible-film-content/"><u>Free Movie Treasure on PlayStation Plus: A Simple Guide to Accessible Film Content</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620278690-get-your-favorite-songs-and-movies-for-free-directly-from-itunes-no-cost-at-all/"><u>Get Your Favorite Songs and Movies for Free Directly From iTunes – No Cost at All!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-enjoying-the-thrills-of-the-2024-olympics-gymnastics-events/"><u>Guide: Enjoying the Thrills of the 2024 Olympics – Gymnastics Events</u></a></li>
+<li><a href="https://media-tips.techidaily.com/high-quality-apple-tvplus-shows-hindered-by-ineffective-promotion-strategies/"><u>High-Quality Apple TV+ Shows Hindered by Ineffective Promotion Strategies</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-create-and-run-your-personal-internet-radio-with-icecast-on-linux-os/"><u>How to Create and Run Your Personal Internet Radio with Icecast on Linux OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-fix-startech-drivers-problems-on-windows-10-8-and-7-a-step-by-step-guide/"><u>How to Fix StarTech Drivers Problems on Windows 10, 8 & 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-13-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 13 mini Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagrams-mirage-identifying-false-friends-at-no-price/"><u>Instagram's Mirage Identifying False Friends at No Price</u></a></li>
+<li><a href="https://media-tips.techidaily.com/is-spotifys-paid-subscription-justified-by-its-unique-benefits/"><u>Is Spotify's Paid Subscription Justified by Its Unique Benefits?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/join-the-party-with-plex-discover-track-what-your-friends-are-watching-online/"><u>Join the Party with Plex Discover - Track What Your Friends Are Watching Online</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-ringtone-choices-essential-downloads-guide/"><u>Top Ringtone Choices Essential Downloads Guide</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

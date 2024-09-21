@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of the New Tablo (Generation 4) DVR: Access Local Channels for Free, Though Some Conditions Apply"
-date: 2024-09-13T16:00:49.937Z
-updated: 2024-09-16T16:01:57.786Z
+date: 2024-09-20T16:49:08.944Z
+updated: 2024-09-21T16:18:06.250Z
 tags:
   - streaming
 categories:
@@ -95,6 +95,13 @@ Close
 
  You might notice something missing from that list of ports: there's no video output. You can only watch content from the Tablo through the app, which is available on most streaming sticks and some smart TVs. If you don't have a compatible TV, you'll need to buy a [streaming stick](https://facebook-video-share.techidaily.com/updated-prime-selection-of-screen-capture-software-for-gaming/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Software & Setup
 
  The setup process for the Tablo is fairly quick. Once everything is plugged in, [download the Tablo app](http://www.tablotv.com/apps-compatible-devices/) on your iPhone, Android device, or iPad, and it will walk you through the process of setting up a free account and connecting the Tablo to your network.
@@ -114,13 +121,6 @@ Close
  Finally, there's the "Library" tab, which displays all your existing recordings and a list of future scheduled recordings. The bottom of the screen has filters that organize the recordings into TV shows, movies, and sports. That might come in handy, because just like with the Live tab, there's no search function.
 
  The player interface is pretty simple. There's a play and pause button in the center, and you can jump forwards and backward using the 15-second buttons or the timeline scrubber. There's also some basic information at the top, including the channel name and number, age rating, and program title. However, you can't switch channels from the player (you have to close the stream first), and there's no option to use a Chromecast or AirPlay device. I also noticed on my iPhone 15 that the app wasn't properly rotating when switching to the player. The video feed was rotated, but the app remained in portrait mode, leaving the phone's gesture button on the wrong side. The Android and iPad apps didn't have the same issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Performance and Playback
 
@@ -148,6 +148,13 @@ Close
 
 ![Tablo 4th Gen from top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek
 
  The [Tablo (4th Generation) DVR](http://www.amazon.com/Tablo-Broadcast-TV-Streaming-Whole-Home/dp/B0CBVT6SLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate) is an easy and simple way to watch over-the-air TV from anywhere in your home, and it does what it sets out to do. I have some complaints, especially the lack of ATSC 3.0 support and the sometimes-buggy app, but it's probably still the best option for someone who wants a plug-and-play solution. It brings some of the conveniences of cable TV subscriptions to over-the-air channels, like multi-device streaming and DVR recording, without any recurring costs.
@@ -158,20 +165,13 @@ Corbin Davenport / How-To Geek
 
 ![Tablo 4th Gen DVR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  Tablo 4th Gen
@@ -197,17 +197,21 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-engage-viewers-anytime-from-phone-stream-youtube-with-less-than-a-thousand/"><u>[New] Engage Viewers Anytime, From Phone Stream Youtube with Less Than a Thousand</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-crafting-atmospheres-with-cinematic-hues/"><u>[Updated] Crafting Atmospheres with Cinematic Hues</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/demographics-age-socioeconomic-status-education-level-and-ethnicity-can-all-impact-turnout-rates-among-different-groups-of-voters/"><u>Demographics: Age, Socioeconomic Status, Education Level, and Ethnicity Can All Impact Turnout Rates Among Different Groups of Voters.</u></a></li>
-<li><a href="https://media-tips.techidaily.com/deteriorating-conditions-how-t-mobiles-included-netflix-faces-setbacks-with-certain-subscribers/"><u>Deteriorating Conditions: How T-Mobile's Included Netflix Faces Setbacks with Certain Subscribers</u></a></li>
-<li><a href="https://media-tips.techidaily.com/disabling-adult-songs-and-playlists-on-spotify-a-comprehensive-guide/"><u>Disabling Adult Songs and Playlists on Spotify - A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/guide-to-supercharged-video-engagement-with-youtube-notes-for-2024/"><u>Guide to Supercharged Video Engagement with YouTube Notes for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-vs-2-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-magic-5-lite-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor Magic 5 Lite Phone Pattern Lock</u></a></li>
-<li><a href="https://article-tips.techidaily.com/leveraging-cg-central-luts-for-cinematic-color-enhancement-for-2024/"><u>Leveraging CG Central LUTs for Cinematic Color Enhancement for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-frozen-windows-update-steps-to-fix-when-its-stuck-at-0/"><u>Resolving Frozen Windows Update: Steps to Fix When It's Stuck at 0%</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-the-leading-gratis-converters-srt-edition-for-2024/"><u>Unveiling the Leading Gratis Converters SRT Edition for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-prime-windows-10-photo-display/"><u>[New] 2024 Approved Prime Windows 10 Photo Display</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-top-discord-rivals-worth-exploring-for-2024/"><u>[New] Top Discord Rivals Worth Exploring for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-keep-your-snaps-alive-strategies-for-longevity/"><u>[Updated] 2024 Approved Keep Your Snaps Alive – Strategies for Longevity</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ideal-imagery-best-google-meet-screen-savers/"><u>[Updated] In 2024, Ideal Imagery Best Google Meet Screen Savers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevating-film-colors-using-luts-methods/"><u>2024 Approved Elevating Film Colors Using Luts Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-ways-to-unstick-your-qbittorrent-download-progress/"><u>Effective Ways to Unstick Your qBittorrent Download Progress</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-se-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone SE Activation Lock</u></a></li>
+<li><a href="https://media-tips.techidaily.com/navigating-parental-controls-on-streaming-services-an-overview-of-content-limit-strategies/"><u>Navigating Parental Controls on Streaming Services: An Overview of Content Limit Strategies</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-era-of-sports-viewing-espn-fox-warner-team-up-to-launch-innovative-streaming-service/"><u>New Era of Sports Viewing: ESPN, Fox, Warner Team Up to Launch Innovative Streaming Service</u></a></li>
+<li><a href="https://media-tips.techidaily.com/solving-the-issue-how-to-restore-your-youtube-videos-original-quality/"><u>Solving the Issue: How to Restore Your YouTube Video's Original Quality</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-installing-third-party-applications-on-your-google-tv/"><u>Step-by-Step Guide: Installing Third-Party Applications on Your Google TV</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-lasting-appeal-of-internet-broadcasts-amidst-modern-streaming-services/"><u>The Lasting Appeal of Internet Broadcasts Amidst Modern Streaming Services</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-must-check-list-for-every-collector-evaluating-secondhand-dvds-and-blu-ray-movies/"><u>The Must-Check List for Every Collector: Evaluating Secondhand DVDs & Blu-Ray Movies</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-playlists-into-connections-spotifys-evolution-into-a-social-hub/"><u>Transforming Playlists Into Connections: Spotify's Evolution Into a Social Hub</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unraveling-the-mystery-when-to-use-premiere-and-when-to-use-after-effects/"><u>Updated In 2024, Unraveling the Mystery When to Use Premiere and When to Use After Effects</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-efficiency-with-this-cost-effective-gaming-monitor-makeover-expert-tips-from-zdnet-revealed/"><u>Upgrade Your Efficiency with This Cost-Effective Gaming Monitor Makeover, Expert Tips From ZDNET Revealed</u></a></li>
 </ul></div>
 

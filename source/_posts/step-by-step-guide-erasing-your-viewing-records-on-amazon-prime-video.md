@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Erasing Your Viewing Records on Amazon Prime Video"
-date: 2024-09-11T16:02:18.673Z
-updated: 2024-09-16T16:15:46.656Z
+date: 2024-09-15T16:43:05.223Z
+updated: 2024-09-21T16:38:25.701Z
 tags:
   - streaming
 categories:
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 
  That is how you can clear your watch history on Amazon Prime Video. Unfortunately, there is no option to clear your entire watch history at once. You will need to manually delete each episode and movie individually.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Remove Something From Continue Watching on Amazon Prime Video
 
  To remove a movie or show from your Continue Watching list on Amazon Prime Video, access the "Options" menu of the title you want to remove and choose "Hide This Movie" or "Hide This Season." This will also hide that title from the home screen and other recommendation pages, but you'll still be able to search for it.
@@ -62,16 +69,10 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 ![Hide This movie option in Prime mobile app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/hide-this-movie-option-in-prime-mobile-app.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Delete Content from Continue Watching on the Prime Video Desktop App
@@ -79,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
  To delete Continue Watching on the [Prime Video desktop app](https://apps.microsoft.com/detail/9P6RC76MSMMJ?hl=en-US&gl=US), open the app on your computer, hover over the movie you want to remove from the list, click the three dots, and choose "Hide This Movie." If it's a show, hover over it and click the "Hide This Season" option.
 
 ![Hide This movie option in Prime Desktop app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/hide-this-movie-option-in-prime-desktop-app-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Delete Content from Continue Watching on the Prime Video TV App
 
@@ -96,16 +90,10 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 ![Hide This movie option in Prime TV app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/hide-this-movie-option-in-prime-tv-app.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Aman Kumar /How-To Geek
@@ -129,15 +117,21 @@ Aman Kumar /How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigating-to-facebook-video-streams-on-your-apple-tv/"><u>[New] 2024 Approved Navigating to Facebook Video Streams on Your Apple TV</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-beginners-guide-top-10-easy-to-fly-drones/"><u>[New] Beginner's Guide Top 10 Easy-to-Fly Drones</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-chortle-central-leading-laughter-stars-on-tiktok/"><u>[Updated] 2024 Approved Chortle Central Leading Laughter Stars on TikTok</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-downloading-the-latest-tracks-a-guide-to-free-extractors-for-pc-users/"><u>[Updated] In 2024, Downloading the Latest Tracks A Guide to Free Extractors for PC Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1-xreal-air-vr-headset-evaluation-experience-virtual-worlds-directly-on-your-skin/"><u>1. XReal Air VR Headset Evaluation: Experience Virtual Worlds Directly on Your Skin</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ad-free-streaming-verizon-introduces-bundle-with-netflix-and-amcplus/"><u>Ad-Free Streaming: Verizon Introduces Bundle with Netflix & AMC+</u></a></li>
-<li><a href="https://media-tips.techidaily.com/adjust-your-viewing-experience-master-changing-plexs-video-playback-speed/"><u>Adjust Your Viewing Experience: Master Changing Plex's Video Playback Speed</u></a></li>
-<li><a href="https://media-tips.techidaily.com/apple-tvpluss-exceptional-media-offerings-suffer-due-to-unconventional-advertising-approaches/"><u>Apple TV+'s Exceptional Media Offerings Suffer Due to Unconventional Advertising Approaches</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-zero-fee-technique-for-pixel-perfection/"><u>Best Zero-Fee Technique for Pixel Perfection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-htc-u23-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from HTC U23 Pro.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-balance-relaxation-and-growth-with-this-ultimate-guide-to-multitasking-and-podcasting/"><u>[New] Balance Relaxation and Growth With This Ultimate Guide to Multitasking & Podcasting</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-getting-started-macbook-cam-recording-for-2024/"><u>[New] Getting Started MacBook Cam Recording for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-steering-clear-of-mundane-channel-names-in-a-crowded-space-for-2024/"><u>[Updated] Steering Clear of Mundane Channel Names in a Crowded Space for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-teaching-with-technology-innovative-editing-approaches-in-education/"><u>2024 Approved Teaching with Technology Innovative Editing Approaches in Education</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/free-srt-tools-the-most-reliable-high-quality-apps-listed/"><u>Free SRT Tools The Most Reliable, High-Quality Apps Listed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-preview-premiere-pro-edition/"><u>Mastering the Art of Preview Premiere Pro Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/secure-techniques-to-boost-speed-in-spotify-listening-for-2024/"><u>Secure Techniques to Boost Speed in Spotify Listening for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-gaming-processors-expert-picks-and-reviews/"><u>Top-Ranked Gaming Processors : Expert Picks and Reviews</u></a></li>
+<li><a href="https://media-tips.techidaily.com/troubleshooting-made-simple-learn-to-connect-detach-and-reinitialize-your-apple-tv-remote-controller-instructions/"><u>Troubleshooting Made Simple: Learn to Connect, Detach & Reinitialize Your Apple TV Remote Controller Instructions.</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-viewing-tips-accessing-elite-competitive-swimming-at-the-olympics/"><u>Ultimate Viewing Tips: Accessing Elite Competitive Swimming at the Olympics</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-youtubes-high-quality-streaming-exploring-the-enhanced-bitrate/"><u>Understanding YouTube's High-Quality Streaming: Exploring the Enhanced Bitrate</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unveiling-kodi-update-2e3-a-comprehensive-guide-to-the-new-features-and-enhancements/"><u>Unveiling Kodi Update 2E.3 – A Comprehensive Guide to the New Features and Enhancements</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unveiling-the-advantages-of-hdmi-21-should-your-next-tech-update-include-this-standard/"><u>Unveiling the Advantages of HDMI 2.1 – Should Your Next Tech Update Include This Standard?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unveiling-the-financial-advantages-how-ad-based-streaming-cuts-monthly-expenses/"><u>Unveiling the Financial Advantages: How Ad-Based Streaming Cuts Monthly Expenses</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-macos-compatible-video-editor-avs-software/"><u>Updated In 2024, MacOS Compatible Video Editor AVS Software</u></a></li>
+<li><a href="https://media-tips.techidaily.com/voting-laws-and-accessibility-ease-of-voting-such-as-early-voting-or-mail-in-ballots-and-laws-like-voter-id-requirements-can-affect-turnout/"><u>Voting Laws and Accessibility: Ease of Voting (Such as Early Voting or Mail-In Ballots) and Laws Like Voter ID Requirements Can Affect Turnout.</u></a></li>
 </ul></div>
 

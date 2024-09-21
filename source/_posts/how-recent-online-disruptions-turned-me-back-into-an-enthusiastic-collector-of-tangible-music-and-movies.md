@@ -1,7 +1,7 @@
 ---
 title: How Recent Online Disruptions Turned Me Back Into an Enthusiastic Collector of Tangible Music and Movies
-date: 2024-09-11T16:09:29.054Z
-updated: 2024-09-16T16:19:12.181Z
+date: 2024-09-17T16:12:25.264Z
+updated: 2024-09-21T16:29:04.828Z
 tags:
   - streaming
 categories:
@@ -39,28 +39,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It doesn't even have to be an outlier event. Some people go on holiday or have second homes in rural areas where there will be no internet. Keeping a few Blu-Rays at your holiday home in a rural area just makes sense.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  My Rainy Day Collection Is Growing
 
 ![A small movie collection comprised of DVDs and Blu Ray discs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240520_102047.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek
 
  In many ways, this is the absolute best time to start collecting DVDs, Blu-rays, and other offline physical media. Since online streaming has put such a damper on the physical market, pushing down demand, prices have taken a tumble too. We're talking DVD box sets for less than ten bucks, and Blu-ray movies for a dollar or two a piece. If you paid $100 today, you could probably buy enough offline entertainment to last you a week with no internet.
 
 ![A DVD and Blu Ray Collection with books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dvd-and-blu-ray-collection.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -85,17 +85,16 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-pro-anglers-choice-the-top-5-cameras-for-fishing/"><u>[New] In 2024, Pro Angler's Choice The Top 5 Cameras For Fishing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-latest-instagram-photo-and-video-size-checklist-for-2024/"><u>[New] Latest Instagram Photo and Video Size Checklist for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-expert-insights-optimal-techniques-for-pc-display-recordings-for-2024/"><u>[Updated] Expert Insights Optimal Techniques for PC Display Recordings for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-professionalscreenx-insiders-take-on-software/"><u>[Updated] ProfessionalScreenX Insider’s Take on Software</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-top-5-best-capture-cards-for-nintendo-switch-for-2024/"><u>[Updated] Top 5 Best Capture Cards for Nintendo Switch for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/can-vpn-services-conceal-your-internet-activity-from-isp-and-mobile-providers/"><u>Can VPN Services Conceal Your Internet Activity From ISP and Mobile Providers?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/capture-germanys-spoken-elegance-top-25-sayings-list/"><u>Capture Germany's Spoken Elegance: Top 25 Sayings List</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comparing-sling-orange-and-sling-blue-key-features-perks-and-accessories/"><u>Comparing Sling Orange and Sling Blue: Key Features, Perks, and Accessories</u></a></li>
-<li><a href="https://media-tips.techidaily.com/cutting-costs-not-quality-youtube-tvs-halved-nfl-sunday-ticket-offering/"><u>Cutting Costs, Not Quality: YouTube TV's Halved NFL Sunday Ticket Offering.</u></a></li>
-<li><a href="https://media-tips.techidaily.com/deceptive-practices-when-your-fire-tv-pushes-paid-features-as-gratis-offerings/"><u>Deceptive Practices: When Your Fire TV Pushes Paid Features as Gratis Offerings</u></a></li>
-<li><a href="https://media-tips.techidaily.com/demand-youtube-to-separate-youtube-music-from-youtube-premium-services-now/"><u>Demand YouTube To Separate YouTube Music From YouTube Premium Services Now!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-stability-achieved-for-dell-systems/"><u>Screen Stability Achieved for Dell Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-nail-the-next-best-thing-youtube-studio-editing-mastery/"><u>[New] 2024 Approved Nail the Next Best Thing YouTube Studio Editing Mastery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-tailoring-youtube-experience-on-the-worlds-largest-social-network/"><u>[New] 2024 Approved Tailoring YouTube Experience on the World's Largest Social Network</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-expertly-reviewed-7-top-voice-changer-applications-for-2024/"><u>[Updated] Expertly Reviewed 7 Top Voice Changer Applications for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-h1-an-easy-guide-for-how-to-add-photos-on-instagram/"><u>2024 Approved H1 An Easy Guide for How to Add Photos on Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simplifying-age-verification-on-tiktok-accounts/"><u>2024 Approved Simplifying Age Verification on TikTok Accounts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-driver-and-software-setup-for-logitech-g402-secure-download-link/"><u>Compatible Driver & Software Setup for Logitech G402 - Secure Download Link</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-to-personalizing-your-roku-for-optimal-privacy-controls/"><u>Step-by-Step Guide to Personalizing Your Roku for Optimal Privacy Controls</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streaming-for-the-mind-get-access-to-thousands-of-audiobooks-on-spotify-starting-at-only-999/"><u>Streaming for the Mind - Get Access to Thousands of Audiobooks on Spotify, Starting at Only $9.99!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streaming-music-with-education-spotifys-new-range-of-video-based-learning-programs/"><u>Streaming Music with Education: Spotify's New Range of Video-Based Learning Programs</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streaming-wars-decoded-how-does-apple-tvplus-stack-up-against-the-big-players/"><u>Streaming Wars Decoded: How Does Apple TV+ Stack Up Against the Big Players?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/struggling-with-a-glitchy-fire-tv-stick-discover-7-effective-remedies-to-restore-functionality/"><u>Struggling with a Glitchy Fire TV Stick? Discover 7 Effective Remedies to Restore Functionality</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Your Exposure to YouTube Shorts"
-date: 2024-09-15T16:08:52.138Z
-updated: 2024-09-16T16:15:18.921Z
+date: 2024-09-19T16:35:11.474Z
+updated: 2024-09-21T16:35:57.005Z
 tags:
   - streaming
 categories:
@@ -48,22 +48,16 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
 ![Select "Not Interested" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/3-youtube-mobile-app-shorts-not-interested.png) 
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Repeat the above step for each video in the "Shorts" section. Once you've done that, you'll start to see them less and YouTube will temporarily hide the "Shorts" section from your feed. And that's it.
 
  If you start seeing Shorts again, simply mark them as "Not Interested" again to get rid of them.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use an Old Version of the YouTube App on Your Phone
 
@@ -81,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
  When you've downgraded your app, launch the app, and you won't see the "Shorts" section. You'll want to [keep your app from being updated automatically](https://youtube-zero.techidaily.com/cing-video-success-top-8-yt-thumbnail-strategies-for-2024/) so that your phone doesn't bring it to the latest version, which will start showing Shorts again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Remove Shorts From YouTube's Desktop Site
 
  If you're a desktop user, getting rid of Shorts from [YouTube's computer site](https://on-screen-recording.techidaily.com/in-2024-ultimate-arena-crafting-the-quintessential-7-total-war-tactics/) is as easy as selecting an option. You click an option that hides the Shorts for 30 days, and when that time period is over, you click the option again to remove Shorts for another 30 days, and so on.
@@ -90,19 +91,6 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
  Find the "Shorts" section on the site. In the section's top-right corner, click "X."
 
 ![Choose "X" in the top-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/5-youtube-desktop-site-remove-shorts.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  YouTube will hide the section for 30 days. You're all set.
 
@@ -123,17 +111,19 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-unraveling-instagrams-video-sideways-quandary/"><u>[New] Unraveling Instagram's Video Sideways Quandary</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-from-long-to-brief-how-to-shorten-youtube-footage/"><u>[Updated] 2024 Approved From Long to Brief How to Shorten YouTube Footage</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unleashing-the-power-of-visual-identity-mastering-discord-pfps/"><u>[Updated] 2024 Approved Unleashing the Power of Visual Identity Mastering Discord Pfp's</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-cracking-the-code-of-photoshop-for-beginners/"><u>2024 Approved Cracking the Code of Photoshop for Beginners</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamlining-your-gaming-experience-with-easy-recordings/"><u>2024 Approved Streamlining Your Gaming Experience with Easy Recordings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-methods-to-download-and-improve-your-intel-hd-graphics-5500-software/"><u>Easy Methods to Download & Improve Your Intel HD Graphics 5500 Software</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enjoy-nfl-games-on-sundays-for-free-special-promotion-from-verizon/"><u>Enjoy NFL Games on Sundays For Free – Special Promotion From Verizon!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experience-premium-sound-quality-at-an-affordable-cost-with-tidals-enhanced-hifi-music-service/"><u>Experience Premium Sound Quality at an Affordable Cost with Tidal’s Enhanced HiFi Music Service</u></a></li>
-<li><a href="https://media-tips.techidaily.com/explore-hisenses-latest-tech-a-compact-4k-dolby-vision-projector-revolution/"><u>Explore Hisense's Latest Tech: A Compact 4K Dolby Vision Projector Revolution</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unique-gifting-made-simple-discover-top-10-custom-box-sellers/"><u>In 2024, Unique Gifting Made Simple Discover Top 10 Custom Box Sellers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/start-making-money-today-top-13-easy-methods-for-newbies/"><u>Start Making Money Today! Top 13 Easy Methods for Newbies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-turing-test-is-beating-it-achievable-in-modern-ai/"><u>Understanding the Turing Test: Is Beating It Achievable in Modern AI?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-decoding-durecorder-features-and-user-guide-review/"><u>[Updated] Decoding DuRecorder Features and User Guide Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-navigate-effortlessly-the-best-5-chrome-addons-for-downloading-fb-videos-for-2024/"><u>[Updated] Navigate Effortlessly The Best 5 Chrome Addons for Downloading FB Videos for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-lava-yuva-2-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Lava Yuva 2 Face Lock?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-redmi-note-13-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi Redmi Note 13 Pro+ 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-guide-best-dvd-ripper-of-2024-that-rips-discs-in-just-5-minutes/"><u>Quick Guide: Best DVD Ripper of 2024 That Rips Discs in Just 5 Minutes</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-samsung-galaxy-a05s-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Samsung Galaxy A05s</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-the-secrets-spotifys-new-feature-charges-for-song-lyrics/"><u>Unlocking the Secrets: Spotify's New Feature Charges for Song Lyrics</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-brother-l2690dw-printer-fresh-drivers-available-now/"><u>Update Your Brother L2690dw Printer - Fresh Drivers Available Now!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/voice-command-control-apple-homepod-now-enables-seamless-access-to-spotify/"><u>Voice Command Control: Apple HomePod Now Enables Seamless Access to Spotify</u></a></li>
+<li><a href="https://media-tips.techidaily.com/weekly-update-on-upcoming-devices-from-google-and-samsung/"><u>Weekly Update on Upcoming Devices From Google & Samsung</u></a></li>
+<li><a href="https://media-tips.techidaily.com/windows-watchers-beware-no-more-offline-movie-downloads-from-netflix/"><u>Windows Watchers Beware: No More Offline Movie Downloads From Netflix!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/worsening-quality-of-amazon-fire-tv-advertisements-a-concerning-trend/"><u>Worsening Quality of Amazon Fire TV Advertisements: A Concerning Trend</u></a></li>
+<li><a href="https://media-tips.techidaily.com/youtube-tv-vs-hulu-with-live-tv-a-comprehensive-guide-to-selecting-your-ideal-streaming-experience/"><u>YouTube TV Vs. Hulu with Live TV: A Comprehensive Guide to Selecting Your Ideal Streaming Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Transforming an Old MacBook Into an Ultimate Plex Media Server - Beyond Impressive Results!
-date: 2024-09-13T16:06:43.257Z
-updated: 2024-09-16T16:05:19.729Z
+date: 2024-09-19T16:16:08.226Z
+updated: 2024-09-21T16:36:41.166Z
 tags:
   - streaming
 categories:
@@ -32,10 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I have a dual-port USB-C dock connected to the Mac, which is in turn connected to a Dell monitor with a built-in USB hub, and that's what my media drive is connected to. One way or another, I recommend a powered USB hub rather than running the drives from the MacBook's internal power, since even one big drive might put too much strain on the little guy as a permanently-connected media drive.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Zero Performance Issues
@@ -45,10 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The M1 has four performance cores and four efficiency cores, and this model has 8GB of RAM and a 512GB SSD. I tried watching multiple 4K streams on different devices, and it went off without a hitch. So far I haven't found a way to make the little MacBook choke, so I can only imagine that any Apple Silicon Mac would be simply great at this job. Like an M1 Mac Mini that you pick up used for a bargain, perhaps.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  It’s My New Desktop Mac Too!
@@ -72,16 +72,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-precious-playtimes-kids-fun-and-games-anthology-for-2024/"><u>[New] Precious Playtimes Kids' Fun & Games Anthology for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeos-video-segments-the-chapter-creation-handbook/"><u>[Updated] In 2024, Vimeo's Video Segments The Chapter Creation Handbook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-websites-for-3d-graffiti-fonts/"><u>2024 Approved Top 8 Websites for 3D Graffiti Fonts</u></a></li>
-<li><a href="https://media-tips.techidaily.com/broadcasting-in-the-olympics-how-and-where-to-find-unlisted-live-streams/"><u>Broadcasting in the Olympics: How and Where to Find Unlisted Live Streams</u></a></li>
-<li><a href="https://media-tips.techidaily.com/capture-more-content-than-ever-before-discover-tablos-latest-ota-dvr-featuring-robust-8tb-storage-options/"><u>Capture More Content Than Ever Before: Discover Tablo's Latest OTA DVR Featuring Robust 8TB Storage Options</u></a></li>
-<li><a href="https://media-tips.techidaily.com/catch-every-weeks-monday-night-matchup-at-no-charge-discover-your-viewing-choices-for-free/"><u>Catch Every Week's Monday Night Matchup at No Charge - Discover Your Viewing Choices for Free!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/despite-its-age-apple-tvplus-remains-deficient-in-key-capabilities-compared-to-competitors/"><u>Despite Its Age, Apple TV+ Remains Deficient in Key Capabilities Compared to Competitors</u></a></li>
-<li><a href="https://media-tips.techidaily.com/digital-content-crisis-at-funimation-sudden-shutdown-leads-to-user-library-deletions/"><u>Digital Content Crisis at Funimation: Sudden Shutdown Leads to User Library Deletions</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-x9b-frp-by-drfone-android/"><u>Full Guide to Bypass Honor X9b FRP</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-cut-outs-on-logitech-wireless-headphones-g930-model/"><u>Troubleshooting Cut Outs on Logitech Wireless Headphones (G930 Model)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-art-of-audio-blend-with-audacity-techniques-for-2024/"><u>Unveiling the Art of Audio Blend with Audacity Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-yourselfie-instagrams-verification-essentials/"><u>[New] 2024 Approved Mastering Yourselfie Instagram's Verification Essentials</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-enhancing-your-video-editing-skills-with-magix/"><u>[Updated] Enhancing Your Video Editing Skills with Magix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Without a Passcode</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/apple-and-mondly-celebrating-a-milestone-at-educational-app-summit/"><u>Apple & Mondly: Celebrating a Milestone at Educational App Summit</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-11-pro-max-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 11 Pro Max without the Previous Owner?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discounted-phones-and-digital-locks-a-discourse-on-cybersecurity/"><u>Discounted Phones and Digital Locks: A Discourse on Cybersecurity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impact-of-american-sanctions-on-deepcools-role-in-fueling-russias-war-resources-against-ukraine/"><u>Impact of American Sanctions on DeepCool's Role in Fueling Russia’s War Resources Against Ukraine</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-app-cannot-run-errors-essential-steps-for-pc-users/"><u>Solving 'App Cannot Run' Errors: Essential Steps for PC Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streamlining-your-viewing-choices-without-falling-for-the-hype-in-show-reviews/"><u>Streamlining Your Viewing Choices Without Falling for the Hype in Show Reviews</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-selection-the-premier-streaming-service-providers-dominating-2024/"><u>Ultimate Selection: The Premier Streaming Service Providers Dominating 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unleash-excitement-how-this-amazing-app-outshines-spotify-wrapped/"><u>Unleash Excitement: How This Amazing App Outshines Spotify Wrapped!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-half-price-entertainment-exclusive-discounts-on-paramountplus/"><u>Unlock Half-Price Entertainment: Exclusive Discounts on Paramount+!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unveiling-the-benefits-of-youtube-premium-is-investing-in-a-subscription-worthwhile/"><u>Unveiling the Benefits of YouTube Premium: Is Investing in a Subscription Worthwhile?</u></a></li>
 </ul></div>
 

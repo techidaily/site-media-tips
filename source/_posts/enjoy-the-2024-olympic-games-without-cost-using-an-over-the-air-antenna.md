@@ -1,7 +1,7 @@
 ---
 title: Enjoy the 2024 Olympic Games without Cost Using an Over-the-Air Antenna
-date: 2024-09-15T16:10:56.209Z
-updated: 2024-09-16T16:11:50.622Z
+date: 2024-09-18T16:25:05.580Z
+updated: 2024-09-21T16:27:53.069Z
 tags:
   - streaming
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Person holding an indoor TV antenna](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52815640483_03eaabec66_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jordan Gloor / How-To Geek
 
  When you think of a TV antenna, you may envision a set of metal rabbit ears. But these days, indoor digital antennae often resemble an internet router or speaker. Some antenna models even have sleek, flat designs that are easy to mount indoors to a wall. Outdoor antennae are designed to be mounted on your roof and are typically much larger with a wider range.
@@ -50,10 +57,16 @@ Jordan Gloor / How-To Geek
  Keep in mind that you want to be careful about antenna placement to get better reception. As a general rule, you'll want to avoid placing your antenna so that there is an obstacle in the way of the signal. If you're placing an indoor antenna, put it high up on the wall near a window if you can.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Which Olympic Events I Can Watch for Free?
@@ -65,13 +78,6 @@ Jordan Gloor / How-To Geek
 ##  How to Watch 2024 Olympic Gymnastics
 
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
 
@@ -96,12 +102,17 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-the-educators-compendium-of-video-assisted-methods-for-2024/"><u>[Updated] The Educator's Compendium of Video-Assisted Methods for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-secrets-to-reddit-success-in-business-promotions/"><u>2024 Approved Unlocking the Secrets to Reddit Success in Business Promotions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Infinix Note 30 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/us-paying-customers-gain-unlimited-audiobook-downloads-on-spotify/"><u>U.S. Paying Customers Gain Unlimited Audiobook Downloads on Spotify</u></a></li>
-<li><a href="https://media-tips.techidaily.com/watching-american-football-with-ease-how-to-tune-into-the-nfl-through-your-amazon-prime-subscription/"><u>Watching American Football with Ease: How to Tune Into the NFL Through Your Amazon Prime Subscription</u></a></li>
-<li><a href="https://media-tips.techidaily.com/watching-with-youtube-tv-create-your-own-ultimate-sports-viewing-experience/"><u>Watching with YouTube TV: Create Your Own Ultimate Sports Viewing Experience</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/yt-shorts-soundtrack-hits-top-10-trending-sounds-for-2024/"><u>YT Shorts Soundtrack Hits Top 10 Trending Sounds for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-a-comprehensive-review-of-the-hp-envy-27s-4k-tech/"><u>[New] A Comprehensive Review of the HP Envy 27'S 4K Tech</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-become-a-pro-at-tweeting-live-video-responses/"><u>[Updated] 2024 Approved Become a Pro at Tweeting Live Video Responses</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-quicktweet-clip-swiftly-gather-social-media-vids/"><u>[Updated] QuickTweet Clip Swiftly Gather Social Media Vids</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-15-top-montage-music-for-different-video-types/"><u>2024 Approved 15 Top Montage Music for Different Video Types</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-free-audio-trimming-tools-on-windows-10-a-guide-to-quick-mp3-management/"><u>Best Free Audio Trimming Tools on Windows 10: A Guide to Quick MP3 Management</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-safest-lawful-platforms-for-watching-movies-for-free-a-comprehensive-list-of-top-picks/"><u>Discover the Safest, Lawful Platforms for Watching Movies for Free: A Comprehensive List of Top Picks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-which-olympic-games-events-are-streamed-online-comprehensive-guide/"><u>Discover Which Olympic Games Events Are Streamed Online – Comprehensive Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/diy-streaming-success-creating-your-personalized-entertainment-hub-a-step-by-step-guide/"><u>DIY Streaming Success: Creating Your Personalized Entertainment Hub - A Step-by-Step Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/dvd-and-blu-ray-discs-best-buy-announces-end-of-sales/"><u>DVD & Blu-Ray Discs: Best Buy Announces End of Sales</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortlessly-stream-on-homepod-now-integrating-spotify-with-siris-voice-recognition/"><u>Effortlessly Stream on HomePod Now - Integrating Spotify with Siri's Voice Recognition</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy F15 5G?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-discover-the-best-7-online-services-for-precise-audio-reduction/"><u>New Discover the Best 7 Online Services for Precise Audio Reduction</u></a></li>
 </ul></div>
 

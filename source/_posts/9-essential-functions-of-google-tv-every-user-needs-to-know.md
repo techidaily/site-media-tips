@@ -1,7 +1,7 @@
 ---
 title: 9 Essential Functions of Google TV Every User Needs to Know
-date: 2024-09-10T16:12:56.560Z
-updated: 2024-09-16T16:04:34.153Z
+date: 2024-09-15T16:09:38.498Z
+updated: 2024-09-21T16:15:43.693Z
 tags:
   - streaming
 categories:
@@ -38,13 +38,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Thanks to Google hiding the Play Store on Google TV devices, it's not as easy as it could be to [install apps directly on your TV](https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-m6-5g-drfone-by-drfone-virtual-android/). The good news is you can do it from your phone or a web browser. The Play Store's web version allows you to [install apps on any device connected to your account remotely](https://win-howtos.techidaily.com/resolving-device-detection-issues-with-bluetooth-on-microsofts-latest-os-windows-n11/), and the Play Store on Android phones can [install apps to multiple devices at once](https://instagram-video-files.techidaily.com/updated-in-2024-keeping-content-copyright-compliant-with-instra-watermarking/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Remap the Buttons on Your Remote
 
 ![Chromecast with Google TV remote](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/2202984b.jpg) 
@@ -54,21 +47,22 @@ Justin Duino / How-To Geek
  Your Google TV device almost certainly came with a remote that features shortcuts to streaming services. If you don't use those services, the buttons are completely useless. So, why not remap them to something else? Thanks to a handy app called "Button Mapper," [you can do exactly that](https://digital-screen-recording.techidaily.com/updated-innovative-strategies-for-displaying-your-screen-in-google-meet-for-2024/). Reprogram any button to launch apps or perform various actions.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Add Content to Your Watchlist From Your Phone
 
 ![Google TV watchlist on web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240806-170020.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another useful integration for Google TV and your phone is the "Watchlist." As the name implies, this is essentially a list of content you'd like to watch. Titles on your Watchlist show up in the "Library" tab on your Google TV, but you can add movies and shows to the Watchlist from your phone. Simply do a Google Search for a title and tap the "Want to Watch" button under the result. It's a handy way to keep track of stuff you haven't watched yet.
 
@@ -76,21 +70,7 @@ Justin Duino / How-To Geek
 
 ![kids profile home screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/PXL_20210401_142818270.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Google TV devices offer [multiple profiles](https://facebook.techidaily.com/customizing-profile-information-emailphone-switch/), including a [dedicated Kids profile with parental controls](https://facebook-videos.techidaily.com/new-in-2024-top-facebook-video-mp4-downloaders/). This profile (which will add your child to your [Google Family](https://extra-tips.techidaily.com/exclusive-android-3d-video-enthusiasts-choice/)) doesn't require a separate Gmail account. By setting up a Kid's profile, you can easily manage bedtimes and screen time limits, monitor app usage, and restrict content, ensuring a safe viewing experience for your children on your Google TV device.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Put the Home Screen in Apps Only Mode
 
@@ -98,15 +78,22 @@ Justin Duino / How-To Geek
 
  Google TV's home screen can be overwhelming with recommendations. Fortunately, ["Apps Only Mode" simplifies the interface by focusing solely on installed apps](https://hardware-help.techidaily.com/inside-look-at-the-asus-rog-swift-pg3nce-oled-monitor-a-game-changer-reviewed/). This hidden feature eliminates distracting content like "Top Picks For You" and "Continue Watching," replacing them with a clean grid of app icons. The only part of the home screen recommendations that can't be removed is the big "Highlights" carousel at the top, but everything else is wiped clean.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Get Recommendations for the Services You Use
 
 ![toggle services on or off](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/customize-google-tv-8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don't mind the home screen recommendations, [you should take a minute to improve them](https://extra-hints.techidaily.com/a-beginners-guide-to-adding-depth-with-text-in-photoshop-for-2024/). While some recommendations are just ads, many of them are based on the streaming services you actually use. Make sure you've enabled all the services you're currently subscribed to—and remove the ones you no longer have. There's nothing more annoying than seeing a recommendation for something you can't actually watch.
@@ -118,6 +105,19 @@ Justin Duino / How-To Geek
 ##  Reorder the Apps
 
  You probably have a few apps that you use more than others, so why not move them to the front of the list? [To rearrange your favorite apps and games](https://extra-guidance.techidaily.com/leading-the-charge-in-online-healthcare-promotions-and-ads-for-2024/) on the "For You" and "Apps" tabs, go to "Your Apps," highlight the app you want to move, and select "See All." Then, hold down the "Select" or "Enter" button on your remote, choose "Move," and use the D-pad to reposition the app to the desired location.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use Google Photos as Your Screen Saver
 
@@ -138,20 +138,17 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-brief-methods-for-sending-iphone-media-to-pc/"><u>[New] Brief Methods for Sending iPhone Media to PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-must-have-top-skins-themes-and-backgrounds-for-laptops/"><u>[New] Must-Have Top Skins, Themes & Backgrounds for Laptops</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-perfect-ringtones-leading-download-pages-for-2024/"><u>[New] Perfect Ringtones Leading Download Pages for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-how-to-curve-images-in-photoshop/"><u>2024 Approved How to Curve Images in Photoshop</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhance-watch-time-by-controlling-plex-video-speed-settings-easily/"><u>Enhance Watch Time by Controlling Plex Video Speed Settings Easily!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/evolution-in-kodi-platform-shifting-towards-flatpak-approach-for-enhanced-linux-setup-experience/"><u>Evolution in Kodi Platform: Shifting Towards Flatpak Approach for Enhanced Linux Setup Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exclusive-offer-save-20-on-plex-lifetime-membership-today/"><u>Exclusive Offer: Save 20% on Plex Lifetime Membership Today!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exploring-youtube-premium-services-is-this-paid-platform-right-for-you/"><u>Exploring YouTube Premium Services – Is This Paid Platform Right for You?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/groupwatch-on-disneyplus-is-now-absent-what-happened/"><u>GroupWatch on Disney+ Is Now Absent - What Happened?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/growing-concerns-over-declining-quality-of-t-mobile-bundled-netflix-for-specific-user-groups/"><u>Growing Concerns Over Declining Quality of T-Mobile Bundled Netflix for Specific User Groups</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-i-stopped-spotifys-endless-loop-of-repetitive-ads-once-and-for-all/"><u>How I Stopped Spotify's Endless Loop of Repetitive Ads Once and for All</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-infinix-hot-30i-to-mac-drfone-by-drfone-android/"><u>How to Mirror Infinix Hot 30i to Mac? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-harness-free-fb-link-downloaders/"><u>In 2024, Harness Free FB Link Downloaders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/speaking-medias-language-mastering-srt-conversions-for-2024/"><u>Speaking Media's Language Mastering SRT Conversions for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-free-mpeg-video-concatenators/"><u>Top-Rated Free MPEG Video Concatenators</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-screenplay-sage-answers-for-beginners/"><u>[New] 2024 Approved Screenplay Sage Answers for Beginners</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-the-potential-of-youtube-videos-with-these-simple-gif-creation-steps-pcmobile/"><u>[New] Unlock the Potential of YouTube Videos with These Simple GIF Creation Steps (PC/Mobile)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-sideways-surprise-decoding-instagram-video-strange-behavior/"><u>2024 Approved The Sideways Surprise Decoding Instagram Video Strange Behavior</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-free-imagery-beyond-chatgpts-capabilities/"><u>AI-Powered Free Imagery: Beyond ChatGPT's Capabilities</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensible-methods-to-set-up-new-nvidia/"><u>Comprehensible Methods to Set Up New NVIDIA</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-11-proplus-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme 11 Pro+ Without PUK Codes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-setup-acquire-the-latest-asus-trackpad-driver-for-optimal-performance-on-your-windows-amoled-device/"><u>Seamless Setup: Acquire the Latest ASUS Trackpad Driver for Optimal Performance on Your Windows Amoled Device</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streaming-music-with-education-spotifys-new-range-of-video-based-learning-programs/"><u>Streaming Music with Education: Spotify's New Range of Video-Based Learning Programs</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streaming-wars-decoded-how-does-apple-tvplus-stack-up-against-the-big-players/"><u>Streaming Wars Decoded: How Does Apple TV+ Stack Up Against the Big Players?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/struggling-with-a-glitchy-fire-tv-stick-discover-7-effective-remedies-to-restore-functionality/"><u>Struggling with a Glitchy Fire TV Stick? Discover 7 Effective Remedies to Restore Functionality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/superior-nintendo-switch-hd-recording-for-2024/"><u>Superior Nintendo Switch HD Recording for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/switching-from-spotify-to-deezer-discovering-the-real-music-haven/"><u>Switching From Spotify to Deezer: Discovering the Real Music Haven</u></a></li>
 </ul></div>
 

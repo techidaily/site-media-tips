@@ -1,7 +1,7 @@
 ---
 title: "Saying Goodbye to Physical Media: Best Buy's Final DVD and Blu-Ray Offerings"
-date: 2024-09-13T16:18:58.025Z
-updated: 2024-09-16T16:09:14.714Z
+date: 2024-09-20T16:39:08.947Z
+updated: 2024-09-21T16:10:31.362Z
 tags:
   - streaming
 categories:
@@ -38,28 +38,26 @@ Streaming services have increasingly cut into DVD and Blu-ray purchases over the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-tailored-obs-tweaks-for-affordable-systems/"><u>[Updated] In 2024, Tailored OBS Tweaks for Affordable Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mac-video-excellence-the-creme-de-la-liste-for-sierra-users/"><u>2024 Approved Mac Video Excellence The Crème De La Liste for Sierra Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-ultimate-cheat-sheet-to-ez-grabber-usage/"><u>2024 Approved The Ultimate Cheat Sheet to EZ Grabber Usage</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dialogues-without-barriers-techniques-in-cross-cultural-discussion/"><u>Dialogues Without Barriers: Techniques in Cross-Cultural Discussion</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exclusive-promotion-get-a-whopping-90-discount-on-directv-stream-act-fast-before-it-expires/"><u>Exclusive Promotion: Get a Whopping $90 Discount on DIRECTV Stream - Act Fast Before It Expires!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experience-ultra-hd-cinema-anywhere-with-the-new-stylish-easy-to-carry-lg-4k-projector/"><u>Experience Ultra HD Cinema Anywhere with the New Stylish, Easy-to-Carry LG 4K Projector</u></a></li>
-<li><a href="https://media-tips.techidaily.com/gentle-plea-for-pause-functionality-on-spotify-need-some-silence/"><u>Gentle Plea for Pause Functionality on Spotify - Need Some Silence!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-recent-online-disruptions-turned-me-back-into-an-enthusiastic-collector-of-tangible-music-and-movies/"><u>How Recent Online Disruptions Turned Me Back Into an Enthusiastic Collector of Tangible Music and Movies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/immersive-experience-logging-top-tips-and-techniques-for-minecraft-recordings-for-2024/"><u>Immersive Experience Logging Top Tips & Techniques for Minecraft Recordings for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/increased-advertising-on-youtube-what-you-need-to-know/"><u>Increased Advertising on YouTube: What You Need To Know</u></a></li>
-<li><a href="https://media-tips.techidaily.com/is-it-possible-to-upload-your-own-photo-as-your-netflix-user-profile-icon/"><u>Is It Possible to Upload Your Own Photo as Your Netflix User Profile Icon?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/limited-offer-stream-disneys-magic-on-your-tv-for-as-little-as-199-per-month/"><u>Limited Offer: Stream Disney's Magic on Your TV for as Little as $1.99 per Month!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-with-manycam-top-virtual-camera-solutions/"><u>Live Streaming Mastery with ManyCam: Top Virtual Camera Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-guide-what-to-do-when-you-cant-find-physxloaderdll/"><u>Quick Guide: What To Do When You Can't Find PhysXLoader.dll</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/thorough-vsco-editor-user-manual/"><u>Thorough VSCO Editor User Manual</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-preeminent-audience-alteration-tools-for-content-casters/"><u>[New] 2024 Approved Preeminent Audience Alteration Tools for Content Casters</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-elite-selection-of-must-see-vr-films/"><u>[Updated] Elite Selection of Must-See VR Films</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flashflicker-artist/"><u>[Updated] In 2024, FlashFlicker Artist</u></a></li>
+<li><a href="https://media-tips.techidaily.com/apple-music-subscription-is-the-5-price-offer-no-longer-available/"><u>Apple Music Subscription: Is the $5 Price Offer No Longer Available?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/apples-billing-cut-off-netflix-ends-legacy-support-on-the-ios-platform/"><u>Apple's Billing Cut-Off: Netflix Ends Legacy Support on the iOS Platform</u></a></li>
+<li><a href="https://media-tips.techidaily.com/back-on-track-access-your-favorite-shows-as-hulu-returns-through-disneyplus/"><u>Back on Track: Access Your Favorite Shows as Hulu Returns Through Disney+</u></a></li>
+<li><a href="https://media-tips.techidaily.com/boosting-enjoyment-and-savings-top-7-tips-for-getting-more-from-sling-tv-subscription/"><u>Boosting Enjoyment and Savings: Top 7 Tips for Getting More From Sling TV Subscription</u></a></li>
+<li><a href="https://media-tips.techidaily.com/cant-find-song-lyrics-on-spotify-check-out-these-reliable-alternatives/"><u>Can't Find Song Lyrics on Spotify? Check Out These Reliable Alternatives!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/complete-guide-to-viewing-gymnastic-competitions-in-the-2e24-summer-games/"><u>Complete Guide to Viewing Gymnastic Competitions in the 2E24 Summer Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-starcraft-2-from-crashing-on-your-windows-computer/"><u>How to Stop StarCraft 2 From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-meme-ing-in-virtual-space-top-funny-vr-imagery-and-how-to-make-it/"><u>In 2024, Meme-Ing in Virtual Space Top Funny VR Imagery and How to Make It</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-pro-video-creators-choice-10-exceptional-photo-background-alternators/"><u>In 2024, Pro Video Creators' Choice 10 Exceptional Photo-Background Alternators</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-top-9-drone-video-editing-software-for-different-level/"><u>In 2024, Top 9 Drone Video Editing Software for Different Level</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-microsoft-visual-cplusplus-runtime-library-error-in-windows-11/"><u>Solved: Microsoft Visual C++ Runtime Library Error in Windows 11</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

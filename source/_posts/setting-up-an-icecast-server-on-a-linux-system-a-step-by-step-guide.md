@@ -1,7 +1,7 @@
 ---
 title: "Setting Up an Icecast Server on a Linux System: A Step-by-Step Guide"
-date: 2024-09-10T16:20:59.026Z
-updated: 2024-09-16T16:19:44.084Z
+date: 2024-09-18T16:12:37.784Z
+updated: 2024-09-21T16:11:42.383Z
 tags:
   - streaming
 categories:
@@ -117,13 +117,6 @@ ePirat / Xiph.org Foundation
 
 ![BUTT dialog window showing server settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-1-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The test setup here uses non-[TLS](https://extra-skills.techidaily.com/2024-approved-inspirational-movies-for-momentum-and-self-belief/) communications on port 8000\. [Icecast fully supports SSL/TLS encryption](https://www.icecast.org/docs/icecast-2.4.1/config-file.html#ports) but [creating certs](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y17s-online-without-jailbreak-by-drfone-android/) is outside the scope of this tutorial. **I highly recommend using TLS** if you decide to make your stream accessible from anywhere outside your private, local network!
 
  Ok, let's talk sound! Following in the spirit of F/OSS, we'll use [Opus](https://www.opus-codec.org/) (a totally open, royalty-free, highly versatile and widely supported audio codec, also created by Xiph.org) for our stream.
@@ -136,49 +129,30 @@ ePirat / Xiph.org Foundation
 
 ![BUTT dialog window showing main settings and to save configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From here you can close the "Settings" window. When you're ready, click on the "Play" button, which will start your stream. If you've configured everything correctly, you'll currently be making your server's radio stream debut!
 
 ![BUTT main window actively streaming to Icecast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-4.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Cool! Now let's log into the Icecast web UI at "http://LAN\_IP:8000/admin/" and enter "admin" for the username along with your configured Icecast admin password:
 
 ![Browser window asking for username and password to log into Icecast administration section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select "Mountpoint List" from the main Admin page:
 
 ![Browser window showing Icecast administration section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-2.png) 
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Copy the "M3U" hyperlink:
@@ -186,6 +160,13 @@ ePirat / Xiph.org Foundation
 ![Browser window showing active Icecast mountpoints](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-3.png) 
 
  This link, minus the .M3U extension, is what you will use to listen with your web browser.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Choosing a Listener Client
 
@@ -196,6 +177,13 @@ ePirat / Xiph.org Foundation
 ![Browser window playing Icecast stream in HTML5 audio player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-4.png) 
 
  Do you hear your stream? That's Icecast at work.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Additional Configuration
 
@@ -214,16 +202,10 @@ ePirat / Xiph.org Foundation
  You can also use [port forwarding](https://facebook-videos.techidaily.com/new-in-2024-converting-stored-content-into-real-time-livestreams-on-social-media/) to access your stream from outside your local network.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Promoting Your Station
@@ -247,13 +229,13 @@ ePirat / Xiph.org Foundation
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-perfecting-cinematography-using-luts-for-polished-colors/"><u>[New] 2024 Approved Perfecting Cinematography Using Luts for Polished Colors</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-a-game-changer-for-gamers-easy-5-ways-to-capture-your-minecraft-adventures-mac-for-2024/"><u>[Updated] A Game Changer for Gamers Easy 5 Ways to Capture Your Minecraft Adventures (Mac) for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-free-software-showdown-for-premium-audio-capture-tools/"><u>2024 Approved Free Software Showdown for Premium Audio Capture Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-11-and-10-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 11 & 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-moving-your-acsm-google-play-books-onto-compatible-ereader-devices/"><u>Step-by-Step Guide: Moving Your ACSM Google Play Books Onto Compatible eReader Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-made-simple-learn-to-connect-detach-and-reinitialize-your-apple-tv-remote-controller-instructions/"><u>Troubleshooting Made Simple: Learn to Connect, Detach & Reinitialize Your Apple TV Remote Controller Instructions.</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-viewing-tips-accessing-elite-competitive-swimming-at-the-olympics/"><u>Ultimate Viewing Tips: Accessing Elite Competitive Swimming at the Olympics</u></a></li>
-<li><a href="https://media-tips.techidaily.com/understanding-youtubes-high-quality-streaming-exploring-the-enhanced-bitrate/"><u>Understanding YouTube's High-Quality Streaming: Exploring the Enhanced Bitrate</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-aural-alchemy-transforming-sound-tracks-in-logic-pro-x/"><u>[New] Aural Alchemy Transforming Sound Tracks In Logic Pro X</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-user-friendly-routines-preserving-google-voice-communications/"><u>[Updated] User-Friendly Routines Preserving Google Voice Communications</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-swiftly-flip-your-movie-with-vlcs-rotation-feature/"><u>2024 Approved Swiftly Flip Your Movie with VLC's Rotation Feature</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-verizon-nfl-sunday-pass-top-secrets-revealed/"><u>Free Verizon NFL Sunday Pass: Top Secrets Revealed</u></a></li>
+<li><a href="https://media-tips.techidaily.com/future-of-audio-experience-upcoming-enhanced-equalized-noise-management-on-various-electronics-by-youtube/"><u>Future of Audio Experience: Upcoming Enhanced Equalized Noise Management on Various Electronics by YouTube</u></a></li>
+<li><a href="https://media-tips.techidaily.com/get-ready-the-unified-disneyplus-and-hulu-platform-is-nearly-available-for-subscription/"><u>Get Ready! The Unified Disney+ and Hulu Platform Is Nearly Available for Subscription.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratis-online-omzetten-van-dts-naar-aac-movavi/"><u>Gratis Online Omzetten Van DTS Naar AAC - Movavi</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/web-plus-add-on-fb-story-capture-tool/"><u>Web + Add-On FB Story Capture Tool</u></a></li>
 </ul></div>
 

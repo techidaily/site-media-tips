@@ -1,7 +1,7 @@
 ---
 title: "Bid Farewell to Subscription Overload: Building My Own Custom Streaming Service Explained"
-date: 2024-09-10T10:30:17.365Z
-updated: 2024-09-11T10:30:17.365Z
+date: 2024-09-14T16:22:55.982Z
+updated: 2024-09-21T16:05:45.439Z
 tags:
   - streaming
 categories:
@@ -9,35 +9,7 @@ categories:
 thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da38e3f5b8b4a33a2f717ba587.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Bid Farewell to Subscription Overload: Building My Own Custom Streaming Service Explained
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -53,20 +25,6 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
  We have resources if you want to [learn more about running Jellyfin](https://extra-approaches.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry-for-2024/) yourself. Instead of retreading that ground, I'm just going to cover some key information about home streaming that I wish I'd known before going in.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Early Hiccups in Building a Streaming Server
 
  One thing I didn't initially think about was that though you can avoid paying a subscription by running something like Jellyfin, you're still going to pay for something. You need a hard drive with enough space for all the movies you want. I bought a 6TB [internal HDD](https://screen-video-capture.techidaily.com/updated-2024-approved-5-secrets-to-preventing-blank-scenes-with-obs-recording/) to start with. Now, with close to 200 movies and TV shows of varying quality, I've already used up about two-thirds of the drive, so I'm looking into [affordable hard drive upgrades](https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-redmi-note-12-4g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/). A [backup drive](https://discord-videos.techidaily.com/updated-mastering-live-broadcasts-your-step-by-step-guide-to-discord-streaming/) of the same or larger size is also necessary since, otherwise, you risk losing your entire library.
@@ -75,20 +33,6 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
 ![An external Blu-ray drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52781571646_3bd529ceb6_o.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Jordan Gloor / How-To Geek
 
  Then I wanted to make my server accessible from outside my home, and that was its own job. After trying a few different methods and running into issues with port forwarding on my router, the solution I landed on was [a Cloudflare tunnel](https://www.cloudflare.com/products/tunnel/). That solved several problems like avoiding port forwarding and enabling HTTPS.
@@ -96,20 +40,6 @@ Jordan Gloor / How-To Geek
  One regret I had was where I first installed the server: my personal computer. It worked fine until someone wanted to stream something while I was using my computer for anything resource-intensive, like gaming. That led me to finally invest in a [network-attached storage (NAS)](https://fox-access.techidaily.com/new-in-2024-unleashing-potential-in-4k-with-top-gimbals-selection/) device. One of these can hold and run your server as a dedicated device instead of relying on your personal computer. There are several [streaming-capable NAS devices we recommend](https://screen-recording.techidaily.com/updated-2024-approved-navigating-virtual-boards-with-ease-a-guide-to-using-google-meet-on-diverse-devices/), but I chose the Asustor AS5202T.
 
 ![Asustor AS5202T](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/asustor-as5202t.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  Asustor AS5202T
 
@@ -121,19 +51,12 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
 
  Once I got the NAS, though, I learned that a Jellyfin server is difficult to move. There's no built-in function for it at all. There are scripts you can find online that are meant to partially automate it for you, but they still require some technical knowledge to use and aren't guaranteed to work. I ultimately decided figuring it all out wasn't worth my time, so I started a new Jellyfin instance on my NAS and copied over all my movies and shows. That was a much simpler, albeit slow, process.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Was It All Worth It?
 
@@ -147,8 +70,6 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,45 +79,20 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-charting-new-territories-innovations-in-office-spaces-for-enhanced-output/"><u>[New] Charting New Territories  Innovations in Office Spaces for Enhanced Output</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-screen-recordings-powerpoint-edition/"><u>[New] In 2024, Mastering Screen Recordings  PowerPoint Edition</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-becoming-a-pro-at-using-a-tripod-for-clear-high-quality-vlogs/"><u>[Updated] Becoming a Pro at Using a Tripod for Clear, High-Quality Vlogs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevate-create-and-earn-a-startup-guide-for-youtube-channels/"><u>[Updated] In 2024, Elevate, Create & Earn  A Startup Guide for YouTube Channels</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-youtube-permanently-stop-video-snips-complete-guide/"><u>[Updated] Mastering YouTube  Permanently Stop Video Snips [Complete Guide]</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-19-critical-examples-of-the-metaverse-unveiled/"><u>2024 Approved  19 Critical Examples of the Metaverse Unveiled</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/a-closer-look-at-twitters-most-shared-videos-of-2023/"><u>A Closer Look at Twitter's Most Shared Videos of 2023</u></a></li>
-<li><a href="https://media-tips.techidaily.com/access-your-epic-fantasy-adventure-live-play-skyrim-via-geforce-now/"><u>Access Your Epic Fantasy Adventure: Live Play Skyrim via GeForce Now!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/all-access-anytime-get-your-fix-with-rokus-new-247-sports-network/"><u>All Access, Anytime: Get Your Fix with Roku's New 24/7 Sports Network!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/amazing-features-of-benqs-latest-high-speed-ultra-hd-projector-range/"><u>Amazing Features of BenQ’s Latest High-Speed, Ultra HD Projector Range</u></a></li>
-<li><a href="https://media-tips.techidaily.com/cant-seem-to-break-up-with-spotify-despite-the-dislike/"><u>Can't Seem to Break Up With Spotify Despite the Dislike</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comparing-premium-streaming-how-does-amazon-music-prime-stack-up-against-amazon-music-unlimited/"><u>Comparing Premium Streaming: How Does Amazon Music Prime Stack Up Against Amazon Music Unlimited?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/cutting-edge-screen-recorders-for-professionals/"><u>Cutting-Edge Screen Recorders for Professionals</u></a></li>
-<li><a href="https://media-tips.techidaily.com/decoding-mp4-everything-you-need-to-know-about-playback-and-compatibility/"><u>Decoding MP4: Everything You Need to Know About Playback and Compatibility</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-how-to-watch-live-tv-for-free-the-best-apps-for-amazon-firestick-users/"><u>Discover How to Watch Live TV for Free: The Best Apps for Amazon Firestick Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/discover-the-hidden-layers-in-facebooks-leaked-documents/"><u>Discover the Hidden Layers in Facebook’s Leaked Documents</u></a></li>
-<li><a href="https://media-tips.techidaily.com/dish-network-announces-second-price-hike-what-you-need-to-know/"><u>Dish Network Announces Second Price Hike: What You Need To Know</u></a></li>
-<li><a href="https://media-tips.techidaily.com/dont-miss-out-get-your-plex-lifetime-subscription-at-a-20-discount-immediately/"><u>Don't Miss Out! Get Your Plex Lifetime Subscription at a 20%% Discount Immediately!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/embrace-the-post-apocalyptic-journey-with-the-new-fallout-hit-dive-into-survival-now/"><u>Embrace the Post-Apocalyptic Journey with the New Fallout Hit - Dive Into Survival Now!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhancing-your-privacy-on-apple-music-top-4-strategies-for-discreet-enjoyment/"><u>Enhancing Your Privacy on Apple Music: Top 4 Strategies for Discreet Enjoyment</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enjoy-high-definition-on-youtube-tv-now-featuring-1080p-video-improvement/"><u>Enjoy High Definition on YouTube TV - Now Featuring 1080P Video Improvement!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exciting-news-roku-introduces-round-the-clock-sports-streaming-option/"><u>Exciting News: Roku Introduces Round-the-Clock Sports Streaming Option!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exclusive-offer-enjoy-three-months-of-apple-tvplus-entertainment-at-only-599/"><u>Exclusive Offer: Enjoy Three Months of Apple TV+ Entertainment at Only $5.99</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experience-the-latest-convenient-way-to-watch-films-rent-and-enjoy-via-plex/"><u>Experience the Latest Convenient Way to Watch Films – Rent and Enjoy via Plex!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964489791-experience-ultra-speed-charging-like-never-before-get-cable-matters-trailblazing-23-thunderbolt-5-cable-120gbps-and-240w-of-power-awaits-you/"><u>Experience Ultra-Speed Charging Like Never Before! Get Cable Matters' Trailblazing $23 Thunderbolt 5 Cable - 120Gbps and 240W of Power Awaits You!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fooling-netflixs-geo-detection-system-tips-for-mimicking-a-household-connection/"><u>Fooling Netflix's Geo-Detection System: Tips for Mimicking a Household Connection</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guide-connecting-and-disconnecting-your-google-tv-remote-with-ease/"><u>Guide: Connecting & Disconnecting Your Google TV Remote with Ease</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-effective-advertising-on-youtube-is-being-undermined-by-rising-adblocker-usage/"><u>How Effective Advertising on YouTube Is Being Undermined by Rising Adblocker Usage</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-8-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 8 Plus Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-xiaomi-civi-3-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi Civi 3 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-your-airbnbs-television-might-compromise-your-privacy/"><u>How Your Airbnb's Television Might Compromise Your Privacy</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-edge-40-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Edge 40 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/introducing-the-new-era-sharps-oled-smart-tvs-with-roku-integration-now-available/"><u>Introducing the New Era: Sharp's OLED Smart TVs with Roku Integration Now Available</u></a></li>
-<li><a href="https://media-tips.techidaily.com/introducing-youtubes-new-smart-assistant-an-ai-radio-experience-similar-to-spotify/"><u>Introducing YouTube's New Smart Assistant: An AI Radio Experience Similar to Spotify</u></a></li>
-<li><a href="https://media-tips.techidaily.com/leveraging-artificial-intelligence-on-youtube-for-enhanced-video-viewing-experience/"><u>Leveraging Artificial Intelligence on YouTube for Enhanced Video Viewing Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-to-correct-the-not-found-ac1st16dll-message/"><u>Step-by-Step Fixes to Correct the Not Found Ac1St16.DLL Message</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-corsair-void-pro-driver-installation-for-windows-users/"><u>Step-by-Step Guide: Corsair Void Pro Driver Installation for Windows Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/techniques-to-prevent-dropouts-in-obs-studio-for-2024/"><u>Techniques to Prevent Dropouts in OBS Studio for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/vlcs-new-feature-support-for-commercial-content-on-your-favorite-videos/"><u>VLC's New Feature: Support for Commercial Content on Your Favorite Videos</u></a></li>
-<li><a href="https://media-tips.techidaily.com/why-turning-off-youtubes-intelligent-downloading-is-a-must-a-simple-guide/"><u>Why Turning Off YouTube's Intelligent Downloading Is a Must: A Simple Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/why-upgrade-from-youtube-music-to-youtube-premium-today/"><u>Why Upgrade From YouTube Music to YouTube Premium Today?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ranking-top-10-srt-modifications-for-pc-and-macos/"><u>[New] 2024 Approved Ranking Top 10 SRT Modifications for PC & macOS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-crafting-content-that-captivates-the-square-video-formula-on-fb/"><u>[New] In 2024, Crafting Content That Captivates The Square Video Formula on FB</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-listings-for-melodic-mobile-alerts/"><u>[New] Master Listings for Melodic Mobile Alerts</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/black-friday-deal-alert-grab-rokus-premium-4k-streamer-at-an-unbelievable-30-discount/"><u>Black Friday Deal Alert: Grab Roku's Premium 4K Streamer at an Unbelievable $30 Discount!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/chromecasts-demise-a-reflection-of-googles-oversight/"><u>Chromecast's Demise: A Reflection of Google's Oversight</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-easy-collaboration-with-youtube-musics-innovative-personal-radio-streaming-option/"><u>Discover the Easy Collaboration with YouTube Music’s Innovative Personal Radio Streaming Option</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-itel-p40-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Itel P40 online without jailbreak</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-how-to-use-dslr-for-facebook-live-on-your-pc/"><u>In 2024, How to Use DSLR for Facebook Live on Your PC?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-the-visual-storyteller-youtube-cinematic-training/"><u>Mastering the Visual Storyteller YouTube Cinematic Training</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/picture-perfection-ranking-of-photo-grid-tools/"><u>Picture Perfection Ranking of Photo Grid Tools</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-netflixs-shift-away-from-the-budget-friendly-streaming-option/"><u>Understanding Netflix's Shift Away From the Budget-Friendly Streaming Option</u></a></li>
+<li><a href="https://media-tips.techidaily.com/upgrade-to-a-verizon-family-plan-and-enjoy-disneyplus-hulu-espn-at-no-extra-cost/"><u>Upgrade to a Verizon Family Plan and Enjoy Disney+, Hulu, ESPN at No Extra Cost</u></a></li>
+<li><a href="https://media-tips.techidaily.com/view-real-time-streams-with-plex-discover-monitor-friend-watch-parties/"><u>View Real-Time Streams with Plex Discover - Monitor Friend Watch Parties</u></a></li>
+<li><a href="https://media-tips.techidaily.com/voter-registration-difficulty-registering-to-vote-might-lower-turnout-rates-since-only-registered-individuals-are-counted-in-these-statistics/"><u>Voter Registration: Difficulty Registering to Vote Might Lower Turnout Rates Since only Registered Individuals Are Counted in These Statistics.</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Why Digital Filmstreams Can't Match the Charm of In-Person DVD Lending Services
-date: 2024-09-11T16:02:15.933Z
-updated: 2024-09-16T16:08:08.550Z
+date: 2024-09-15T16:46:46.906Z
+updated: 2024-09-21T16:22:12.997Z
 tags:
   - streaming
 categories:
@@ -33,28 +33,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  With digital rentals, once you start the movie, you can only watch it on one account, and that's it. Physical rentals make it a simple matter of handing the disc or tape over, but with digital rentals they control everything you do during the rental period. I do not like that!
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Viewing Period and the Rental Period Were the Same
 
  One rather irritating thing that digital rentals do is have a rental period, but if you start watching the movie, then another clock starts ticking. So, for example, you've rented a movie for 30 days, but once you start watching it, you have 48 hours before the rental ends. Not only is this needlessly complicated, but it feels a little unfair to tell me I'm renting a movie for a month, when I'm only renting it for two days. I'm not getting any extra convenience from the 30-day window to start playing the film.
 
  With a physical rental, I could watch the movie over and over during the rental period. It didn't evaporate shortly after I started playing it. Although they did actually try to make [physical DVDs that fade within 48 hours](https://www.nytimes.com/2004/12/02/technology/circuits/for-the-noreturn-dvd-rental-its-48-hrs-then-fade-to.html). Needless to say, it didn't take off, but oh boy did the movie industry get the last laugh with digital rentals.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You Could Choose to Return It Late
 
  Returning a movie late was something you could choose to do. The only real result was that you had to pay extra money on top of the original rental amount. Effectively, you could extend your rental and just pay for it when you return the movies. No such luck with digital rentals. They "return" automatically. I guess it doesn't make that much of a difference, since you can just immediately rent it again, but I at least enjoyed the illusion of feeling like an outlaw paying my bounty for rebellious behavior.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Yes, It Was a Social Thing Too
@@ -78,13 +78,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-leading-5-gaming-screens-with-ps5-support/"><u>[New] Leading 5 Gaming Screens with PS5 Support</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-traffic-lure-top-artisan/"><u>[Updated] 2024 Approved Traffic Lure Top Artisan</u></a></li>
-<li><a href="https://media-tips.techidaily.com/4k-dolby-vision-enhances-the-viewing-experience-at-paris-olympics-unfortunately-peacock-is-not-on-board/"><u>4K Dolby Vision Enhances the Viewing Experience at Paris Olympics; Unfortunately, Peacock Is Not on Board</u></a></li>
-<li><a href="https://media-tips.techidaily.com/amazon-prime-a-comprehensive-guide-to-streaming-mlb-matches-live/"><u>Amazon Prime: A Comprehensive Guide to Streaming MLB Matches Live</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-guide-expanding-youtubes-consistent-sound-balance-across-multiple-gadgets/"><u>Comprehensive Guide: Expanding YouTube's Consistent Sound Balance Across Multiple Gadgets</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-se-2020-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2020) Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-downloads-unlocked-with-free-online-and-global-viewing/"><u>Top 6 Downloads – Unlocked with Free Online & Global Viewing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mukbang-mastery-from-novice-to-pro-video-creator/"><u>[New] 2024 Approved Mukbang Mastery From Novice to Pro Video Creator</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-core-principles-in-internet-story-development/"><u>[New] In 2024, Core Principles in Internet Story Development</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-arena-of-achievements-a-million-gaming-milestones/"><u>[Updated] 2024 Approved Arena of Achievements A Million Gaming Milestones</u></a></li>
+<li><a href="https://media-tips.techidaily.com/showdown-in-high-definition-how-xgimis-imax-enhanced-projector-challenges-sonys-dominance/"><u>Showdown in High Definition: How XGIMI's IMAX-Enhanced Projector Challenges Sony's Dominance</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-poco-x6-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Poco X6</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-exciting-launch-of-the-combined-disneyplus-and-hulu-application-just-around-the-corner/"><u>The Exciting Launch of the Combined Disney+ & Hulu Application: Just Around the Corner!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-for-extracting-youtube-video-sounds-effortlessly/"><u>The Ultimate Tutorial for Extracting YouTube Video Sounds Effortlessly</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ranked-video-streaming-platforms-a-comprehensive-guide/"><u>Top-Ranked Video Streaming Platforms : A Comprehensive Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-ios-audio-platforms-ultimate-choices-for-iphone-and-ipad-users/"><u>Top-Rated iOS Audio Platforms: Ultimate Choices for iPhone & iPad Users</u></a></li>
 </ul></div>
 
