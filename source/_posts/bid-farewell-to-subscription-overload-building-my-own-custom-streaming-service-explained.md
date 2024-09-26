@@ -1,7 +1,7 @@
 ---
 title: "Bid Farewell to Subscription Overload: Building My Own Custom Streaming Service Explained"
-date: 2024-09-14T16:22:55.982Z
-updated: 2024-09-21T16:05:45.439Z
+date: 2024-09-22T02:51:50.396Z
+updated: 2024-09-26T09:09:28.442Z
 tags:
   - streaming
 categories:
@@ -19,11 +19,31 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
  If you're like me, you're tired of seeing the phrase "price hike" in headlines about the streaming services you're paying for. I got so tired I decided to use my movie collection to build what you might call a personal streaming service. Here's what it involved.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Can You Stream Movies Yourself?
 
  If you have copies of your movies or shows saved to a computer or [external drive](https://facebook-videos.techidaily.com/updated-in-2024-how-to-engage-fans-through-real-time-streams-mobile-edition/), you can use a media server to organize and stream that content remotely to a TV, phone, or computer. If anyone has given you a login for their [Plex](https://network-issues.techidaily.com/instantly-eradicate-playback-problems/) account, you've seen one of these servers in action. Plex is one of your options, but there are several [Plex alternatives](https://win-answers.techidaily.com/effective-remedies-for-unresponsive-qbittorrent-torrents/) out there. I went with Jellyfin for myself. If you want to avoid having to solve technical issues yourself, though, and don't mind spending a little money for premium features, Plex might be your best bet.
 
  We have resources if you want to [learn more about running Jellyfin](https://extra-approaches.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry-for-2024/) yourself. Instead of retreading that ground, I'm just going to cover some key information about home streaming that I wish I'd known before going in.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Early Hiccups in Building a Streaming Server
 
@@ -32,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
  You also can't forget about the optical drive to [rip your DVDs and Blu-rays](https://on-screen-recording.techidaily.com/new-in-2024-innovative-ways-to-capture-online-discussions/). My tower PC has a DVD reader, but I wanted one that could read Blu-rays too, so I bought the [ASUS BW-16D1X-U](https://www.amazon.com/Computer-International-BW-16D1X-U-Powerful-Blu-ray/dp/B071VP89X1?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004575&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-canceled-my-streaming-services-and-rolled-my-own%2F&asc%5Fcampaign=Evergreen). I also had to flash the drive to enable reading [4K UHD](https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-a78-5g-without-puk-codes-by-drfone-android/) Blu-rays, which was a bit technical (but you can skip it if you don't care about 4K viewing). Once I got all of that squared away, though, I was happily building my library of movies I could stream from anywhere.
 
 ![An external Blu-ray drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52781571646_3bd529ceb6_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
 
@@ -52,10 +79,10 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
  Once I got the NAS, though, I learned that a Jellyfin server is difficult to move. There's no built-in function for it at all. There are scripts you can find online that are meant to partially automate it for you, but they still require some technical knowledge to use and aren't guaranteed to work. I ultimately decided figuring it all out wasn't worth my time, so I started a new Jellyfin instance on my NAS and copied over all my movies and shows. That was a much simpler, albeit slow, process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Was It All Worth It?
@@ -77,5 +104,23 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unveiling-the-efficiency-of-screencastify-recorder/"><u>[New] 2024 Approved Unveiling the Efficiency of Screencastify Recorder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ideal-starter-accessories-for-gopro-newbies/"><u>[New] Ideal Starter Accessories for GoPro Newbies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-copyright-compliance-and-photovideo-sharing/"><u>[New] In 2024, Copyright Compliance & Photo/Video Sharing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-decoding-ig-analytics-mastering-the-art-of-social-media-insights/"><u>[Updated] 2024 Approved Decoding IG Analytics Mastering the Art of Social Media Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-examining-instagram-video-selfie-credibility-questions/"><u>2024 Approved Examining Instagram Video Selfie Credibility Questions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/a-comprehensive-guide-on-the-inner-workings-of-3d-sound-and-trusted-platforms-for-downloads/"><u>A Comprehensive Guide on the Inner Workings of 3D Sound & Trusted Platforms for Downloads</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-gap-between-tech-specialists-and-user-experiences-with-innovative-design-strategies/"><u>Bridging the Gap Between Tech Specialists and User Experiences with Innovative Design Strategies</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-our-no-cost-mp3-audio-transformation-app-perfect-for-ios-devices/"><u>Download Our No-Cost MP3 Audio Transformation App - Perfect for iOS Devices</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-conversion-free-methods-for-turning-flac-files-into-mp3-without-losing-quality/"><u>Effortless Conversion: Free Methods for Turning FLAC Files Into MP3 without Losing Quality</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exploring-soundscape-creation-how-to-use-audiotool-and-other-tools-for-home-based-music-production/"><u>Exploring Soundscape Creation: How to Use AudioTool and Other Tools for Home-Based Music Production</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-and-secure-conversion-of-aac-audio-files-to-mp3-the-best-apps-reviewed/"><u>Free & Secure Conversion of AAC Audio Files to MP3: The Best Apps Reviewed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-deciphering-screen-recorders-bandicam-or-camtasia/"><u>In 2024, Deciphering Screen Recorders Bandicam or Camtasia?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-13-pro-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 13 Pro? Learn All 4 Methods</u></a></li>
+<li><a href="https://media-tips.techidaily.com/two-easy-techniques-for-transforming-high-quality-flac-audio-to-mp3-formats-preserving-sound-perfection-online-and-cost-free/"><u>Two Easy Techniques for Transforming High-Quality FLAC Audio to MP3 Formats, Preserving Sound Perfection (Online & Cost-Free)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-how-to-combine-sounds-effectively-using-pc-and-internet-tools/"><u>Ultimate Guide: How To Combine Sounds Effectively Using PC & Internet Tools</u></a></li>
+</ul></div>
 

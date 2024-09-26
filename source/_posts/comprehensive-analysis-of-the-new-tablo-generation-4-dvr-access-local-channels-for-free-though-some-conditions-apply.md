@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of the New Tablo (Generation 4) DVR: Access Local Channels for Free, Though Some Conditions Apply"
-date: 2024-09-20T16:49:08.944Z
-updated: 2024-09-21T16:18:06.250Z
+date: 2024-09-24T22:44:34.155Z
+updated: 2024-09-25T20:51:02.217Z
 tags:
   - streaming
 categories:
@@ -75,6 +75,13 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
 
 ![Ports on the Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek
 
  The USB 2.0 port can be used to add more storage for recordings. Tablo claims you can connect USB hard drives up to 8TB in size, which would give you around 1,000 hours of HD storage. Any external USB hard drive or solid-state drive should work, but not flash drives, since most of them can't sustain the read and write speeds required for streaming media. The new Tablo DVR has enough built-in flash storage for 50 hours of HD recordings.
@@ -89,18 +96,18 @@ Corbin Davenport / How-To Geek
 
 ![Holding a TV antenna from Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek
 
 Close 
 
  You might notice something missing from that list of ports: there's no video output. You can only watch content from the Tablo through the app, which is available on most streaming sticks and some smart TVs. If you don't have a compatible TV, you'll need to buy a [streaming stick](https://facebook-video-share.techidaily.com/updated-prime-selection-of-screen-capture-software-for-gaming/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Software & Setup
 
@@ -122,11 +129,25 @@ Close
 
  The player interface is pretty simple. There's a play and pause button in the center, and you can jump forwards and backward using the 15-second buttons or the timeline scrubber. There's also some basic information at the top, including the channel name and number, age rating, and program title. However, you can't switch channels from the player (you have to close the stream first), and there's no option to use a Chromecast or AirPlay device. I also noticed on my iPhone 15 that the app wasn't properly rotating when switching to the player. The video feed was rotated, but the app remained in portrait mode, leaving the phone's gesture button on the wrong side. The Android and iPad apps didn't have the same issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Performance and Playback
 
  The Tablo DVR has two built-in tuners, meaning you can watch and record up to two live channels simultaneously, and the Tablo can stream TV to up to six devices simultaneously. For example, two people could be watching different live TV channels while four other people are watching recordings, or six people could watch recordings while the Tablo DVR records shows on two channels. That can be helpful for large households, but not for sharing with friends or family somewhere else—the 4th Gen Tablo DVR can't be accessed from outside your local network, unlike [Plex live TV](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000923/https://www.plex.tv/tv/) and [previous Tablo models](https://support.tablotv.com/hc/en-us/articles/201445346-Can-I-watch-live-TV-and-recorded-programs-outside-my-home-).
 
 ![Tablo player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_5401.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Tablo says in [the FAQ section on its website](https://www.tablotv.com/product/) that a 4-tuner Tablo is under development, which would allow more simultaneous recordings and/or more devices streaming live TV at once. If you _absolutely_ need more tuners right now, you could buy another Tablo unit and switch between them as needed in the Tablo app. You would also need another antenna for the other Tablo, or you could share the same antenna across multiple devices with an [amplified splitter](https://www.amazon.com/Amplified-Splitter-Pixelated-Low-Strength-Distributes/dp/B083KKFJLY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate).
 
@@ -144,16 +165,16 @@ Close
 
  Sling TV has also sold some AirTV receivers over the years, which are designed to add local channels to an existing Sling TV package, but you don't strictly need a Sling subscription. I've [been using an AirTV 2](https://www.spacebar.news/p/antenna-tv-is-pretty-cool-actually), allowing me to watch TV through the Sling app (which is [available on more platforms than Tablo](https://sling-tv.pxf.io/c/156932/1132376/14334?subId1=UUhtgUeUpU2000923&subId2=ehtg&u=https%3A%2F%2Fwww.sling.com%2Fsupported-devices)) or through a desktop browser. However, Sling only appears to be [selling the AirTV devices](https://sling-tv.pxf.io/c/156932/1132376/14334?subId1=UUhtgUeUpU2000923&subId2=ehtg&u=https%3A%2F%2Fwww.sling.com%2Fsupported-devices%2Fairtv-mini) in bundle packages with a Sling TV subscription, as of the time of writing. You can find standalone AirTV 2 receivers on eBay and other similar sites, but it doesn't seem to be as well-supported as Tablo at this point.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Tablo 4th Gen?
 
 ![Tablo 4th Gen from top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
 
@@ -166,13 +187,6 @@ Corbin Davenport / How-To Geek
 ![Tablo 4th Gen DVR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Tablo 4th Gen
 
@@ -195,5 +209,24 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-digital-compositing-a-complete-kinemaster-green-screen-tutorial-for-2024/"><u>[New] Mastering Digital Compositing A Complete Kinemaster Green Screen Tutorial for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-quick-guide-to-troubleshoot-instagram-videos-for-2024/"><u>[New] Quick Guide to Troubleshoot Instagram Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-public-domain-paintings-insights-and-links/"><u>[New] Unveiling Public Domain Paintings Insights & Links</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-high-fidelity-audio-with-xld-the-ultimate-windows-app-for-x-lossless-format/"><u>Convert High-Fidelity Audio with XLD: The Ultimate Windows App for X Lossless Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-leading-mp4-to-mp3-converters-of-2023-best-picks-for-your-pc-or-mac-experience/"><u>Discover the Leading MP4-to-MP3 Converters of 2023: Best Picks for Your PC or Mac Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-guide-enjoy-top-quality-dvd-viewing-on-your-xbox-one-two-simple-methods/"><u>Effortless Guide: Enjoy Top-Quality DVD Viewing on Your Xbox One - Two Simple Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-converter-easily-transform-wma-files-into-high-quality-mp4-format-with-movavi-t1726233817647257/"><u>Free Online Converter: Easily Transform WMA Files Into High-Quality MP4 Format with Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/remote-deletion-of-data-on-iphone-and-ipad-a-comprehensive-tutorial/"><u>Remote Deletion of Data on iPhone & iPad - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/seamless-transfer-of-kindle-ebooks-onto-blackberry-devices/"><u>Seamless Transfer of Kindle Ebooks Onto Blackberry Devices</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-avi-files-into-high-quality-jpgs-successfully/"><u>Step-by-Step Guide: Transforming AVI Files Into High-Quality JPGs Successfully</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-free-psp-video-conversion-software-how-to-easily-transform-your-movies-into-psp-format/"><u>Top Free PSP Video Conversion Software: How to Easily Transform Your Movies Into PSP Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-all-in-one-avi-to-mpeg4-3g2-video-format-converter-must-try/"><u>Top Rated All-in-One AVI to MPEG4 (3G2) Video Format Converter Must Try!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-mkv-converter-apps-for-macos-sierra-transforming-mkv-files-made-easy/"><u>Top Rated MKV Converter Apps for macOS Sierra: Transforming MKV Files Made Easy</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-video-converters-of-2024-free-and-paid-options-for-pc-and-mac/"><u>Top Rated Video Converters of 2024: Free & Paid Options for PC and Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-update-error-0x8024402c-a-complete-solution/"><u>Troubleshooting Tips for Windows Update Error 0X8024402C - A Complete Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-sound-control-problems-solved-quick-fixes-for-dead-volume-buttons/"><u>Windows 11 Sound Control Problems Solved: Quick Fixes for Dead Volume Buttons</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your PS Plus Perks: How To Discover & Enjoy Complimentary Films"
-date: 2024-09-19T16:47:04.381Z
-updated: 2024-09-21T16:06:48.685Z
+date: 2024-09-20T23:59:48.119Z
+updated: 2024-09-26T02:38:02.605Z
 tags:
   - streaming
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 * PlayStation Plus members can access a selection of free movies, and have the option to purchase or rent (with big discounts).
 
  You probably subscribe to PlayStation Plus for online gaming and a catalog of on-demand games, but your subscription also comes with access to a selection of free movies as part of Sony Pictures Core. Here's how you can start watching today.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Sony Pictures Core: What Is It, Anyway?
 
@@ -37,13 +44,34 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 
 ![The "TV and Video" section on the PS5's "Media" tab, showing off new movies and TV shows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229131024.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scrolling down from here should eventually reveal the Sony Pictures Core App, which you can download for free.
 
 ![The icon for the Sony Pictures Core app on the "TV & Movies" tab on the PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229131158-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The "Media" tab on the PS5 is also where you will open the app once it is installed, as all streaming services appear there.
 
  On a PS4 you can launch the PlayStation Store app and search for "Sony Pictures Core" and then launch the app from the main interface.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Find Free Movies on Sony Pictures Core
 
@@ -51,21 +79,7 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 
 ![The PlayStation Plus section of Sony Pictures Core that offers free movies for Premium tier subscribers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229130349.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here, you will find a select library of movies of various genres that are available to stream immediately with no purchase required. Titles range from animated video game tie-ins to classic sci-fi and drama films, with over 100 total movies available as of the time of this writing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Purchase or Rent Movies in Core Too
 
@@ -98,5 +112,24 @@ Zachary Cimaglio/How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-setup-and-strategies-for-youtube-gamers-live-sessions/"><u>[New] In 2024, Setup and Strategies for YouTube Gamers' Live Sessions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unveiling-the-techniques-of-premium-vr-gametime-captures/"><u>[Updated] In 2024, Unveiling the Techniques of Premium VR Gametime Captures</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-and-enjoy-the-definitive-guide-to-coordinated-viewing-parties-on-netflix/"><u>Connect & Enjoy: The Definitive Guide to Coordinated Viewing Parties on Netflix</u></a></li>
+<li><a href="https://media-tips.techidaily.com/converting-from-wonderfilm-to-mp4-with-ease-your-guide/"><u>Converting From Wonderfilm to MP4 with Ease: Your Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-queer-tv-programs-available-on-netflix-this-july-2024/"><u>Discover the Best Queer TV Programs Available on Netflix This July 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-tutorial-on-transforming-your-h264-videos-into-the-avi-format/"><u>Easy Tutorial on Transforming Your H.264 Videos Into the AVI Format</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-blaze-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Blaze Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/locate-your-next-charge-discovering-ev-plugs-through-google-maps/"><u>Locate Your Next Charge: Discovering EV Plugs Through Google Maps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-the-enhanced-functionality-of-the-newly-released-samsung-galaxy-s21/"><u>Navigating Through the Enhanced Functionality of the Newly Released Samsung Galaxy S21</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-guide-converting-mts-video-files-into-mp4-for-windows-and-macos-users/"><u>Quick Guide: Converting MTS Video Files Into MP4 for Windows and macOS Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-swf-video-files-into-high-quality-mp4-top-5-techniques/"><u>Step-by-Step Guide: Converting SWF Video Files Into High-Quality MP4 - Top 5 Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-uploading-ultra-high-definition-videos-to-youtube-in-4k-720p-or-1080p/"><u>Step-by-Step Tutorial: Uploading Ultra High-Definition Videos to YouTube in 4K, 720P, or 1080P</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-comprehensive-guide-to-selecting-a-4k-smartphone-or-tablet-with-video-playback-and-recording-capabilities/"><u>The Comprehensive Guide to Selecting a 4K Smartphone or Tablet with Video Playback and Recording Capabilities</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/5-virtual-classrooms-youtube-channels-pushing-scientific-boundaries/"><u>Top 15 Virtual Classrooms YouTube Channels Pushing Scientific Boundaries</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-transforming-wmv-files-into-flv-format-top-6-techniques/"><u>Ultimate Guide: Transforming WMV Files Into FLV Format - Top 6 Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unveiling-the-champions-expert-analysis-of-the-5-best-ipod-video-convertors-on-the-market/"><u>Unveiling the Champions: Expert Analysis of the 5 Best iPod Video Convertors on the Market</u></a></li>
+</ul></div>
 

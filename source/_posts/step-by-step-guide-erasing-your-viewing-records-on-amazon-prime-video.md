@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Erasing Your Viewing Records on Amazon Prime Video"
-date: 2024-09-15T16:43:05.223Z
-updated: 2024-09-21T16:38:25.701Z
+date: 2024-09-19T18:01:39.998Z
+updated: 2024-09-25T21:17:20.410Z
 tags:
   - streaming
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 
  Amazon Prime Video tracks what you watch to recommend more content you'll enjoy. However, if you share your account with people who have different tastes, they'll also receive recommendations based on your viewing habits. If you don't want this, you can clear your Prime Video watch history.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Clear Watch History on Amazon Prime Video
 
  To clear your watch history, visit the Amazon Prime Video website in a browser and then navigate to your Profile > Account & Settings > Watch History. That's where you'll find the option to remove content.
@@ -39,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 
 ![Delete movie from Watch History option in Amazon Prime Video.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/delete-movie-from-watch-history-option-in-amazon-prime-video.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to remove a web series from the watch history, click "Delete Episodes from Watch History" next to it.
 
 ![Delete episodes from Watch History option in Amazon Prime Video](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/delete-episodes-from-watch-history-option-in-amazon-prime-video.jpg) 
@@ -47,14 +61,14 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 
 ![Cross icon to delete an episode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/cross-icon-to-delete-an-episode.jpg) 
 
- That is how you can clear your watch history on Amazon Prime Video. Unfortunately, there is no option to clear your entire watch history at once. You will need to manually delete each episode and movie individually.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ That is how you can clear your watch history on Amazon Prime Video. Unfortunately, there is no option to clear your entire watch history at once. You will need to manually delete each episode and movie individually.
 
 ##  How to Remove Something From Continue Watching on Amazon Prime Video
 
@@ -69,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 ![Hide This movie option in Prime mobile app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/hide-this-movie-option-in-prime-mobile-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Delete Content from Continue Watching on the Prime Video Desktop App
@@ -90,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 ![Hide This movie option in Prime TV app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/hide-this-movie-option-in-prime-tv-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Aman Kumar /How-To Geek
@@ -115,5 +129,16 @@ Aman Kumar /How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-direct-twitter-media-transfer-to-whatsapp/"><u>[Updated] In 2024, Direct Twitter Media Transfer to WhatsApp</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-feature-alert-spotify-introduces-live-music-video-playback/"><u>New Feature Alert: Spotify Introduces Live Music Video Playback!</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-operative-bin-icon-on-windows-11/"><u>Restoring Operative Bin Icon on Windows 11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/save-on-entertainment-verizons-new-myhome-internet-packages-include-special-streaming-deals/"><u>Save on Entertainment: Verizon's New MyHome Internet Packages Include Special Streaming Deals</u></a></li>
+<li><a href="https://media-tips.techidaily.com/starting-june-new-restrictions-on-sharing-disneypluss-account-passwords/"><u>Starting June: New Restrictions on Sharing Disney+'s Account Passwords</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-turning-off-your-exposure-to-youtube-shorts/"><u>Step-by-Step Guide: Turning Off Your Exposure to YouTube Shorts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-memory-issues-in-roblox-games-on-ios-devices/"><u>Troubleshooting Memory Issues in Roblox Games on iOS Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/be-growth-secrets-masterful-narration-techniques/"><u>YouTube Growth Secrets Masterful Narration Techniques</u></a></li>
+</ul></div>
 

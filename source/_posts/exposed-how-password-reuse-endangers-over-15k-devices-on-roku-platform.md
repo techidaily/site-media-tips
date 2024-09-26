@@ -1,7 +1,7 @@
 ---
 title: "Exposed: How Password Reuse Endangers Over 15K Devices on Roku Platform"
-date: 2024-09-18T16:31:45.722Z
-updated: 2024-09-21T16:21:25.696Z
+date: 2024-09-20T09:34:15.196Z
+updated: 2024-09-26T09:30:28.963Z
 tags:
   - streaming
 categories:
@@ -42,12 +42,28 @@ In a new [breach notice](http://oag.ca.gov/system/files/Template%20Notification%
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-how-to-create-gifs-from-youtube-videos-on-desktop-and-mobile-devices/"><u>[New] In 2024, How to Create GIFs From YouTube Videos on Desktop and Mobile Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-guide-to-drone-visuals/"><u>[Updated] Comprehensive Guide to Drone Visuals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-resolving-early-stage-explosions-in-atomic-heart-systems-at-boot-up/"><u>Diagnosing and Resolving Early-Stage Explosions in Atomic Heart Systems at Boot Up</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-efficiently-compress-your-mp3s-using-audacity-expert-tips-and-techniques/"><u>How to Efficiently Compress Your MP3s Using Audacity - Expert Tips & Techniques</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-14-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 14</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/leveraging-tiktok-for-greater-facebook-reach-and-impact-for-2024/"><u>Leveraging TikTok for Greater Facebook Reach and Impact for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-win11-a-detailed-look-at-zoom-functions/"><u>Navigating Win11 A Detailed Look at Zoom Functions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/proven-strategies-to-cut-out-distracting-ambient-noise-from-audio-files/"><u>Proven Strategies to Cut Out Distracting Ambient Noise From Audio Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/smart-aiff-file-compression-strategies-for-efficient-storage-and-management/"><u>Smart AIFF File Compression Strategies for Efficient Storage and Management</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-smooth-playback-for-bluetooth-devices-on-windows-1110/"><u>Step-by-Step Guide: Smooth Playback for Bluetooth Devices on Windows 11/10</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-top-5-best-id3-music-tag-editors-for-windows-and-macos/"><u>The Ultimate Guide: Top 5 Best ID3 Music Tag Editors for Windows & macOS</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-professional-apps-for-eliminating-audio-background-noise-efficiently/"><u>Top 5 Professional Apps for Eliminating Audio Background Noise Efficiently</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ranking-wav-compression-tools-find-your-perfect-choice/"><u>Top-Ranking WAV Compression Tools: Find Your Perfect Choice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-chatgpt-prompt-innovation-spotlighting-20-premier-examples-from-github/"><u>Ultimate Guide to ChatGPT Prompt Innovation – Spotlighting 20 Premier Examples From GitHub</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

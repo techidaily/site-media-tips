@@ -1,7 +1,7 @@
 ---
 title: "Guide: Setting Up a Separate User Profile for Non-Household Members on Netflix"
-date: 2024-09-17T16:55:47.886Z
-updated: 2024-09-21T16:39:32.490Z
+date: 2024-09-20T01:58:20.502Z
+updated: 2024-09-25T20:49:39.373Z
 tags:
   - streaming
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 * Becoming an Extra Member is cost-effective for individuals but not ideal for households with multiple people who want to stream simultaneously.
 
  Netflix lets you create individual profiles for each family member, but the company prefers for everyone to live in the same household. Eventually, though, people move out. What then? Turns out, instead of paying for their own account, you can set them up as an "Extra Member" on yours.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Is an Extra Member?
 
@@ -40,26 +47,26 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 ![Netflix website showing the cost of adding an extra member.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/netflix-extra-member-cost.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  An Extra Member costs $7.99 each month to add to your account. That makes this option slightly more expensive than Netflix's ad-supported tier, which goes for $6.99 a month. Extra Members can only be added to the "Standard" and "Premium" plans, which, after [price increases in 2023](https://youtube-web.techidaily.com/emystifying-video-seo-on-youtube-as-a-novice/), cost $15.49 and $22.99 respectively. Standard plans only allow for a single Extra Member, whereas Premium plans support up to two.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  ​How to Add an Extra Member on Netflix
 
  As an account owner, there are two steps to add an Extra Member. First, you purchase an Extra Member slot (or two, depending on your plan). You can do this by going to the [Netflix website](https://www.netflix.com/) and clicking on your [custom profile image](https://extra-support.techidaily.com/in-2024-prime-buzz-generator-prodigy/) in the top-right corner. Select "Account" and scroll down to "Buy an Extra Member Slot."
 
 ![The option to buy an extra member on the Netflix website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/netflix-add-extra-member.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ​​​​​​
 
@@ -69,25 +76,11 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 
 ![Sending an invite to an Extra Member on the Netflix website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/netflix-extra-member-invite.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It's at this point that Netflix will ask whether the Extra Member intends to create a new profile or transfer an existing one. If you plan on transferring an existing profile, this is something you must manually enable.
 
  You can enable profile transfers by returning to your Netflix account settings and scrolling down to "Turn on Profile Transfers." The website will then ask explicitly if you wish to allow profile transfers. Click "Allow."
 
 ![The Netflix website describing the profile transfer process](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/netflix-allow-profile-transfers.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Remove an Extra Member
 
@@ -96,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
  On the Netflix settings page, look for the "Extra Members" section. Here, you will find the option labeled "Manage Extra Members."
 
 ![The option to manage Extra Members on the Netflix website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/netflix-manage-extra-members-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Clicking this option will send you to a page listing all of your pending or existing Extra Members. You can choose to cancel an invitation that hasn't been accepted or remove a specific member that you no longer wish to pay for.
 
@@ -124,5 +124,20 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cutting-the-excess-a-guide-to-shortening-youtube-videos/"><u>[New] 2024 Approved Cutting the Excess A Guide to Shortening YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixel-problems-non-existent-videos-on-a6400/"><u>[Updated] Pixel Problems Non-Existent Videos on A6400</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-in-depth-review-unveiling-bublcams-full-potential/"><u>2024 Approved In-Depth Review Unveiling Bublcam's Full Potential</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-tutorial-inshot-on-desktop-video-creation/"><u>Cutting-Edge Tutorial Inshot on Desktop Video Creation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/deep-into-video-creation-with-these-top-12-vlogger-friendly-cameras-for-2024/"><u>Dive Deep Into Video Creation with These Top 12 Vlogger-Friendly Cameras for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-crafting-presentations-using-chatgpt-tools/"><u>Effective Strategies for Crafting Presentations Using ChatGPT Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-marvell-avastar-wireless-ac-network-controller-driver-on-surface/"><u>Install Marvell Avastar Wireless-AC Network Controller Driver on Surface</u></a></li>
+<li><a href="https://media-tips.techidaily.com/limited-offer-alert-enjoy-50-off-your-geforce-now-fees-dont-miss-out/"><u>Limited Offer Alert: Enjoy 50% Off Your GeForce NOW Fees - Don't Miss Out!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/max-out-your-savings-discover-the-enhanced-benefits-of-doordash-dashpass/"><u>Max Out Your Savings: Discover the Enhanced Benefits of DoorDash DashPass!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/netflix-borrow-some-inspiration-from-spotifys-a-list/"><u>Netflix, Borrow Some Inspiration From Spotify's A-List!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/nintendo-switch-a-comprehensive-guide-to-available-streaming-options/"><u>Nintendo Switch: A Comprehensive Guide to Available Streaming Options</u></a></li>
+<li><a href="https://media-tips.techidaily.com/no-regrets-purchase-popular-tv-episodes-as-physical-copies-now/"><u>No Regrets: Purchase Popular TV Episodes as Physical Copies Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-ffxiv-fixing-version-verification-errors/"><u>Troubleshooting FFXIV: Fixing Version Verification Errors</u></a></li>
+</ul></div>
 

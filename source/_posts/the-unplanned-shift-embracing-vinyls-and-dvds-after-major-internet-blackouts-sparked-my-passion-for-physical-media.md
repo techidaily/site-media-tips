@@ -1,7 +1,7 @@
 ---
 title: "The Unplanned Shift: Embracing Vinyls & DVDs After Major Internet Blackouts Sparked My Passion for Physical Media"
-date: 2024-09-15T17:05:52.613Z
-updated: 2024-09-21T16:42:02.957Z
+date: 2024-09-19T22:34:27.889Z
+updated: 2024-09-26T01:19:39.965Z
 tags:
   - streaming
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
 
  Solar power is creeping into everything more as well, although because blackouts are rolling in nature and largely scheduled, so far I've been able to simply top off my backup batteries when the power is on, so I can run things when the power is off. There's no telling if and when South Africa's energy and infrastructure woes will end, so for now that's how we're coping.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  All the Ways Online Media Has Failed Me
 
  No matter how much I prepare, eventually the power goes out for long enough that the cellular tower batteries fail, or the backup power at the fiber provider can't recharge quickly enough. So, at least a few times a year, the internet is just gone. That's if things are normal. Then we have to contend with actual internet outages caused by vandalism when some people [dig up fiber cables](https://www.timeslive.co.za/news/south-africa/2023-06-01-fibre-cable-thieves-caught-red-handed-in-south-of-johannesburg-jmpd/), mistaking them for copper cables. At other times, some of our precious few undersea internet cables are damaged either through natural causes or man-made issues such as [attacks on cargo ships](https://mybroadband.co.za/news/telecoms/527879-red-sea-houthi-attack-likely-cause-of-damaged-seacom-cable.html). Since many content providers don't actually have their data centers within our borders, it can cause all sorts of issues. After the most recent spate of undersea cable problems, we couldn't get any streaming apps to work reliably for almost a month! With constant playback errors and poor streaming quality.
@@ -31,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
  This also affects my gaming consoles and plenty of services on my PC and Mac. Most of my data is stored in the cloud, even some stuff that I thought was stored locally is sometimes offloaded automatically to the cloud and I only realize that when I try to open it when the internet is down.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don’t Get Too Comfortable
@@ -46,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/ba04435a9c29d64e6b54466059bc1d63c6b55c0d2
  It doesn't even have to be an outlier event. Some people go on holiday or have second homes in rural areas where there will be no internet. Keeping a few Blu-Rays at your holiday home in a rural area just makes sense.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  My Rainy Day Collection Is Growing
@@ -61,6 +68,13 @@ Sydney Louw Butler / How-To Geek
  In many ways, this is the absolute best time to start collecting DVDs, Blu-rays, and other offline physical media. Since online streaming has put such a damper on the physical market, pushing down demand, prices have taken a tumble too. We're talking DVD box sets for less than ten bucks, and Blu-ray movies for a dollar or two a piece. If you paid $100 today, you could probably buy enough offline entertainment to last you a week with no internet.
 
 ![A DVD and Blu Ray Collection with books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dvd-and-blu-ray-collection.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -83,5 +97,22 @@ Sydney Louw Butler / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-boost-your-virtual-participation-with-increased-zooming/"><u>[New] In 2024, Boost Your Virtual Participation with Increased Zooming</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-step-by-step-guide-terminating-your-amazon-prime-membership-and-claiming-a-reimbursement/"><u>1. Step-by-Step Guide: Terminating Your Amazon Prime Membership & Claiming a Reimbursement</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-mastering-whatsapp-audio-chats/"><u>2024 Approved Mastering WhatsApp Audio Chats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoid-automated-solutions-the-truth-about-ai-chatbots-and-windows-11-license-codes/"><u>Avoid Automated Solutions: The Truth About AI Chatbots and Windows 11 License Codes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-storing-your-stories-and-snaps-safely-on-ios-devices/"><u>In 2024, Storing Your Stories and Snaps Safely on iOS Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-audio-editing-slicing-mp3-tracks-using-vlc-software/"><u>Mastering Audio Editing: Slicing MP3 Tracks Using VLC Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-the-depths-of-stardew-a-compreayer-guide-to-unveiling-ginger-islands-wonders/"><u>Navigating the Depths of Stardew A Compreayer Guide to Unveiling Ginger Island’s Wonders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-picks-backgrounds-elevating-video-streaming/"><u>Top Picks Backgrounds Elevating Video Streaming</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-qr-code-reader-issues-top-10-solutions-for-iphones/"><u>Troubleshooting QR Code Reader Issues: Top 10 Solutions for iPhones</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unveiling-the-excellence-of-artificial-intelligence-in-spotifys-features-more-than-just-gimmicks/"><u>Unveiling the Excellence of Artificial Intelligence in Spotify's Features: More Than Just Gimmicks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unveiling-wiims-newest-streaming-technology-a-revolutionary-update-for-vintage-sound-systems/"><u>Unveiling WiiM's Newest Streaming Technology: A Revolutionary Update for Vintage Sound Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/upcoming-price-hike-what-you-need-to-know-about-the-new-netflix-rates/"><u>Upcoming Price Hike: What You Need to Know About the New Netflix Rates</u></a></li>
+<li><a href="https://media-tips.techidaily.com/whos-streaming-or-listening-track-user-activity-across-popular-platforms-including-netflix-and-spotify/"><u>Who's Streaming or Listening? Track User Activity Across Popular Platforms Including Netflix & Spotify</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-6-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 6? How to Fix</u></a></li>
+<li><a href="https://media-tips.techidaily.com/why-choose-apple-tvplus-discover-5-benefits-that-outshine-netflix/"><u>Why Choose Apple TV+? Discover 5 Benefits That Outshine Netflix</u></a></li>
+</ul></div>
 

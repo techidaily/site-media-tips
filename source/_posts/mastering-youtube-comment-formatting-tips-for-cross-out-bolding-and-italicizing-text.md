@@ -1,7 +1,7 @@
 ---
 title: "Mastering YouTube Comment Formatting: Tips for Cross-Out, Bolding, and Italicizing Text"
-date: 2024-09-18T16:08:45.545Z
-updated: 2024-09-21T16:03:00.109Z
+date: 2024-09-19T08:52:55.801Z
+updated: 2024-09-25T22:16:28.091Z
 tags:
   - streaming
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
  You'll use the same steps on both your desktop and your phone to format [your comments](https://fox-that.techidaily.com/why-doesnt-picture-recognition-work-on-my-iphone-exploring-6-possible-causes/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Strike-Through Comments on YouTube
 
  With the strike-through option, you can add a line crossing out your comment text. To use it, add a dash before and after your comment text. This will add a strike-through effect to your text.
@@ -38,7 +45,21 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Strike-through a YouTube comment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/1-strike-through-youtube-comment.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And that's it. Pretty neat, right? You can use this formatting option for both single words and multiple sentences. Just make sure to keep your text around a dash. You can do the same [formatting in apps like Microsoft Excel](https://fox-cloud.techidaily.com/2024-approved-a-list-mobile-camera-utilities-for-iphone/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Bold Comments on YouTube
 
@@ -77,10 +98,10 @@ _That is super cool_
  And that's it. Other sites like Reddit employ a [similar comment format system](https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-reno-11-5g-frp-by-drfone-android/), but the codes are a bit different.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Apply Multiple Styles to Your YouTube Comments at Once
@@ -99,13 +120,6 @@ This text uses multiple formatting options
 
 ![Use multiple styles for a YouTube comment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/4-multiple-styles-youtube-comment.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  YouTube's comment formatting options are really useful as they let you emphasize certain parts of your comments. This way, you can draw people's attention to certain words or sentences in your comments. While you're here, learn how to apply [text formatting in Discord](https://extra-support.techidaily.com/2024-approved-insider-secrets-smooth-videophoto-transfer-to-windows-11/), too.
 
  Happy commenting on your favorite kinds of videos!
@@ -123,5 +137,22 @@ This text uses multiple formatting options
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-sculpting-soft-amplitude-in-fl-studio-tracks/"><u>[New] In 2024, Sculpting Soft Amplitude in FL Studio Tracks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-customizing-video-assets-for-instagram-mastery/"><u>[Updated] 2024 Approved Customizing Video Assets for Instagram Mastery</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nubia-red-magic-8s-proplus-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nubia Red Magic 8S Pro+ Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-12-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-guide-how-to-get-back-your-accidentally-deleted-iphone-photos/"><u>Expert Guide: How to Get Back Your Accidentally Deleted iPhone Photos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-and-why-to-transform-your-mov-videos-into-optimized-mp4-format-successfully/"><u>How & Why to Transform Your MOV Videos Into Optimized MP4 Format Successfully</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-blissful-clip-grabber-insight/"><u>In 2024, Blissful Clip Grabber Insight</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-capturing-charm-sage-advice-on-editing-digital-art/"><u>In 2024, Capturing Charm Sage Advice on Editing Digital Art</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp4-vs-mpeg-4-mov-selecting-the-optimal-video-codec-for-your-project/"><u>MP4 vs MPEG-4 MOV: Selecting the Optimal Video Codec for Your Project</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-simple-conversion-techniques-for-avi-to-mp3wmawav/"><u>Quick and Simple Conversion Techniques for AVI to MP3/WMA/WAV</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-zero-cost-tools-for-converting-avi-videos/"><u>Top 5 Zero-Cost Tools for Converting AVI Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-techniques-for-converting-vob-files-into-high-quality-swf-format/"><u>Top Techniques for Converting VOB Files Into High-Quality SWF Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-the-secret-trick-enable-plex-subtitles-with-ease/"><u>Unlocking the Secret Trick: Enable Plex Subtitles with Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725289986671-winxdvd-dvd/"><u>WinXDVD: 최고의 소프트웨어 인터랙티브 - 속도와 방해를 제거하여 DVD에 대한 전문화</u></a></li>
+</ul></div>
 

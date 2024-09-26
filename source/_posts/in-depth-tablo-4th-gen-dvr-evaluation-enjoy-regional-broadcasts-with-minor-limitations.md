@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Tablo 4Th Gen DVR Evaluation: Enjoy Regional Broadcasts with Minor Limitations"
-date: 2024-09-17T16:32:36.646Z
-updated: 2024-09-21T16:56:01.630Z
+date: 2024-09-18T23:53:32.349Z
+updated: 2024-09-25T16:17:47.580Z
 tags:
   - streaming
 categories:
@@ -67,6 +67,13 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
 
  You can buy the Tablo DVR from [Tablo's online store](https://www.tablotv.com/product/), [Amazon](https://amazon.com/dp/B0CBVT6SLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate), [Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftablo-4th-gen-2-tuner-128gb-over-the-air-dvr-streaming-player-white%2F6554313.p%3FskuId%3D6554313), and other retailers. Not all stores sell both versions, so be sure to check that you're not over paying for gear you don't need.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Design of a Modern DVR
 
  The 4th Gen Tablo DVR is a white circular box, measuring 5 inches across (127mm) and 1.37 inches tall (35mm). It's small enough to easily fit wherever it's needed, whether that's in a TV cabinet next to an existing antenna setup, next to your router for a wired internet connection, or somewhere else. The only visible features are a Tablo logo on the top and an LED status light. There are four ports on the back: the power input, ethernet (100 Mb/s), USB 2.0, and the coax port for the TV antenna.
@@ -94,6 +101,13 @@ Corbin Davenport / How-To Geek
 Close 
 
  You might notice something missing from that list of ports: there's no video output. You can only watch content from the Tablo through the app, which is available on most streaming sticks and some smart TVs. If you don't have a compatible TV, you'll need to buy a [streaming stick](https://facebook-video-share.techidaily.com/updated-prime-selection-of-screen-capture-software-for-gaming/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Software & Setup
 
@@ -129,6 +143,13 @@ Close
 
  Tablo's lack of ATSC 3.0 support doesn't mean you lose any channels, though. The FCC has [said](https://docs.fcc.gov/public/attachments/FCC-23-53A1.pdf) that channels must continue broadcasting ATSC 1.0 until July 17, 2027, at the earliest, and it's likely that most channels will continue broadcasts past that point (otherwise they would lose viewers).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Competition
 
  There are a few other popular over-the-air streaming and DVR boxes. The most powerful option is probably the [HDHomeRun series](https://www.silicondust.com/hdhomerun/) from SiliconDust, some of which have up to 4 tuners and support for ATSC 3.0\. The low-end [HDHomeRun Flex Duo](https://shop.silicondust.com/shop/product/hdfx-2us/) is almost the same price ($110) as the Tablo, with the same two tuners and ATSC 1.0 support, but no integrated storage. You have to plug in a drive or buy one of the higher-end models with internal storage.
@@ -137,16 +158,16 @@ Close
 
  Sling TV has also sold some AirTV receivers over the years, which are designed to add local channels to an existing Sling TV package, but you don't strictly need a Sling subscription. I've [been using an AirTV 2](https://www.spacebar.news/p/antenna-tv-is-pretty-cool-actually), allowing me to watch TV through the Sling app (which is [available on more platforms than Tablo](https://sling-tv.pxf.io/c/156932/1132376/14334?subId1=UUhtgUeUpU2000923&subId2=ehtg&u=https%3A%2F%2Fwww.sling.com%2Fsupported-devices)) or through a desktop browser. However, Sling only appears to be [selling the AirTV devices](https://sling-tv.pxf.io/c/156932/1132376/14334?subId1=UUhtgUeUpU2000923&subId2=ehtg&u=https%3A%2F%2Fwww.sling.com%2Fsupported-devices%2Fairtv-mini) in bundle packages with a Sling TV subscription, as of the time of writing. You can find standalone AirTV 2 receivers on eBay and other similar sites, but it doesn't seem to be as well-supported as Tablo at this point.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Tablo 4th Gen?
 
 ![Tablo 4th Gen from top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
 
@@ -159,26 +180,13 @@ Corbin Davenport / How-To Geek
 ![Tablo 4th Gen DVR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Tablo 4th Gen
 
@@ -201,5 +209,18 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-redmi-note-12-4g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Redmi Note 12 4G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/te-engagement-cutting-edge-hashtags-for-hit-making-videos-for-2024/"><u>Elevate Engagement Cutting-Edge Hashtags for Hit-Making Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensure-peaceful-navigation-maintain-stability-in-windows-net/"><u>Ensure Peaceful Navigation: Maintain Stability in Windows Net</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-zero-30-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Zero 30 5G without backup.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862831578-unbeatable-deal-portable-15n-inch-1080p-ips-monitor-now-just-6599-best-quality-for-the-lowest-price/"><u>Unbeatable Deal: Portable 15.n Inch, 1080P IPS Monitor Now Just $65.99 - Best Quality for the Lowest Price</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-more-value-with-doordashs-newly-improved-dashpass-plan-featuring-max-perks/"><u>Unlock More Value with DoorDash's Newly Improved DashPass Plan Featuring Max Perks!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-the-secrets-spotifys-new-feature-charges-for-song-lyrics/"><u>Unlocking the Secrets: Spotify's New Feature Charges for Song Lyrics</u></a></li>
+<li><a href="https://media-tips.techidaily.com/voice-command-control-apple-homepod-now-enables-seamless-access-to-spotify/"><u>Voice Command Control: Apple HomePod Now Enables Seamless Access to Spotify</u></a></li>
+<li><a href="https://media-tips.techidaily.com/weekly-update-on-upcoming-devices-from-google-and-samsung/"><u>Weekly Update on Upcoming Devices From Google & Samsung</u></a></li>
+<li><a href="https://media-tips.techidaily.com/windows-watchers-beware-no-more-offline-movie-downloads-from-netflix/"><u>Windows Watchers Beware: No More Offline Movie Downloads From Netflix!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Free Movie Treasure on PlayStation Plus: A Simple Guide to Accessible Film Content"
-date: 2024-09-15T17:10:42.581Z
-updated: 2024-09-21T16:39:32.311Z
+date: 2024-09-21T23:36:40.159Z
+updated: 2024-09-25T16:26:24.697Z
 tags:
   - streaming
 categories:
@@ -27,11 +27,25 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 
  The catch, of course, is that the service exclusively includes films produced or distributed by Sony in some form. This catalog is still sizable and features the likes of _Spider-Man_ and both _Venom_ films, so it's worth a look if you're wondering what to watch tonight.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Find and Install Sony Pictures Core
 
  Accessing the Sony Pictures Core service is simply a matter of installing the service on your console. If you are on the PS5, you can press the R1 button on your controller while on the console's home screen to access the "Media" tab. This will show media apps like Netflix, Hulu and Amazon Prime.
 
 ![The "Media" tab on the PS5's home screen, where all streaming apps are accessible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229130831.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From there, find an icon called "TV & Video." Select this and then navigate to the various logos underneath the banner ads until you find "All Apps."
 
@@ -45,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 
  On a PS4 you can launch the PlayStation Store app and search for "Sony Pictures Core" and then launch the app from the main interface.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Find Free Movies on Sony Pictures Core
 
  In addition to exclusive weekly discounts, subscribers to the Premium tier of PlayStation Plus also have access to a select catalog of films available at no extra cost. In the Sony Pictures Core app, navigate to the sidebar by pressing left on your controller's directional pad until the menu appears. Then, select the tab called "Included With PlayStation Plus" indicated by a checkmark icon.
@@ -61,16 +68,10 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  Here, you will find a select library of movies of various genres that are available to stream immediately with no purchase required. Titles range from animated video game tie-ins to classic sci-fi and drama films, with over 100 total movies available as of the time of this writing.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Purchase or Rent Movies in Core Too
@@ -82,6 +83,19 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  Keep in mind that PlayStation Plus subscribers of any tier can get exclusive discounts on some films, with seven select titles going on sale every week. Sony Pictures Core offers PlayStation Plus users the option to purchase movies at full price or rent them for a significant discount using the "Purchase" or "Rent" options.
 
 ![The main screen on Sony Pictures Core when users select a film, with the options to rent or purchase it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229124327.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Zachary Cimaglio/How-To Geek
 
@@ -104,5 +118,22 @@ Zachary Cimaglio/How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-best-microphones-ranked-perfect-companions-for-4k-cinematography-for-2024/"><u>[New] Best Microphones Ranked Perfect Companions for 4K Cinematography for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-virtual-reality-top-emulators-for-playing-ps3-games-on-pc/"><u>[Updated] 2024 Approved Virtual Reality Top Emulators for Playing PS3 Games on PC</u></a></li>
+<li><a href="https://media-tips.techidaily.com/5-effective-techniques-to-transform-h264-files-into-mp4-format/"><u>5 Effective Techniques to Transform H.264 Files Into MP4 Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-techniques-for-converting-wav-files-into-mp3-format-on-macos-and-windows-systems/"><u>Best Techniques for Converting WAV Files Into MP3 Format on macOS & Windows Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-methods-for-changing-arf-files-into-wmv-media-on-your-windows-11-and-mac-computers/"><u>Easy Methods for Changing ARF Files Into WMV Media on Your Windows 11 and Mac Computers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-assessment-why-the-dji-mavic-2-pro-is-king-among-expert-drones/"><u>Elite Assessment: Why the DJI Mavic 2 Pro Is King Among Expert Drones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2010-found-a-problem-with-one-or-more-formula-stellar-by-stellar-guide/"><u>Fixed Excel 2010 Found a Problem with One or more Formula | Stellar</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/plan-und-setze-rpa-erfolgreich-ein-ein-funf-stufen-leitfaden-zur-nutzung-der-abbyy-process-intelligence-download-im-pdf/"><u>Plan Und Setze RPA Erfolgreich Ein: Ein Fünf-Stufen-Leitfaden Zur Nutzung Der ABBYY Process Intelligence – Download Im PDF</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-easy-methods-for-converting-webm-audio-to-mp3-on-pc-and-mac/"><u>Quick & Easy Methods for Converting WebM Audio to MP3 on PC and MAC</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-simple-guide-converting-vob-files-into-mkv-format/"><u>Quick & Simple Guide: Converting VOB Files Into MKV Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streamline-video-storage-convert-bulky-movs-into-compressed-xvid-quickly-and-easily/"><u>Streamline Video Storage: Convert Bulky MOVs Into Compressed XviD Quickly and Easily</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-complete-tutorial-on-converting-your-dvd-collection-into-digital-format-for-easy-access-on-your-computer/"><u>The Complete Tutorial on Converting Your DVD Collection Into Digital Format for Easy Access on Your Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-world-of-ai-language-models-discovering-what-you-can-achieve-with-claude/"><u>The World of AI Language Models: Discovering What You Can Achieve with Claude</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/windows-top-notch-tunes-for-2024/"><u>Window’s Top-Notch Tunes for 2024</u></a></li>
+</ul></div>
 
