@@ -1,7 +1,7 @@
 ---
 title: "Exposed: How Password Reuse Endangers Over 15K Devices on Roku Platform"
-date: 2024-09-20T09:34:15.196Z
-updated: 2024-09-26T09:30:28.963Z
+date: 2024-09-23T18:45:00.402Z
+updated: 2024-09-30T22:17:27.680Z
 tags:
   - streaming
 categories:
@@ -44,26 +44,25 @@ In a new [breach notice](http://oag.ca.gov/system/files/Template%20Notification%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-how-to-create-gifs-from-youtube-videos-on-desktop-and-mobile-devices/"><u>[New] In 2024, How to Create GIFs From YouTube Videos on Desktop and Mobile Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-guide-to-drone-visuals/"><u>[Updated] Comprehensive Guide to Drone Visuals</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-resolving-early-stage-explosions-in-atomic-heart-systems-at-boot-up/"><u>Diagnosing and Resolving Early-Stage Explosions in Atomic Heart Systems at Boot Up</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-efficiently-compress-your-mp3s-using-audacity-expert-tips-and-techniques/"><u>How to Efficiently Compress Your MP3s Using Audacity - Expert Tips & Techniques</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-14-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 14</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/leveraging-tiktok-for-greater-facebook-reach-and-impact-for-2024/"><u>Leveraging TikTok for Greater Facebook Reach and Impact for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-win11-a-detailed-look-at-zoom-functions/"><u>Navigating Win11 A Detailed Look at Zoom Functions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/proven-strategies-to-cut-out-distracting-ambient-noise-from-audio-files/"><u>Proven Strategies to Cut Out Distracting Ambient Noise From Audio Files</u></a></li>
-<li><a href="https://media-tips.techidaily.com/smart-aiff-file-compression-strategies-for-efficient-storage-and-management/"><u>Smart AIFF File Compression Strategies for Efficient Storage and Management</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-smooth-playback-for-bluetooth-devices-on-windows-1110/"><u>Step-by-Step Guide: Smooth Playback for Bluetooth Devices on Windows 11/10</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-top-5-best-id3-music-tag-editors-for-windows-and-macos/"><u>The Ultimate Guide: Top 5 Best ID3 Music Tag Editors for Windows & macOS</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-professional-apps-for-eliminating-audio-background-noise-efficiently/"><u>Top 5 Professional Apps for Eliminating Audio Background Noise Efficiently</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-ranking-wav-compression-tools-find-your-perfect-choice/"><u>Top-Ranking WAV Compression Tools: Find Your Perfect Choice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-chatgpt-prompt-innovation-spotlighting-20-premier-examples-from-github/"><u>Ultimate Guide to ChatGPT Prompt Innovation – Spotlighting 20 Premier Examples From GitHub</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-the-art-of-blurring-parts-in-digital-pictures/"><u>[Updated] Master the Art of Blurring Parts in Digital Pictures</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-magic-6-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor Magic 6 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/betas-launch-kodi-21-omega-reaches-milestone-with-initial-public-testing-phase/"><u>Betas Launch: Kodi 21 OMEGA Reaches Milestone with Initial Public Testing Phase</u></a></li>
+<li><a href="https://media-tips.techidaily.com/boost-your-channels-success-with-essential-features-on-youtube-consider-subscription-now/"><u>Boost Your Channel's Success with Essential Features on YouTube - Consider Subscription Now!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/broadcasting-in-the-olympics-how-and-where-to-find-unlisted-live-streams/"><u>Broadcasting in the Olympics: How and Where to Find Unlisted Live Streams</u></a></li>
+<li><a href="https://media-tips.techidaily.com/capture-more-content-than-ever-before-discover-tablos-latest-ota-dvr-featuring-robust-8tb-storage-options/"><u>Capture More Content Than Ever Before: Discover Tablo's Latest OTA DVR Featuring Robust 8TB Storage Options</u></a></li>
+<li><a href="https://media-tips.techidaily.com/catch-every-weeks-monday-night-matchup-at-no-charge-discover-your-viewing-choices-for-free/"><u>Catch Every Week's Monday Night Matchup at No Charge - Discover Your Viewing Choices for Free!</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-screen-capture-io-screener-guide/"><u>In 2024, Mastering Screen Capture IO Screener Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-wmv-video-joining-made-easy-top-free-software/"><u>New WMV Video Joining Made Easy Top Free Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210628219-troubleshoot-and-overcome-windows-update-error-0x80070002-effortlessly/"><u>Troubleshoot and Overcome Windows Update Error 0X80070002 Effortlessly!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-pova-5-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Tecno Pova 5 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y77t-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y77t Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

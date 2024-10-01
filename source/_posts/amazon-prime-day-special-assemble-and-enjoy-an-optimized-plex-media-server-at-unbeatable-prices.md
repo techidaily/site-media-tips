@@ -1,7 +1,7 @@
 ---
 title: "Amazon Prime Day Special: Assemble & Enjoy an Optimized Plex Media Server at Unbeatable Prices"
-date: 2024-09-23T17:41:14.420Z
-updated: 2024-09-26T00:03:18.863Z
+date: 2024-09-29T17:23:21.106Z
+updated: 2024-09-30T22:36:14.457Z
 tags:
   - streaming
 categories:
@@ -21,15 +21,22 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 
  Some of the deals are exclusive to Prime members. You may be eligible for a [free trial](https://www.amazon.com/gp/help/customer/display.html?nodeId=G6RZ3AA6NQMCKYEM) if you haven't subscribed to Prime in the last few months.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Best NAS, Mini PC and NVIDIA Shield Deals
 
 ![A TerraMaster DAS enclosure on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/26.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Andrew Heinzman / How-To Geek
@@ -61,13 +68,6 @@ The TERRAMASTER F2-424 two-bay NAS can store a maximum 22TB of data Its N95 Quad
 
 [$380 at Amazon](https://amazon.com/dp/B0CXPBM2DF?tag=htgprimedaysite-20) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Best Server-Ready Hard Drive Deals
 
 ![A mechanical hard drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52974816639_7b4544fc8a_o.jpg) 
@@ -90,13 +90,6 @@ Jordan Gloor / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41r29akgr7l-_sl500_-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #####  Seagate IronWolf 8TB NAS HDD
 
 $170 $179 Save $9 
@@ -110,10 +103,10 @@ Seagate's IronWolf HDD offers a durable, server-ready construction and includes 
 ![A Netgear 5-port Network Switch with an Ethernet cable attached.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/c17243d1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Corbin Davenport / Review Geek_
@@ -129,6 +122,13 @@ _Corbin Davenport / Review Geek_
  Any NAS device that you buy _should_ come with an Ethernet cable, though this isn't guaranteed. An Ethernet switch simply adds more ports to the back of your router.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/tp-link-switch-thumbnail.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  TP-Link TL-SG105 5-Port Gigabit Ethernet Switch
 
@@ -151,22 +151,19 @@ Spread the speed of wired internet to more devices with this 5-port unmanaged Et
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-revamp-your-social-media-presence-essential-online-image-makers-for-fb-covers/"><u>[New] In 2024, Revamp Your Social Media Presence Essential Online Image Makers for FB Covers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-elite-ice-artists-a-look-at-22-performances/"><u>2024 Approved Elite Ice Artists A Look at '22 Performances</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-fidelity-webcams-for-professional-podcasting/"><u>2024 Approved High-Fidelity Webcams for Professional Podcasting</u></a></li>
-<li><a href="https://media-tips.techidaily.com/achieve-flawless-conversion-transforming-dat-files-into-high-quality-mp4-without-compromise/"><u>Achieve Flawless Conversion: Transforming DAT Files Into High-Quality MP4 Without Compromise</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/become-a-design-pro-expertise-in-bypassing-backgrounds-with-canva-for-2024/"><u>Become a Design Pro Expertise in Bypassing Backgrounds with Canva for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-6-social-channels-for-enterprise-leadership/"><u>Essential 6 Social Channels for Enterprise Leadership</u></a></li>
-<li><a href="https://media-tips.techidaily.com/hassle-free-wmv-conversion-and-editing-techniques-for-high-quality-results/"><u>Hassle-Free WMV Conversion & Editing Techniques for High-Quality Results</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-itel-a05s-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Itel A05s Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/inside-the-tech-what-makes-amds-rx-7800xt-and-7700xt-stand-out/"><u>Inside the Tech: What Makes AMD's RX 7800XT & 7700XT Stand Out</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamless-conversion-of-4k-films-to-1080p-the-simplest-high-quality-method/"><u>Seamless Conversion of 4K Films to 1080P: The Simplest, High-Quality Method</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-galaxy-z-flip-5-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Galaxy Z Flip 5</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-your-old-vhs-tapes-into-modern-mp4-avi-or-mov-files/"><u>Step-by-Step Guide: Transforming Your Old VHS Tapes Into Modern MP4, AVI or MOV Files</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-7-leading-converters-from-m4a-files-to-quality-wav-on-pcs-and-macs/"><u>The Ultimate Guide to 7 Leading Converters From M4A Files to Quality WAV on PCs & Macs</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-5-superior-online-and-offline-video-encoders-for-cross-platform-use/"><u>The Ultimate Guide: 5 Superior Online & Offline Video Encoders for Cross-Platform Use</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-picks-for-the-ultimate-dat-to-divx-conversion-tool/"><u>Top Picks for the Ultimate DAT to DivX Conversion Tool</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-your-wav-audio-files-into-mp3-format-4-free-online-conversion-methods/"><u>Transform Your WAV Audio Files Into MP3 Format: 4 FREE Online Conversion Methods</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-speedy-workshop-converting-your-visuals-into-stellar-youtube-pics/"><u>[New] 2024 Approved Speedy Workshop Converting Your Visuals Into Stellar YouTube Pics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-newcomers-elite-entryway-list-for-zooids/"><u>[New] Newcomers’ Elite Entryway List for Zooids</u></a></li>
+<li><a href="https://program-issues.techidaily.com/arise-tales-episode-overcoming-the-notorious-ue4-fatal-errors-successfully/"><u>Arise Tales Episode: Overcoming the Notorious UE4 Fatal Errors Successfully</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-ultimate-convertor-for-avi-and-3g2-files-your-go-to-solution/"><u>Discover the Ultimate Convertor for AVI and 3G2 Files: Your Go-To Solution!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortlessly-change-mxf-to-mp4-with-our-easy-cost-free-techniques-go-digital/"><u>Effortlessly Change MXF to MP4 with Our Easy, Cost-Free Techniques - Go Digital</u></a></li>
+<li><a href="https://media-tips.techidaily.com/expert-strategies-for-converting-wmv-to-gifs-top-techniques-to-master-now/"><u>Expert Strategies for Converting WMV to GIFs: Top Techniques to Master Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixed-repairing-disk-errors-on-windows-11/"><u>Fixed: Repairing Disk Errors on Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-realme-11-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Realme 11 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone SE (2022)?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ios-leading-ps2-game-emulation-tools/"><u>IOS Leading PS2 Game Emulation Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y55s-5g-2023-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y55s 5G (2023) Phone FRP Lock</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-mxf-files-into-editable-formats-for-imovie-using-a-reliable-mxf-converter-on-your-mac/"><u>Step-by-Step Guide: Transforming MXF Files Into Editable Formats for iMovie Using a Reliable MXF Converter on Your Mac</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-devices-for-streaming-and-capturing-ultra-hd-content-a-guide-to-the-best-4k-phone-and-tablet-options/"><u>Top Devices for Streaming & Capturing Ultra HD Content: A Guide to the Best 4K Phone and Tablet Options</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-mac-based-video-and-audio-transformation-tools-the-ultimate-guide/"><u>Top Mac-Based Video & Audio Transformation Tools: The Ultimate Guide</u></a></li>
 </ul></div>
 

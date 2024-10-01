@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Engagement on YouTube with Text Emphasis Techniques: Strikethrough, Bold, and Italic Methods"
-date: 2024-09-18T22:47:11.642Z
-updated: 2024-09-26T04:27:43.226Z
+date: 2024-09-28T23:46:00.100Z
+updated: 2024-10-01T00:06:11.326Z
 tags:
   - streaming
 categories:
@@ -22,13 +22,6 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 
  You'll use the same steps on both your desktop and your phone to format [your comments](https://fox-that.techidaily.com/why-doesnt-picture-recognition-work-on-my-iphone-exploring-6-possible-causes/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Strike-Through Comments on YouTube
 
  With the strike-through option, you can add a line crossing out your comment text. To use it, add a dash before and after your comment text. This will add a strike-through effect to your text.
@@ -46,19 +39,25 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 ![Strike-through a YouTube comment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/1-strike-through-youtube-comment.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that's it. Pretty neat, right? You can use this formatting option for both single words and multiple sentences. Just make sure to keep your text around a dash. You can do the same [formatting in apps like Microsoft Excel](https://fox-cloud.techidaily.com/2024-approved-a-list-mobile-camera-utilities-for-iphone/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Bold Comments on YouTube
@@ -79,6 +78,13 @@ This video is awesome
 
  Make sure to put an asterisk before and after your comment to bold the text. It's that easy.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Italics Comments on YouTube
 
  Italicizing your comment text is as easy as [italicizing in WhatsApp](https://screen-capture.techidaily.com/new-from-still-shots-to-moving-images-ipads-timelapse-magic-for-2024/). To make your text italic, you'll wrap the text around an \_ (underscore).
@@ -97,6 +103,13 @@ _That is super cool_
 
  And that's it. Other sites like Reddit employ a [similar comment format system](https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-reno-11-5g-frp-by-drfone-android/), but the codes are a bit different.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Apply Multiple Styles to Your YouTube Comments at Once
 
  You can use multiple formatting options on a single piece of text if you want. To do so, you'll combine the characters for styling your text.
@@ -112,13 +125,6 @@ This text uses multiple formatting options
  And your resulting comment will have all your styles applied to it:
 
 ![Use multiple styles for a YouTube comment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/4-multiple-styles-youtube-comment.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  YouTube's comment formatting options are really useful as they let you emphasize certain parts of your comments. This way, you can draw people's attention to certain words or sentences in your comments. While you're here, learn how to apply [text formatting in Discord](https://extra-support.techidaily.com/2024-approved-insider-secrets-smooth-videophoto-transfer-to-windows-11/), too.
 
@@ -139,17 +145,18 @@ This text uses multiple formatting options
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ear-up-for-greatness-choosing-webcams-for-youtube-excellence-for-2024/"><u>[New] Gear Up for Greatness Choosing Webcams for YouTube Excellence for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-ultimate-insight-into-analyzing-youtube-view-counts-and-revenue/"><u>[New] The Ultimate Insight Into Analyzing Youtube View Counts & Revenue</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-looking-to-access-the-whole-spectrum-of-shared-media-by-contacts/"><u>[Updated] 2024 Approved Looking to Access the Whole Spectrum of Shared Media by Contacts</u></a></li>
-<li><a href="https://media-tips.techidaily.com/a-comprehensive-guide-finding-the-ideal-wtv-to-mp4-video-converter-for-windows-users/"><u>A Comprehensive Guide: Finding the Ideal WTV-to-MP4 Video Converter for Windows Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/aiseesoft-video-converter-maximizes-performance-through-advanced-gpu-acceleration-technology/"><u>Aiseesoft Video Converter Maximizes Performance Through Advanced GPU Acceleration Technology</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-hot-40i-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-a05-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy A05 FRP Locks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620234915-mac-friendly-dpg-to-mp4-transformer-get-your-free-copy-now/"><u>Mac-Friendly DPG to MP4 Transformer - Get Your FREE Copy Now!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620229832-quick-and-simple-guide-converting-avi-files-into-psp-format-made-easy/"><u>Quick and Simple Guide: Converting AVI Files Into PSP Format Made Easy!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-changing-cda-audio-tracks-to-mp3-on-pc-and-mac-devices/"><u>Step-by-Step Tutorial: Changing CDA Audio Tracks to MP3 on PC and Mac Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nail-design-101-for-video-promotion-on-youtube/"><u>Thumbnail Design 101 for Video Promotion on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-crafting-instagram-magic-with-professional-edits/"><u>[Updated] In 2024, Crafting Instagram Magic with Professional Edits</u></a></li>
+<li><a href="https://games-able.techidaily.com/detailed-examination-the-features-of-hybrid-gaming-screens/"><u>Detailed Examination: The Features of Hybrid Gaming Screens</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-making-your-videos-work-on-htc-one-plus-all-supported-htc-devices/"><u>Guide: Making Your Videos Work on HTC One Plus All Supported HTC Devices</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-free-convert-your-mxf-files-into-avi-format-a-complete-step-by-step-tutorial/"><u>How To Free Convert Your MXF Files Into AVI Format: A Complete Step-By-Step Tutorial</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-play-mts-format-movies-and-tv-shows-on-your-iphone-with-ease/"><u>How to Play MTS Format Movies & TV Shows on Your iPhone with Ease</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-your-hevc-footage-into-mov-files-without-compromising-quality-ideal-for-pc-internet-streaming-and-mobiles/"><u>How to Transform Your HEVC Footage Into MOV Files Without Compromising Quality - Ideal for PC, Internet Streaming & Mobiles</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-is-apple-m1-macbook-air-good-for-video-editing/"><u>In 2024, Is Apple M1 MacBook Air Good for Video Editing?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pc-cooling-essentials-comparing-pwm-and-dc-fan-technologies/"><u>PC Cooling Essentials: Comparing PWM and DC Fan Technologies</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-guide-enabling-closed-captioning-on-apple-tv-screen/"><u>Quick Guide: Enabling Closed Captioning on Apple TV Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-xs-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone XS Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transform-swf-files-into-mp4-format-discover-5-easy-methods-online-and-offline/"><u>Transform SWF Files Into MP4 Format: Discover 5 Easy Methods (Online & Offline)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-effortless-video-editing-on-mac-with-mkvtoolnix-for-2024/"><u>Updated Effortless Video Editing on Mac with MKVtoolnix for 2024</u></a></li>
 </ul></div>
 

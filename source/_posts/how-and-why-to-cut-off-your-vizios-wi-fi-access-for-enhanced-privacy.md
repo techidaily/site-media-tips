@@ -1,7 +1,7 @@
 ---
 title: How and Why to Cut Off Your Vizio's Wi-Fi Access for Enhanced Privacy
-date: 2024-09-01T06:48:08.101Z
-updated: 2024-09-02T06:48:08.101Z
+date: 2024-09-27T02:14:09.662Z
+updated: 2024-09-30T20:50:00.013Z
 tags:
   - streaming
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Ever feel like your TV knows a little too much about your binge-watching habits? Smart TVs are notorious for privacy invasion, from voice assistants listening in to tech that tracks every show you watch. Now, with Vizio in Walmart's shopping cart, it's a great time to evaluate what your TV knows.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Your Smart TV _is_ Spying on You
 
  If this article had been written five to ten years ago, this section might have been titled "Your Smart TV Might Be Spying on You." Nowadays, unfortunately, your smart TV is almost certainly spying on you. This is not something you should ignore.
@@ -33,9 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This all sounds pretty scary, and to some degree, _it is_, but that doesn't mean you should jump to assuming it's as invasive as it sounds. The information collected is overwhelmingly used for ads. Boring as that may be, you shouldn't allow it to happen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Walmart Now Owns Vizio and Its User Data
 
  Smart TVs spying on their viewers is sadly not a new thing, but what is a more recent development is who now owns a large chunk of this data. in February 2024, [Walmart purchased Vizio for $2.3 billion](https://solve-news.techidaily.com/cookiebot-enabled-optimize-your-site-with-advanced-analytics/), and it was largely done to enhance Walmart's advertising business.
@@ -44,9 +48,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Clearly, there's big business in collecting data from your TV usage habits. Walmart was already selling Vizio TVs, but now it can also bolster its own ads platform—[called "Walmart Connect"](https://corporate.walmart.com/news/2024/02/20/walmart-agrees-to-acquire-vizio-holding-corp-to-facilitate-accelerated-growth-of-walmart-connect-through-vizio-s-smartcast-operating-system)—with all of that user data. Plus, with Vizio's SmartCast platform, Walmart could ditch Roku and Google TV for its Onn-branded smart TVs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ##  Disconnecting From the Internet is the Easiest Solution
 
  So, it's extremely likely that your smart TV is spying on you, and that data may now be going to a mega-corporation such as Walmart. What can you do about it? Well, there's one very simple solution: [cut off your TV's access to the internet.](https://data-wizards.techidaily.com/essential-tips-for-repairing-media-mishaps/) 
@@ -58,15 +59,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Now, this does mean you'll lose some of the functionality of your smart TV's software. If you were only using the TV as a "dumb" display for other devices, like a gaming console, that's not a problem. However, if you were using the TV's stock software for launching Netflix, Hulu, and other streaming services, we'll share a better way to go about that below.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Turn off Tracking on Vizio TVs
 
 ![Vizio settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/viaplus-onscreen-settings-transformed.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Vizio
 
  It is possible to turn off ACR if you want to continue to use the internet-connected features on your Vizio smart TV. You have the option to decline ACR when first setting up the TV by opting out of "Viewing Data." You may have already disabled it, but it doesn't hurt to check.
@@ -88,8 +97,12 @@ Vizio
 5. Press the right arrow to change the setting to "Off."
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Use a Secondary Streaming Device Instead
 
  There are reasons beyond tracking why you shouldn't use your smart TV's built-in software. [A secondary streaming device](https://facebook-video-share.techidaily.com/updated-prime-selection-of-screen-capture-software-for-gaming/), such as a Roku, Amazon Fire TV, or Chromecast with Google TV, has [several advantages over built-in software](https://instagram-clips.techidaily.com/2024-approved-streamline-your-footage-insta-length-management-on-macos/)—even if that built-in software is Roku, Fire TV, or Google TV.
@@ -106,8 +119,6 @@ Vizio
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +126,22 @@ Vizio
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-instant-sharing-convert-tweets-to-snaps-users/"><u>[New] Instant Sharing Convert Tweets to Snaps Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722996612370-solved-titanfall-2-fps-drops-quickly-and-easily/"><u>[SOLVED] Titanfall 2 FPS Drops | Quickly & Easily!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mobile-magic-instagram-covers-iphone-plus-android/"><u>[Updated] 2024 Approved Mobile Magic Instagram Covers IPhone + Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-game-gathering-best-7-shooter-experiences-for-2024/"><u>[Updated] Ultimate Game Gathering Best 7 Shooter Experiences for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-guide-installing-libdvdcss-on-handbrake-for-macos-and-windows-11/"><u>Easy Guide: Installing Libdvdcss on Handbrake for macOS & Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficient-chat-management-using-chatgpt-folder-techniques/"><u>Efficient Chat Management Using ChatGPT Folder Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-z-flip-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-kootek-laptop-chiller-analysis-the-ultimate-heat-dispeller/"><u>In-Depth Kootek Laptop Chiller Analysis: The Ultimate Heat Dispeller</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-video-edits-a-comprehensive-tutorial-on-using-virtualdub-for-mp4-files/"><u>Mastering Video Edits: A Comprehensive Tutorial on Using VirtualDub for MP4 Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-conversion-transforming-webm-into-mov-for-flawless-video-viewing/"><u>Seamless Conversion: Transforming WebM Into MOV for Flawless Video Viewing</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-vob-videos-into-compatible-mp4mpeg-formats-on-mac-and-pc/"><u>Step-by-Step Guide: Converting VOB Videos Into Compatible MP4/MPEG Formats on Mac and PC</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transform-your-dat-videos-into-mp4-in-a-flash-discover-the-three-best-converter-applications/"><u>Transform Your DAT Videos Into MP4 in a Flash - Discover the Three Best Converter Applications!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/two-cost-free-methods-for-converting-mtsm2ts-files-into-mov-format-mac-online-and-windows-solutions/"><u>Two Cost-Free Methods for Converting MTS/M2TS Files Into MOV Format: Mac, Online & Windows Solutions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/universal-wlmp-media-editor-and-player-convert-edit-play-with-ease/"><u>Universal WLMP Media Editor and Player: Convert, Edit, Play with Ease</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Makeover: The New Look of Google TV's Main Interface Revealed"
-date: 2024-09-05T07:39:23.222Z
-updated: 2024-09-06T07:39:23.222Z
+date: 2024-09-26T01:38:34.723Z
+updated: 2024-09-30T16:39:27.040Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e63ca3e1151548a8f471104b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Revolutionary Makeover: The New Look of Google TV's Main Interface Revealed
 
 Over the "next few months," Google TV will slowly roll out an updated home screen with rounded app icons. The update also includes various quality of life improvements, including a dedicated "reorder apps" button.
@@ -25,12 +19,6 @@ Over the "next few months," Google TV will slowly roll out an updated home scree
 
 ![Rounded app icons on Google TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/34-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Google
 
  Scrolling to the end of the redesigned "Your Apps" row reveals a new "reorder" button. It allows you to quickly change the order of pinned apps on your home screen. Previously, you had to press and hold on an individual app to change its location in the "Your Apps" lineup, which was both an unintuitive and _excruciatingly_ _s_ _low_ process.
@@ -49,8 +37,6 @@ Google
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,4 +44,26 @@ Google
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-video-presence-with-stellar-intros-in-imovie-for-2024/"><u>[Updated] Elevate Your Video Presence with Stellar Intros in iMovie for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-freezing-gameplay-essential-pc-screen-snaps/"><u>[Updated] In 2024, Freezing Gameplay Essential PC Screen Snaps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-mastering-screenplay-essential-dialogue-techniques/"><u>[Updated] In 2024, Mastering Screenplay Essential Dialogue Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/creating-and-downloading-gifs-at-no-cost-the-ultimate-guide-for-beginners/"><u>Creating & Downloading GIFs at No Cost: The Ultimate Guide for Beginners</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-best-quick-and-simple-mxf-format-transformers-every-editor-must-use/"><u>Discover the Best Quick & Simple MXF Format Transformers Every Editor Must Use</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-transformation-mastering-the-art-of-converting-mxf-files-into-movies/"><u>Effortless Transformation: Mastering the Art of Converting MXF Files Into Movies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellent-10-drone-fleet-for-professional-photos-and-films-for-2024/"><u>Excellent 10-Drone Fleet for Professional Photos & Films for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-mpeg-files-into-mp3-audio-a-step-by-step-guide/"><u>How to Transform MPEG Files Into MP3 Audio: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y78-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-speakers-the-ultimate-solution-for-no-audio-in-zoom-meetings-on-windows-1011/"><u>Reviving Speakers: The Ultimate Solution for No Audio in Zoom Meetings on Windows 10/11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oneplus-nord-ce-3-lite-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace OnePlus Nord CE 3 Lite 5G Location | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-15-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone 15 has bad ESN or blacklisted IMEI?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

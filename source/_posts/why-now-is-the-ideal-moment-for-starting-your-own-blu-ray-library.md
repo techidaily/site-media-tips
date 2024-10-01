@@ -1,7 +1,7 @@
 ---
 title: Why Now Is the Ideal Moment for Starting Your Own Blu-Ray Library
-date: 2024-09-01T06:47:53.347Z
-updated: 2024-09-02T06:47:53.347Z
+date: 2024-09-29T23:09:47.753Z
+updated: 2024-10-01T01:25:15.342Z
 tags:
   - streaming
 categories:
@@ -32,8 +32,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Don’t be blinded by the “4K” label either; resolution isn’t everything. A 1080p Blu-ray disc can look better than a 4K stream, assuming your TV can do a decent job of [upscaling the image](https://extra-information.techidaily.com/your-roadmap-to-mastery-the-ultimate-guide-to-google-podcasting/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Rediscover Extra Features and Audio Tracks
 
  One of the best things about scoring a DVD back in the day was all of the extra content you’d find on the disc. Audio commentaries allow you to get more out of your favorite movies, offering a unique way to rewatch productions while learning more about how they were made.
@@ -44,6 +48,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Not every release includes this much content, but if you want to take a deep dive into a film you love then it’s worth seeing what you get with the physical release.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You Probably Already Own a Blu-Ray Player
 
  The PlayStation 5 and Xbox Series X both include Blu-ray drives, so if you have a current-generation console then you already have a Blu-ray player that can handle Ultra-HD releases. Each of these can also handle standard 1080p Blu-ray releases, which means they’re a great place to start if you’re thinking of grabbing a few discs.
@@ -51,8 +62,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Sony PlayStation 5 DualSense controller on top of a console.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/ps5_valnet_reviews.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Kris Henges / How-To Geek
 
  These consoles are passable Blu-ray players. They lack support for “premium” HDR standards like [Dolby Vision](https://extra-hints.techidaily.com/best-drone-buddies-kids-most-enjoyed-toy-companions-for-2024/) and [HDR10+](https://some-guidance.techidaily.com/new-the-pathway-to-prosperity-a-graphic-designers-journey/), but you do get regular old HDR10 which looks great and is well-supported in modern releases. If a disc supports Dolby Vision or HDR10+, the older HDR10 format is used as a fallback.
@@ -61,9 +76,6 @@ Kris Henges / How-To Geek
 
  If you aren’t much of a gamer you can start your Blu-ray habit with a sub-$200 player like the [Panasonic DP-UB150EB](https://www.amazon.com/Panasonic-Player-Premium-Playback-Hi-Res/dp/B0BX4RLH68/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002431&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fits-a-great-time-to-start-a-blu-ray-collection%2F&asc%5Fcampaign=Evergreen) (which lacks Dolby Vision) or spend slightly more on something like the [Sony UBP-X700M](https://www.amazon.com/Sony-Ultra-Player-Dolby-Vision/dp/B07L6PL4D6/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002431&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fits-a-great-time-to-start-a-blu-ray-collection%2F&asc%5Fcampaign=Evergreen) (Dolby Vision but no HDR10+). At this stage, we’d recommend avoiding anything that lacks a 4K output.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Some Films Will Never Look Better
 
  4K, or Ultra HD, represents something of a ceiling in terms of quality for many movies. For some, 4K is overkill because many films that were shot digitally (or converted to a digital intermediate) only reached resolutions of 1080p or 2K. This is especially true for content made for TV.
@@ -74,9 +86,6 @@ Kris Henges / How-To Geek
 
 ![Blu-ray disc with Blu-ray player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/3994a5fd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  The upside is that many movies are getting the 4K treatment. For many movies, one final 4K release is worth it for archival purposes. 8K transfers simply won’t be worth it because the image isn’t going to look appreciably better, at least not without getting AI upscaling involved.
@@ -85,9 +94,6 @@ Corbin Davenport / How-To Geek
 
  The bottom line is that, unlike DVDs which are significantly inferior to even standard 1080p Blu-ray discs, modern Ultra HD Blu-ray discs will have a lot more staying power in your collection.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  There's a Thriving Second Hand Market for Blu-Ray Discs
 
  You don’t need to spend big on a collection to get started, since Blu-ray has been around for a while now. This is especially true of standard 1080p Blu-ray releases, which can be picked up for a few dollars (or less) at thrift shops, flea markets, eBay, and Facebook Marketplace. 4K Ultra HD Blu-rays are a bit harder to find at bargain bin prices, but they’ll get there eventually.
@@ -96,14 +102,18 @@ Corbin Davenport / How-To Geek
 
 ![Dark City on Blu-ray.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/dark_city_bluray.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  I pay for Netflix, Apple Music, and Game Pass, and I don’t think twice about it. But it turns out that owning physical media in an era of digital everything has its charm. Blu-rays are new enough that they lack the "retro chic" of vinyl, ubiquitous enough that they're far easier to find than old video game cartridges, and they also happen to take up way less room than books.
 
  You don't have to own everything. Buy your ten favorite films, the movies you watch each year at Christmas or Halloween, and the shows you binge frequently and you're sorted. You can always sell or donate what you don’t like or need, or just pass them on to a friend.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  No Internet Required
 
@@ -117,8 +127,6 @@ Tim Brookes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +134,24 @@ Tim Brookes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-adding-tunes-to-your-ios-clips-three-no-cost-ways-explored/"><u>[New] In 2024, Adding Tunes to Your iOS Clips – Three No-Cost Ways Explored</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-wmp-cd-extraction-and-bursting-techniques-for-2024/"><u>[New] Mastering WMP CD Extraction & Bursting Techniques for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-transforming-your-single-picture-into-video-magic-with-pixiz/"><u>[Updated] 2024 Approved Transforming Your Single Picture Into Video Magic with Pixiz</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-best-free-amv-converters-to-upgrade-your-mp4-and-mp3-media-experience/"><u>Discover the Best Free AMV Converters to Upgrade Your MP4 and MP3 Media Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-methods-for-converting-flv-files-into-wav-format/"><u>Easy Methods for Converting FLV Files Into WAV Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effective-strategies-for-converting-avi-files-into-high-definition-divx-format-on-the-web-or-locally/"><u>Effective Strategies for Converting AVI Files Into High Definition DivX Format on the Web or Locally</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhanced-aesthetics-the-next-level-of-google-chromes-visual-search-features/"><u>Enhanced Aesthetics: The Next Level of Google Chrome's Visual Search Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-unparalleled-query-optimization-with-perplexity-ai/"><u>Experience Unparalleled Query Optimization with Perplexity AI</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-13t-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi 13T Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-quickly-and-easily-convert-your-swf-animations-to-mov-without-costs/"><u>How to Quickly and Easily Convert Your SWF Animations to MOV Without Costs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-samsung-galaxy-f15-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Samsung Galaxy F15 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-ipad-wmv-ipad-2/"><u>Seamless iPad 지원: WMV파일을 위해 고안된 iPad 2화면에 적합한 재구성기</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-tricks-for-fast-high-quality-mp4-creation-from-iso-archives/"><u>Simple Tricks for Fast, High-Quality MP4 Creation From ISO Archives</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-6-essential-tools-for-transforming-your-favorite-gifs-into-full-length-videos/"><u>Top 6 Essential Tools for Transforming Your Favorite GIFs Into Full-Length Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-methods-to-convert-h264-files-to-wmv-format-with-no-loss-in-quality/"><u>Top Methods to Convert H.264 Files to WMV Format with No Loss in Quality</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Nubia Z50 Ultra | Dr.fone</u></a></li>
+</ul></div>
 

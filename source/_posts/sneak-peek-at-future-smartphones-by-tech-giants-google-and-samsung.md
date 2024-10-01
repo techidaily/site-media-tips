@@ -1,7 +1,7 @@
 ---
 title: Sneak Peek at Future Smartphones by Tech Giants Google and Samsung
-date: 2024-09-19T17:36:50.163Z
-updated: 2024-09-25T21:52:52.197Z
+date: 2024-09-27T20:54:19.322Z
+updated: 2024-09-30T21:51:20.572Z
 tags:
   - streaming
 categories:
@@ -15,6 +15,13 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ##  The Big News
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
@@ -23,31 +30,37 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
  Third-party components will no longer disable True Tone or battery health.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
 
  The Steam games client now has a built-in background screen recorder, and it even works on the Steam Deck.
 
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Valve
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
@@ -57,29 +70,22 @@ Valve
 
  Finally, a Start menu change that makes sense.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
 
  It's the first UWB tracker to support Google Find My Device.
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Motorola
 
@@ -88,10 +94,10 @@ Motorola
  Google's next hardware event is nearing.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
@@ -119,24 +125,22 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-share-a-podcast-on-instagram-story-or-post/"><u>[New] Share a Podcast on Instagram Story or Post</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-audio-made-simple-for-imovie-editors/"><u>[New] YouTube Audio, Made Simple for iMovie Editors</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-excellent-video-recorders-for-desktops-for-2024/"><u>[Updated] Excellent Video Recorders for Desktops for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-clear-communication-in-zoom-chats/"><u>2024 Approved Master Clear Communication in Zoom Chats</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-steps-to-digitize-and-import-custom-created-dvds-for-editing-in-imovie/"><u>Easy Steps to Digitize and Import Custom-Created DVDs for Editing in iMovie</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-steps-to-make-your-movies-compatible-with-psp-universal-video-conversion-tool/"><u>Easy Steps to Make Your Movies Compatible with PSP - Universal Video Conversion Tool</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-tutorial-transforming-wmv-videos-into-playable-mp4s-on-kindle-fire-devices/"><u>Easy Tutorial: Transforming WMV Videos Into Playable MP4s on Kindle Fire Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guide-converting-ms-video-files-into-imovie-edits-for-enhanced-visual-storytelling/"><u>Guide: Converting MS Video Files Into iMovie Edits for Enhanced Visual Storytelling</u></a></li>
-<li><a href="https://media-tips.techidaily.com/hassle-free-tutorial-transforming-flv-videos-into-compatible-formats-for-apple-and-sony-gadgets-using-a-mac/"><u>Hassle-Free Tutorial: Transforming FLV Videos Into Compatible Formats for Apple and Sony Gadgets Using a Mac</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/high-end-drones-expert-buyers-choices-top-5-for-2024/"><u>High-End Drones - Expert Buyers' Choices, Top 5 for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-x50i-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor X50i</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-honor-x9b-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Honor X9b</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mpg-to-vob-conversion-tutorial-a-comprehensive-how-to-approach/"><u>MPG to VOB Conversion Tutorial: A Comprehensive How-To Approach</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-edge-40-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Edge 40, is it possible?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-methods-how-to-turn-any-video-into-a-blackberry-compatible-format/"><u>Simple Methods: How to Turn Any Video Into a BlackBerry-Compatible Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-mkv-files-into-high-quality-avi-formats-for-mac-and-windows-users/"><u>Step-by-Step Guide: Converting MKV Files Into High-Quality AVI Formats for Mac and Windows Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamlining-document-output-on-windowshp/"><u>Streamlining Document Output on Windows/HP</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-quality-no-cost-desktop-recording-the-best-apps-list-for-2024/"><u>Top Quality, No Cost Desktop Recording The Best Apps List for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-transforming-3gp-video-files-into-high-quality-mp4s-on-your-mac/"><u>Ultimate Guide: Transforming 3GP Video Files Into High-Quality MP4s on Your Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-finest-tech-for-streaming-and-saving-your-video-conferences/"><u>[New] 2024 Approved The Finest Tech for Streaming and Saving Your Video Conferences</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-choreographing-an-impactful-tiktok-finale-dance-for-2024/"><u>[New] Choreographing an Impactful TikTok Finale Dance for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-checklist-for-successful-reddit-threads/"><u>[Updated] In 2024, The Ultimate Checklist for Successful Reddit Threads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-user-interface-of-the-syma-x8c-drone/"><u>[Updated] The User Interface of the Syma X8C Drone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-cropping-and-styling-tips-for-standout-instagram-videos/"><u>2024 Approved Cropping and Styling Tips for Standout Instagram Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-angles-the-complete-manual-for-effective-video-turns/"><u>2024 Approved Instagram Angles The Complete Manual for Effective Video Turns</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-ig-videos-successfully-building-an-efficient-marketing-blueprint/"><u>2024 Approved Navigating IG Videos Successfully Building an Efficient Marketing Blueprint</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-picture-perfect-in-the-sky-free-and-paid-cloud-solutions-reviewed/"><u>2024 Approved Picture Perfect in the Sky Free & Paid Cloud Solutions Reviewed</u></a></li>
+<li><a href="https://media-tips.techidaily.com/choosing-between-avchd-and-mp4-a-comprehensive-guide-on-selecting-your-ideal-video-format/"><u>Choosing Between AVCHD and MP4: A Comprehensive Guide on Selecting Your Ideal Video Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620218861-easy-conversion-guide-transforming-flv-files-into-mov-on-pc-or-mac-discover-5-cost-free-solutions/"><u>Easy Conversion Guide: Transforming FLV Files Into MOV on PC or Mac - Discover 5 Cost-Free Solutions!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/online-and-offline-methods-transforming-flv-videos-into-mp4-or-mov-formats-for-your-ipad/"><u>Online & Offline Methods: Transforming FLV Videos Into MP4 or MOV Formats for Your iPad</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-simple-techniques-transforming-rmvb-files-into-mpeg-format/"><u>Quick & Simple Techniques: Transforming RMVB Files Into MPEG Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simplified-guide-how-to-transcode-webm-files-into-mp3-format-on-windows-or-mac/"><u>Simplified Guide: How to Transcode WebM Files Into MP3 Format on Windows or Mac</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transferring-canon-mxf-footage-into-final-cut-pro-x/"><u>Step-by-Step Guide: Transferring Canon MXF Footage Into Final Cut Pro X</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-wav-sound-files-into-high-quality-m4a-with-these-5-effective-strategies/"><u>Transforming WAV Sound Files Into High-Quality M4A with These 5 Effective Strategies</u></a></li>
+<li><a href="https://media-tips.techidaily.com/universal-dat-format-changer-quick-and-effortless-conversion-to-desired-formats/"><u>Universal DAT Format Changer: Quick and Effortless Conversion to Desired Formats</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vocal-variations-in-free-fire-gaming/"><u>Vocal Variations in Free Fire Gaming</u></a></li>
 </ul></div>
 

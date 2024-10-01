@@ -1,7 +1,7 @@
 ---
 title: Free Broadcast of the Rio 2024 Summer Olympics via OTA Signal with Antenna Setup
-date: 2024-09-01T06:47:16.946Z
-updated: 2024-09-02T06:47:16.946Z
+date: 2024-09-29T01:51:55.678Z
+updated: 2024-09-30T21:21:45.659Z
 tags:
   - streaming
 categories:
@@ -29,9 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to NBC, you will find some Olympics content streaming on the Peacock app, GOLF Channel, USA Network, CNBC, and E!. Telemundo will air Spanish-language coverage. However, Peacock and the extended range of NBCUniversal channels are not accessible via antenna and can get expensive due to price creep.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ##  How Do I Watch for Free?
 
  OTA antennae pick up free broadcast frequencies, allowing you to tune into television stations without paid cable. Depending on where you live, you may be able to access a handful of local channels or a wider range of HD networks. You are likely to have access to NBC.
@@ -41,15 +38,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Most modern televisions have an integrated tuner, meaning they are ready to be connected to an antenna. This makes setting up an antenna to watch the 2024 Olympics a lot easier than it might sound.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Setting Up an Antenna
 
 ![Person holding an indoor TV antenna](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52815640483_03eaabec66_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jordan Gloor / How-To Geek
 
  When you think of a TV antenna, you may envision a set of metal rabbit ears. But these days, indoor digital antennae often resemble an internet router or speaker. Some antenna models even have sleek, flat designs that are easy to mount indoors to a wall. Outdoor antennae are designed to be mounted on your roof and are typically much larger with a wider range.
@@ -58,9 +63,6 @@ Jordan Gloor / How-To Geek
 
  Keep in mind that you want to be careful about antenna placement to get better reception. As a general rule, you'll want to avoid placing your antenna so that there is an obstacle in the way of the signal. If you're placing an indoor antenna, put it high up on the wall near a window if you can.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Which Olympic Events I Can Watch for Free?
 
  You will be able to watch NBC Olympics coverage using an antenna in most places. You'll find the [full schedule on the Olympics' official website](https://www.nbcolympics.com/full-schedule). NBC Sports has also [published a schedule](https://www.nbcsports.com/olympics/news/paris-2024-olympic-day-by-day-competition-schedule) adjusted for Eastern Standard Time in the United States (six hours behind Paris).
@@ -68,15 +70,23 @@ Jordan Gloor / How-To Geek
  Events that are typically shown in full include swimming, diving, and track and field. Popular sports like women's gymnastics and basketball are often reserved for primetime broadcasts. Check in on the schedule closer to the opening ceremony to get the exact TV schedule.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Watch 2024 Olympic Gymnastics
 
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
 
  Gymnastics is always a highly anticipated event at the Olympics, and in Paris, they will be airing from July 27th to August 5th. With 14 events across men's and women's divisions, viewers can expect thrilling competition from top gymnastic powerhouses like the U.S., China, and Romania. To catch all the action, [tune into your local NBC affiliate or stream it on Peacock](https://youtube-help.techidaily.com/in-2024-hashtag-wisdom-jumpstart-your-6-figure-youtube-rank/), which offers a unique four-view experience.
@@ -91,8 +101,6 @@ Jordan Gloor / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +108,24 @@ Jordan Gloor / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>[New] Streamline Your Movie-Watching Process Add Subtitles to WMP</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-uncovering-the-secrets-of-superior-action-capture/"><u>[Updated] 2024 Approved Uncovering the Secrets of Superior Action Capture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unravel-media-complexity-transforming-xmlttml-into-srt-gold/"><u>[Updated] Unravel Media Complexity Transforming XML/TTML Into SRT Gold</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-deciphering-ad-revenue-and-affiliate-opportunities-on-youtube/"><u>2024 Approved Deciphering Ad Revenue and Affiliate Opportunities on YouTube</u></a></li>
+<li><a href="https://media-tips.techidaily.com/a-comprehensive-tutorial-on-converting-movies-for-playback-on-the-zen-vision-and-x-fi-media-devices/"><u>A Comprehensive Tutorial on Converting Movies for Playback on the Zen Vision & X-Fi Media Devices</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-top-ranking-free-wmv-to-avi-video-converter-tools-a-comprehensive-guide/"><u>Best Top-Ranking Free WMV to AVI Video Converter Tools: A Comprehensive Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/choosing-between-mp4-and-mov-formats-a-comprehensive-guide-to-video-encoding/"><u>Choosing Between MP4 and MOV Formats: A Comprehensive Guide to Video Encoding</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-online-research-with-perplexity-ai-transforming-how-you-utilize-googles-search-technology/"><u>Elevate Online Research with Perplexity AI - Transforming How You Utilize Google's Search Technology</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-changing-avi-files-to-asf-format-at-your-preferred-resolution/"><u>Guide: Changing AVI Files to ASF Format at Your Preferred Resolution</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-easily-transform-your-mp4-files-into-gif-animations-at-no-cost/"><u>How To Easily Transform Your MP4 Files Into GIF Animations at No Cost</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-enhancing-engagement-with-solutions-to-common-shorts-challenges/"><u>In 2024, Enhancing Engagement with Solutions to Common Shorts Challenges</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-intricacies-of-high-dynamic-range-quantum-hdr/"><u>In 2024, The Intricacies of High Dynamic Range (Quantum HDR)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/instant-conversion-techniques-for-playing-mxf-videos-on-your-iphone/"><u>Instant Conversion Techniques for Playing MXF Videos on Your iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/rapide-and-securise-winx-dvd-ripper-platine-avec-vitesse-allant-jusqua-32x-pour-tous-vos-disques-dvd-proteges-sous-windows-10/"><u>Rapide & Sécurisé : WinX DVD Ripper Platine Avec Vitesse Allant Jusqu'à 32X Pour Tous Vos Disques DVD Protégés Sous Windows 10</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-steps-quick-guide-to-converting-mkv-files-into-xvid-format/"><u>Simple Steps: Quick Guide to Converting MKV Files Into Xvid Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/two-cost-effective-methods-for-free-flv-to-3gp-format-conversion/"><u>Two Cost-Effective Methods for Free FLV to 3GP Format Conversion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-worlds-first-atomman-g7-pt-an-amd-advantage-powerhouse-with-advanced-r9-7945hx-and-rx-760e-xt-graphics-cards/"><u>Unveiling the World's First: AtomMan G7 Pt, an AMD Advantage Powerhouse with Advanced R9 7945HX & RX 760E XT Graphics Cards</u></a></li>
+</ul></div>
 

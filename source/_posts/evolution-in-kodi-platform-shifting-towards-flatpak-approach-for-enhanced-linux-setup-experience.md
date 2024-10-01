@@ -1,7 +1,7 @@
 ---
 title: "Evolution in Kodi Platform: Shifting Towards Flatpak Approach for Enhanced Linux Setup Experience"
-date: 2024-09-19T16:23:52.977Z
-updated: 2024-09-26T06:49:14.267Z
+date: 2024-09-26T18:10:40.706Z
+updated: 2024-09-30T16:01:10.074Z
 tags:
   - streaming
 categories:
@@ -38,29 +38,24 @@ Slowly but surely, the Linux ecosystem is switching to packaged software bundles
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-talent-hunters-unite-top-10-video-roundup/"><u>[New] In 2024, Talent Hunters Unite! Top 10 Video Roundup</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unveiling-the-best-editing-suites-post-vimeo/"><u>[New] In 2024, Unveiling the Best Editing Suites Post-Vimeo</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-free-english-dubbed-taiwanese-drama-sites-top-picks-for-binge-worthy-entertainment/"><u>Best Free English Dubbed Taiwanese Drama Sites: Top Picks for Binge-Worthy Entertainment</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620208512-comprehensive-steps-for-converting-flv-video-tracks-to-mp3-format-both-web-based-and-local-methods-covered/"><u>Comprehensive Steps for Converting FLV Video Tracks to MP3 Format - Both Web-Based and Local Methods Covered!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-xs-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone XS Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-frequent-problems-with-the-iphone-13-solutions-revealed/"><u>Top 6 Frequent Problems with the iPhone 13: Solutions Revealed</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-mp3-combiner-software-for-seamless-audio-track-integration/"><u>Top-Rated MP3 Combiner Software for Seamless Audio Track Integration</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transforming-aiff-soundtracks-into-mp3-format-discover-five-simple-methods/"><u>Transforming AIFF Soundtracks Into MP3 Format: Discover Five Simple Methods</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-top-5-dvd-ripping-software-for-iriver-players-on-windows-and-macos/"><u>Ultimate Guide: Top 5 DVD Ripping Software for iRiver Players on Windows & macOS</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unleash-your-sound-creativity-with-reaper-audio-top-tier-recording-editing-and-mixing-solution/"><u>Unleash Your Sound Creativity with Reaper Audio: Top-Tier Recording, Editing & Mixing Solution</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-practice-empathy-put-yourself-in-the-speakers-shoes-and-try-to-understand-their-perspective-emotions-and-motivations/"><u>[New] Practice Empathy Put Yourself in the Speaker's Shoes and Try to Understand Their Perspective, Emotions, and Motivations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iview-harmony-ios-and-macos-slideshow-tool/"><u>[Updated] IView Harmony IOS & macOS Slideshow Tool</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/10-excellent-web-based-screen-capture-solutions/"><u>10 Excellent Web-Based Screen Capture Solutions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/7-must-use-audio-selections-to-elevate-your-video-advertisements-at-no-cost/"><u>7 Must-Use Audio Selections to Elevate Your Video Advertisements at No Cost</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-techniques-for-eliminating-ambient-sounds-from-your-audio-recordings/"><u>Best Techniques for Eliminating Ambient Sounds From Your Audio Recordings</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-resource-unavailable-situations-on-windows-149-chars/"><u>Correcting 'Resource Unavailable' Situations on Windows (149 Chars)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effective-techniques-for-editing-and-shortening-audio-clips-on-tiktok/"><u>Effective Techniques for Editing and Shortening Audio Clips on TikTok</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-techniques-for-reducing-the-size-of-your-m4a-audio-tracks/"><u>Effortless Techniques for Reducing the Size of Your M4A Audio Tracks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-se-2020-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone SE (2020) Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 15 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-missing-rpcrt4dll-a-step-by-step-guide/"><u>Solving the Mystery of Missing rpcrt4.dll: A Step-by-Step Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-picture-guide-mastering-the-art-of-song-layering-in-just-3-moves/"><u>Step-by-Step Picture Guide: Mastering the Art of Song Layering in Just 3 Moves</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

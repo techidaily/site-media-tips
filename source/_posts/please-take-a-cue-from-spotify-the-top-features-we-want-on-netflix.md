@@ -1,7 +1,7 @@
 ---
 title: Please Take a Cue From Spotify - The Top Features We Want on Netflix!
-date: 2024-09-01T06:47:32.738Z
-updated: 2024-09-02T06:47:32.738Z
+date: 2024-09-25T19:54:49.435Z
+updated: 2024-09-30T16:53:15.040Z
 tags:
   - streaming
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The best TV binges are the ones with all hits and no skips. Netflix, you’re the king of queues, so let me create my own playlists with individual episodes from shows on your service. While we’re on the topic of new features, I’ve got some other ideas too.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Video Playlists Would Be Great for Better Binging
 
  It’s a simple request, but I want to add any TV show episode to a playlist I create. Sometimes I just want to re-live the best moments and there’s no easy way to do that without mentally cataloging certain episodes or writing them down somewhere.
@@ -32,8 +39,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Dear reader, I can see the skeptical wheels turning in your brain, thinking, “But content gets removed and added to Netflix all the time, what happens then?” That's easy. If shows or movies become unavailable, then they’re just grayed out from playlists. The same thing happens with songs on Spotify. Artists remove songs and albums all the time for various reasons. The playlist skips unavailable tracks and moves on. To spin this into a positive thing, Netflix could always use this info to ping you when a show or movie returns.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Add Back That Shuffle Button!
 
  Being able to make playlists is the feature I really want to see all video services add, but it’s not the only one Netflix could take a cue from Spotify on. Another obvious one that goes hand in hand with a playlist is a shuffle button.
@@ -43,8 +54,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Netflix, add a shuffle button where it makes sense. Put a shuffle button on the pages for TV series. Serve me up a random episode of a specific show, not just any random show. I mean, Spotify doesn’t put a shuffle button on its entire library. The shuffle button is used for albums and playlists—its use is narrower.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Access to More Data For a Richer Experience
 
  Spotify, along with Apple Music, has been doing a good job of exposing more data to listeners who want to know it. Lyrics are the obvious data point, but did you know you can see songwriters, producers, and musicians who worked on songs?
@@ -54,8 +69,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Based on Google searches and anecdotal evidence from talking with other people, it’s clear everyone is looking for more information about shows and movies. Netflix, don’t make people leave the site or app to get that info. Let us tap into that curiosity on your turf.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  We Need More Features (If You’re Going to Keep Raising Prices)
 
  Whether Netflix or other streaming video services add my playlist feature, they need to start adding more features in general. I can name the last time each service [raised its prices](https://youtube-web.techidaily.com/emystifying-video-seo-on-youtube-as-a-novice/), but I can’t tell you the last features they showed some innovation with—and I follow this stuff! (Playing videos at a [faster speed](https://extra-hints.techidaily.com/10-sci-fi-vr-adventures-unveiling-distant-realities/) ain't it either.)
@@ -68,8 +87,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,4 +94,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-mac-video-editing-tools-reviewed-bandicam-vs-camtasia/"><u>[New] 2024 Approved Best Mac Video Editing Tools Reviewed Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-deep-dive-into-instagrams-copyrighted-song-permissions/"><u>2024 Approved A Deep Dive Into Instagram's Copyrighted Song Permissions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-methods-for-converting-mxf-files-to-m4v-format-a-guide-for-pc-and-mac-users/"><u>Best Methods for Converting MXF Files to M4V Format: A Guide for PC & Mac Users</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-life-into-your-dormant-device-speakers/"><u>Breathe Life Into Your Dormant Device Speakers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-conversion-techniques-from-m2ts-to-kindle-fire-compatible-format/"><u>Easy Conversion Techniques From M2TS to Kindle Fire Compatible Format</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-leading-5-video-conference-recorders-for-seamless-captures/"><u>In 2024, Leading 5 Video Conference Recorders for Seamless Captures</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620227685-modern-compatible-swf-to-mp4-transformation-tools-find-the-optimal-converter/"><u>Modern-Compatible SWF to MP4 Transformation Tools - Find the Optimal Converter</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-reverse-video-in-fcp-a-step-by-step-guide-for-beginners-for-2024/"><u>New Reverse Video in FCP A Step-by-Step Guide for Beginners for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-group-photo-and-video-uploads-in-instagram-for-2024/"><u>The Ultimate Guide to Group Photo and Video Uploads in Instagram for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-how-to-guide-for-using-aiseesofts-ios-video-transformation-tool-for-mac-enthusiasts/"><u>Ultimate How-To Guide for Using Aiseesoft's iOS Video Transformation Tool for Mac Enthusiasts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-tutorial-converting-video-object-vob-to-windows-media-video-wmv-for-seamless-editing-in-windows-movie-maker/"><u>Ultimate Tutorial: Converting Video Object (VOB) to Windows Media Video (WMV) for Seamless Editing in Windows Movie Maker</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-function-of-top-7-gpt-4-integrated-applications/"><u>Understanding the Function of Top 7 GPT-4 Integrated Applications</u></a></li>
+</ul></div>
 

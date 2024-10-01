@@ -1,7 +1,7 @@
 ---
 title: "MP3 Purchases Triumph Over Streaming: A Personal Perspective"
-date: 2024-09-01T06:49:50.276Z
-updated: 2024-09-02T06:49:50.276Z
+date: 2024-09-29T00:28:29.974Z
+updated: 2024-09-30T17:50:54.304Z
 tags:
   - streaming
 categories:
@@ -40,8 +40,12 @@ Close
  Streaming apps control the entirety of their listening experience. You can only stream through their apps on supported platforms, and if you don't like their app design, tough luck. If they make a change you don't like, you're stuck with it. That, to me, is a worse experience than the one I grew up with. But being able to swap out apps? That's pretty cool.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  I Enjoy Building a Music Library
 
 Close 
@@ -53,8 +57,12 @@ Close
  I feel a more personal connection to music this way than I do on streaming platforms, where I can instantly play any song at any time. This is a subjective matter, I know. Spotify users look forward to the [year's summary of what they've listened to](https://screen-recording.techidaily.com/updated-in-2024-premier-mobile-devices-top-gba-game-players/). They share playlists that reflect their creativity. As for me, I prefer to cobble together a collection of music that I can carry around as my own.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  It Feels Good to Support Artists Directly
 
  We feel close to our favorite musicians despite never meeting them. Their words and melodies form the soundtrack to our lives. There are ways we can give back to them, but one of the most straightforward methods is to pay them.
@@ -63,10 +71,6 @@ Close
 
  Sure, it's not a perfect system, and record labels screwed over artists long before streaming platforms took their place. Still, it's a system where people selling music get to set their own prices and have at least some say in how much they make.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ##  Opting Out of the Streaming Business Model
 
  Streaming services don't exactly pay musicians. Or rather, they don't pay much. The biggest stars with millions of streams are able to make a good living, but many find themselves making less than they did from the days when most fans bought CDs. Streaming is an opaque system where musicians get paid fractions of a penny whenever we click the play button next to their song or their track pops up in a playlist.
@@ -78,15 +82,23 @@ The ultimate burning program for all your needs!</a>
  In many ways, [Spotify is now a social network](https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-se-2020-apple-id-and-apple-pay-by-drfone-ios/). I don't like having my behavior monitored and logged. I don't like being so explicitly manipulated. Algorithms have made social media toxic and turned YouTube into a risky place to browse. I don't want them steering my music, either.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  If I Cancel a Subscription, I'm Left With Nothing
 
 ![YouTube Music banner on the Pixel 4 XL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/340cfeb4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Cameron Summerson / How-To Geek
 
  With streaming platforms, I hand over ownership of my music, the freedom to listen to those songs wherever I want, give someone permission to log all of my listening habits and open myself up to manipulation by an algorithm. Then, if I decide I'm done with this relationship and cancel my subscription, I'm left with nothing.
@@ -105,8 +117,6 @@ Cameron Summerson / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +124,22 @@ Cameron Summerson / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-inspiration-on-a-plate-top-20-instagram-food-photos/"><u>[New] Inspiration on a Plate Top 20 Instagram Food Photos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-apex-legends-crossplay-how-to-turn-it-off-and-platform-choosing-guide-for-2024/"><u>[Updated] Apex Legends Crossplay How to Turn It Off & Platform Choosing Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-foremost-biodegradable-equipment-for-video-filming/"><u>[Updated] In 2024, Foremost Biodegradable Equipment for Video Filming</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/artful-depth-making-text-pop-in-ai-for-2024/"><u>Artful Depth Making Text Pop in AI for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cerebral-showcase-gk-video-challenge-network/"><u>Cerebral Showcase - GK Video Challenge Network</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/conversion-gratuite-en-hd-guide-complet-sur-la-transmutation-de-fichiers-mkv-hevch265-sans-perte-de-qualite-ni-ralentissement-des-performances/"><u>Conversion Gratuite en HD : Guide Complet Sur La Transmutation De Fichiers MKV HEVC/H.265 Sans Perte De Qualité Ni Ralentissement Des Performances</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-note-50-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme Note 50 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-latest-dolby-digital-audio-driver-updates-on-your-windows-machine-version-11-10-or-81/"><u>Install Latest Dolby Digital Audio Driver Updates on Your Windows Machine (Version 11, 10 or 8.1)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-update-allows-users-to-turn-off-plexs-automatic-two-hour-streaming-limit/"><u>New Update Allows Users to Turn Off Plex's Automatic Two-Hour Streaming Limit</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-update-fire-tv-introduces-advertising-in-its-ambient-theme-screen-saver-feature/"><u>New Update: Fire TV Introduces Advertising in Its Ambient Theme Screen Saver Feature</u></a></li>
+<li><a href="https://media-tips.techidaily.com/plex-announces-launch-of-new-video-rental-service-in-current-year/"><u>Plex Announces Launch of New Video Rental Service in [Current Year]</u></a></li>
+<li><a href="https://media-tips.techidaily.com/price-surge-announced-by-peacock-ahead-of-upcoming-summer-olympic-games/"><u>Price Surge Announced by Peacock Ahead of Upcoming Summer Olympic Games</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-guide-identifying-if-your-favorite-streamer-hosts-that-must-see-film-or-series/"><u>Quick Guide: Identifying if Your Favorite Streamer Hosts That Must-See Film or Series</u></a></li>
+<li><a href="https://media-tips.techidaily.com/reviving-disneyplus-success-top-6-essential-enhancements-for-growth/"><u>Reviving Disney+ Success: Top 6 Essential Enhancements for Growth</u></a></li>
+<li><a href="https://media-tips.techidaily.com/saying-goodbye-to-physical-media-best-buys-final-dvd-and-blu-ray-offerings/"><u>Saying Goodbye to Physical Media: Best Buy's Final DVD and Blu-Ray Offerings</u></a></li>
+</ul></div>
 

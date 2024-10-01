@@ -1,7 +1,7 @@
 ---
 title: "Unplug Your Vizio Smart TV: Essential Steps to Safely Severing Its Internet Connection"
-date: 2024-09-21T20:49:32.041Z
-updated: 2024-09-25T20:06:04.612Z
+date: 2024-09-26T00:48:42.266Z
+updated: 2024-09-30T16:56:29.153Z
 tags:
   - streaming
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
 
  Ever feel like your TV knows a little too much about your binge-watching habits? Smart TVs are notorious for privacy invasion, from voice assistants listening in to tech that tracks every show you watch. Now, with Vizio in Walmart's shopping cart, it's a great time to evaluate what your TV knows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Your Smart TV _is_ Spying on You
 
  If this article had been written five to ten years ago, this section might have been titled "Your Smart TV Might Be Spying on You." Nowadays, unfortunately, your smart TV is almost certainly spying on you. This is not something you should ignore.
@@ -41,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
  This all sounds pretty scary, and to some degree, _it is_, but that doesn't mean you should jump to assuming it's as invasive as it sounds. The information collected is overwhelmingly used for ads. Boring as that may be, you shouldn't allow it to happen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Walmart Now Owns Vizio and Its User Data
@@ -54,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
  As of October 2021, Vizio had [more than 18 million ACR-enabled smart TVs in the market](https://www.businesswire.com/news/home/20211006005066/en/VideoAmp-and-VIZIO-Announce-Renewed-Partnership). Vizio is the third largest TV brand in the U.S. It accomplished that by selling TVs at a loss and then making it back through ads. In [Q3 2023](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001835591/758c28ca-0bee-4ede-bd39-8056692f9ce5.pdf), Vizio posted a loss of $3.3 million in hardware sales but had a massive $97 million in gross profit.
 
  Clearly, there's big business in collecting data from your TV usage habits. Walmart was already selling Vizio TVs, but now it can also bolster its own ads platform—[called "Walmart Connect"](https://corporate.walmart.com/news/2024/02/20/walmart-agrees-to-acquire-vizio-holding-corp-to-facilitate-accelerated-growth-of-walmart-connect-through-vizio-s-smartcast-operating-system)—with all of that user data. Plus, with Vizio's SmartCast platform, Walmart could ditch Roku and Google TV for its Onn-branded smart TVs.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Disconnecting From the Internet is the Easiest Solution
 
@@ -65,21 +65,28 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
 
  Now, this does mean you'll lose some of the functionality of your smart TV's software. If you were only using the TV as a "dumb" display for other devices, like a gaming console, that's not a problem. However, if you were using the TV's stock software for launching Netflix, Hulu, and other streaming services, we'll share a better way to go about that below.
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Turn off Tracking on Vizio TVs
 
 ![Vizio settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/viaplus-onscreen-settings-transformed.png) 
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Vizio
@@ -101,13 +108,6 @@ Vizio
 3. Select "Reset & Admin."
 4. Highlight "Viewing Data."
 5. Press the right arrow to change the setting to "Off."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use a Secondary Streaming Device Instead
 
@@ -134,22 +134,22 @@ Vizio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-optimizing-presentations-through-skilled-use-of-aiseesoft-recorder-for-2024/"><u>[New] Optimizing Presentations Through Skilled Use of Aiseesoft Recorder for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-merge-easy-to-use-skype-with-advanced-zoom-features/"><u>2024 Approved Merge Easy-to-Use Skype with Advanced Zoom Features</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-top-5-budget-action-camcorders-in-full-hd/"><u>2024 Approved Top 5 Budget Action Camcorders in Full HD</u></a></li>
-<li><a href="https://media-tips.techidaily.com/building-isquint-and-visualhub-with-techspansions-free-software-solutions/"><u>Building iSquint and VisualHub with Techspansion’s Free Software Solutions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-tutorial-how-to-convert-dat-files-into-wmv-format-without-cost/"><u>Comprehensive Tutorial: How to Convert DAT Files Into WMV Format Without Cost</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/computers-nightmare-staying-in-sleep-mode/"><u>Computer's Nightmare: Staying In Sleep Mode</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-wmv-videos-to-swf-format-efficiently-top-free-and-premium-tools/"><u>Convert WMV Videos to SWF Format Efficiently: Top Free & Premium Tools</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easily-upgrade-download-current-insignia-to-ethernet-device-software/"><u>Easily Upgrade: Download Current Insignia to Ethernet Device Software</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-4-step-guide-for-converting-mxf-footage-to-sony-vegas-mp4-with-avchdhevc-encoding/"><u>Easy 4-Step Guide for Converting MXF Footage to Sony Vegas MP4 with AVCHD/HEVC Encoding</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oneplus-ace-2v-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your OnePlus Ace 2V in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-conversion-guide-transform-videos-for-your-galaxy-series-s10-s9-etc/"><u>Effortless Conversion Guide: Transform Videos for Your Galaxy Series (S10, S9, Etc.)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/grand-city-adventures-without-a-gta-tie/"><u>Grand City Adventures Without a GTA Tie</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-from-raw-footage-to-final-cut-the-essential-plugin-lineup-for-video-editors-for-2024/"><u>New From Raw Footage to Final Cut The Essential Plugin Lineup for Video Editors for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/quick-tips-on-confirming-facebooks-online-presence/"><u>Quick Tips on Confirming Facebook’s Online Presence</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-list-of-multiplatform-video-downloading-tools-for-mac-and-web-users/"><u>The Ultimate List of Multiplatform Video Downloading Tools for Mac and Web Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-techniques-for-high-quality-avi-to-divx-hd-conversion-online-and-offline-solutions/"><u>Top Techniques for High-Quality AVI to DivX HD Conversion: Online & Offline Solutions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transforming-your-rm-files-into-mp4-the-ultimate-guide-using-aiseesoft-total-video-converter/"><u>Transforming Your RM Files Into MP4: The Ultimate Guide Using Aiseesoft Total Video Converter</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-10-must-have-drone-accessories-and-parts/"><u>[New] 10 Must Have Drone Accessories and Parts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-8-ultimate-windows-10-video-grabber-apps-you-must-try/"><u>[Updated] 8 Ultimate Windows 10 Video Grabber Apps You Must Try</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skys-best-hd-pics-top-website-guide/"><u>2024 Approved Sky's Best HD Pics Top Website Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oneplus-12r-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/drone-footage-mastery-editorial-software-hierarchy-unlocked/"><u>Drone Footage Mastery Editorial Software Hierarchy Unlocked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-edge-techniques-for-effective-wsl-2-use/"><u>Leading Edge Techniques for Effective WSL 2 Use</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/mastering-twitter-videos-in-ultra-hd-for-2024/"><u>Mastering Twitter Videos in Ultra HD for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-simple-guide-converting-flv-files-for-ipad-iphone-and-psp-devices-on-your-mac/"><u>Quick & Simple Guide: Converting FLV Files for iPad, iPhone & PSP Devices on Your Mac</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transferring-your-diy-dvd-footage-into-imovie/"><u>Step-by-Step Guide: Transferring Your DIY DVD Footage Into iMovie</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-mpeg2-videos-into-avi-format-for-both-mac-and-pc-users-without-costs/"><u>Step-by-Step Guide: Transforming MPEG2 Videos Into AVI Format for Both Mac and PC Users, Without Costs</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streamlined-methods-for-transferring-videos-from-final-cut-pro/"><u>Streamlined Methods for Transferring Videos From Final Cut Pro</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streamlining-the-process-expert-tips-on-transforming-footage-into-stunning-4k/"><u>Streamlining the Process: Expert Tips on Transforming Footage Into Stunning 4K</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-ultimate-path-to-monetizing-tiktok-content-creation-for-2024/"><u>The Ultimate Path to Monetizing TikTok Content Creation for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-picks-the-best-online-and-offline-tools-for-media-format-conversion/"><u>Top Picks: The Best Online and Offline Tools for Media Format Conversion</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-iphone-video-transformation-app-flv-to-ios-format/"><u>Top Rated iPhone Video Transformation App: FLV to iOS Format</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-your-youtube-shorts-into-earnings-what-you-need-and-how-much/"><u>Turning Your YouTube Shorts Into Earnings What You Need & How Much?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-techniques-for-transforming-flv-files-into-popular-video-types/"><u>Ultimate Techniques for Transforming FLV Files Into Popular Video Types</u></a></li>
 </ul></div>
 

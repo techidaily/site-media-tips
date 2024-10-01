@@ -1,7 +1,7 @@
 ---
 title: "Transition of Kodi: Adopting Flatpak Framework for Streamlined Linux Deployment"
-date: 2024-09-05T07:37:46.680Z
-updated: 2024-09-06T07:37:46.680Z
+date: 2024-09-27T16:11:53.876Z
+updated: 2024-09-30T16:47:37.642Z
 tags:
   - streaming
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/5b80927e68923eec1d1361008f6bde3827f135dcc6188baf767c77fe55f4ad9e.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Transition of Kodi: Adopting Flatpak Framework for Streamlined Linux Deployment
 
 Slowly but surely, the Linux ecosystem is switching to packaged software bundles, like Snap and Flatpak. The Kodi media center project has announced it will no longer distribute installations or updates through the Team Kodi PPA, instead using [Flatpak](https://flathub.org/apps/tv.kodi.Kodi) as its primary software repository on Linux.
@@ -35,8 +29,6 @@ Slowly but surely, the Linux ecosystem is switching to packaged software bundles
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -44,4 +36,27 @@ Slowly but surely, the Linux ecosystem is switching to packaged software bundles
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elite-group-16-youtube-entries-boosting-views/"><u>[New] 2024 Approved Elite Group 16 YouTube Entries Boosting Views</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-elevate-your-videography-mastering-the-dimensions/"><u>[New] In 2024, Elevate Your Videography Mastering the Dimensions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-reels-adding-your-own-soundtrack/"><u>[Updated] 2024 Approved Mastering Instagram Reels Adding Your Own Soundtrack</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-maximizing-quality-in-ppt-recordings/"><u>2024 Approved Maximizing Quality in PPT Recordings</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-uwu-audio-modifiers-the-top-3-picks-and-tips-on-crafting-perfect-anime-vocalizations/"><u>Best Uwu Audio Modifiers: The Top 3 Picks & Tips on Crafting Perfect Anime Vocalizations</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-conversion-top-7-strategies-for-changing-mp2-audio-tracks-into-mp3-on-pcmac-and-via-web-services/"><u>Effortless Conversion: Top 7 Strategies for Changing MP2 Audio Tracks Into MP3 on PC/Mac and via Web Services</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhance-your-conversations-top-5-tts-software-solutions-for-effective-communication/"><u>Enhance Your Conversations: Top 5 TTS Software Solutions for Effective Communication</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-navigating-the-chart-toppers-playbook/"><u>In 2024, Navigating the Chart-Toppers' Playbook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-error-addressed-driver-returns-to-form/"><u>Nvidia Error Addressed - Driver Returns to Form</u></a></li>
+<li><a href="https://media-tips.techidaily.com/optimizing-audio-quality-finding-the-ideal-bitrate-conversion-for-mp3s/"><u>Optimizing Audio Quality: Finding the Ideal Bitrate Conversion for MP3s</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-mov-files-to-mp3-format-across-computers-and-smartphones/"><u>Step-by-Step Guide: Converting MOV Files to MP3 Format Across Computers and Smartphones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/swipe-tap-save-the-ultimate-guide-for-igtv-videos-on-devices/"><u>Swipe, Tap, Save The Ultimate Guide for IGTV Videos on Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-grid-software-to-elevate-your-photography/"><u>Top Grid Software to Elevate Your Photography</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

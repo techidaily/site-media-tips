@@ -1,7 +1,7 @@
 ---
 title: Effective Ways to Reduce Your Music Library Size on Spotify
-date: 2024-09-22T02:19:01.555Z
-updated: 2024-09-26T03:12:27.554Z
+date: 2024-09-25T19:46:08.171Z
+updated: 2024-09-30T23:16:33.970Z
 tags:
   - streaming
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  However, these cache files can add up, and even with Spotify automatically deleting old and unused cache files, it is still very possible to end up with a ridiculously huge Spotify cache. If that's the case for you, it's time to [delete your Spotify cache](https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-meizu-21-pro-drfone-by-drfone-virtual-android/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Where are Spotify Downloads Stored?
 
  One of the [best things about being a Spotify Premium user](https://tech-renaissance.techidaily.com/unlocking-the-secrets-of-successful-tiktok-duets-for-beginners/) is that you can [download songs for offline listening](https://hardware-updates.techidaily.com/1723862819427-experts-take-on-the-affordable-giant-monoprice-40-inch-crystal-pro-gaming-monitor-44394-with-high-fps-and-stealthy-cost/). Any songs you download are stored on your device's internal storage (or SD card). Downloading songs saves data by avoiding repeated streaming, but it also takes up some of your device's available storage space.
@@ -53,13 +46,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Next, scroll through the bubbles on the top of your screen till you find one that says "Downloaded," and tap on it. This will bring up all your downloaded albums and playlists.
 
 ![The Spotify 'Your Library' tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select the album or playlist you want to remove.
 
@@ -85,13 +71,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A dialog box asking for confirmation to delete all downloads](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-7.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will remove all the content you've downloaded on Spotify.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  How to Manage Spotify Downloads on Desktop
@@ -108,13 +101,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The Spotify 'Your Library' section on the desktop app with the 'downloaded' button highlighted indicating that it is filtering the results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-13-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap on the green download button to remove it.
 
 ![The Release Radar Playlist with the download button in green indicating it has been downloaded](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-14.jpg) 
@@ -123,22 +109,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The Spotify account options on the desktop app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-15.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now scroll down to "Storage" and select "Remove All Downloads."
 
 ![The Remove all downloads button in the Spotify settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-16.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Change the Audio Quality on Spotify
@@ -147,45 +126,72 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Downloading at a higher quality may help you hear the finer details in your music, but it also comes at an increased storage cost. By default, Spotify sets your download audio quality to "Normal," but you can adjust this in a few easy steps.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  How to Switch to a Smaller Download Size on Android and iPhone
 
  To change the quality of your Spotify downloads, open the Spotify app on your [iPhone, iPad](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580), or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001844/https://play.google.com/store/apps/details?id=com.spotify.music&hl=en%5FUS&gl=US) device and tap on your profile photo in the top right corner.
 
 ![The Spotify home page on the mobile app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-0-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, select "Settings and Privacy."
 
 ![Spotify account options on the mobile app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-5-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scroll down till you reach the "Audio Quality" section. To adjust the download audio quality, tap on the downward-pointing triangle next to "Download."
 
 ![Spotify audio settings on the mobile app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-8.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select "Low."
 
 ![Spotify audio settings on the mobile app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-9.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your songs will now download at "Low" quality and use less storage space.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  How to Switch to a Smaller Download Size on a Desktop
 
  To switch to a smaller download size on your desktop, open the [Spotify app](https://www.spotify.com/us/download/), click on the profile icon, and select "Settings."
 
 ![Spotify account options on the dektop app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-15-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Scroll down to "Download" in the "Audio Quality" section. Click on the downward pointing arrow and select "Low."
 
@@ -214,16 +220,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-speedy-upgrade-leading-android-video-tuners-for-2024/"><u>[New] Speedy Upgrade Leading Android Video Tuners for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-essential-guide-to-the-top-10-video-calls-for-your-smartphone/"><u>[Updated] Essential Guide to the Top 10 Video Calls for Your Smartphone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-excellence-in-endless-data-archiving-services-for-2024/"><u>[Updated] Excellence in Endless Data Archiving Services for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-live-excellence-a-comprehensive-tutorial/"><u>2024 Approved YouTube Live Excellence A Comprehensive Tutorial</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expert-guide-preserving-excellence-in-upgrading-your-dat-media-library-to-premium-mp4-format/"><u>Expert Guide: Preserving Excellence in Upgrading Your DAT Media Library to Premium MP4 Format</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620235881-master-the-switch-from-mp4-to-wav-audio-discover-five-effective-strategies-inside/"><u>Master the Switch From MP4 to WAV Audio: Discover Five Effective Strategies Inside!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-guide-transforming-mxf-videos-into-wmv-discover-3-straightforward-conversion-approaches/"><u>Quick Guide: Transforming MXF Videos Into WMV - Discover 3 Straightforward Conversion Approaches</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-extracting-audio-from-mp4-files-with-top-tools/"><u>Step-by-Step Guide: Extracting Audio From MP4 Files with Top Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlock-image-potential-10plus-lut-samples-some-at-zero-cost-for-2024/"><u>Unlock Image Potential 10+ LUT Samples, Some at Zero Cost for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-5-best-live-stream-video-conference-recorders/"><u>[New] In 2024, 5 Best Live Stream Video Conference Recorders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tailoring-content-creating-ideal-instagram-video-experiences/"><u>[New] Tailoring Content Creating Ideal Instagram Video Experiences</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-from-camera-to-feed-iphone-and-android-broadcast-guide-for-facebook-for-2024/"><u>[Updated] From Camera to Feed IPhone & Android Broadcast Guide for Facebook for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fusion-of-video-files-for-ios-devices/"><u>[Updated] Fusion of Video Files for iOS Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-look-at-comments-on-youtube/"><u>[Updated] How to Look at Comments on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-sonic-journey-top-pick-free-apps-downloading-youtube-tunes-to-mobile/"><u>[Updated] Sonic Journey Top Pick Free Apps Downloading YouTube Tunes to Mobile</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/budding-entrepreneurs-mastering-telegram-advertising-basics/"><u>Budding Entrepreneurs Mastering Telegram Advertising Basics</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-tips-and-tricks-transforming-flv-video-into-iphone-friendly-formats/"><u>Easy Tips & Tricks: Transforming FLV Video Into iPhone-Friendly Formats</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortlessly-enhance-your-systems-graphics-speed-upgrade-intel-drivers-in-windows/"><u>Effortlessly Enhance Your System's Graphics Speed, Upgrade Intel Drivers in WIndows</u></a></li>
+<li><a href="https://media-tips.techidaily.com/explore-and-capture-in-style-ranking-the-5-superior-gopro-cameras-on-the-market/"><u>Explore & Capture in Style: Ranking the 5 Superior GoPro Cameras on the Market</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-and-simple-techniques-for-converting-audio-samples-into-mp4-videos-6-proven-methods/"><u>Free and Simple Techniques for Converting Audio Samples Into MP4 Videos - 6 Proven Methods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-oneplus-nord-n30-se-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock OnePlus Nord N30 SE Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620216796-quick-guide-seamless-mkv-to-divx-transformation-process-unveiled/"><u>Quick Guide: Seamless MKV to DivX Transformation Process Unveiled!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-ts-files-into-mp4-and-mov-with-mac-ts-converter-for-macos/"><u>Step-by-Step Guide: Converting TS Files Into MP4 and MOV with Mac TS Converter for macOS</u></a></li>
+<li><a href="https://media-tips.techidaily.com/three-effective-ways-to-transform-images-into-videos-a-step-by-step-guide/"><u>Three Effective Ways to Transform Images Into Videos: A Step-by-Step Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ts-and-mpeg-file-transcoder-seamlessly-convert-to-mp4-mp3-mov-or-wmv-formats/"><u>TS & MPEG File Transcoder: Seamlessly Convert to MP4, MP3, MOV, or WMV Formats</u></a></li>
+<li><a href="https://media-tips.techidaily.com/turn-your-ipod-into-a-portable-cinema-with-our-top-video-conversion-tool/"><u>Turn Your iPod Into a Portable Cinema with Our Top Video Conversion Tool</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-transferring-videos-to-your-playstation-portable-psp-with-easy-to-follow-steps/"><u>Ultimate Guide: Transferring Videos to Your PlayStation Portable (PSP) with Easy-to-Follow Steps</u></a></li>
 </ul></div>
 

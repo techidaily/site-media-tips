@@ -1,7 +1,7 @@
 ---
 title: Top 5 Essential Factors to Assess Before Buying Pre-Owned DVDs & Blu-Ray Discs
-date: 2024-09-23T21:54:42.745Z
-updated: 2024-09-26T05:51:37.600Z
+date: 2024-09-26T23:32:28.082Z
+updated: 2024-09-30T20:56:28.949Z
 tags:
   - streaming
 categories:
@@ -22,22 +22,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  With optical media production winding down, and many people seemingly happy to get rid of their disc collections, there's never been a better time to pick up used media for your collection, but I'm still somewhat particular about used discs no matter how low their price!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1  How Bad Are the Scratches? 
 
 ![Scratched cd or dvd close up.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/scratched-cd-or-dvd-close-up.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Delpixel / Shutterstock.com](https://www.shutterstock.com/image-photo/scratched-cd-dvd-close-data-loss-236141077)
 
@@ -47,19 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  That said, the type of disc plays a role here. CDs seem least robust against scratches, whereas I've found that DVDs do pretty well with moderate scratching. For [Blu-rays](https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-a78-drfone-by-drfone-virtual-android/), I've actually never encountered a scratched Blu-ray that didn't work correctly, so I'm not that bothered when a used BD has a few marks.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2  Cloudiness or Edge Infiltration 
 
  You might have heard of an issue known as "[disc rot](https://vp-tips.techidaily.com/new-unlocking-full-potential-with-iphone-hdr/)", which is degradation in discs that makes them malfunction. Disc rot isn't just one thing, but several different ways discs can degrade. Some discs aren't properly sealed, so a chemical change happens to the metallic data layer. In some, it's the clear protective layer that becomes cloudy. Whatever the specific cause of the rot, if you find a used disc that has discoloration around the edges or the whole disc seems discolored, or has cloudy patches, it's best just to leave it. Even if the disc still works, rot is usually progressive, so it will stop working at some point when sitting on your shelf.
@@ -68,9 +48,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The man inserting CD to CD player in the car.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-man-inserting-cd-to-cd-player-in-the-car.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Nor Gal / Shutterstock.com](https://www.shutterstock.com/image-photo/man-inserting-cd-player-car-audio-1782513758)
 
  It's easy to forget that optical discs are 3D objects, but once they are warped you'll have a devil of a time getting them to work! The best way to check is to put the disc on a flat surface label-side down. It should be flush and not wobble. Even a slight warp can make the disc ruin your player when spinning at well over 1000 RPM! I've rarely encountered warped discs, but it does happen, and it only takes a second to check.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  Signs of a Fake! 
 
@@ -78,16 +72,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Some pirate copies are quite well-made, but you can check on your phone to see what an original disc looks like, and what artwork should be on the disc and sleeve. Are there the correct holograms on the case? Spelling errors on the back? Usually, if you have a gut feeling that a disc seems to be poor quality and something's off, trust that feeling.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5  Can My Player Play It? 
 
 ![Sony BDP-BX370 Streaming Blu-ray](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/sony-bdp-bx370-streaming-blu-ray.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Panasonic
 
@@ -114,16 +108,22 @@ Panasonic
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://media-tips.techidaily.com/comprehensive-guide-essential-facts-and-features-of-the-flv-format/"><u>Comprehensive Guide: Essential Facts and Features of the FLV Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620218942-discover-the-ultimate-6-gif-to-video-converters-everyone-must-try/"><u>Discover the Ultimate 6 GIF to Video Converters Everyone Must Try</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficient-file-deletion-techniques-using-windows-11-command-prompt/"><u>Efficient File Deletion Techniques Using Windows 11 Command Prompt</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-uses-of-b-roll-beyond-traditional-applications-for-2024/"><u>Innovative Uses of B-Roll Beyond Traditional Applications for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mpg-to-mpeg-conversion-made-easy-no-cost-methods-explored/"><u>MPG to MPEG Conversion Made Easy: No Cost Methods Explored</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/redressing-ravaged-recording-a-sample-strategy/"><u>Redressing Ravaged Recording: A Sample Strategy</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/top-2023s-top-browser-extensions-download-facebook-videos-effortlessly/"><u>Top 2023'S Top Browser Extensions Download Facebook Videos Effortlessly</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-free-tools-best-replacements-for-freemakes-video-and-audio-conversion-software/"><u>Top Free Tools: Best Replacements for Freemake's Video and Audio Conversion Software</u></a></li>
-<li><a href="https://media-tips.techidaily.com/two-key-strategies-for-converting-mp4-videos-into-divx-on-your-tv-a-comprehensive-guide/"><u>Two Key Strategies for Converting MP4 Videos Into DivX on Your TV - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-the-full-experience-how-to-get-starfield-running-smoothly-on-xbox-and-pc-via-steam/"><u>Unlock the Full Experience: How to Get Starfield Running Smoothly on Xbox and PC via Steam</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nhancing-comments-with-emojis-on-youtube-for-2024/"><u>[New] Enhancing Comments with Emojis on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dial-back-unrequested-youtube-recommendations-for-2024/"><u>[Updated] Dial Back Unrequested YouTube Recommendations for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-inside-insights-the-ultimate-10-secret-canva-tricks/"><u>2024 Approved Inside Insights The Ultimate 10 Secret Canva Tricks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-7-artificial-intelligence-powered-voice-synthesizers-compatible-with-pcs-iphones-and-android-devices/"><u>Best 7 Artificial Intelligence-Powered Voice Synthesizers Compatible with PCs, iPhones & Android Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/compatible-bluetooth-adaptor-software-for-win10-win7-and-win8-get-it-here/"><u>Compatible Bluetooth Adaptor Software for Win10, Win7 & Win8 - Get It Here</u></a></li>
+<li><a href="https://media-tips.techidaily.com/expert-tips-on-improving-video-quality-through-skillful-sound-editing/"><u>Expert Tips on Improving Video Quality Through Skillful Sound Editing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-most-downloaded-torrent-sites-of-the-year-your-essential-top-1e-checklist/"><u>Explore the Most Downloaded Torrent Sites of the Year - Your Essential Top 1E Checklist</u></a></li>
+<li><a href="https://media-tips.techidaily.com/high-quality-techniques-the-leading-three-ways-to-transform-midi-into-exquisite-mp3-format/"><u>High-Quality Techniques: The Leading Three Ways to Transform MIDI Into Exquisite MP3 Format</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-resource-for-instagram-livestreams-via-obs-software/"><u>In 2024, The Ultimate Resource for Instagram Livestreams via OBS Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-makeup-maestro-journey-establishing-a-channel-for-beauty-buffs/"><u>In 2024, Your Makeup Maestro Journey Establishing a Channel for Beauty Buffs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-the-entire-world-experiencing-twitch-blackouts-or-do-some-users-have-unique-access-issues/"><u>Is the Entire World Experiencing Twitch Blackouts, or Do Some Users Have Unique Access Issues?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp3-to-ogg-conversion-mastered-a-visual-walkthrough-for-perfect-audio-file-transformation/"><u>MP3-to-OGG Conversion Mastered: A Visual Walkthrough for Perfect Audio File Transformation</u></a></li>
+<li><a href="https://media-tips.techidaily.com/online-and-offline-guide-transforming-flv-into-mp3-audio-files-effortlessly/"><u>Online & Offline Guide: Transforming FLV Into MP3 Audio Files Effortlessly</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-maintaining-high-quality-audio-in-mp3-editing-on-any-device/"><u>Step-by-Step Guide: Maintaining High-Quality Audio in MP3 Editing on Any Device</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-pick-ultimate-sound-amplifier-for-enhancing-video-volume/"><u>Top Pick: Ultimate Sound Amplifier for Enhancing Video Volume</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-audio-converter-tools-compatible-with-windows-11-8-and-7-mp3-wma-flac-wav-aiff/"><u>Top-Rated Audio Converter Tools Compatible with Windows 11, 8 & 7: MP3, WMA, FLAC, WAV, AIFF</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unleashing-creativity-in-tiktok-intros-your-ultimate-macguide-for-2024/"><u>Unleashing Creativity in TikTok Intros Your Ultimate MacGuide for 2024</u></a></li>
 </ul></div>
 

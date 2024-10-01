@@ -1,7 +1,7 @@
 ---
 title: Enjoy the 2024 Olympic Games without Cost Using an Over-the-Air Antenna
-date: 2024-09-19T19:10:44.720Z
-updated: 2024-09-26T02:12:19.365Z
+date: 2024-09-26T18:43:59.291Z
+updated: 2024-10-01T02:19:12.734Z
 tags:
   - streaming
 categories:
@@ -30,10 +30,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In addition to NBC, you will find some Olympics content streaming on the Peacock app, GOLF Channel, USA Network, CNBC, and E!. Telemundo will air Spanish-language coverage. However, Peacock and the extended range of NBCUniversal channels are not accessible via antenna and can get expensive due to price creep.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Do I Watch for Free?
@@ -49,10 +55,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Person holding an indoor TV antenna](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52815640483_03eaabec66_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
@@ -64,10 +70,10 @@ Jordan Gloor / How-To Geek
  Keep in mind that you want to be careful about antenna placement to get better reception. As a general rule, you'll want to avoid placing your antenna so that there is an obstacle in the way of the signal. If you're placing an indoor antenna, put it high up on the wall near a window if you can.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Which Olympic Events I Can Watch for Free?
@@ -76,16 +82,22 @@ Jordan Gloor / How-To Geek
 
  Events that are typically shown in full include swimming, diving, and track and field. Popular sports like women's gymnastics and basketball are often reserved for primetime broadcasts. Check in on the schedule closer to the opening ceremony to get the exact TV schedule.
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Watch 2024 Olympic Gymnastics
 
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
 
@@ -110,20 +122,20 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-reigning-tiktoks-on-twitter-a-viral-analysis/"><u>[Updated] 2024 Approved Reigning TikToks on Twitter A Viral Analysis</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-a-journey-through-colors-leading-tutorials-for-grading-and-correction/"><u>2024 Approved A Journey Through Colors Leading Tutorials for Grading & Correction</u></a></li>
-<li><a href="https://games-able.techidaily.com/economically-savvy-gamers-guide-to-xbox-series-xs/"><u>Economically Savvy Gamers' Guide to Xbox Series X/S</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-steps-converting-your-mkv-videos-into-3gp-format/"><u>Free Steps: Converting Your MKV Videos Into 3GP Format</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-your-devices-persistent-black-screen-dilemma-resolved/"><u>How to Fix Your Device's Persistent Black Screen Dilemma - Resolved!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-itel-p55t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Itel P55T to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-left-4-dead-2-performance-strategies-for-eliminating-persistent-game-crashes/"><u>Mastering Left 4 Dead 2 Performance: Strategies for Eliminating Persistent Game Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-ssltls-issues-with-secure-connections-on-firefox/"><u>Overcoming SSL/TLS Issues with Secure Connections on Firefox</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-guide-effortlessly-transferring-media-to-your-zen-music-device/"><u>Quick Guide: Effortlessly Transferring Media to Your Zen Music Device</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-steps-how-to-quickly-download-and-install-hbos-game-of-thrones-subtitles/"><u>Simple Steps: How to Quickly Download and Install HBO's Game of Thrones Subtitles</u></a></li>
-<li><a href="https://media-tips.techidaily.com/speedy-flv-to-wma-format-converter-a-step-by-step-guide/"><u>Speedy FLV-to-WMA Format Converter: A Step-by-Step Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-transforming-your-mkv-videos-into-compatible-vob-formats/"><u>Step-by-Step Tutorial: Transforming Your MKV Videos Into Compatible VOB Formats</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-beginners-tutorial-on-utilizing-flv-extract-for-free/"><u>The Ultimate Beginner's Tutorial on Utilizing Flv Extract for Free</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-s17t-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from S17t</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ultra-simple-latest-driver-for-gtx-750-ti/"><u>Ultra Simple: Latest Driver for GTX 750 Ti</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-recording-real-time-google-meetings/"><u>[New] 2024 Approved Recording Real-Time Google Meetings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unhackable-blueprint-for-inserting-your-tiktok-links/"><u>[New] Unhackable Blueprint for Inserting Your TikTok Links</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-beyond-sharex-in-depth-comparisons/"><u>[Updated] In 2024, Beyond ShareX In-Depth Comparisons</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-speeding-up-periscope-live-broadcasting-tips/"><u>[Updated] In 2024, Speeding Up Periscope Live Broadcasting Tips</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-aiseesoft-mp4-converter-tutorial-for-windows-users/"><u>Comprehensive Aiseesoft MP4 Converter Tutorial for Windows Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-shooting-smartphones-with-superior-image-stability/"><u>Cutting-Edge Shooting Smartphones with Superior Image Stability</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-persistent-bootrestart-issues-in-laptopsdesktops/"><u>Diagnosing & Repairing Persistent Boot/Restart Issues in Laptops/Desktops</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-game-genre-matchups-titles-alike-to-gta-v/"><u>In 2024, Game Genre Matchups Titles Alike to GTA V</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-analysis-of-the-dji-power-1000-drone-high-performance-with-noteworthy-omissions/"><u>In-Depth Analysis of the DJI Power 1000 Drone: High Performance with Noteworthy Omissions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maintain-optimal-quality-the-ultimate-method-for-dat-to-avi-format-transformation/"><u>Maintain Optimal Quality: The Ultimate Method for DAT to AVI Format Transformation</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-simple-guide-how-to-change-mp4-videos-into-vob-format-at-no-cost/"><u>Quick & Simple Guide: How to Change MP4 Videos Into VOB Format at No Cost</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-conversion-guide-how-to-change-your-rmvb-video-to-mpeg-effortlessly/"><u>Seamless Conversion Guide: How to Change Your RMVB Video to MPEG Effortlessly</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-dat-files-into-3gp-format-a-complete-tutorial/"><u>Step-by-Step Guide: Converting DAT Files Into 3GP Format - A Complete Tutorial</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-mp4-videos-to-flv-on-pc-and-mac/"><u>Step-by-Step Guide: Converting MP4 Videos to FLV on PC & Mac</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unpacking-the-necessity-of-instagram-written-verification/"><u>Unpacking the Necessity of Instagram’ Written Verification</u></a></li>
 </ul></div>
 

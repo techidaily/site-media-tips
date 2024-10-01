@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Extra Perks: Discovering Disney+'s DVD-Like Special Features!"
-date: 2024-09-22T05:58:26.839Z
-updated: 2024-09-25T22:32:09.736Z
+date: 2024-09-28T18:52:08.348Z
+updated: 2024-09-30T22:50:15.740Z
 tags:
   - streaming
 categories:
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
  In the age of streaming, special features are mostly lost. On Netflix, you'll usually get a trailer, maybe a season recap if you're lucky. But did you know that Disney+ is full of special features?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Watch Extra Content on Disney+
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
 ![The Extras tab of The Empire Strikes Back on Disney+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-extras-tab-of-the-empire-strikes-back-on-disney.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From there, simply select what you want to watch and it begins playing.
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
  Annoyingly, unlike regular content, your viewing progress isn't tracked. This means that if you don't watch it in a single sitting, it isn't added to the home screen's "Continue Watching" row, nor will it play from where you left off when you come back. As such, make a note of the time before you stop, then manually track forward to it when you return.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Does Everything on Disney+ Have Special Features?
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
 ![Watching Jungle Cruise Expedition Mode on Disney+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/watching-jungle-cruise-expedition-mode-on-disney.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There's far more to discover, so head to your favorite movie or show and see what's on offer. Personally, I love that _The Simpsons Movie_ has two different audio commentaries.
@@ -96,17 +96,21 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-rhythmic-respite-top-20-easygoing-country-hits-for-stress-relief-dance-on-tiktok/"><u>[New] In 2024, Rhythmic Respite Top 20 Easygoing Country Hits for Stress-Relief Dance on TikTok</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-guide-embellishing-images-with-borders-on-instagram/"><u>[New] Step-by-Step Guide Embellishing Images with Borders on Instagram</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-a-step-by-step-guide-to-the-top-20-strategies-for-successful-fb-videos/"><u>[Updated] A Step-by-Step Guide to the Top 20 Strategies for Successful FB Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/call-of-duty-warzone-and-pc-gaming-woes-solving-persistent-crashing-issues/"><u>Call of Duty Warzone and PC Gaming Woes: Solving Persistent Crashing Issues</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-effortlessly-reduce-and-monitor-your-video-platform-expenses-a-step-by-step-guide/"><u>How to Effortlessly Reduce and Monitor Your Video Platform Expenses: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-s23-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel S23 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/incorporating-distinctive-benefits-into-online-film-streaming-and-rental-services/"><u>Incorporating Distinctive Benefits Into Online Film Streaming and Rental Services</u></a></li>
-<li><a href="https://media-tips.techidaily.com/is-investing-in-a-4k-television-worth-it-for-regular-cable-viewers/"><u>Is Investing in a 4K Television Worth It for Regular Cable Viewers?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/latest-updates-irritating-commercials-on-google-tv/"><u>Latest Updates: Irritating Commercials on Google TV</u></a></li>
-<li><a href="https://media-tips.techidaily.com/limited-offer-maxs-affordable-subscription-based-service-at-only-299-per-month/"><u>Limited Offer: Max's Affordable, Subscription-Based Service at Only $2.99 Per Month!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-your-televisions-hdmi-arc-a-detailed-guide/"><u>Understanding Your Television's HDMI-ARC: A Detailed Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-is-amazon-prime-day-2024-everything-you-need-to-know/"><u>What Is Amazon Prime Day 2024? Everything You Need to Know</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-identify-10-shadowy-instagram-story-observers/"><u>[New] 2024 Approved Identify 10 Shadowy Instagram Story Observers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere/"><u>[New] Authoritative Picks Top 10 Apps to Watch Football Games Anytime, Anywhere</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-apps-for-mastering-dji-footage-quality/"><u>2024 Approved Innovative Apps for Mastering DJi Footage Quality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-the-best-gopro-accessories/"><u>2024 Approved The Best GoPro Accessories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-for-cancelling-send-on-outlook-a-comprehensive-guide/"><u>Easy Steps for Cancelling Send on Outlook - A Comprehensive Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/marketing-mastery-series-top-podcasts-to-guide-you-through-social-medias-impact/"><u>Marketing Mastery Series Top Podcasts to Guide You Through Social Medias Impact</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maximizing-value-top-5-strategies-to-extract-full-benefits-from-peacock-ownership/"><u>Maximizing Value: Top 5 Strategies to Extract Full Benefits From Peacock Ownership</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/most-liked-prime-videos-amongst-twittersphere/"><u>Most Liked Prime Videos Amongst Twittersphere</u></a></li>
+<li><a href="https://media-tips.techidaily.com/no-more-free-trials-at-5-understanding-changes-in-apple-music-pricing/"><u>No More Free Trials at $5 - Understanding Changes in Apple Music Pricing</u></a></li>
+<li><a href="https://media-tips.techidaily.com/price-increase-announced-apple-bundle-offering-now-at-higher-cost-with-one-arcade-and-tvplus/"><u>Price Increase Announced: Apple Bundle Offering Now at Higher Cost with One, Arcade & TV+</u></a></li>
+<li><a href="https://media-tips.techidaily.com/remove-youtube-music-from-youtube-premium-a-must-have-feature/"><u>Remove YouTube Music From YouTube Premium - A Must-Have Feature!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/rock-your-tunes-with-winamp-newly-released-for-iphone-and-android-users/"><u>Rock Your Tunes with Winamp – Newly Released for iPhone and Android Users!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/saying-goodbye-netflixs-older-basic-subscription-ends-forever/"><u>Saying Goodbye: Netflix's Older Basic Subscription Ends Forever</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-connectivity-with-tp-link-ub400-secure-your-driver-download-and-upgrade/"><u>Seamless Connectivity with TP-Link UB400: Secure Your Driver Download and Upgrade</u></a></li>
+<li><a href="https://media-tips.techidaily.com/skydance-to-take-control-of-paramountplus-and-pluto-tv-in-strategic-moves/"><u>Skydance to Take Control of Paramount+ & Pluto TV in Strategic Moves</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi Note 12 5G</u></a></li>
 </ul></div>
 

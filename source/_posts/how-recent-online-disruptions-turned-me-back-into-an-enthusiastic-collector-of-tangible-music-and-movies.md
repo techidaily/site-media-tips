@@ -1,7 +1,7 @@
 ---
 title: How Recent Online Disruptions Turned Me Back Into an Enthusiastic Collector of Tangible Music and Movies
-date: 2024-09-23T09:05:08.289Z
-updated: 2024-09-26T06:07:52.269Z
+date: 2024-09-26T16:08:34.844Z
+updated: 2024-09-30T19:58:52.770Z
 tags:
   - streaming
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Depending on where you live in the world, you may almost never have to worry about the power or internet going out. So relying on streaming and internet-based media feels fine. However, that can change for anyone in an instant, and dealing with power and internet outages has made me rethink my media collection.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why I’m Living in the Stone Age Half the Time
@@ -32,10 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Solar power is creeping into everything more as well, although because blackouts are rolling in nature and largely scheduled, so far I've been able to simply top off my backup batteries when the power is on, so I can run things when the power is off. There's no telling if and when South Africa's energy and infrastructure woes will end, so for now that's how we're coping.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  All the Ways Online Media Has Failed Me
@@ -52,15 +52,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It doesn't even have to be an outlier event. Some people go on holiday or have second homes in rural areas where there will be no internet. Keeping a few Blu-Rays at your holiday home in a rural area just makes sense.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  My Rainy Day Collection Is Growing
 
 ![A small movie collection comprised of DVDs and Blu Ray discs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240520_102047.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -68,13 +81,6 @@ Sydney Louw Butler / How-To Geek
  In many ways, this is the absolute best time to start collecting DVDs, Blu-rays, and other offline physical media. Since online streaming has put such a damper on the physical market, pushing down demand, prices have taken a tumble too. We're talking DVD box sets for less than ten bucks, and Blu-ray movies for a dollar or two a piece. If you paid $100 today, you could probably buy enough offline entertainment to last you a week with no internet.
 
 ![A DVD and Blu Ray Collection with books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dvd-and-blu-ray-collection.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -99,24 +105,24 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebooks-best-friend-on-mobile-top-10-android-extractor-apps-overview/"><u>[New] 2024 Approved Facebook's Best Friend on Mobile Top 10 Android Extractor Apps Overview</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-elevate-your-tiktok-presence-with-siri-speech-controls/"><u>[New] In 2024, Elevate Your TikTok Presence with Siri Speech Controls</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-crafting-realistic-3d-text-photoshopping-style/"><u>[Updated] 2024 Approved Crafting Realistic 3D Text Photoshopping Style</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unclutter-your-layout-expertly-remove-backgrounds-in-figma/"><u>[Updated] Unclutter Your Layout Expertly Remove Backgrounds in Figma</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-youtubes-cc-policy-for-aspiring-creators-for-2024/"><u>[Updated] Unveiling YouTube's CC Policy for Aspiring Creators for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/bypassing-unwanted-endorsements-a-guide-to-removing-beer-brands-and-casino-ads-from-your-youtube-feed/"><u>Bypassing Unwanted Endorsements: A Guide to Removing Beer Brands and Casino Ads From Your YouTube Feed</u></a></li>
-<li><a href="https://media-tips.techidaily.com/catch-the-roku-craze-exclusive-discounts-on-smart-tvsstreaming-gadgets-for-labor-day-weekend/"><u>Catch the Roku Craze: Exclusive Discounts on Smart TVs/Streaming Gadgets for Labor Day Weekend!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/connect-with-cinema-buffs-anywhere-why-letterboxd-is-essential-social-platform-for-cinephiles/"><u>Connect with Cinema Buffs Anywhere: Why Letterboxd Is Essential Social Platform for Cinephiles</u></a></li>
-<li><a href="https://media-tips.techidaily.com/demographics-age-socioeconomic-status-education-level-and-ethnicity-can-all-impact-turnout-rates-among-different-groups-of-voters/"><u>Demographics: Age, Socioeconomic Status, Education Level, and Ethnicity Can All Impact Turnout Rates Among Different Groups of Voters.</u></a></li>
-<li><a href="https://media-tips.techidaily.com/deteriorating-conditions-how-t-mobiles-included-netflix-faces-setbacks-with-certain-subscribers/"><u>Deteriorating Conditions: How T-Mobile's Included Netflix Faces Setbacks with Certain Subscribers</u></a></li>
-<li><a href="https://media-tips.techidaily.com/disabling-adult-songs-and-playlists-on-spotify-a-comprehensive-guide/"><u>Disabling Adult Songs and Playlists on Spotify - A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-safest-lawful-platforms-for-watching-movies-for-free-a-comprehensive-list-of-top-picks/"><u>Discover the Safest, Lawful Platforms for Watching Movies for Free: A Comprehensive List of Top Picks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-which-olympic-games-events-are-streamed-online-comprehensive-guide/"><u>Discover Which Olympic Games Events Are Streamed Online – Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/diy-streaming-success-creating-your-personalized-entertainment-hub-a-step-by-step-guide/"><u>DIY Streaming Success: Creating Your Personalized Entertainment Hub - A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dreamland-discourse-top-asmr-practitioners-recommended/"><u>Dreamland Discourse Top ASMR Practitioners Recommended</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/face-off-between-googles-bard-and-microsofts-bing-chat-which-wins/"><u>Face-Off Between Google's Bard and Microsoft's Bing Chat: Which Wins?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-lava-blaze-curve-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Lava Blaze Curve 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-launch-darkness-errors-in-monster-hunter-world-gameplay/"><u>Overcoming Launch Darkness Errors in Monster Hunter World Gameplay</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/revolutionizing-live-streams-discover-top-5-innovations/"><u>Revolutionizing Live Streams Discover Top 5 Innovations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-hilarious-highlights-reddit-and-twitters-best-bits/"><u>[Updated] Hilarious Highlights Reddit and Twitter's Best Bits</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-direct-transfer-of-youtube-playlists-stepwise-processing/"><u>[Updated] In 2024, Direct Transfer of YouTube Playlists - Stepwise Processing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-re-watch-lost-youtube-scenes-online-simple-steps/"><u>[Updated] In 2024, How to Re-Watch Lost YouTube Scenes Online Simple Steps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-visual-enhancements-with-polarrs-platform/"><u>[Updated] Mastering Visual Enhancements with Polarr's Platform</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-precision-copywriting-a-deep-dive-into-the-world-of-slug-lines/"><u>[Updated] Precision Copywriting A Deep Dive Into the World of Slug Lines</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-zero-to-hero-how-to-find-and-add-free-sound-effects-to-your-final-cut-pro-projects/"><u>2024 Approved From Zero to Hero How to Find and Add Free Sound Effects to Your Final Cut Pro Projects</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-mac-compatible-nokia-video-converters-top-10-picks/"><u>Best Free Mac-Compatible Nokia Video Converters: Top 10 Picks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/guidance-to-fix-iphone-autofocus-problems-immediately/"><u>Guidance to Fix iPhone Autofocus Problems Immediately</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-and-why-to-transform-your-mov-videos-into-optimized-mp4-format-successfully/"><u>How & Why to Transform Your MOV Videos Into Optimized MP4 Format Successfully</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp4-vs-mpeg-4-mov-selecting-the-optimal-video-codec-for-your-project/"><u>MP4 vs MPEG-4 MOV: Selecting the Optimal Video Codec for Your Project</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-easy-steps-mastering-iphones-compatibility-with-mxf-file-format/"><u>Quick and Easy Steps: Mastering iPhones' Compatibility with MXF File Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-simple-conversion-techniques-for-avi-to-mp3wmawav/"><u>Quick and Simple Conversion Techniques for AVI to MP3/WMA/WAV</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-upgrading-3gp-videos-to-premium-mp4-format-using-a-mac-computer/"><u>Step-by-Step Tutorial: Upgrading 3GP Videos to Premium MP4 Format Using a Mac Computer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-zero-cost-tools-for-converting-avi-videos/"><u>Top 5 Zero-Cost Tools for Converting AVI Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-techniques-for-converting-vob-files-into-high-quality-swf-format/"><u>Top Techniques for Converting VOB Files Into High-Quality SWF Format</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722863636735-top-rated-group-chat-and-video-conferencing-platforms/"><u>Top-Rated Group Chat & Video Conferencing Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-virtual-realms-on-your-phone-with-simple-steps/"><u>Unlock Virtual Realms on Your Phone with Simple Steps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-the-secret-trick-enable-plex-subtitles-with-ease/"><u>Unlocking the Secret Trick: Enable Plex Subtitles with Ease</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726224038139-movavi/"><u>오토바이오를 위한 원형 동호흡 파일을 쉽게 대화형 파일로 변환하는 방법 – Movavi</u></a></li>
 </ul></div>
 

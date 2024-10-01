@@ -1,7 +1,7 @@
 ---
 title: "Setting Up an Icecast Server on a Linux System: A Step-by-Step Guide"
-date: 2024-09-22T03:32:20.260Z
-updated: 2024-09-25T23:45:34.295Z
+date: 2024-09-24T16:21:53.523Z
+updated: 2024-09-30T23:34:18.253Z
 tags:
   - streaming
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 
  License requirements to run an Internet radio station vary by country. If you plan on streaming copyrighted material, you must obtain appropriate licenses from copyright authorities, and/or get explicit permission from all copyright holder(s). Please consult the laws in your country for specific requirements. For more info, check out the [the Wikipedia page on internet radio broadcasing](https://en.wikipedia.org/wiki/Internet%5Fradio%5Flicensing).
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Installing Icecast
 
  You can download Icecast using your distribution's package manager, which is the method we'll use in this article.
@@ -37,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 sudo apt install icecast2
 
 ![Terminal window showing command to install Icecast onDebian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-15.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For Redhat distros, use dnf to install the icecast package:
 
@@ -61,6 +61,13 @@ sudo dnf install icecast
 
 ![Terminal window asking for your address for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A source client is the program you use that streams media files (or live audio) _to the server_. The source password authenticates with Icecast to allow you to start a stream. I recommend a unique password and not the default (which is "hackme"). Maybe something like:
 
 ![Terminal window asking for a source password for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-6.png) 
@@ -73,6 +80,13 @@ sudo dnf install icecast
 
 ![Terminal window asking for an admin password for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Redhat distros simply return to the command prompt after installing. No big deal, we'll set things up directly in the configuration file, located at "/etc/icecast.xml". Fire up your favorite text editor and let's get to work:
 
 ![Terminal window showing the vim command to edit icecast.xml on Fedora](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-install-2.png) 
@@ -83,33 +97,19 @@ sudo dnf install icecast
 
 ![Editor with icecast icecast.xml open, showing passwords to edit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-install-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, change the bind-address to your server's LAN IP address:
 
 ![Editor with icecast icecast.xml open, showing bind-address to edit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-install-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Save the configuration file, then restart Icecast for our changes to take effect:
 
 ![Terminal window showing the command to restart Icecast, applying new configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-install.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Let's verify that we're up and running:
@@ -118,13 +118,6 @@ sudo systemctl status icecast.service
 
 ![Terminal window using systemctl command to verify Icecast daemon is running](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-install-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Great! Now that Icecast is up, let's get started on our source client.
 
 ##  Choosing a Source Client
@@ -132,6 +125,19 @@ sudo systemctl status icecast.service
  There are 3 primary components of Icecast streaming: the source client, the Icecast server, and the listener client. They are all independent of each other and can all (and many times do) operate on different machines. A source client is what actually plays your music files, or streams live audio to Icecast. Icecast then distributes that stream to listeners via the HTTP protocol. It goes a little something like this:
 
 ![Flowchart of Icecast stream](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/icecast-flow-1.png) 
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ePirat / Xiph.org Foundation
 
@@ -164,27 +170,20 @@ ePirat / Xiph.org Foundation
 
 ![BUTT dialog window showing main settings and to save configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From here you can close the "Settings" window. When you're ready, click on the "Play" button, which will start your stream. If you've configured everything correctly, you'll currently be making your server's radio stream debut!
 
 ![BUTT main window actively streaming to Icecast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Cool! Now let's log into the Icecast web UI at "http://LAN\_IP:8000/admin/" and enter "admin" for the username along with your configured Icecast admin password:
 
 ![Browser window asking for username and password to log into Icecast administration section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select "Mountpoint List" from the main Admin page:
 
@@ -196,6 +195,13 @@ ePirat / Xiph.org Foundation
 
  This link, minus the .M3U extension, is what you will use to listen with your web browser.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Choosing a Listener Client
 
  Listener clients in general require very little configuration. Thanks to [HTML5 audio](https://en.wikipedia.org/wiki/HTML5%5Faudio), you can simply point a web browser to your new stream URL. Here's a list of [browser supported HTML5 audio encoding formats](http://en.wikipedia.org/wiki/HTML5%5Faudio#Supported%5Faudio%5Fcoding%5Fformats).
@@ -205,13 +211,6 @@ ePirat / Xiph.org Foundation
 ![Browser window playing Icecast stream in HTML5 audio player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-4.png) 
 
  Do you hear your stream? That's Icecast at work.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Additional Configuration
 
@@ -228,6 +227,13 @@ ePirat / Xiph.org Foundation
  These features and more are very well explained in the [official Icecast documentation](https://www.icecast.org/docs/).
 
  You can also use [port forwarding](https://facebook-videos.techidaily.com/new-in-2024-converting-stored-content-into-real-time-livestreams-on-social-media/) to access your stream from outside your local network.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Promoting Your Station
 
@@ -250,21 +256,24 @@ ePirat / Xiph.org Foundation
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-winning-software-to-capture-your-display-on-windows-10/"><u>[New] In 2024, Winning Software to Capture Your Display on Windows 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-infuse-melodies-into-powerpoint-visuals/"><u>[Updated] Infuse Melodies Into PowerPoint Visuals</u></a></li>
-<li><a href="https://media-tips.techidaily.com/apple-music-subscription-is-the-5-price-offer-no-longer-available/"><u>Apple Music Subscription: Is the $5 Price Offer No Longer Available?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/apples-billing-cut-off-netflix-ends-legacy-support-on-the-ios-platform/"><u>Apple's Billing Cut-Off: Netflix Ends Legacy Support on the iOS Platform</u></a></li>
-<li><a href="https://media-tips.techidaily.com/back-on-track-access-your-favorite-shows-as-hulu-returns-through-disneyplus/"><u>Back on Track: Access Your Favorite Shows as Hulu Returns Through Disney+</u></a></li>
-<li><a href="https://media-tips.techidaily.com/boosting-enjoyment-and-savings-top-7-tips-for-getting-more-from-sling-tv-subscription/"><u>Boosting Enjoyment and Savings: Top 7 Tips for Getting More From Sling TV Subscription</u></a></li>
-<li><a href="https://media-tips.techidaily.com/cant-find-song-lyrics-on-spotify-check-out-these-reliable-alternatives/"><u>Can't Find Song Lyrics on Spotify? Check Out These Reliable Alternatives!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/complete-guide-to-viewing-gymnastic-competitions-in-the-2e24-summer-games/"><u>Complete Guide to Viewing Gymnastic Competitions in the 2E24 Summer Games</u></a></li>
-<li><a href="https://media-tips.techidaily.com/critical-alert-more-than-15000-roku-logins-compromised-through-weak-password-habits/"><u>Critical Alert: More Than 15,000 Roku Logins Compromised Through Weak Password Habits</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-honor-90-pro-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Honor 90 Pro</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-your-ultimate-guide-to-top-streamers-platforms/"><u>In 2024, Your Ultimate Guide to Top Streamers Platforms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-bulk-content-creation-combining-canva-with-chatgpt/"><u>Mastering Bulk Content Creation: Combining Canva with ChatGPT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/optimal-frequency-for-smartphone-upgrades-when-to-get-the-latest-model/"><u>Optimal Frequency for Smartphone Upgrades: When to Get the Latest Model</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tamiltunes-handbook-downloading-and-trimming-melodies-for-calls/"><u>TamilTunes Handbook Downloading & Trimming Melodies for Calls</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-key-to-smooth-segments-crossfade-logic-pro-steps-for-2024/"><u>The Key to Smooth Segments Crossfade Logic Pro Steps for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207168446-update-complete-overcoming-the-halt-in-32-bit-applications-printer-connection/"><u>Update Complete: Overcoming the Halt in 32-Bit Application's Printer Connection!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-list-of-the-best-video-call-recording-equipment/"><u>[Updated] 2024 Approved The Ultimate List of the Best Video Call Recording Equipment</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-extensive-audit-unveiling-the-dji-inspire-1-drone/"><u>[Updated] Extensive Audit Unveiling the DJI Inspire 1 Drone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-pivoting-pictures-a-how-to-on-flipping-videos-for-viral-engagement-for-2024/"><u>[Updated] Pivoting Pictures A How-To on Flipping Videos for Viral Engagement for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/common-reasons-why-monster-hunter-rise-cant-boot-and-fixes/"><u>Common Reasons Why Monster Hunter Rise Can't Boot and Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-no-logging-in-run-commands-on-pcs/"><u>Fixing No Logging in Run Commands on PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-passport-photography-made-simple-our-top-10-picks-list-for-2024/"><u>Free Passport Photography Made Simple Our Top 10 Picks List for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/hevc-to-h264-conversion-guide-effortless-transcode-techniques/"><u>HEVC to H.264 Conversion Guide - Effortless Transcode Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quintessential-5-photo-background-changer-apps-iphone-xplus/"><u>In 2024, Quintessential 5 Photo Background Changer Apps (iPhone X+)</u></a></li>
+<li><a href="https://facebook.techidaily.com/keep-your-facebook-sanctity-intact-detect-breaches/"><u>Keep Your Facebook Sanctity Intact – Detect Breaches</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-picture-landscapes-on-pexelscom/"><u>Navigating Picture Landscapes on Pexels.com</u></a></li>
+<li><a href="https://media-tips.techidaily.com/spotifys-hidden-gem-the-underutilized-potential-of-its-jam-feature/"><u>Spotify's Hidden Gem: The Underutilized Potential of Its Jam Feature</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-installing-non-amazon-applications-on-your-fire-tv-and-fire-tv-stick/"><u>Step-by-Step Guide: Installing Non-Amazon Applications on Your Fire TV & Fire TV Stick</u></a></li>
+<li><a href="https://media-tips.techidaily.com/steps-to-create-an-external-account-on-netflix/"><u>Steps to Create an External Account on Netflix</u></a></li>
+<li><a href="https://media-tips.techidaily.com/struggling-with-spotify-a-tale-of-love-and-hate/"><u>Struggling with Spotify: A Tale of Love and Hate</u></a></li>
+<li><a href="https://media-tips.techidaily.com/temporary-suspension-of-venus-live-sports-streaming-explained/"><u>Temporary Suspension of Venu's Live Sports Streaming Explained</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-disney-max-streaming-package-a-fresh-take-on-cable-tv-for-modern-viewers/"><u>The Disney MAX Streaming Package: A Fresh Take on Cable TV for Modern Viewers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-final-curtain-call-no-more-for-netflixs-outdated-basic-service-option/"><u>The Final Curtain Call: No More for Netflix's Outdated Basic Service Option</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-phasing-out-of-netflixs-economical-subscription-what-you-need-to-know/"><u>The Phasing Out of Netflix's Economical Subscription: What You Need to Know</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-smart-move-protecting-yourself-by-suspending-listening-records-on-apple-music-platforms/"><u>The Smart Move: Protecting Yourself by Suspending Listening Records on Apple Music Platforms</u></a></li>
 </ul></div>
 

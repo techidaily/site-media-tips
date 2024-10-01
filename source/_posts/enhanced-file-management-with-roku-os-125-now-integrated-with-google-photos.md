@@ -1,7 +1,7 @@
 ---
 title: Enhanced File Management with Roku OS 12.5, Now Integrated with Google Photos
-date: 2024-09-24T00:42:48.618Z
-updated: 2024-09-25T21:37:15.469Z
+date: 2024-09-26T17:27:32.580Z
+updated: 2024-10-01T01:18:15.617Z
 tags:
   - streaming
 categories:
@@ -38,31 +38,26 @@ Roku regularly updates the operating system on its TVs and streaming devices, ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-know-your-rights-sharing-videos-with-friends-on-fb/"><u>[New] 2024 Approved Know Your Rights Sharing Videos with Friends on FB</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-windows-11s-hidden-secrets-for-media-upload/"><u>[New] Unveiling Windows 11'S Hidden Secrets for Media Upload</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-errors-fix-unresponsive-individual-configuration-features/"><u>Bypassing Errors: Fix Unresponsive Individual Configuration Features</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/focusing-your-view-a-guide-to-zooming-on-microsoft-teams/"><u>Focusing Your View A Guide to Zooming on Microsoft Teams</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-5-excellent-external-hdd-recommendations-for-xbox/"><u>In 2024, 5 Excellent External HDD Recommendations for Xbox</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-pictureperfect-tips-for-instagrams-image-sizing/"><u>In 2024, PicturePerfect Tips for Instagram's Image Sizing</u></a></li>
-<li><a href="https://media-tips.techidaily.com/spotify-announces-new-price-hike-users-brace-yourself-for-latest-uptick/"><u>Spotify Announces New Price Hike: Users Brace Yourself for Latest Uptick</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/step-by-step-tutorial-engaging-in-a-call-on-snapchat/"><u>Step-By-Step Tutorial Engaging in a Call on Snapchat</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-unveiling-solutions-for-the-persistent-black-screen-when-watching-youtube-on-your-android-phone-or-tablet/"><u>Step-by-Step Tutorial: Unveiling Solutions for the Persistent Black Screen When Watching YouTube on Your Android Phone or Tablet</u></a></li>
-<li><a href="https://media-tips.techidaily.com/stop-youtube-from-taking-over-your-apple-tv-and-android-tv-desktop-backgrounds-simple-solutions-revealed/"><u>Stop YouTube From Taking Over Your Apple TV & Android TV Desktop Backgrounds: Simple Solutions Revealed</u></a></li>
-<li><a href="https://media-tips.techidaily.com/streaming-nfl-games-a-comprehensive-guide-to-accessing-live-football-on-amazon-prime/"><u>Streaming NFL Games: A Comprehensive Guide to Accessing Live Football on Amazon Prime</u></a></li>
-<li><a href="https://media-tips.techidaily.com/subscribe-once-with-new-bundled-hulu-and-disneyplus-app-exclusive-offer-for-bundle-customers/"><u>Subscribe Once with New Bundled Hulu & Disney+ App: Exclusive Offer for Bundle Customers!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/switch-from-netflix-to-redbox-enjoy-complimentary-movie-and-game-rentals/"><u>Switch From Netflix to Redbox: Enjoy Complimentary Movie and Game Rentals!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-slowing-youtube-videos-37-chars/"><u>The Ultimate Guide to Slowing YouTube Videos (37 Chars)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-10-must-watch-films-enhanced-by-a-stunning-oled-tv-viewing-experience/"><u>Top 10 Must-Watch Films Enhanced by a Stunning OLED TV Viewing Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-compelling-reasons-why-you-should-steer-clear-of-apps-on-your-smart-television/"><u>Top 5 Compelling Reasons Why You Should Steer Clear of Apps on Your Smart Television</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-9-streaming-platforms-with-current-free-trial-options/"><u>Top 9 Streaming Platforms with Current Free Trial Options</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-outlast-pc-crashes-and-lags/"><u>Ultimate Guide: Solving Outlast PC Crashes and Lags</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/vision-unclouded-mastery-of-gopro-haze-prevention/"><u>Vision Unclouded Mastery of GoPro Haze Prevention</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cutting-edge-techniques-elevating-your-youtube-edits-using-imovie/"><u>[Updated] 2024 Approved Cutting-Edge Techniques Elevating Your YouTube Edits Using iMovie</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-clicks-to-cash-how-jake-paul-leveraged-youtube/"><u>[Updated] 2024 Approved From Clicks to Cash How Jake Paul Leveraged YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-hero-session-x-vs-polaroid-cube-the-ultimate-editing-showdown-for-2024/"><u>[Updated] Hero Session X Vs. Polaroid Cube The Ultimate Editing Showdown for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-playwrights-tactics-creating-compelling-dialogues/"><u>2024 Approved Playwrights' Tactics Creating Compelling Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-inspection-manual-scrutinizing-chatgpts-aptitude/"><u>AI Inspection Manual: Scrutinizing ChatGPT's Aptitude</u></a></li>
+<li><a href="https://media-tips.techidaily.com/benq-unveils-stunning-low-delay-4k-resolution-projector-series-for-enhanced-visual-experience/"><u>BenQ Unveils Stunning Low-Delay, 4K Resolution Projector Series for Enhanced Visual Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/channel-loss-across-52-regions-impacts-directv-subscribers/"><u>Channel Loss Across 52 Regions Impacts DirecTV Subscribers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chorus-of-commitment-best-ballads-for-marital-dreaming/"><u>Chorus of Commitment Best Ballads for Marital Dreaming</u></a></li>
+<li><a href="https://media-tips.techidaily.com/determining-the-optimal-brightness-level-for-your-television-screen/"><u>Determining the Optimal Brightness Level for Your Television Screen</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-spotifys-hidden-exclusive-premium-subscription-offer/"><u>Discover Spotify's Hidden Exclusive Premium Subscription Offer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/disneyplus-adds-back-popular-movies-what-you-need-to-know-about-the-restrictions/"><u>Disney+ Adds Back Popular Movies: What You Need to Know About the Restrictions</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-90-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 90 phone? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-enigmatic-identity-of-microsoft-surface-go-unveiled-in-our-affordable-tablet-review/"><u>The Enigmatic Identity of Microsoft Surface Go Unveiled in Our Affordable Tablet Review</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/top-10-best-apps-for-editing-igtv-vertical-videos/"><u>Top 10 Best Apps for Editing IGTV Vertical Videos</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

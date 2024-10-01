@@ -1,7 +1,7 @@
 ---
 title: "1. Enhanced Plex Search Interface: Say Goodbye to Frustration!"
-date: 2024-09-05T07:37:08.454Z
-updated: 2024-09-06T07:37:08.454Z
+date: 2024-09-25T01:22:12.141Z
+updated: 2024-09-30T23:41:20.933Z
 tags:
   - streaming
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/87c61f765040c8533bc15b7b64ecc936c1a1ca311366f831bc1f4f0913b3fbac.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1. Enhanced Plex Search Interface: Say Goodbye to Frustration!
 
 Ever wanted to find a movie in your media server, but Plex just gives you results from other services? That should come to an end as Plex updates its Search function with several quality-of-life improvements. Going forward, Plex will merge repeat search results (from your server, Discover results, etc), and it will prioritize content in your server. When you need to go on a hunt, Plex's new source picker will help you find items in specific media locations, while the full Search page will provide additional filters for content type and location.
@@ -51,8 +39,6 @@ Ever wanted to find a movie in your media server, but Plex just gives you result
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,4 +46,28 @@ Ever wanted to find a movie in your media server, but Plex just gives you result
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-swiftly-upload-to-twitter-premium-video-convertors-guide/"><u>[New] Swiftly Upload to Twitter Premium Video Convertors Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-windows-10-new-features-at-a-glance/"><u>[Updated] 2024 Approved Windows 10 New Features at a Glance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chromecast-personalization-tips-how-to-change-and-set-a-unique-image-as-your-screen-saver/"><u>Chromecast Personalization Tips: How to Change and Set a Unique Image as Your Screen Saver</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-tecno-phantom-v-flip-device-sim-by-drfone-android/"><u>Easily Unlock Your Tecno Phantom V Flip Device SIM</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fb-content-design-the-right-orientation-for-your-videos/"><u>FB Content Design The Right Orientation for Your Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-f34-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy F34 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/legacy-subscribers-lose-apple-app-store-charge-options-with-netflix-changeover/"><u>Legacy Subscribers Lose Apple App Store Charge Options with Netflix Changeover</u></a></li>
+<li><a href="https://media-tips.techidaily.com/limited-offer-alert-enjoy-50-off-your-geforce-now-fees-dont-miss-out/"><u>Limited Offer Alert: Enjoy 50% Off Your GeForce NOW Fees - Don't Miss Out!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/max-out-your-savings-discover-the-enhanced-benefits-of-doordash-dashpass/"><u>Max Out Your Savings: Discover the Enhanced Benefits of DoorDash DashPass!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/netflix-borrow-some-inspiration-from-spotifys-a-list/"><u>Netflix, Borrow Some Inspiration From Spotify's A-List!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/nintendo-switch-a-comprehensive-guide-to-available-streaming-options/"><u>Nintendo Switch: A Comprehensive Guide to Available Streaming Options</u></a></li>
+<li><a href="https://media-tips.techidaily.com/no-regrets-purchase-popular-tv-episodes-as-physical-copies-now/"><u>No Regrets: Purchase Popular TV Episodes as Physical Copies Now!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-zuverlassige-video-konvertierungstools-fur-windows-1011-sichere-und-schnelle-losungen/"><u>Top 10 Zuverlässige Video-Konvertierungstools Für Windows 10/11 - Sichere Und Schnelle Lösungen</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

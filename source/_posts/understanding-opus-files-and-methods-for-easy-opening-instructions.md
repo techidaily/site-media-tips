@@ -1,7 +1,7 @@
 ---
 title: Understanding OPUS Files & Methods for Easy Opening Instructions
-date: 2024-09-24T20:38:58.798Z
-updated: 2024-09-26T04:08:44.367Z
+date: 2024-09-27T17:37:48.396Z
+updated: 2024-09-30T19:56:21.823Z
 tags:
   - streaming
 categories:
@@ -16,13 +16,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [What is OPUS?](https://screen-sharing-recording.techidaily.com/new-pocket-sized-mac-viewer-absolutely-free-for-2024/)
 * [The Ogg Container Format](https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-nubia-z50-ultra-to-protect-your-individual-information-by-drfone-android/)
 * [How To Open an OPUS File or Stream](https://fox-helps.techidaily.com/new-meta-versus-omni-the-future-of-digital-worlds/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,19 +37,6 @@ Xiph.org
 
 ![The Xiph.org logo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/xiph-logo-square.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Xiph.org
 
  Producing the official OPUS standard was a joint effort between two unlikely collaborators. Developers working on similar goals of a low-latency, high-fidelity audio codec from both the non-profit organization [Xiph.org](https://xiph.org/) and [Skype, Limited](http://www.skype.com/) (Now Microsoft) combined their respective [CELT](https://en.wikipedia.org/wiki/CELT) and [SILK](https://en.wikipedia.org/wiki/SILK) codecs to create OPUS.
@@ -66,6 +46,13 @@ Xiph.org
  SILK was developed at Skype by Koen Vos, Søren Skak Jensen, and Karsten Vandborg Sørensen, starting in 2006\. It was intended as a replacement for their currently used [SVOPC](https://en.wikipedia.org/wiki/SVOPC) audio codec, which was also developed in-house. The SVOPC codec was _itself_ a replacement for Skype's previously employed[iSAC](https://en.wikipedia.org/wiki/Internet%5FSpeech%5FAudio%5FCodec) and [iLBC](https://en.wikipedia.org/wiki/Internet%5FLow%5FBitrate%5FCodec) codecs, both of which were licensed by a third party. SILK was first used in Skype in January 2009, and then in March, it was announced that it would be available under a royalty-free license to third-party software and hardware developers. It was submitted to the [IETF](https://en.wikipedia.org/wiki/Internet%5FEngineering%5FTask%5FForce) in July 2009, which is when Jean-Marc noticed the project.
 
  Though CELT was proposed to the emerging IETF working group alongside SILK, there were also other parties present in the process who strongly resisted standardizing on a single codec at all. With the two codecs being proposed simultaneously, the developers at Xiph.org and Skype decided to take a closer look at their respective projects together. To both of their surprise, CELT and SILK actually complimented each other quite nicely. SILK excelled at encoding speech up to 8KHz, and CELT was more efficient at coding music with sub-10ms delay. Even better, with neither codec able to efficiently code speech up to 20KHz, they were able to combine them to achieve this with high quality and low latency. The collaboration continued, and OPUS, a hybrid of SILK and CELT, became an IETF standard in 2012.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Who Uses It?
 
@@ -84,16 +71,10 @@ Xiph.org
  The list doesn't stop here. Countless other platforms, commercial and independent streaming radio stations, and other projects use OPUS. The [Icecast](https://win-answers.techidaily.com/ultimate-fixes-for-persistent-dark-screens-in-zoom-video-calls-pc-edition/) open-source media streaming server, also developed by Xiph.org, supports OPUS as its preferred audio codec.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Ogg Container Format
@@ -110,6 +91,13 @@ Xiph.org
 
  OPUS audio was designed to be encapsulated in Ogg containers (specified as: audio/ogg; codecs=opus). However, when OPUS is used inside Ogg, instead of using the file extension OGG, the OPUS file extension is used.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How To Open an OPUS File or Stream
 
  If you've got an OPUS file and need to open it, [VLC](https://video-creation-software.techidaily.com/economic-hearing-enhancement-with-senso-wireless-buds/) is always a good choice. It has native support for these types of files and network streams, including those produced by Icecast. VLC is an open-source, cross-platform media player with installations available for Windows, MacOS, Linux, Android, and iOS. It's also free to download. You can [get the VLC player directly from the VideoLAN website](https://www.videolan.org/vlc/) or your operating system's [package manager](https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-screen-capture-tools-for-2024/).
@@ -124,16 +112,16 @@ Xiph.org
 
 ![A VLC file selection window, with concur.opus file selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-14.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And it should start playing automatically since VLC has built-in support for OPUS audio:
 
 ![VLC playing the concur.opus file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-11.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  OPUS is a great choice for high-fidelity, low-latency digital audio. The nature of its open design and offering makes it undeniably attractive for developers who want to incorporate it into their applications.
 
@@ -152,24 +140,24 @@ Xiph.org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-video-to-music-selecting-the-cheapest-online-converters/"><u>[New] 2024 Approved From Video to Music Selecting the Cheapest Online Converters</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-revolutionary-approaches-to-share-fb-videos-on-whatsapp/"><u>[New] Revolutionary Approaches to Share FB Videos on WhatsApp</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-understanding-azure-speech-to-text-functionality/"><u>[New] Understanding Azure Speech to Text Functionality</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-detailed-guide-instastickers-your-pathway-to-musical-posting-for-2024/"><u>[Updated] Detailed Guide InstaStickers – Your Pathway to Musical Posting for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-8-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 8 When Its Locked Within Seconds</u></a></li>
-<li><a href="https://media-tips.techidaily.com/acquisition-alert-paramountplus-and-pluto-tv-join-forces-with-skydance-entertainment/"><u>Acquisition Alert: Paramount+ and Pluto TV Join Forces with Skydance Entertainment</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-the-blues-with-these-techniques-solving-fatal-errors-of-ghostrunner-on-windows-11/"><u>Banish the Blues with These Techniques: Solving Fatal Errors of Ghostrunner on Windows 11</u></a></li>
-<li><a href="https://media-tips.techidaily.com/choosing-the-perfect-screen-how-to-select-the-ideal-television-size/"><u>Choosing the Perfect Screen: How to Select the Ideal Television Size</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-update-bid-farewell-to-netflix-basic-master-innovative-iphone-repair-techniques/"><u>Comprehensive Update: Bid Farewell to Netflix Basic, Master Innovative iPhone Repair Techniques</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-enhance-your-websites-user-experience/"><u>Cookiebot-Enabled: Enhance Your Website's User Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-improved-storage-solutions-and-google-photos-in-latest-roku-os-125-update/"><u>Discover Improved Storage Solutions and Google Photos in Latest Roku OS 12.5 Update</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-steps-to-sync-dissolve-links-and-reboot-your-google-tv-remote-control/"><u>Effortless Steps to Sync, Dissolve Links, and Reboot Your Google TV Remote Control</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhanced-cinematic-artwork-the-new-era-of-plex-movie-posters-unveiled/"><u>Enhanced Cinematic Artwork: The New Era of Plex Movie Posters Unveiled</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-20-proplus-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 20 Pro+ Phones with/without a PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-v27-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo V27 Pro Phone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-the-art-of-recording-discord-calls-a-comprehensive-tutorial-for-desktop-and-mobile-users/"><u>Mastering the Art of Recording Discord Calls: A Comprehensive Tutorial for Desktop & Mobile Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unleash-a-world-of-new-melodies-make-apple-music-radio-your-primary-music-discovery-tool-today/"><u>Unleash a World of New Melodies - Make Apple Music Radio Your Primary Music Discovery Tool Today!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unraveling-the-mysteries-behind-unlimited-what-are-the-real-limits-of-unlimited-dvr-services/"><u>Unraveling the Mysteries Behind 'Unlimited' – What Are the Real Limits of Unlimited DVR Services?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/update-playstation-retains-your-bought-tv-shows-no-deletions-now-guaranteed/"><u>Update: PlayStation Retains Your Bought TV Shows, No Deletions Now Guaranteed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-frame-perfection-on-youtube-your-ultimate-guidebook/"><u>[New] 2024 Approved Free Frame Perfection on YouTube - Your Ultimate Guidebook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-instagram-share-of-todays-thought-provoking-talk/"><u>[New] Instagram Share of Today's Thought-Provoking Talk</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-adding-linktree-to-tiktok-bios/"><u>[New] The Ultimate Guide to Adding Linktree to TikTok Bios</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-charting-success-navigating-a-3-step-strategy-for-tracking-youtube-income/"><u>2024 Approved Charting Success Navigating a 3-Step Strategy for Tracking YouTube Income</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-impressive-analysis-and-rival-proposals/"><u>2024 Approved Impressive Analysis & Rival Proposals</u></a></li>
+<li><a href="https://media-tips.techidaily.com/converting-mts-and-m2ts-files-for-compatibility-with-final-cut-pro/"><u>Converting MTS and M2TS Files for Compatibility with Final Cut Pro</u></a></li>
+<li><a href="https://media-tips.techidaily.com/get-your-fast-free-mkv-player-codec-supports-all-formats/"><u>Get Your Fast, Free MKV Player Codec - Supports All Formats</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-spark-20-proplus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Spark 20 Pro+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/leading-methods-for-converting-mxf-files-into-aiff-best-practices-for-both-offline-and-web-based-solutions/"><u>Leading Methods for Converting MXF Files Into AIFF: Best Practices for Both Offline and Web-Based Solutions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp4-conversion-from-mpg-without-cost-safe-easy-guide-for-mac-users/"><u>MP4 Conversion From MPG without Cost: Safe, Easy Guide for Mac Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mxf-to-avi-transformation-for-free-the-ultimate-guide-on-easy-conversion-techniques/"><u>MXF to AVI Transformation for Free - The Ultimate Guide on Easy Conversion Techniques</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-a-go-to-source/"><u>Navigating the World of Gadgets with Tom's Hardware – A Go-To Source</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-realme-gt-neo-5-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Realme GT Neo 5 Phone Now with These Tips</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-complete-walkthrough-on-how-to-convert-and-watch-rmvb-videos/"><u>The Complete Walkthrough on How to Convert and Watch RMVB Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-top-5-leading-subtitle-translation-tools-for-movies/"><u>The Ultimate Guide: Top 5 Leading Subtitle Translation Tools for Movies</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transform-mp4-videos-into-mpeg-with-simple-techniques-for-mac-users-free-conversion-tips/"><u>Transform MP4 Videos Into MPEG with Simple Techniques for Mac Users - Free Conversion Tips</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-to-free-mp4-to-mp3-conversion-techniques-and-software-options/"><u>Ultimate Guide to Free MP4-to-MP3 Conversion Techniques and Software Options</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 </ul></div>
 

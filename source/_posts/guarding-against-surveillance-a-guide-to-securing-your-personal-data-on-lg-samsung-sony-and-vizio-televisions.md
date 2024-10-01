@@ -1,7 +1,7 @@
 ---
 title: "Guarding Against Surveillance: A Guide to Securing Your Personal Data on LG, Samsung, Sony and Vizio Televisions"
-date: 2024-09-01T06:48:56.446Z
-updated: 2024-09-02T06:48:56.446Z
+date: 2024-09-24T21:56:57.996Z
+updated: 2024-09-30T16:11:16.989Z
 tags:
   - streaming
 categories:
@@ -38,8 +38,12 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
 ![Remote control for a 2020 LG CX OLED.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/remote_lg.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  The data captured about you can be combined with data from other sources, using cross-device linking. For example, if you have a smartphone on the same wireless network, it’s easy for marketers to link your watching habits with an existing profile that reveals things like your age, location, who you’re likely to vote for, whether you have children, and so on. It’s just one of the [ways advertisers track you across the web](https://facebook-videos.techidaily.com/2024-approved-convert-fb-videos-to-mp4-no-cost-high-definition-available/).
@@ -49,13 +53,12 @@ Tim Brookes / How-To Geek
  In addition to marketing, data itself has value. Insights can be gleaned about the habits of certain cohorts and sold for research purposes. It’s impossible to know what these companies are doing with this data, but it’s all in the pursuit of money so ultimately you become the product and your habits are the juicy prize.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Opt out of Data Collection
 
  Most TV platforms offer a way to opt out of some of the more insidious data collection practices, notably ACR. Just because you’ve opted out of this information doesn’t necessarily mean you aren’t still being tracked, in some way.
@@ -64,15 +67,19 @@ Tim Brookes / How-To Geek
 
 ![Opting out of ACR on a 2020 LG CX smart TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/live_plus.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Opting out of these practices is one way you can keep your TV connected to the internet while limiting tracking. This is better than nothing but far from exhaustive. It allows you to still use the TV’s built-in apps, and to receive over-the-air software updates when they become available.
 
 **Note:** Due to the way manufacturers update and change their TV software, it’s not possible to provide a guide that applies to all models. If you can’t follow the exact steps below, we recommend having a dig through the menus and looking for similar options elsewhere.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ###  Disable Data Tracking on LG (webOS) TVs
 
  Not all LG TVs have the same options, particularly since LG refreshed its webOS interface in the 2021 (C1, G1, B1) models.
@@ -109,9 +116,6 @@ Tim Brookes / How-To Geek
 2. Highlight “Viewing Data” and use the right arrow on your remote to turn the setting “Off.”
 3. Adjust advert tracking preferences under the “Advertising” menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ###  Disable Data Tracking on Roku (TCL, Hisense, Philips, Sharp) TVs
 
  Roku is the platform of choice for brands like TCL and Hisense, among many others:
@@ -124,9 +128,6 @@ Tim Brookes / How-To Geek
 
  Note: After disabling these settings, you might find that Roku will ask you to enable these settings again under the guise of “enhancing” your TV experience.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Disable Data Tracking on Android TV (Sony)
 
  If you have a Sony TV, first disable ACR (known as Samba TV):
@@ -148,13 +149,24 @@ Tim Brookes / How-To Geek
 2. Now disable Device Usage Data, Collect App and Over-the-Air Usage, and Interest-Based Ads.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Avoid Setting Up Voice Assistants
 
  Many smart TVs now come with a choice of voice assistants including Alexa and Google Assistant. These require your permission to work, and you’ll usually be asked to pick an assistant and agree to a privacy policy when you first press the button on your remote.
 
 ![Setting up a voice assistant on a 2020 LG CX smart TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/voice_assist.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -174,9 +186,6 @@ Jordan Gloor / How-To Geek
 
  Another option is to reset your TV to factory settings, an option you will find buried somewhere in a Settings menu. You’ll need to set up your TV from scratch if you go this route, and you’ll get a chance to reject any privacy policies you may have agreed to the first time around. You’ll also lose any custom picture profiles, input labels, and apps you have downloaded.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Dumb TV? Get a Streaming Box
 
  You probably want to access streaming services like Netflix, free resources like YouTube, or even rental services like Apple TV. Without an internet connection, your smart TV can’t do any of that. Instead, you’ll need to invest in a streaming box.
@@ -186,8 +195,12 @@ Jordan Gloor / How-To Geek
 ![Apple TV device on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Lebedev Yury/Shutterstock.com](https://www.shutterstock.com/image-photo/berlin-germany-august-21-2016-product-471991831)
 
  Familiarize yourself with the data collection practices of companies like Apple and Google. Apple is a hardware manufacturer that has earned a decent reputation for its [robust privacy controls](https://tiktok-clips.techidaily.com/updated-2024-approved-avoid-breaches-the-pre-upload-guide-to-copyright-on-tiktok/) and [App Store policies](https://extra-approaches.techidaily.com/updated-navigating-the-world-of-no-fee-visual-aids/). Google is the web’s largest advertiser. This may play into your decision on whether you go for an Apple TV or a Chromecast. [Roku is a budget option](https://video-screen-grab.techidaily.com/new-best-extensions-to-capture-firefox-for-2024/), but you’ll probably need to follow the guide above again.
@@ -202,8 +215,6 @@ Jordan Gloor / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +222,20 @@ Jordan Gloor / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-toggle-between-normal-and-pip-views-for-youtube-app-on-ios/"><u>[New] 2024 Approved Toggle Between Normal and PIP Views for Youtube App on iOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-10-text-boosting-techniques-in-videos/"><u>[Updated] Top 10 Text Boosting Techniques in Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-vivo-v27e-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Vivo V27e Phone? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-xr-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone XR?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-google-meet-broadcast-simplified-youtube-steps/"><u>In 2024, Google Meet Broadcast Simplified YouTube Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-gameplay-dilemma-with-these-11-quick-fixes-for-borderlands-3-issues/"><u>Resolve Your Gameplay Dilemma with These 11 Quick Fixes for Borderlands 3 Issues</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sounds-of-language-across-atlantic/"><u>Sounds of Language Across Atlantic</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tomorrows-tongues-revolutionizing-language-acquisition-today/"><u>Tomorrow's Tongues: Revolutionizing Language Acquisition Today</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-x100-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo X100 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-screen-time-restrictions-a-comparison-of-policies-across-major-streaming-platforms/"><u>Understanding Screen Time Restrictions: A Comparison of Policies Across Major Streaming Platforms</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-steady-savings-on-plex-entertainment-secure-your-lifetime-access-for-just-75-of-the-price/"><u>Unlock Steady Savings on Plex Entertainment – Secure Your Lifetime Access for Just 75% of the Price!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unveiling-my-reasons-the-decision-to-abandon-apple-podcasts-forever/"><u>Unveiling My Reasons: The Decision to Abandon Apple Podcasts Forever</u></a></li>
+<li><a href="https://media-tips.techidaily.com/upcoming-discontinuation-of-googles-audiobook-platform-a-look-at-the-end-of-google-podcasts/"><u>Upcoming Discontinuation of Google's Audiobook Platform: A Look at the End of Google Podcasts</u></a></li>
+</ul></div>
 

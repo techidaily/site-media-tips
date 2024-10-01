@@ -1,7 +1,7 @@
 ---
 title: Seamless Integration of Spotify & Fitbit for Enhanced Gym Playlists Management
-date: 2024-09-01T06:48:12.783Z
-updated: 2024-09-02T06:48:12.783Z
+date: 2024-09-25T22:53:52.632Z
+updated: 2024-09-30T19:02:42.709Z
 tags:
   - streaming
 categories:
@@ -25,16 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  If you're tired of reaching for your phone to skip a song during your workout, you're in luck. With a compatible Fitbit device, you can control Spotify with a few taps on your wrist. Select Fitbit watches allow you to control your music playlist this way, but you'll need to connect your Spotify account first.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What You'll Need to Start
 
 ![Fitbit Charge 6 on a wrist.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/fitbit-charge-6-14.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The Spotify app is only available on certain Fitbit devices, so you'll want to make sure you have the right watch before you try to pair your Spotify account with the watch. [According to Spotify](https://support.spotify.com/us/article/spotify-on-fitbit/), you can connect your account with the following Fitbit devices:
@@ -47,6 +41,13 @@ Joe Fedewa / How-To Geek
  Once you have the right watch, you'll also need a Spotify Premium account. Spotify offers free accounts, but those ad-supported accounts won't work with your watch. Spotify Premium accounts are $10.99 per month for a single account or $14.99 per month if you buy two accounts and share one with a family member or friend.
 
  Sadly, certain Fitbit watches, [such as the Charge 6](https://hardware-updates.techidaily.com/how-to-update-your-steelseries-drivers-on-windows-devices/), are limited to YouTube Music. You won't be able to use Spotify with those devices.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Connect Spotify to Your Fitbit
 
@@ -67,35 +68,38 @@ Joe Fedewa / How-To Geek
 ![Open Spotify settings to log in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/fitbit-spotify-settings.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Tap "Log In" and follow the instructions that follow to log in to your Spotify Premium account.
 
 ![Log into Spotify on the Fitbit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/log-into-spotify-on-fitbit-2.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now you're ready to control music using your watch. Open the Spotify app on your phone, tablet, or other smart device and start playing music.
 
  You will need to keep your device near your watch in order for the two gadgets to be able to communicate. If you're using a phone to play Spotify, for instance, you don't need to keep the phone in your back pocket at all times. However, if you walk several rooms away, your Fitbit watch may not be able to communicate with your phone anymore.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Controlling Spotify With Your Fitbit
 
 ![Use Spotify controls to change songs and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-controls.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can control a variety of Spotify functions from your Fitbit watch. This includes shuffling your songs, liking a track with a heart icon, and opening up a playlist. When you make a song choice from your watch, it affects all the devices that are currently logged in with your Spotify account.
 
  If you swipe right in the Spotify app, you'll see your eight most recently played playlists. You can play those right from your watch, too. Plus, if you go to the "Library" icon, you'll see all the playlists you created on your other devices.
@@ -112,8 +116,6 @@ Joe Fedewa / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +123,24 @@ Joe Fedewa / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-mastering-video-posts-twitter-no-retweets-needed/"><u>[New] Mastering Video Posts Twitter, No Retweets Needed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-playlist-import-music-into-inshot/"><u>[New] Streamline Your Playlist Import Music Into InShot</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-transform-instagram-notifications-diy-sound-design/"><u>[Updated] 2024 Approved Transform Instagram Notifications DIY Sound Design</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-swiftly-craft-custom-thumbnails-for-youtube-shorts-with-these-hacks/"><u>[Updated] Swiftly Craft Custom Thumbnails for YouTube Shorts with These Hacks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/a-comprehensive-guide-to-unveiling-key-disparities-4k-resolution-vs-1080p-high-definition/"><u>A Comprehensive Guide to Unveiling Key Disparities - 4K Resolution vs 1080P High Definition</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-englished-subtitles-available-in-yeh-jawani-hain-diwani-movie/"><u>Best Englished Subtitles Available in 'Yeh Jawani Hain Diwani' Movie</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/chuckle-combat-top-20-tiktok-jokes-and-riddles-for-laughter-lovers-for-2024/"><u>Chuckle Combat Top 20 TikTok Jokes & Riddles for Laughter Lovers for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-steps-quick-guide-to-changing-avi-files-into-3gp-format/"><u>Easy Steps: Quick Guide to Changing AVI Files Into 3GP Format</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-y100t-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo Y100t Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-play-8t-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Play 8T to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-industrys-airborenas-titans-10-lifters-reviewed/"><u>In 2024, Industry's Airborenas Titans 10 Lifters Reviewed</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-guide-how-to-transform-avchd-mts-videos-into-galaxy-note-friendly-formats/"><u>Quick Guide: How to Transform AVCHD MTS Videos Into Galaxy Note-Friendly Formats</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-tips-for-transforming-any-video-into-an-ipod-viewable-file/"><u>Quick Tips for Transforming Any Video Into an iPod Viewable File</u></a></li>
+<li><a href="https://windows11.techidaily.com/sling-verification-sluggishness-top-strategies-for-speedy-updates/"><u>Sling Verification Sluggishness: Top Strategies for Speedy Updates</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-flv-videos-to-high-quality-wav-audio/"><u>Step-by-Step Guide: Transforming FLV Videos to High-Quality WAV Audio</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-strategies-for-converting-video-formats-mp4-avi-flv-wmv-mpeg-vob-and-mkv-into-compatible-sansa-files/"><u>Top Strategies for Converting Video Formats: MP4, AVI, FLV, WMV, MPEG, VOB & MKV Into Compatible Sansa Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-techniques-transforming-your-flv-files-into-mp4-format-via-web-or-desktop-applications/"><u>Top Techniques: Transforming Your FLV Files Into MP4 Format Via Web or Desktop Applications</u></a></li>
+</ul></div>
 
