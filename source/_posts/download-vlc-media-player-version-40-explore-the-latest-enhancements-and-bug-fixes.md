@@ -1,7 +1,7 @@
 ---
 title: "Download VLC Media Player Version 4.0: Explore the Latest Enhancements & Bug Fixes"
-date: 2024-09-23T19:08:57.830Z
-updated: 2024-09-30T17:37:12.882Z
+date: 2024-09-30T16:33:03.136Z
+updated: 2024-10-05T21:48:37.614Z
 tags:
   - vlc
 categories:
@@ -26,6 +26,13 @@ At FOSDEM 2019, the VLC developer revealed some new details about the VLC 4.0\. 
 
 **Notice:** The preview version of VLC media player 4.0 is already available to download at https://nightlies.videolan.org/build/, but keep in mind it is a development build especially for testors that may have bugs or missing features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### VLC 4.0 Download: What's New?
 
 The upcoming VLC 4.0 will have a brand-new look and a bunch of new features and enhancements. Here, we'd like to list all of the important details to help you make the decision to download VLC media player 4.0.
@@ -35,10 +42,10 @@ The upcoming VLC 4.0 will have a brand-new look and a bunch of new features and 
 ![VLC 4.0 Download](https://www.5kplayer.com/vlc/img/vlc-4-0-ui.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2\. New User Interface:** When opening up the developer version of VLC 4.0, you will see a "media browser" but not a "file opener", with thumbnails of all videos showing in the user's Videos folder. You can also see Music, Browse and Discover sections. BTW, VLC 4.0 instead spawns a new player window, separate from the browsing/control window from which the video was selected.
@@ -46,10 +53,16 @@ The upcoming VLC 4.0 will have a brand-new look and a bunch of new features and 
 ![VLC 4.0 UI](https://www.5kplayer.com/vlc/img/vlc-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3\. VLC Media Player 4.0 Will Bring a New Media Library:** The media library is used on Android and now is coming to desktop and iOS platforms. With the new media library, it is quite easier to browse and find a media to play, as well as manage the media files more conveniently.
@@ -63,22 +76,15 @@ The upcoming VLC 4.0 will have a brand-new look and a bunch of new features and 
 **6\. What Else?** It is said that VLC media player 4.0 will bring GNOME and KDE adaptations for Linux, as well as support for Wayland, HEIF, Dash/WebM, TTML images, AV1 and AV2 codecs, and WebVTT encoding. A Web version is also in the works. VideoLAN foundation President Jean-Baptiste Kempf also told that VideoLAN is exploring a Plex-like business model for VLC player by providing ad-supported free video streams.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### VLC 4.0 Download: What's Improved?
 
 Besides the improvement of UPnP rendering, VLC 4.0 helps [play 360 degree videos](https://tools.techidaily.com/5kplayer/video-music-player/) and 3D audio in a much more fluent way. You can now move your mouse to drag your 360 videos in all directions to view details, and enjoy the range of 3D audio technologies with earphones without quality loss. The redesigned input manager will allows for gapless audio playback to make the playlist go hand in hand. And the new output option renders better management and recycling, smarter Hardware acceleration, smoother HDR playback, gapless [VLC Chromecast](https://tools.techidaily.com/5kplayer/products/) streaming, etc. You can also play from Explorer, Nautilus, Dolphin and Finder to launch VLC media player 4.0\. What's more, the improved clock system benefits the synchronization, improves frame accuracy and eliminates resampling.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### VLC 4.0 Download: Disadvantages
 
@@ -103,20 +109,24 @@ _Source: https://www.neowin.net/news/vlc-40-to-drop-support-for-older-platforms-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-determining-facebook-video-layout-preference-for-2024/"><u>[New] Determining Facebook Video Layout Preference for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-convert-any-youtube-tracking-ios-solutions-in-6-free-tools/"><u>[Updated] 2024 Approved Convert Any YouTube Tracking IOS Solutions in 6 Free Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-movies-with-top-10-professional-cinema-gear/"><u>[Updated] Mastering Movies with Top 10 Professional Cinema Gear</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-full-screen-recorder-for-pc-and-mac/"><u>2024 Approved Best Full Screen Recorder for PC and Mac</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diagnosing-and-repairing-your-iphones-black-display-error/"><u>Diagnosing and Repairing Your iPhone’s Black Display Error</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-innovative-templates-to-amplify-yt-decks/"><u>In 2024, Innovative Templates to Amplify YT Decks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620216796-quick-guide-seamless-mkv-to-divx-transformation-process-unveiled/"><u>Quick Guide: Seamless MKV to DivX Transformation Process Unveiled!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719360119482-revolutionize-windows-experience-overcome-incompatibilities-now/"><u>Revolutionize Windows Experience: Overcome Incompatibilities Now</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-ts-files-into-mp4-and-mov-with-mac-ts-converter-for-macos/"><u>Step-by-Step Guide: Converting TS Files Into MP4 and MOV with Mac TS Converter for macOS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-experts-choice-top-10-tools-for-spotify-recordings-for-2024/"><u>The Expert's Choice Top 10 Tools for Spotify Recordings for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/three-effective-ways-to-transform-images-into-videos-a-step-by-step-guide/"><u>Three Effective Ways to Transform Images Into Videos: A Step-by-Step Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ts-and-mpeg-file-transcoder-seamlessly-convert-to-mp4-mp3-mov-or-wmv-formats/"><u>TS & MPEG File Transcoder: Seamlessly Convert to MP4, MP3, MOV, or WMV Formats</u></a></li>
-<li><a href="https://media-tips.techidaily.com/turn-your-ipod-into-a-portable-cinema-with-our-top-video-conversion-tool/"><u>Turn Your iPod Into a Portable Cinema with Our Top Video Conversion Tool</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-transferring-videos-to-your-playstation-portable-psp-with-easy-to-follow-steps/"><u>Ultimate Guide: Transferring Videos to Your PlayStation Portable (PSP) with Easy-to-Follow Steps</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-pro-level-hd-video-editing-top-5-software-options/"><u>Updated In 2024, Pro-Level HD Video Editing Top 5 Software Options</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-instant-popularity-boost-for-your-tiktok-fandom-for-2024/"><u>[New] Instant Popularity Boost for Your TikTok Fandom for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-linkedin-profile-video-introduction-scope-dimensions-minutes-for-2024/"><u>[New] LinkedIn Profile Video Introduction Scope, Dimensions, Minutes for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-microcapture-video-logger-analysis-and-options-for-2024/"><u>[New] MicroCapture Video Logger Analysis & Options for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/airplay-your-iphone-or-ipad-on-hdtv-with-the-latest-chromecast-update/"><u>AirPlay Your iPhone or iPad on HDTV with the Latest Chromecast Update</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-ios-music-apps-top-picks-for-iphone-xs-xs-max-and-xr-users/"><u>Best FREE iOS Music Apps: Top Picks for iPhone XS, XS Max & XR Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/desarrollo-de-comprension-animales-espanoles/"><u>Desarrollo De Comprensión: Animales Españoles</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ensure-package-fits-chip-requirements/"><u>Ensure Package Fits Chip Requirements</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-media-player-classic-software-available-for-windows-10-64-bit-users-direct-download-links/"><u>Free Media Player Classic Software Available for Windows 10 64-Bit Users: Direct Download Links</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-transferring-films-and-content-seamlessly-between-mac-and-apple-tv/"><u>Guide: Transferring Films & Content Seamlessly Between Mac and Apple TV</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-enable-and-play-mp4-files-on-any-version-of-ipad-the-ultimate-troubleshooting-manual/"><u>How To Enable & Play MP4 Files on Any Version of iPad: The Ultimate Troubleshooting Manual</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-fix-av1-video-playback-issues-step-by-step-instructions-for-windows-1/"><u>How to Fix AV1 Video Playback Issues: Step-by-Step Instructions for Windows 1</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-backward-movie-playback-on-iphones-for-2024/"><u>Navigating Backward Movie Playback on iPhones for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-pc-issues-how-to-prevent-battlefront-ii-crashes/"><u>Resolve PC Issues - How to Prevent Battlefront II Crashes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-infinix-smart-7-hd-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Infinix Smart 7 HD Phone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-3-airplay-servers-unveiled-5k-player-x-mirage-and-airserver-review-for-ultimate-streaming-control/"><u>Top 3 AirPlay Servers Unveiled: 5K Player, X-Mirage & AirServer Review for Ultimate Streaming Control</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-no-cost-vr-media-apps-for-macpc-explored-in-depth/"><u>Top 5 No-Cost VR Media Apps for Mac/PC Explored in Depth</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-pick-free-vlc-downloads-for-apple-tv-streaming-experience/"><u>Top Pick - Free VLC Downloads for Apple TV Streaming Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/webcam-recorder-reviews-unlocking-your-video-potential-for-2024/"><u>Webcam Recorder Reviews - Unlocking Your Video Potential for 2024</u></a></li>
 </ul></div>
 

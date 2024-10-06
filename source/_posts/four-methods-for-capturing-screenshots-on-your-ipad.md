@@ -1,7 +1,7 @@
 ---
 title: Four Methods for Capturing Screenshots on Your iPad
-date: 2024-09-27T20:31:07.478Z
-updated: 2024-09-30T22:06:18.096Z
+date: 2024-10-04T22:42:06.749Z
+updated: 2024-10-06T07:01:12.784Z
 tags:
   - airplay
 categories:
@@ -47,19 +47,6 @@ iPad with iOS 11 or later and iPadOS has an embedded screen recorder that you ca
 **Step 1\. Add iPad screen recording function to Control Center**  
  Go to Settings > Control Center > Customizable Controls > tap the "plus" icon ![](https://www.5kplayer.com/airplay/img/plus-icon.jpg) next to Screen Recording to add it to Control Center > Go back to the UI of iPad
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Add Screen Recording to Control Center](https://www.5kplayer.com/airplay/img/add-screen-recording-to-control-center.jpg) 
 
 **Step 2\. Activate iPad screen recording**  
@@ -67,17 +54,37 @@ iPad with iOS 11 or later and iPadOS has an embedded screen recorder that you ca
  2\. Firm press the icon ![](https://www.5kplayer.com/airplay/img/record-icon-1.jpg) and tap Microphone to turn on it if you want to screen recording iPad with sound or turn off it to record no sound. Here, you can also choose a different destination for the screen recording other than the Photos library.  
  3\. Tap Start Recording, and wait for the three-second countdown.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Start Recording iPad](https://www.5kplayer.com/airplay/img/start-ipad-screen-recording.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3\. Start recording iPad screen**  
  When the icon ![](https://www.5kplayer.com/airplay/img/record-icon-1.jpg) turns red, it means the recording starts. Now, do operations on your iPad and every action will be recorded.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4\. Stop iPad screen recording**  
  Open Control Center and tap ![](https://www.5kplayer.com/airplay/img/record-icon-2.jpg) to stop the recording. Alternatively, tap the red icon with a timer on the upper-right corner of your iPad screen and then a message will pop up to allow you to stop recording. Now, you can find the recording file in Photos and trim it.
@@ -111,13 +118,6 @@ By making use of QuickTime, you are able to record iPad screen without the need 
 
 ![Record iPad Screen via QuickTime](https://www.5kplayer.com/airplay/img/5k-screen-recorder-for-ipad-trl-031602.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Notice:** If you want to [trim a video](https://tools.techidaily.com/5kplayer/video-music-player/) to keep only the relevant part, you can hit Cmd+T before saving the video to realize that.
 
 **Cons of this way:**   
@@ -139,16 +139,16 @@ Like QuickTime Player, 5KPlayer is also a media player which supports iPad/[iPho
 
 ![iPhone Screen Mirroring](https://www.5kplayer.com/airplay/img/iphone-screen-mirroring.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5.** Now, you can see your iPad screen has been cast to your computer. Just hit the red circle on your computer to start recording and click the icon again to stop. The recorded video will show in "AirRecord" playlist in the Library of 5KPlayer.
 
 ![Screen Record iOS via 5KPlayer](https://www.5kplayer.com/airplay/img/5kplayer-record-iphone-screen.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Cons of this way:**   
  \* Need installation.  
@@ -175,21 +175,20 @@ As an AirPlay-enabled 4K video player, 5KPlayer has improved its [AirPlay](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-spinning-tales-in-sound-your-ultimate-guide-to-podcast-scripts/"><u>[New] Spinning Tales in Sound Your Ultimate Guide to Podcast Scripts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-breaking-down-tseries-income-strategy-on-youtube-platform-for-2024/"><u>[Updated] Breaking Down TSeries' Income Strategy on YouTube Platform for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-enterprise-account-the-complete-guidebook/"><u>[Updated] In 2024, Instagram Enterprise Account The Complete Guidebook</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-memetic-masterpieces-a-photo-journey/"><u>[Updated] In 2024, Memetic Masterpieces A Photo Journey</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-compendium-hands-free-device-interaction/"><u>2024 Approved The Ultimate Compendium Hands-Free Device Interaction</u></a></li>
-<li><a href="https://games-able.techidaily.com/bluetooth-harmony-with-ps5-gaming-setup/"><u>Bluetooth Harmony with PS5 Gaming Setup</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-high-fidelity-audio-with-xld-the-ultimate-windows-app-for-x-lossless-format/"><u>Convert High-Fidelity Audio with XLD: The Ultimate Windows App for X Lossless Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-leading-mp4-to-mp3-converters-of-2023-best-picks-for-your-pc-or-mac-experience/"><u>Discover the Leading MP4-to-MP3 Converters of 2023: Best Picks for Your PC or Mac Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-guide-enjoy-top-quality-dvd-viewing-on-your-xbox-one-two-simple-methods/"><u>Effortless Guide: Enjoy Top-Quality DVD Viewing on Your Xbox One - Two Simple Methods</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-transform-your-mp4-videos-into-swf-file-format-for-windows-users/"><u>How to Transform Your MP4 Videos Into SWF File Format for Windows Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-around-chatgpts-limits-can-you-push-past-the-threshold/"><u>Navigating Around ChatGPT's Limits: Can You Push Past The Threshold?</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-comprehensive-guide-to-crafting-great-documentary-narratives/"><u>The Comprehensive Guide to Crafting Great Documentary Narratives</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-nubia-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nubia Android SIM Unlock APK</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-all-in-one-avi-to-mpeg4-3g2-video-format-converter-must-try/"><u>Top Rated All-in-One AVI to MPEG4 (3G2) Video Format Converter Must Try!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-mkv-converter-apps-for-macos-sierra-transforming-mkv-files-made-easy/"><u>Top Rated MKV Converter Apps for macOS Sierra: Transforming MKV Files Made Easy</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-video-converters-of-2024-free-and-paid-options-for-pc-and-mac/"><u>Top Rated Video Converters of 2024: Free & Paid Options for PC and Mac</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-detailed-instructions-for-embedding-and-displaying-youtube-playlists-online/"><u>[New] Detailed Instructions for Embedding and Displaying YouTube Playlists Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-srt-to-txt-translation-the-fastest-guide/"><u>[New] Mastering SRT to TXT Translation - The Fastest Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unveiling-instagrams-rule-on-posted-videos/"><u>2024 Approved Unveiling Instagram’s Rule on Posted Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/cross-platform-dlna-streaming-from-smartphones-to-laptopsdesktops-to-hdtvs/"><u>Cross-Platform DLNA Streaming From Smartphones to Laptops/Desktops to HDTVs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-infinix-device-sim-by-drfone-android/"><u>Easily Unlock Your Infinix Device SIM</u></a></li>
+<li><a href="https://media-tips.techidaily.com/gratis-hochwertiger-player-fur-4k-uhd-filme-auf-windows-und-mac-vollstandig-kompatibel-mit-hd-movies-im-format-mkv-and-m2ts/"><u>Gratis Hochwertiger Player Für 4K UHD-Filme Auf Windows Und Mac, Vollständig Kompatibel Mit HD-Movies Im Format MKV & M2TS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-adblock-software-threatens-youtubes-revenue-stream-and-user-experience/"><u>How Adblock Software Threatens YouTube’s Revenue Stream and User Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-play-your-favorite-spotify-tracks-on-mac-or-pc-using-airplay-technology/"><u>How to Play Your Favorite Spotify Tracks on Mac or PC Using AirPlay Technology</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-oppo-reno-11-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo Reno 11 5G Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-redmi-note-12r-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Redmi Note 12R Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/inhabit-your-island-minimalistic-mc-house-plans-explained-for-2024/"><u>Inhabit Your Island Minimalistic MC House Plans Explained for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-guide-playing-avi-videos-on-apple-tv-via-a-windows-computer/"><u>Seamless Guide: Playing AVI Videos on Apple TV via a Windows Computer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/solving-playback-problems-in-windows-media-player-a-guide-for-mp4-files/"><u>Solving Playback Problems in Windows Media Player: A Guide for MP4 Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-setting-up-and-using-apples-airplay-feature-with-your-imac-4k5k/"><u>Step-by-Step Guide: Setting Up and Using Apple's AirPlay Feature with Your iMac (4K/5K)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/violating-federal-regulations-can-result-in-fines-license-revocation-or-even-criminal-charges/"><u>Violating Federal Regulations Can Result in Fines, License Revocation, or Even Criminal Charges.</u></a></li>
 </ul></div>
 

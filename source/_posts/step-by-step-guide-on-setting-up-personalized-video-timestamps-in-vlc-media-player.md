@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide on Setting Up Personalized Video Timestamps in VLC Media Player
-date: 2024-09-23T21:58:39.628Z
-updated: 2024-09-30T20:35:28.806Z
+date: 2024-10-04T01:44:26.478Z
+updated: 2024-10-05T20:41:45.923Z
 tags:
   - vlc
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/6195218912eaa800d5cbedefde726b6171a7555ef
 How to continue your playback from where you left last time? How to easily access the specific parts in a very long video with a few clicks? **VLC Custom Bookmarks** feature will help remember the video playback position you just want to save. No need to spend much time to step forward your video, you can easily get to the right position without missing a frame.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Create Bookmarks in VLC Media Player?
@@ -40,10 +40,10 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Custom Bookmarks](https://www.5kplayer.com/vlc/img/vlc-custom-bookmark.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3.** When the **Edit Bookmarks** window pops up, just click on the **Create** button to add bookmarks to your video. 
@@ -51,16 +51,10 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Create Bookmarks](https://www.5kplayer.com/vlc/img/vlc-create-bookmarks.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4.** To find the specific bookmarked video to play, just click on **Playback** \> **Custom Bookmarks** and choose the one to start playing.
@@ -94,10 +88,10 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -115,20 +109,22 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-ultimate-gear-for-youtube-content-makers/"><u>[New] 2024 Approved Ultimate Gear for YouTube Content Makers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-a-step-by-step-manual-for-youtube-shorts-templates-perfection-for-2024/"><u>[Updated] A Step-by-Step Manual for YouTube Shorts Templates Perfection for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-from-social-media-videos-to-audible-mp3s-one-click-conversion-for-2024/"><u>[Updated] From Social Media Videos to Audible MP3s - One Click Conversion for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-ig-potential-strategies-for-accumulating-1000plus-likesmonth-for-2024/"><u>[Updated] Unlocking IG Potential Strategies for Accumulating 1,000+ Likes/Month for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/black-friday-deal-alert-grab-rokus-premium-4k-streamer-at-an-unbelievable-30-discount/"><u>Black Friday Deal Alert: Grab Roku's Premium 4K Streamer at an Unbelievable $30 Discount!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/chromecasts-demise-a-reflection-of-googles-oversight/"><u>Chromecast's Demise: A Reflection of Google's Oversight</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-easy-collaboration-with-youtube-musics-innovative-personal-radio-streaming-option/"><u>Discover the Easy Collaboration with YouTube Music’s Innovative Personal Radio Streaming Option</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-the-most-effective-video-extractors-for-reddit-a-comprehensive-review-of-15-options/"><u>Discover the Most Effective Video Extractors for Reddit - A Comprehensive Review of 15 Options</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-top-ad-free-viewing-experiences-for-seamless-video-streaming-subscriptions/"><u>Discover the Top Ad-Free Viewing Experiences for Seamless Video Streaming Subscriptions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-dorm-wireless-home-theater-a-step-by-step-tutorial/"><u>DIY Dorm Wireless Home Theater - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://media-tips.techidaily.com/downloading-netflix-content-for-off-screen-enjoyment-a-comprehensive-guide/"><u>Downloading Netflix Content for Off-Screen Enjoyment – A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortlessly-organize-your-google-tv-interface-with-our-streamlined-feature/"><u>Effortlessly Organize Your Google TV Interface with Our Streamlined Feature</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensive-guide-to-understanding-instagrams-music-copyright-rul/"><u>In 2024, A Comprehensive Guide To Understanding Instagram's Music Copyright Rul</u></a></li>
-<li><a href="https://media-tips.techidaily.com/voter-registration-difficulty-registering-to-vote-might-lower-turnout-rates-since-only-registered-individuals-are-counted-in-these-statistics/"><u>Voter Registration: Difficulty Registering to Vote Might Lower Turnout Rates Since only Registered Individuals Are Counted in These Statistics.</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/windowsmac-photo-magic-text-overlay-secrets-revealed-for-2024/"><u>Windows/Mac Photo Magic Text Overlay Secrets Revealed for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-crafting-content-that-captures-audiences-hearts/"><u>[New] Crafting Content that Captures Audiences' Hearts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-maximize-engagement-auto-resized-videos-from-mac-for-instagram/"><u>[New] In 2024, Maximize Engagement Auto-Resized Videos From Mac for Instagram</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-evaluating-youtubes-potential-monthly-earnings/"><u>[Updated] 2024 Approved Evaluating YouTube's Potential Monthly Earnings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mobile-magic-the-best-image-overlays-for-smartphones-are-here/"><u>[Updated] 2024 Approved Mobile Magic The Best Image Overlays for Smartphones Are Here</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-high-definition-1080p-video-player-software-compared-top-picks-for-windows-mac-and-linux/"><u>Best High-Definition 1080P Video Player Software Compared: Top Picks for Windows, Mac & Linux</u></a></li>
+<li><a href="https://media-tips.techidaily.com/complete-how-to-transferring-your-pc-streams-effortlessly-onto-your-samsung-smart-tv/"><u>Complete How-To: Transferring Your PC Streams Effortlessly Onto Your Samsung Smart TV</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-free-uhd-uefa-champions-league-qf-and-sf-matches-high-quality-1080p-footage/"><u>Download Free UHD UEFA Champions League QF & SF Matches - High-Quality 1080P Footage</u></a></li>
+<li><a href="https://media-tips.techidaily.com/get-access-instantly-premium-youtube-downloader-application-free/"><u>Get Access Instantly: Premium YouTube Downloader Application (Free!)</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-leverage-symbolic-meanings-in-social-media-conversations/"><u>How to Leverage Symbolic Meanings in Social Media Conversations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-vlc-media-player-building-custom-playlists-with-m3u-iptv-and-direct-files-for-an-enhanced-viewing-experience/"><u>Mastering VLC Media Player: Building Custom Playlists with M3U, IPTV and Direct Files for an Enhanced Viewing Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/reducing-motion-illusion-in-vr-environments/"><u>Reducing Motion Illusion in VR Environments</u></a></li>
+<li><a href="https://media-tips.techidaily.com/resolve-your-netflix-app-problems-quickly-fixes-for-windows-10-and-windows-8-devotees/"><u>Resolve Your Netflix App Problems Quickly - Fixes for Windows 10 & Windows 8 Devotees</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-essential-music-streamers-enjoy-unlimited-playlists-and-songs-with-these-no-cost-airplay-ready-applications/"><u>Top Essential Music Streamers: Enjoy Unlimited Playlists & Songs with These No-Cost, AirPlay Ready Applications</u></a></li>
+<li><a href="https://media-tips.techidaily.com/troubleshooting-vlc-media-player-for-high-def-formats-like-mkv-and-4k-hevc-dvds/"><u>Troubleshooting VLC Media Player for High-Def Formats Like MKV and 4K HEVC DVDs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-the-monetary-map-of-podcasting/"><u>Understanding the Monetary Map of Podcasting</u></a></li>
 </ul></div>
 

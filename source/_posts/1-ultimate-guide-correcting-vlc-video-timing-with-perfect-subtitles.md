@@ -1,7 +1,7 @@
 ---
 title: "1. Ultimate Guide: Correcting VLC Video Timing with Perfect Subtitles"
-date: 2024-09-27T20:51:32.663Z
-updated: 2024-09-30T22:17:53.548Z
+date: 2024-09-30T07:10:09.662Z
+updated: 2024-10-05T18:50:07.415Z
 tags:
   - vlc
 categories:
@@ -49,10 +49,10 @@ However, this way is suitable only when the dialogue and subtitles come with sam
 ![VLC Subtitle Hotkeys](https://www.5kplayer.com/vlc/img/vlc-subtitle-hotkey.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **BTW, if VLC subtitles out of sync with audio only, you can use the advance synchronization**
@@ -76,6 +76,19 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/2.png) **How to Adjust Subtitle Timing in VLC on Mac?**
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Method 1.** During playback, you can press hotkey **H** (decrease delay, subtitles show after sound) or **J** (increase delay, subtitles display before sound) to sync subtitles in VLC. Same with that on Windows PC, every key press will adjust 50 milliseconds.
 
 **Method 2\. Customize the synchronization manually**
@@ -88,13 +101,6 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/3.png) **How to Solve Subtitle Delay in VLC on Android Phones & TV?**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1\. Play a video or movie with VLC media player on your Android device.  
  2\. Tap on the **speech balloon** icon next to the big play icon. On your Android TV, there’s a couple of rewind icons between the two.  
  3\. Tap on **Subtitles track** to check if subtitles are turned on.  
@@ -103,7 +109,21 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 ![VLC Subtitle Synchronization Android](https://www.5kplayer.com/vlc/img/vlc-subtitle-android.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### ![](https://www.5kplayer.com/vlc/../seoimg/4.png) **How to Sync Subtitles in VLC on iOS iPhone/iPad?**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1\. Open a video with VLC media player for iOS.  
  2\. Tap on the **speech balloon** icon in the right-hand bottom corner to check if subtitles have been turned on.  
@@ -114,13 +134,6 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/5.png) **How to Adjust Subtitles in VLC on Apple TV?**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1\. When watching a video on Apple TV, swipe down on your remote’s Touch surface.  
  2\. Swipe right to see the Subtitles or Audio menus  
  3\. Swipe down and choose the language or subtitles that you want to use.
@@ -128,13 +141,6 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 If you don't see an option for SDH, or you want to turn on CC or SDH by default, go to Settings > General > Accessibility > Subtitles and Captioning. Choose "Closed Captions and SDH" to turn it on. If you want to customize captions and subtitles, choose Style, then choose from the options.
 
 On Apple TV (2nd generation) or Apple TV (3rd generation), hold down Select on your remote for three seconds while a video is playing to see the Subtitles tab.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Above Methods not Working? Try Subtitle Player 5KPlayer
 
@@ -147,18 +153,24 @@ It is the truth that sometimes subtitles are appeared before the dialogues and s
 
 ![5KPlayer Subtitle Synchronization](https://www.5kplayer.com/vlc/img/5kp-subtitle-sync.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Also, it is often the case that many online movies and TV shows have no subtitles or wrong subtitles. Therefore, you can also use 5KPlayer to [add subtitles](https://tools.techidaily.com/5kplayer/video-music-player/) to your movies or TV shows. BTW, you can customize your subtitles by choosing from 40+ default encoding methods, 170+ fonts, font size, text colors, background colors and corresponding color opacity.
 
 Actually VLC not working problems vary, and 5KPlayer is also the best alternative. Besides subtitle delay problem, people also encounter different types of issues when using VLC media player, including no sound or video, can’t play 360-degree/HDR/4K videos, AirPlay not working, crashing, washed out colors, and [more](https://tools.techidaily.com/5kplayer/products/). As a versatile multimedia player, 5KPlayer plays kinds of media files successfully, plus DLNA/AirPlay function to stream video music, and download ability to get online files.
 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,18 +187,21 @@ Actually VLC not working problems vary, and 5KPlayer is also the best alternativ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-step-by-step-guide-to-youtube-gamers-broadcasting/"><u>[New] The Step-by-Step Guide to YouTube Gamers' Broadcasting</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-threads-of-time-looms-screen-record-mastery/"><u>[Updated] Threads of Time Loom's Screen Record Mastery</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-melody-to-video-quick-sound-import-tricks/"><u>2024 Approved Melody to Video Quick Sound Import Tricks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/audio-clarity-showdown-comparing-mp3-and-mp4-formats-which-delivers-better-sound-quality-and-smaller-file-size/"><u>Audio Clarity Showdown: Comparing MP3 & MP4 Formats - Which Delivers Better Sound Quality & Smaller File Size?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/low-cost-cloud-vaulting-for-massive-file-stashing/"><u>Low Cost Cloud Vaulting for Massive File Stashing</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-social-media-landscapes-a-deep-dive-into-instagram-twitter-facebook-and-youtube/"><u>Mastering Social Media Landscapes: A Deep Dive Into Instagram, Twitter, Facebook & YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-rtx-e90-driver-install-for-windows-users-win1187/"><u>NVIDIA GeForce RTX E90 Driver Install for Windows Users (Win11/8/7)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/preserve-superior-sound-clarity-when-editing-mp3s-online-and-offline-a-comprehensive-tutorial/"><u>Preserve Superior Sound Clarity When Editing MP3s Online and Offline - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-wma-audio-to-wav-format-quickly-and-easily/"><u>Step-by-Step Guide: Converting WMA Audio to WAV Format Quickly & Easily</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-flac-files-into-apples-superior-alac-format/"><u>Step-by-Step Guide: Transforming FLAC Files Into Apple's Superior ALAC Format</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tracking-down-missing-facetime-images-a-comprehensive-guide/"><u>Tracking Down Missing FaceTime Images: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unleash-creativity-with-these-8-mirrorless-cams-for-video-for-2024/"><u>Unleash Creativity with These 8 Mirrorless Cams For Video for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unraveling-the-mystery-of-3d-audio-technology-functionality-and-reliable-download-sources/"><u>Unraveling the Mystery of 3D Audio Technology: Functionality & Reliable Download Sources</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-x-sound-engineer-edition-pc-for-2024/"><u>[New] X-Sound Engineer Edition - PC for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-soundwaves-compreeved-websites-for-skype-audio-for-2024/"><u>[Updated] The Soundwaves Compreeved Websites for Skype Audio for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/dvd/"><u>「家庭用で簡単再生! ブルーレイDVDプレーヤー使い方ガイド」</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-movie-selection-for-enjoyable-viewing-on-your-new-apple-tv/"><u>Best Free Movie Selection for Enjoyable Viewing on Your New Apple TV</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/1716465747637-binge-on-christmas-classics-enjoy-9-whole-film-flicks-no-charge/"><u>Binge on Christmas Classics Enjoy 9 Whole-Film Flicks No Charge!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-story-impact-with-customized-video-speed-settings/"><u>Boost Story Impact with Customized Video Speed Settings</u></a></li>
+<li><a href="https://media-tips.techidaily.com/die-top-empfehlungen-fur-kostenlose-mediaplayer-unter-windows-11-funf-der-beste/"><u>Die Top-Empfehlungen Für Kostenlose Mediaplayer Unter Windows 11: Fünf Der Beste</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-guide-upgrading-your-device-with-the-latest-ios-13-no-itunes-required/"><u>Easy Guide: Upgrading Your Device with the Latest iOS 13 - No iTunes Required!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhance-your-viewing-experience-expert-ways-to-boost-video-speeds-on-pcs-and-macbooks/"><u>Enhance Your Viewing Experience: Expert Ways to Boost Video Speeds on PCs and MacBooks</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-for-cognitive-behavioral-therapy/"><u>How to Use ChatGPT for Cognitive Behavioral Therapy</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expanding-screen-coverage-of-youtube-videos/"><u>In 2024, Expanding Screen Coverage of YouTube Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unified-video-ventures-selecting-an-mcn/"><u>In 2024, Unified Video Ventures Selecting an MCN</u></a></li>
+<li><a href="https://media-tips.techidaily.com/join-the-global-fight-against-covid-19-with-together-at-home-a-virtual-concert-experience/"><u>Join the Global Fight Against COVID-19 with 'Together at Home': A Virtual Concert Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovos-eclipse-how-to-banish-the-shadow/"><u>Lenovo's Eclipse: How to Banish the Shadow</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-airplay-compatibility-test-using-your-older-iphone-models-with-apple-tv/"><u>Ultimate AirPlay Compatibility Test: Using Your Older iPhone Models with Apple TV</u></a></li>
 </ul></div>
 
