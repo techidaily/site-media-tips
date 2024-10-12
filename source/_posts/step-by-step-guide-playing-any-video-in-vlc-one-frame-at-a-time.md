@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Playing Any Video in VLC One Frame at a Time"
-date: 2024-10-04T19:52:57.777Z
-updated: 2024-10-05T21:28:54.704Z
+date: 2024-10-06T19:42:56.291Z
+updated: 2024-10-11T16:41:10.910Z
 tags:
   - vlc
 categories:
@@ -26,6 +26,13 @@ When you are watching some fast speed videos like the extreme sport videos, you 
 
 BTW, VLC media player doesn’t support frame by frame backwards as of now, so this guide will teach you how to play forward one frame at a time with VLC, and play videos backwards by frame with some other tool.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to View Video Frame by Frame in VLC on Mac/PC?
 
 There are two main ways to go through videos frame by frame in VLC media player – Hotkeys & Advanced Control bar.
@@ -39,13 +46,6 @@ There are two main ways to go through videos frame by frame in VLC media player 
 **Note:** This shortcut can be applied either when your video is playing or pausing. If the hotkey doesn’t work for you, maybe another shortcut key is doing the task. You can simply go to **Tools** \> **Preferences** \> **Hotkeys** and search for frame to edit it or just keep it as it is. To edit the shortcut, just double-click the hotkey "e" and type a new key to reset.
 
 ![VLC Frame by Frame Hotkeys](https://www.5kplayer.com/vlc/img/vlc-frame-by-frame-hotkey.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### **Method 2\. Use Advanced Controls Bar**
 
@@ -62,10 +62,10 @@ Worth mentioning, problems like VLC frame by frame freezes are inevitable. Besid
 ![VLC Frame by Frame Button](https://www.5kplayer.com/vlc/img/vlc-frame-by-frame-button.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### VLC Player Frame by Frame not Working? How to Solve?
@@ -76,26 +76,26 @@ If you have any issues with VLC media player frame by frame function, you can tu
 
 **Step 2.** Play a video with 5KPlayer, and then click on the "scissors" ![](https://www.5kplayer.com/vlc/../user-guide/img/scissors-icon.jpg) icon on the playback bar of 5KPlayer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** View your favorite part by dragging the progress bar under the main picture window.
 
 **Note:** This is mainly the video processing window of 5KPlayer where you can cut your video into segments.
 
 ![5KPlayer Frame by Frame](https://www.5kplayer.com/vlc/img/5kplayer-frame-by-frame.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### People Also Ask
@@ -131,19 +131,17 @@ To save a frame when playing a video in VLC, VLC frame by frame screenshot is th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastery-through-art-the-ultimate-list-of-free-mac-drawing-apps/"><u>[New] In 2024, Mastery Through Art The Ultimate List of FREE Mac Drawing Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-rank-the-best-gopro-cases-with-our-guide/"><u>[Updated] Rank the Best GoPro Cases with Our Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-transferring-twitter-videos-to-whatsapp-effortlessly-for-2024/"><u>[Updated] Transferring Twitter Videos to WhatsApp Effortlessly for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-reno-11f-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo Reno 11F 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-most-popular-chatgpt-use-cases-in-github-a-top-20-list/"><u>Discover the Most Popular ChatGPT Use Cases in GitHub – A Top 20 List</u></a></li>
-<li><a href="https://media-tips.techidaily.com/download-the-latest-4k-hdr-video-player-no-cost-compatible-with-mac-and-windows-11-systems/"><u>Download the Latest 4K HDR Video Player - No Cost, Compatible with Mac and Windows 11 Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-gameplay-through-smart-screen-adjustment-techniques/"><u>Elevating Gameplay Through Smart Screen Adjustment Techniques</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fixing-the-silent-issue-a-step-by-step-guide-to-restoring-audio-on-your-vlc-player/"><u>Fixing the Silent Issue: A Step-by-Step Guide to Restoring Audio on Your VLC Player</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-solutions-how-to-connect-pc-with-windows-7-and-apple-tv-gen-4-3-and-2-using-airplay-technology/"><u>Free Solutions: How to Connect PC with Windows 7 & Apple TV (Gen 4, 3 & 2) Using AirPlay Technology</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-enable-the-mkv-format-in-windows-media-player-using-compatible-codecs/"><u>How to Enable the MKV Format in Windows Media Player Using Compatible Codecs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-ace-titles-essentials-for-digital-marketing-success/"><u>In 2024, Ace Titles Essentials for Digital Marketing Success</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-dell-alienware-aurora-r9-assessment-a-revolutionary-approach-to-modern-gaming-systems/"><u>In-Depth Dell Alienware Aurora R9 Assessment: A Revolutionary Approach to Modern Gaming Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-video-multitasking-in-chromes-pip-mode-on-all-devices/"><u>Navigating Video Multitasking in Chrome’s PIP Mode on All Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-tips-for-resolving-hbo-go-connectivity-on-apple-tv-step-by-step-solutions/"><u>Troubleshooting Tips for Resolving HBO Go Connectivity on Apple TV – Step-by-Step Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-harnessing-instagram-video-power-strategizing-for-impact/"><u>[New] Harnessing Instagram Video Power Strategizing for Impact</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-seamless-integration-from-gopro-to-popular-social-media-platforms/"><u>[New] Seamless Integration From Gopro to Popular Social Media Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-android-sound-recording-without-root-simple-guide-for-2024/"><u>[Updated] Android Sound Recording Without Root [Simple Guide] for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-nokia-xr21-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Nokia XR21 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boosting-your-rainbow-six-extraction-gameplay-overcoming-fps-drops/"><u>Boosting Your Rainbow Six Extraction Gameplay: Overcoming FPS Drops</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-best-free-android-video-and-audio-player-apps-a-comprehensive-guide/"><u>Discover the Best Free Android Video & Audio Player Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortlessly-share-media-files-between-android-phonestablets-and-windowsmac-computers-or-connect-directly-with-your-smart-tv-using-dlna-technology/"><u>Effortlessly Share Media Files Between Android Phones/Tablets & Windows/Mac Computers or Connect Directly with Your Smart TV Using DLNA Technology</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/oculus-quest-ntrica-a-step-by-step-guide-to-resolving-microphone-problems/"><u>Oculus Quest Ntrica: A Step-by-Step Guide to Resolving Microphone Problems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-fixes-resolve-common-issues-with-chromecast-devices/"><u>Quick Fixes: Resolve Common Issues with Chromecast Devices</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-crafting-your-own-playlists-on-vlc-player-utilizing-m3u-iptv-and-local-file-formats/"><u>Step-by-Step Guide: Crafting Your Own Playlists on VLC Player - Utilizing M3U, IPTV & Local File Formats</u></a></li>
 </ul></div>
 

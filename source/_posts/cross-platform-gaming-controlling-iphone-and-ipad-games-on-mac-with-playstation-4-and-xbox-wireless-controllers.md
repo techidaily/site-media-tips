@@ -1,7 +1,7 @@
 ---
 title: "Cross-Platform Gaming: Controlling iPhone and iPad Games on Mac with PlayStation 4 & Xbox Wireless Controllers"
-date: 2024-09-29T22:16:59.453Z
-updated: 2024-10-06T09:59:44.686Z
+date: 2024-10-06T17:54:09.892Z
+updated: 2024-10-11T17:07:40.077Z
 tags:
   - airplay
 categories:
@@ -29,16 +29,16 @@ With the release of Apple Arcade, iOS 13 and iPadOS 13's support for PS4 and Xbo
 [Part 2\. Screen Mirror iOS 13/iPadOS Game to Computer](https://tools.techidaily.com/5kplayer/airplay/)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Part 1\. How to Connect a PS4/Xbox One Controller on iOS 13/iPadOS?
@@ -73,10 +73,10 @@ If you're running iOS 13 or iPadOS 13, you can now use Sony PlayStation 4 DualSh
 ![Pair Xbox One Controller to iOS 13](https://www.5kplayer.com/airplay/img/pair-xbox-controller-to-ios13.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Notice:** You can use the model number 1708 of Xbox One, aka Xbox One S, to pair to iOS 13 and iPadOS. Also, the new Elite 2 controller with Bluetooth support that Microsoft Xbox just announced at E3 can be an ideal one. You may think that these two kinds of models can pair with the new iOS 13 and iPadOS, but the fact is most modern Xbox One controllers support Bluetooth that you can use to play games on iOS 13 iPhone and iPadOS iPad.
@@ -98,10 +98,10 @@ Now that you have connected your game console to iOS 13 or iPadOS, the only job 
 ![Mirror iOS 13 Games to Computer](https://www.5kplayer.com/airplay/img/airplay-ipad-2-to-mac.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Fire up a game and you're good to go. Besides helping play games from iOS 13/iPadOS to computer with PS4/Xbox One controller through the iPadOS/[iOS 13 screen mirroring](https://tools.techidaily.com/5kplayer/airplay/) feature, 5KPlayer's screen mirror function also allows for the newest [iPhone 11, 11 Pro, 11 Pro Max AirPlay](https://tools.techidaily.com/5kplayer/airplay/) to Mac and PC. Born to be a multimedia player, downloader and streamer, you are also able to use it to play 4K MP4 MKV etc videos, download video clips as well as [DLNA stream](https://tools.techidaily.com/5kplayer/dlna/) video music to DLNA-compatible devices.
@@ -109,10 +109,10 @@ Fire up a game and you're good to go. Besides helping play games from iOS 13/iPa
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -130,22 +130,14 @@ Fire up a game and you're good to go. Besides helping play games from iOS 13/iPa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-advanced-techniques-for-quality-audio-on-ipads/"><u>[New] Advanced Techniques for Quality Audio on iPads</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-augmented-reality-and-vr-navigating-2023s-content-on-android/"><u>[New] Augmented Reality & VR Navigating 2023'S Content on Android</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-essential-guide-9-cost-free-editing-tools-for-creatives/"><u>[New] In 2024, Essential Guide 9 Cost-Free Editing Tools for Creatives</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-influencing-up-a-comprehensive-instagram-growth-strategy/"><u>[New] In 2024, Influencing Up A Comprehensive Instagram Growth Strategy</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mastering-ram-management-in-minecraft/"><u>[Updated] 2024 Approved Mastering RAM Management in Minecraft</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-innovative-use-of-instagram-filters-in-your-photo-posts-for-2024/"><u>[Updated] Innovative Use of Instagram Filters in Your Photo Posts for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1-successful-steps-to-viewing-mp4-videos-a-comprehensive-guide-for-all-ipads-mini-air-and-pro/"><u>1. Successful Steps to Viewing MP4 Videos: A Comprehensive Guide for All iPads (Mini, Air, and Pro)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/canon-mf4770n-driver-update-in-windows-1187/"><u>Canon MF4770n Driver Update in Windows 11/8/7</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-guide-to-the-av1-video-codec-insights-and-information/"><u>Comprehensive Guide to the AV1 Video Codec: Insights and Information</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dual-display-mastery-a-step-by-step-tutorial-for-macbook-air-users/"><u>Dual Display Mastery: A Step-by-Step Tutorial for MacBook Air Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-methods-to-enable-and-use-airplay-technology-with-your-desktop-computer/"><u>Easy Methods to Enable and Use AirPlay Technology with Your Desktop Computer</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guide-for-connecting-your-iphone-or-ipad-with-ios-13-to-windowsmac-via-airplay/"><u>Guide for Connecting Your iPhone or iPad with iOS 13 to Windows/Mac via AirPlay</u></a></li>
-<li><a href="https://media-tips.techidaily.com/nba-playoff-showdown-2023-top-tips-for-viewing-live-games-on-apple-tvs-hdtv/"><u>NBA Playoff Showdown 2023: Top Tips for Viewing Live Games on Apple TV's HDTV</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-essentials-how-to-create-engaging-videos-with-the-ken-burns-effect/"><u>New Final Cut Pro Essentials How to Create Engaging Videos with the Ken Burns Effect</u></a></li>
-<li><a href="https://media-tips.techidaily.com/overcoming-4k-playback-hurdles-how-to-solve-non-streaming-and-airplay-errors-on-apple-devices/"><u>Overcoming 4K Playback Hurdles: How to Solve Non-Streaming & AirPlay Errors on Apple Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5kplayer-reviews-the-ultimate-microsoft-media-player-substitute-on-windows/"><u>Top 5KPlayer Reviews: The Ultimate Microsoft Media Player Substitute on Windows</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unlock-the-best-three-expert-tips-to-enjoy-free-films-anytime-on-your-apple-devices/"><u>Unlock the Best: Three Expert Tips to Enjoy Free Films Anytime on Your Apple Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-creating-a-memorable-and-unique-moniker-for-your-filmora-content-for-2024/"><u>[New] Creating a Memorable and Unique Moniker for Your Filmora Content for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-convincing-consumers-one-testimonial-at-a-time/"><u>[Updated] In 2024, Convincing Consumers, One Testimonial at a Time</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-quick-reinstatement-vanished-visuals/"><u>[Updated] In 2024, Quick Reinstatement Vanished Visuals</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-maximizing-memory-storing-snapshots-in-photo-albums-from-snapchat-for-2024/"><u>[Updated] Maximizing Memory Storing Snapshots in Photo Albums From Snapchat for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-video-editing-master-the-art-of-clipping-videos-using-vlc-media-player/"><u>Effortless Video Editing: Master the Art of Clipping Videos Using VLC Media Player</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-playxbox-one-games-on-windows-10-using-xbox-app/"><u>Guide: PlayXbox One Games on Windows 10 Using Xbox App</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlock-mysteries-select-top-puzzle-houses/"><u>In 2024, Unlock Mysteries Select Top Puzzle Houses</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ipados-15-airplay-setup-guide-to-connecting-your-ipad-to-mac-pc-or-apple-tv/"><u>IPadOS 15 AirPlay Setup: Guide to Connecting Your iPad to Mac, PC, or Apple TV</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-enabling-android-to-apple-tv-airplay-for-media-sharing/"><u>Step-by-Step Tutorial on Enabling Android to Apple TV AirPlay for Media Sharing</u></a></li>
 </ul></div>
 

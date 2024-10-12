@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide on Setting Up Personalized Video Timestamps in VLC Media Player
-date: 2024-10-04T01:44:26.478Z
-updated: 2024-10-05T20:41:45.923Z
+date: 2024-10-08T17:43:11.847Z
+updated: 2024-10-11T22:44:03.518Z
 tags:
   - vlc
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/6195218912eaa800d5cbedefde726b6171a7555ef
 How to continue your playback from where you left last time? How to easily access the specific parts in a very long video with a few clicks? **VLC Custom Bookmarks** feature will help remember the video playback position you just want to save. No need to spend much time to step forward your video, you can easily get to the right position without missing a frame.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Create Bookmarks in VLC Media Player?
@@ -40,10 +40,10 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Custom Bookmarks](https://www.5kplayer.com/vlc/img/vlc-custom-bookmark.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3.** When the **Edit Bookmarks** window pops up, just click on the **Create** button to add bookmarks to your video. 
@@ -51,10 +51,10 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Create Bookmarks](https://www.5kplayer.com/vlc/img/vlc-create-bookmarks.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4.** To find the specific bookmarked video to play, just click on **Playback** \> **Custom Bookmarks** and choose the one to start playing.
@@ -88,10 +88,16 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -109,22 +115,24 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-crafting-content-that-captures-audiences-hearts/"><u>[New] Crafting Content that Captures Audiences' Hearts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-maximize-engagement-auto-resized-videos-from-mac-for-instagram/"><u>[New] In 2024, Maximize Engagement Auto-Resized Videos From Mac for Instagram</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-evaluating-youtubes-potential-monthly-earnings/"><u>[Updated] 2024 Approved Evaluating YouTube's Potential Monthly Earnings</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mobile-magic-the-best-image-overlays-for-smartphones-are-here/"><u>[Updated] 2024 Approved Mobile Magic The Best Image Overlays for Smartphones Are Here</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-high-definition-1080p-video-player-software-compared-top-picks-for-windows-mac-and-linux/"><u>Best High-Definition 1080P Video Player Software Compared: Top Picks for Windows, Mac & Linux</u></a></li>
-<li><a href="https://media-tips.techidaily.com/complete-how-to-transferring-your-pc-streams-effortlessly-onto-your-samsung-smart-tv/"><u>Complete How-To: Transferring Your PC Streams Effortlessly Onto Your Samsung Smart TV</u></a></li>
-<li><a href="https://media-tips.techidaily.com/download-free-uhd-uefa-champions-league-qf-and-sf-matches-high-quality-1080p-footage/"><u>Download Free UHD UEFA Champions League QF & SF Matches - High-Quality 1080P Footage</u></a></li>
-<li><a href="https://media-tips.techidaily.com/get-access-instantly-premium-youtube-downloader-application-free/"><u>Get Access Instantly: Premium YouTube Downloader Application (Free!)</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-leverage-symbolic-meanings-in-social-media-conversations/"><u>How to Leverage Symbolic Meanings in Social Media Conversations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-vlc-media-player-building-custom-playlists-with-m3u-iptv-and-direct-files-for-an-enhanced-viewing-experience/"><u>Mastering VLC Media Player: Building Custom Playlists with M3U, IPTV and Direct Files for an Enhanced Viewing Experience</u></a></li>
-<li><a href="https://fox-links.techidaily.com/reducing-motion-illusion-in-vr-environments/"><u>Reducing Motion Illusion in VR Environments</u></a></li>
-<li><a href="https://media-tips.techidaily.com/resolve-your-netflix-app-problems-quickly-fixes-for-windows-10-and-windows-8-devotees/"><u>Resolve Your Netflix App Problems Quickly - Fixes for Windows 10 & Windows 8 Devotees</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-essential-music-streamers-enjoy-unlimited-playlists-and-songs-with-these-no-cost-airplay-ready-applications/"><u>Top Essential Music Streamers: Enjoy Unlimited Playlists & Songs with These No-Cost, AirPlay Ready Applications</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-vlc-media-player-for-high-def-formats-like-mkv-and-4k-hevc-dvds/"><u>Troubleshooting VLC Media Player for High-Def Formats Like MKV and 4K HEVC DVDs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/understanding-the-monetary-map-of-podcasting/"><u>Understanding the Monetary Map of Podcasting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-desktop-broadcasting-tools-face-off-obs-vs-shadowplay/"><u>[New] 2024 Approved Desktop Broadcasting Tools Face-Off OBS vs ShadowPlay</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-leap-into-adventure-mastering-the-realm-of-virtual-reality/"><u>[Updated] In 2024, Leap Into Adventure Mastering the Realm of Virtual Reality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-social-media-syncing-made-simple-tweets-and-tiktoks/"><u>[Updated] In 2024, Social Media Syncing Made Simple Tweets and TikToks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-techniques-for-ensuring-quality-screen-recording-in-facetime-chats/"><u>[Updated] In 2024, Techniques for Ensuring Quality Screen-Recording in FaceTime Chats</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-leading-platforms-enhancing-online-collaboration-for-2024/"><u>[Updated] Leading Platforms Enhancing Online Collaboration for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-analysis-of-the-apple-iphone-se-2020-finding-balance-between-performance-and-price/"><u>A Comprehensive Analysis of the Apple iPhone SE (2020): Finding Balance Between Performance and Price</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/advanced-secure-login-for-icloud-emails-with-2fa-technology/"><u>Advanced Secure Login for iCloud Emails with 2FA Technology</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficient-methods-for-high-fidelity-mkv-to-avi-conversion-on-macos-and-windows-platforms/"><u>Efficient Methods for High-Fidelity MKV to AVI Conversion on macOS and Windows Platforms</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-methods-for-converting-videos-seamlessly-from-pc-to-your-xbox/"><u>Effortless Methods for Converting Videos: Seamlessly From PC to Your Xbox</u></a></li>
+<li><a href="https://media-tips.techidaily.com/everything-you-need-to-know-about-tiff-files-explained/"><u>Everything You Need to Know About TIFF Files Explained</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-a-thorough-evaluation-of-the-high-resolution-dell-p2715q-monitor/"><u>In 2024, A Thorough Evaluation of the High-Resolution Dell P2715Q Monitor</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-prime-selection-top-ranked-gopro-case-models/"><u>In 2024, The Prime Selection Top-Ranked GoPro Case Models</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-guide-converting-avi-files-for-apple-devices-itunes-compatibility/"><u>Simple Guide: Converting AVI Files for Apple Devices - iTunes Compatibility</u></a></li>
+<li><a href="https://media-tips.techidaily.com/solving-movavis-video-export-error-a-step-by-step-solution-to-restore-your-files/"><u>Solving Movavi's Video Export Error: A Step-by-Step Solution to Restore Your Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/sony-reveals-revolutionary-ultra-hd-4k-television-at-the-2014-consumer-electronics-show/"><u>Sony Reveals Revolutionary Ultra HD 4K Television at the 2014 Consumer Electronics Show</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stay-in-game-expert-advice-on-avoiding-crashes-in-tales-of-arise/"><u>Stay In-Game: Expert Advice on Avoiding Crashes in 'Tales of Arise'</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ranking-ipad-2-video-transformer-seamlessly-move-your-evo-files/"><u>Top-Ranking iPad 2 Video Transformer: Seamlessly Move Your EVO Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-transform-your-mxf-media-to-high-quality-aiff-with-top-desktop-applications-and-online-tools/"><u>Ultimate Guide: Transform Your MXF Media to High-Quality AIFF with Top Desktop Applications & Online Tools</u></a></li>
+<li><a href="https://media-tips.techidaily.com/windows-guide-converting-mp4-video-files-into-flash-format-swf/"><u>Windows Guide: Converting MP4 Video Files Into Flash Format (SWF)</u></a></li>
 </ul></div>
 

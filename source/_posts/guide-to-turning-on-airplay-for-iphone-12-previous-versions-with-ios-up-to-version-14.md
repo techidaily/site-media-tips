@@ -1,7 +1,7 @@
 ---
 title: Guide to Turning On AirPlay for iPhone 12, Previous Versions with iOS Up to Version 14
-date: 2024-10-02T06:56:12.596Z
-updated: 2024-10-05T23:28:22.324Z
+date: 2024-10-07T17:37:03.429Z
+updated: 2024-10-11T17:24:57.003Z
 tags:
   - airplay
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
 This article discusses how to **enable AirPlay on iPhone** 12 iOS 14 & Earlier to stream video auido from iPhone to Mac/PC. Turn on AirPlay on your iPhone 12 iOS 14 (or earlier), and with the help of all-in-one AirPlay receiver & sender — 5KPlayer, your can stream movies and music songs from iPhone to Mac/PC easier than ever.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Turn On AirPlay on iPhone 12 iOS 14 Or Before?
 
 If you are trying to enable AirPlay on iPhone iOS 7 or newer, the AirPlay icon has been removed to the control center, thus providing a shortcut for users to turn on AirPlay on iPhone and stream videos. Please find out the iOS version number in your iPhone > General > About and find out your iOS version.
@@ -44,10 +51,10 @@ After successfully enabling AirPlay on iPhone 12 iOS 14, 5KPlayer can walk you t
  \* Disconnecting iPhone from the WiFi can also turn off AirPlay.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How To Use iPhone AirPlay Mirroring to Mac/Windows/Apple TV?
@@ -55,10 +62,10 @@ After successfully enabling AirPlay on iPhone 12 iOS 14, 5KPlayer can walk you t
 When you successfully enable AirPlay on iPhone 12 iOS 14 and connect iPhone to the AirPlay destination, you may find the "Mirroring" slider available to turn on. AirPlay Mirroring iPhone screen with 5KPlayer can blast everything on your mobile phone to Mac or Windows without lag, including the desktop, photos, slide shows. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Instruction to Enable AirPlay and Stream Movies/Music On iPhone
@@ -75,13 +82,6 @@ Download [**5KPlayer**](https://tools.techidaily.com/5kplayer/products/), launch
 
 ![Connect iPhone and Mac to Enable AirPlay](https://www.5kplayer.com/airplay/img/5kplayer-freeaacplayer-yxt-030603.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2**: After you yurn on AirPlay: Directly AirPlay videos on iPhone, or AirPlay YouTube online. 
 
 \* **AirPlay videos on iPhone**: For downloaded .mov, .m4v, .mp4 videos on iPhone. You can activate AirPlay on iPhone and directly stream them to Mac Windows.  
@@ -96,16 +96,10 @@ Notice: 5KPlayer AirPlay function now can't stream video music, but it will come
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -123,22 +117,22 @@ Notice: 5KPlayer AirPlay function now can't stream video music, but it will come
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-bypass-issue-twitter-video-on-chrome-freeze/"><u>[New] 2024 Approved Bypass Issue Twitter Video on Chrome Freeze</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-elevate-engagement-discover-these-top-12-techniques-for-video-success/"><u>[Updated] Elevate Engagement - Discover These Top 12 Techniques for Video Success</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-rapid-execution-instant-clearance-of-signature-bg/"><u>[Updated] Rapid Execution Instant Clearance of Signature Bg</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-leading-choice-for-affordable-high-fidelity-webm-playbacks/"><u>2024 Approved The Leading Choice for Affordable, High-Fidelity WebM Playbacks</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/winix-ai/"><u>深入Winix AI系統中，了解其最頻繁出現的技術難题及其解答方法</u></a></li>
-<li><a href="https://media-tips.techidaily.com/beheben-von-problemen-mit-dem-windows-media-player-unter-windows-11-losungswege-und-tipps/"><u>Beheben Von Problemen Mit Dem Windows Media Player Unter Windows 11: Lösungswege Und Tipps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-your-home-viewing-with-the-15-greatest-dolby-atmos-movies/"><u>Enhance Your Home Viewing with the 15 Greatest Dolby Atmos Movies</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expert-tutorial-seamless-integration-of-ipad-pro-airplay-on-windows/"><u>Expert Tutorial: Seamless Integration of iPad Pro AirPlay on Windows</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guide-accessing-and-enjoying-apple-arcade-titles-on-your-windows-laptop-or-desktop/"><u>Guide: Accessing and Enjoying Apple Arcade Titles on Your Windows Laptop or Desktop</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-success-starts-here-discovering-top-tracking-and-analysis-apps/"><u>Instagram Success Starts Here Discovering Top Tracking and Analysis Apps</u></a></li>
-<li><a href="https://media-tips.techidaily.com/multi-platform-media-software-compatible-with-windows-10-mac-os-x-universal-viewing-experience/"><u>Multi-Platform Media Software: Compatible with Windows 10, Mac OS X, Universal Viewing Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/no-cost-high-quality-recorder-for-macos-the-ultimate-solution-for-smooth-reflector-substitute-in-streaming-audiovideo/"><u>No Cost High-Quality Recorder for macOS: The Ultimate Solution for Smooth Reflector Substitute in Streaming Audio/Video</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamless-streaming-with-airplay-across-ios-13-ipads-iphones-and-new-models/"><u>Seamless Streaming with AirPlay Across iOS 13 iPads, iPhones & New Models</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/svchostexe-high-usage-problem-an-in-depth-look-at-netsvcs-services-and-effective-strategies-for-optimization/"><u>svchost.exe High Usage Problem: An In-Depth Look at Netsvcs Services & Effective Strategies for Optimization</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-evaluating-the-best-free-software-for-playing-3d-videos-on-both-windows-and-macos-systems/"><u>Ultimate Guide: Evaluating the Best Free Software for Playing 3D Videos on Both Windows and macOS Systems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/vlc-media-player-blu-ray-macwindows108187/"><u>VLC Media Player Blu-Ray不能遊玩？解決方法！ - Mac和Windows平台(10、8.1、8、7)」</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-video-uploads-on-youtube-a-comprehensive-tutorial/"><u>[Updated] 2024 Approved Navigating Video Uploads on YouTube A Comprehensive Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-how-to-capture-picture-perfection-without-paying/"><u>2024 Approved How To Capture Picture Perfection Without Paying</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-science-of-color-representation-srgb-and-rgb/"><u>2024 Approved The Science of Color Representation Srgb & Rgb</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-iphone-accessibility-features-for-people-with-vision-problems/"><u>8 iPhone Accessibility Features for People With Vision Problems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/blu-ray/"><u>Blu-Rayアーカイブス用最強解除ツール集 - 安全なリッピングガイド</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/eliminating-blemishes-in-image-downloads/"><u>Eliminating Blemishes in Image Downloads</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/e-look-at-youtubes-digital-media-oasis-for-2024/"><u>Inside Look at YouTube's Digital Media Oasis for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/insta-tiktik-mastery-uniting-two-social-giants-for-2024/"><u>Insta-TikTik Mastery Uniting Two Social Giants for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maximize-your-movie-watching-expert-advice-for-ios-devices-ipad-proairmini/"><u>Maximize Your Movie Watching: Expert Advice for iOS Devices (iPad Pro/Air/Mini)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pioneering-virtual-experiences-a-report-for-2024/"><u>Pioneering Virtual Experiences A Report for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-solutions-for-installing-vlc-extensions-on-google-chrome-and-mozilla-firefox-browsers/"><u>Quick Solutions for Installing VLC Extensions on Google Chrome and Mozilla Firefox Browsers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-media-sharing-how-to-use-airplay-with-your-mac/"><u>Seamless Media Sharing: How to Use AirPlay with Your Mac</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-movie-viewing-casting-from-ipad-air-pro-or-mini-to-pc-via-apples-airplay-technology/"><u>Seamless Movie Viewing: Casting From iPad Air, Pro, or Mini to PC via Apple's AirPlay Technology</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-steps-to-watch-mkv-videos-on-your-windows-computer-windows-7-8-and-10-beginners-guide/"><u>Simple Steps to Watch MKV Videos on Your Windows Computer (Windows 7, 8 & 10) - Beginner's Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/solving-connectivity-and-functionality-issues-in-xbox-app-while-updating-to-windows-10/"><u>Solving Connectivity and Functionality Issues in Xbox App While Updating to Windows # 10</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-videos-into-mp3-files-using-the-vlc-media-player/"><u>Step-by-Step Guide: Transforming Videos Into MP3 Files Using the VLC Media Player</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-mystery-of-off-facebook-activity-what-to-know-and-do/"><u>The Mystery of Off-Facebook Activity What to Know & Do</u></a></li>
 </ul></div>
 

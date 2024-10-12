@@ -1,7 +1,7 @@
 ---
 title: "VLC Media Player and HEVC Codec Support: Mastering High-Efficiency Video Coding for Ultra HD Content"
-date: 2024-10-01T03:34:19.120Z
-updated: 2024-10-06T06:43:43.120Z
+date: 2024-10-11T00:59:27.685Z
+updated: 2024-10-11T23:24:01.200Z
 tags:
   - vlc
 categories:
@@ -49,10 +49,16 @@ VLC media player has HEVC/H.265 support for a very long time, that could be prov
 From the VLC update log, we can see that VLC media player developer has done a lot of changes, improvements and fixes to make H.265/HEVC player VLC much better.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Play HEVC/H.265 Videos with VLC HEVC Media Player?
@@ -68,19 +74,19 @@ However, if the HEVC/H.265 video bit rate or resolution is too high, VLC won't p
 ![VLC Codec Support](https://www.5kplayer.com/vlc/img/vlc-hevc-player.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Despite the fact that VLC developer has done a lot of work to improve VLC HEVC feature, it doesn't mean that VLC handles any HEVC/H.265 files very successfully. [VLC not playing HEVC/H.265 4K video](https://tools.techidaily.com/5kplayer/video-music-player/) is a big headache from the very beginning, but there are seldom ways to solve it completely. If you are annoyed by VLC HEVC drop frames, choppy playback, 4K crashing or HEVC black screen, 5KPlayer is here to offer help.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Solve VLC not Playing HEVC/H.265 4K Videos? Try 5KPlayer
@@ -90,10 +96,10 @@ VLC HEVC/H.265 playback error will ends here by using VLC alternative 5KPlayer. 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -111,16 +117,24 @@ VLC HEVC/H.265 playback error will ends here by using VLC alternative 5KPlayer. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-comparing-leading-cam-tech-with-mymanycam/"><u>[Updated] In 2024, Comparing Leading Cam Tech with MyManyCam</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-seamless-idevice-screen-saving-tricks/"><u>[Updated] In 2024, Seamless iDevice Screen Saving Tricks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/2-troubleshooting-steps-when-ios-apps-wont-launch-on-macos-systems/"><u>2. Troubleshooting Steps When iOS Apps Won't Launch on macOS Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-in-depth-guide-to-screen-capturing-in-online-meetings/"><u>2024 Approved The In-Depth Guide to Screen Capturing in Online Meetings</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazfit-bip-unveiled-a-comprehensive-review-for-entry-level-wearable-tech-enthusiasts/"><u>Amazfit BIP Unveiled: A Comprehensive Review for Entry-Level Wearable Tech Enthusiasts</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reverse-non-prints-with-simple-steps-for-windows-10-users/"><u>Reverse Non-Prints with Simple Steps for Windows 10 Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-to-overcome-screen-recording-issues-in-ios-15-14-and-13/"><u>Step-by-Step Guide to Overcome Screen Recording Issues in iOS 15, 14 & 13</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-access-periscope-on-desktop-for-real-time-broadcasts/"><u>Step-by-Step Guide: Access Periscope on Desktop for Real-Time Broadcasts</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-ranked-free-gopro-viewer-apps-for-pc-and-macos-get-them-now/"><u>Top-Ranked Free GoPro Viewer Apps for PC and MacOS - Get Them Now!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultra-hd-streaming-unleashed-access-premium-4k1080p-movies-and-tv-shows-on-netflix-effortlessly/"><u>Ultra HD Streaming Unleashed: Access Premium 4K/1080p Movies and TV Shows on Netflix Effortlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-roadmap-to-crafting-popular-vlogging-narratives/"><u>[New] A Roadmap to Crafting Popular Vlogging Narratives</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-urban-beats-on-tiktok-the-best-rap-collabs-for-2024/"><u>[New] Urban Beats on TikTok The Best Rap Collabs for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-perfect-your-video-calls-essential-10-free-recording-solutions-for-slack/"><u>[Updated] 2024 Approved Perfect Your Video Calls Essential 10 Free Recording Solutions for Slack</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iphone-lens-wizardry-secrets-to-selecting-perfect-positions/"><u>[Updated] IPhone Lens Wizardry Secrets to Selecting Perfect Positions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-fix-your-4k-streaming-issues-troubleshoot-and-resolve-airplay-not-working/"><u>1. Fix Your 4K Streaming Issues: Troubleshoot and Resolve AirPlay Not Working</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/photo-editing-magic/"><u>即時購入できるステラ修理アプリ - Photo Editing Magic</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-ultimate-guide-to-high-definition-streaming-websites-top-secrets-unveiled/"><u>Discover the Ultimate Guide to High-Definition Streaming Websites - Top Secrets Unveiled!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/dlna-ready-5kplayer-free-software-learn-about-its-capabilities-and-advantages-for-seamless-media-streaming/"><u>DLNA-Ready 5KPlayer Free Software - Learn About Its Capabilities & Advantages for Seamless Media Streaming</u></a></li>
+<li><a href="https://media-tips.techidaily.com/each-operations-result-should-include-an-invented-quote-from-a-made-up-expert-in-the-field-discussing-potential-implications-or-concerns-about-the-scenarioa5/"><u>Each Operation's Result Should Include an Invented Quote From a Made-Up Expert in the Field Discussing Potential Implications or Concerns About the Scenario/Amendments Described.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engage-with-gpt-3s-beta-web-integration-advances/"><u>Engage with GPT-3's Beta Web Integration Advances</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-writing-quality-steer-clear-from-common-mistakes/"><u>Enhancing Writing Quality – Steer Clear From Common Mistakes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722167816805-harness-the-power-of-chatgpt-from-your-phone-now-for-android-users/"><u>Harness the Power of ChatGPT From Your Phone – Now for Android Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-secure-is-vlc-media-player-a-guide-to-identifying-and-resolving-potential-threats/"><u>How Secure Is VLC Media Player? A Guide to Identifying and Resolving Potential Threats</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-the-sudden-kernel-error-leading-to-bsods-on-your-windows-10-machine/"><u>How to Address the Sudden Kernel Error Leading to BSODs on Your Windows 10 Machine</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-diminishing-excessive-encoding-obs/"><u>In 2024, Diminishing Excessive Encoding (OBS)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/solve-your-popcorn-app-and-apple-tv-connectivity-woes-a-step-by-step-guide-with-5kplayer/"><u>Solve Your Popcorn App and Apple TV Connectivity Woes: A Step-by-Step Guide With 5KPlayer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-mirroring-your-ipad-screen-using-airplay-on-mac-pc-and-apple-tv/"><u>Step-by-Step Guide: Mirroring Your iPad Screen Using AirPlay on Mac, PC & Apple TV</u></a></li>
+<li><a href="https://media-tips.techidaily.com/troubleshooting-fixing-mp4-playback-issues-in-vlc-media-player-on-windows-and-mac-systems/"><u>Troubleshooting: Fixing MP4 Playback Issues in VLC Media Player on Windows & Mac Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-using-a-dlna-compatible-device-for-media-playback-on-windows-operating-systems/"><u>Ultimate Guide: Using a DLNA Compatible Device for Media Playback on Windows Operating Systems</u></a></li>
 </ul></div>
 

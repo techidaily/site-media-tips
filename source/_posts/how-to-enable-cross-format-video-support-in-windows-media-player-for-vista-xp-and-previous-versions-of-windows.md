@@ -1,7 +1,7 @@
 ---
 title: How to Enable Cross-Format Video Support in Windows Media Player for Vista, XP and Previous Versions of Windows
-date: 2024-09-28T17:37:50.041Z
-updated: 2024-10-05T17:57:15.008Z
+date: 2024-10-10T23:14:15.576Z
+updated: 2024-10-12T00:59:55.231Z
 tags:
   - video-music-player
 categories:
@@ -37,10 +37,10 @@ To make it clear, 5KPlayer is nifty with [all mainstream video formats](https://
 aa3, aac, aif, aiff, caf, m4a, mid, midi, mka, mp3, mpa,ogg, pcm, ra, ram, wma, flac, wav, alac, 3g2, h264, h265, 3gp, avi, divx,div, flv, m4v, mov, mp4, mkv, mtv, mpeg, mpg, mpg2, mpg4, ogm, rmvb, swf, ts,vcd,vob, webm, wmv, xvid, yuv, tivo,ts, m2ts, mts, iso, dvd media, and almost all video format in use. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Play H.265 Videos Without Installing WMP Codec Pack
@@ -58,10 +58,16 @@ aa3, aac, aif, aiff, caf, m4a, mid, midi, mka, mp3, mpa,ogg, pcm, ra, ram, wma, 
 ![play h.265 without windows media player codec](https://www.5kplayer.com/video-music-player/img/5kplayer-freeaacplayer-yxt-030601.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Windows Media Player Codec can work, but it takes frequent add-on patches to suffice, that's why the convenience of this [universal video player](https://tools.techidaily.com/5kplayer/video-music-player/) matters: with regular upgrade notes you can choose either to access the up-to-date video codecs or not; what about the most annoying DVD support absent from Windows Media Player? Well, take it easy because it can [play DVD](https://tools.techidaily.com/5kplayer/video-music-player/) on Windows 10/8/7.
@@ -69,10 +75,10 @@ Windows Media Player Codec can work, but it takes frequent add-on patches to suf
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitemac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -90,17 +96,16 @@ Windows Media Player Codec can work, but it takes frequent add-on patches to suf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-a-step-by-step-journey-to-pc-live-streams-master-tiktok-live/"><u>[New] A Step-By-Step Journey to PC Live Streams – Master TikTok LIVE</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-enhance-communication-and-accessibility-leading-tts-apps-reviewed-for-mac/"><u>[New] In 2024, Enhance Communication and Accessibility Leading TTS Apps Reviewed for Mac</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-xbox-screen-sharing-setting-up-for-fb-livestreaming/"><u>[New] In 2024, Xbox Screen Sharing Setting Up for FB Livestreaming</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-the-art-of-sync-free-obs-streaming/"><u>[Updated] 2024 Approved Mastering the Art of Sync-Free OBS Streaming</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-cloud-storage-pricing-comparison-and-best-price-recommendations/"><u>2024 Approved Cloud Storage Pricing Comparison and Best Price Recommendations</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-ultimate-upnpdlna-ready-media-streamers-for-windows-optimized-for-versions-11-8-and-7/"><u>Free Ultimate UPnP/DLNA-Ready Media Streamers for Windows: Optimized for Versions 11, 8, and 7</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-fix-a-non-responsive-xbox-app-on-windows-11-update-troubles/"><u>How to Fix a Non-Responsive Xbox App on Windows 11 - Update Troubles</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-asus-dvd-drive-drivers-available-for-immediate-download/"><u>Latest ASUS DVD Drive Drivers Available for Immediate Download</u></a></li>
-<li><a href="https://media-tips.techidaily.com/master-vlcs-frame-by-frame-feature-a-comprehensive-tutorial-for-detailed-video-analysis/"><u>Master VLC's Frame-by-Frame Feature - A Comprehensive Tutorial for Detailed Video Analysis</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/revamping-lg-monitor-performance-correct-drivers-installation-for-windows-platforms/"><u>Revamping LG Monitor Performance: Correct Drivers Installation for Windows Platforms</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-extracting-dvd-content-using-vlc-media-player/"><u>Step-by-Step Guide: Extracting DVD Content Using VLC Media Player</u></a></li>
-<li><a href="https://media-tips.techidaily.com/wireless-hdmi-the-ultimate-guide-to-linking-your-laptop-to-tv-without-cables/"><u>Wireless HDMI: The Ultimate Guide to Linking Your Laptop to TV without Cables</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-nord-n30-se-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Nord N30 SE Activity | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-your-audio-files-seamlessly-professional-mp3-to-wav-and-wav-to-mp3-converter-software/"><u>Convert Your Audio Files Seamlessly: Professional MP3 to WAV and WAV to MP3 Converter Software</u></a></li>
+<li><a href="https://media-tips.techidaily.com/create-customizable-mp3-ringtones-with-our-user-friendly-cutting-tool/"><u>Create Customizable MP3 Ringtones with Our User-Friendly Cutting Tool!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/efficiently-shortening-youtube-content/"><u>Efficiently Shortening YouTube Content</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-matches-free-and-paid-ultra-hd-playback-tools-for-windows-macos/"><u>In 2024, Ideal Matches Free & Paid Ultra HD Playback Tools for Windows, macOS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-revolutionize-your-social-network-creating-captivating-facebook-slides/"><u>In 2024, Revolutionize Your Social Network Creating Captivating Facebook Slides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/starfive-unveils-new-laptop-mainboard-partnered-with-framework-integrates-cutting-edge-risc-v-processor-technology/"><u>StarFive Unveils New Laptop Mainboard: Partnered With Framework, Integrates Cutting-Edge RISC-V Processor Technology</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-picks-the-ultimate-guide-to-choosing-an-exceptional-aiff-to-mp3-converter/"><u>Top 5 Picks: The Ultimate Guide to Choosing an Exceptional AIFF to MP3 Converter</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-5-leading-bitrate-modification-applications-for-optimal-video-quality/"><u>Ultimate Guide: 5 Leading Bitrate Modification Applications for Optimal Video Quality</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-m4b-audio-book-files-benefits-and-features/"><u>Understanding M4B Audio Book Files: Benefits & Features</u></a></li>
 </ul></div>
 
