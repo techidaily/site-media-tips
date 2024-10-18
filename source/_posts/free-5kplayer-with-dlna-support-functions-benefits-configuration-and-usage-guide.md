@@ -1,7 +1,7 @@
 ---
 title: Free 5KPlayer with DLNA Support - Functions, Benefits, Configuration, and Usage Guide
-date: 2024-10-08T18:55:12.831Z
-updated: 2024-10-11T19:07:24.368Z
+date: 2024-10-16T17:57:30.327Z
+updated: 2024-10-17T21:49:18.407Z
 tags:
   - dlna
 categories:
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 **関連記事：**[iPhoneの動画がパソコンに取り込みできない時の対処法｜3分で解決できる](https://tools.techidaily.com/5kplayer/iphone-manager/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5KPlayer DLNAの設定（5KPlayer DLNAの接続方法）
 
 5KPlayer DLNA機能は日常の様々なシーンで役立ちます。例えば、パソコンに保存された映像を、他の部屋にあるテレビや、スマホ/タブレット端末で視聴したい場合、又はAndroidスマホやタブレット端末のメディアをパソコンやTVの大画面で楽しみたい場合等です。次は5KPlayer DLNAの設定方法を詳しく説明します。
@@ -74,22 +81,16 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 ![5KPlayer DLNA](https://www.5kplayer.com/dlna-jp/img/dlna-guide-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 （3）Windows/Mac PCをメディアサーバーとして利用したいとき、DLNAサービスを「OFF」から「ON」にしてください。Windows/Mac PCをDLNAプレイヤーとして、AndroidスマホやタブレットからPCへメディアファイルをミラーリングしたい場合、DLNAデバイスを「ON」にします。これで、5KPlayer DLNA対応を有効にします。 
 
 ![5KPlayer DLNA](https://www.5kplayer.com/dlna-jp/img/dlna-guide-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ※どれが有効すればよいのかわからない場合、DLNAサービスとDLNAデバイスの両方を「ON」にしてもOKです。 
 
@@ -97,14 +98,14 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitewin-jp.png)](https://www.5kplayer.com/5kplayer-download-windows-jp.htm) [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitemac-jp.png)](https://www.5kplayer.com/5kplayer-download-mac-jp.htm)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **関連記事：**[おすすめの動画再生アプリランキング18選｜PC/Mac/iPhone/Android](https://tools.techidaily.com/5kplayer/video-music-player/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5KPlayer DLNAの使い方（具体的な例を挙げる）
 
@@ -119,19 +120,6 @@ Step2、インタフェースにある「AirPlayer DLNA」アイコンをクリ�
 Step3、Androidスマホ上でDLNA対応アプリを開き、ミラーリングしたい映像を選択し、アプリのオプションにある「DLNA」（アプルによって表示単語が異なる）が表示されて、5KPlayerを搭載したPCを選択します。これで、AndroidスマホからWindows/Mac PCに動画がミラーリングされます。
 
 ![5KPlayer DLNAの使い方](https://www.5kplayer.com/dlna-jp/img/dlna-guide-5.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ※AndroidスマホにDLNA対応アプリをインストールする必要があります。 
 
@@ -172,10 +160,10 @@ Step4、手元のAndroidスマホ/スマートTV/ PS4/Xboxのアプリ共有セ�
 [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitewin-jp.png)](https://www.5kplayer.com/5kplayer-download-windows-jp.htm) [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitemac-jp.png)](https://www.5kplayer.com/5kplayer-download-mac-jp.htm)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **まとめ**
@@ -197,17 +185,15 @@ Step4、手元のAndroidスマホ/スマートTV/ PS4/Xboxのアプリ共有セ�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-video-editing-tips-with-fcpx/"><u>[New] Mastering Instagram Video Editing Tips with FCPX</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-pivot-your-playlists-with-these-straightforward-tricks/"><u>[Updated] Pivot Your Playlists with These Straightforward Tricks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-create-with-photoshops-radial-shadow-and-blur-features/"><u>2024 Approved Pro Create with Photoshop's Radial Shadow & Blur Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-selecting-and-using-b-roll-in-productions/"><u>2024 Approved The Art of Selecting and Using B-Roll in Productions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvd-google/"><u>初心者用の結婚式DVDコピー・ダビングガイド：スムーズに行うための専門ソフト選びと方法解説 - Googleで検索してみましん！</u></a></li>
-<li><a href="https://media-tips.techidaily.com/decoding-3gp-media-tips-for-accessing-opening-and-playback-of-3gp-videos/"><u>Decoding 3GP Media: Tips for Accessing, Opening, and Playback of 3GP Videos</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-guide-transforming-cda-files-into-mp3-format-on-your-windows-or-mac-computer/"><u>Easy Guide: Transforming CDA Files Into MP3 Format on Your Windows or Mac Computer</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-steps-for-converting-aviwmv-videos-to-high-quality-mp4/"><u>Easy Steps for Converting AVI/WMV Videos to High-Quality MP4</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-online-methods-transforming-mov-files-into-3gp-format-simple-techniques/"><u>Free Online Methods: Transforming MOV Files Into 3GP Format - Simple Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-comedy-crafting-top-tips-for-diy-memetic-mastery/"><u>In 2024, Metaverse Comedy Crafting Top Tips for DIY Memetic Mastery</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-screen-recording-activating-dynamic-selection-tool-and-step-by-step-walkthrough/"><u>Mastering Screen Recording: Activating Dynamic Selection Tool & Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/maximize-site-performance-with-cookiebot-advanced-tracker-and-pixel-technology/"><u>Maximize Site Performance with Cookiebot: Advanced Tracker & Pixel Technology</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-expert-selection-the-top-11-kid-friendly-waterproof-camcorders/"><u>[Updated] In 2024, Expert Selection The Top 11 Kid-Friendly, Waterproof Camcorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamlined-methods-for-iphone-screen-capture/"><u>2024 Approved Streamlined Methods for iPhone Screen Capture</u></a></li>
+<li><a href="https://facebook.techidaily.com/discover-how-facebook-opens-up-with-new-transparency-hub/"><u>Discover How Facebook Opens Up with New Transparency Hub</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-and-install-vlc-media-player-easily-on-windows-cuadro-8-comprehensive-guide/"><u>Download and Install VLC Media Player Easily on Windows Cuadro 8 - Comprehensive Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enjoy-apples-airplay-feature-via-googlen-new-chromecast-for-ios-98-users/"><u>Enjoy Apple's AirPlay Feature via Google'n New Chromecast for iOS 9/8 Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone 12 Pro Max and iPad</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-androids-audio-potential-mastering-the-art-of-ringtones-and-sounds/"><u>In 2024, Unleashing Android's Audio Potential Mastering the Art of Ringtones & Sounds</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-common-problems-stable-gameplay-in-sea-of-thieves-no-more-crashes/"><u>Solving Common Problems: Stable Gameplay in Sea of Thieves (No More Crashes!)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streaming-ultra-hd-content-on-windows-11-a-step-by-step-guide/"><u>Streaming Ultra HD Content on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-compatible-dlna-devices-for-cross-platform-streaming-on-windows-macos-and-android/"><u>Top Compatible DLNA Devices for Cross-Platform Streaming on Windows, macOS, and Android</u></a></li>
 </ul></div>
 

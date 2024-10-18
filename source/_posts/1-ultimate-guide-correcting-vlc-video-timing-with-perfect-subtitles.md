@@ -1,7 +1,7 @@
 ---
 title: "1. Ultimate Guide: Correcting VLC Video Timing with Perfect Subtitles"
-date: 2024-10-11T00:39:19.184Z
-updated: 2024-10-11T18:54:17.024Z
+date: 2024-10-14T20:50:27.901Z
+updated: 2024-10-18T01:20:20.400Z
 tags:
   - vlc
 categories:
@@ -42,18 +42,18 @@ Since VLC media player is a cross-platform software, we will explain the solutio
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/1.png) **How to Sync Subtitles in VLC on Windows PC?**
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Method 1.** When playing a video or movie with VLC media player, you simply use the hotkey to adjust the subtitle delay or forward. If subtitle is ahead of sound, press **G**. If subtitle is behind sound, press **H**. With every key press, it will adjust the subtitle by 50 milliseconds, and you will see the confirmation "Subtitle delay 50ms" or "Subtitle delay -50ms" on the top right corner of the playing screen.
 
 However, this way is suitable only when the dialogue and subtitles come with same frame rate. So, you should try method 2 in other situations.
 
 ![VLC Subtitle Hotkeys](https://www.5kplayer.com/vlc/img/vlc-subtitle-hotkey.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **BTW, if VLC subtitles out of sync with audio only, you can use the advance synchronization**
 
@@ -77,10 +77,10 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 #### ![](https://www.5kplayer.com/vlc/../seoimg/2.png) **How to Adjust Subtitle Timing in VLC on Mac?**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Method 1.** During playback, you can press hotkey **H** (decrease delay, subtitles show after sound) or **J** (increase delay, subtitles display before sound) to sync subtitles in VLC. Same with that on Windows PC, every key press will adjust 50 milliseconds.
@@ -105,13 +105,6 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/4.png) **How to Sync Subtitles in VLC on iOS iPhone/iPad?**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1\. Open a video with VLC media player for iOS.  
  2\. Tap on the **speech balloon** icon in the right-hand bottom corner to check if subtitles have been turned on.  
  3\. Tap on the clock symbol in the right-hand bottom corner.  
@@ -119,7 +112,21 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 ![VLC Subtitle Synchronization iOS](https://www.5kplayer.com/vlc/img/vlc-subtitle-ios.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### ![](https://www.5kplayer.com/vlc/../seoimg/5.png) **How to Adjust Subtitles in VLC on Apple TV?**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1\. When watching a video on Apple TV, swipe down on your remote’s Touch surface.  
  2\. Swipe right to see the Subtitles or Audio menus  
@@ -130,10 +137,10 @@ If you don't see an option for SDH, or you want to turn on CC or SDH by default,
 On Apple TV (2nd generation) or Apple TV (3rd generation), hold down Select on your remote for three seconds while a video is playing to see the Subtitles tab.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Above Methods not Working? Try Subtitle Player 5KPlayer
@@ -153,13 +160,6 @@ Actually VLC not working problems vary, and 5KPlayer is also the best alternativ
 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -175,22 +175,18 @@ Actually VLC not working problems vary, and 5KPlayer is also the best alternativ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-brand-reflection-personalize-free-logo-templates-to-perfection/"><u>[New] Brand Reflection Personalize Free Logo Templates to Perfection</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-eating-entertainment-tiktoks-top-culinary-shows-for-2024/"><u>[Updated] Eating Entertainment TikTok's Top Culinary Shows for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-expert-tips-to-correct-video-transmission-problem-on-mobile-messengers/"><u>[Updated] Expert Tips to Correct Video Transmission Problem on Mobile Messengers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mac-graphics-revolution-top-10-freeware-drawings/"><u>2024 Approved Mac Graphics Revolution Top 10 Freeware Drawings</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-top-6-audio-merging-tools-seamless-song-creators-and-file-assemblers/"><u>Best Top 6 Audio Merging Tools: Seamless Song Creators & File Assemblers</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comparing-audio-formats-aiff-wav-flac-and-alac-what-sets-them-apart/"><u>Comparing Audio Formats AIFF, WAV, FLAC & ALAC – What Sets Them Apart?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/complete-guide-converting-mp3-files-to-ogg-format-illustrated-steps-and-images/"><u>Complete Guide: Converting MP3 Files to OGG Format - Illustrated Steps & Images</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-avoiding-fps-drops-in-valorant-windows-edition/"><u>Elevate Your Gameplay: Avoiding FPS Drops in Valorant Windows Edition</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-transform-mpeg-files-into-mp3s-a-guide-to-retrieving-pure-audio/"><u>How to Transform MPEG Files Into MP3s: A Guide to Retrieving Pure Audio</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-experts-techniques-for-clearing-figma-backdrops/"><u>In 2024, The Expert's Techniques for Clearing Figma Backdrops</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-mp3-editing-tools-and-techniques-for-seamless-file-trimming-on-any-device/"><u>Mastering MP3 Editing: Tools & Techniques for Seamless File Trimming on Any Device</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ized-video-scale-to-mac-aspect-proportion-for-2024/"><u>Optimized Video Scale to Mac Aspect Proportion for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamless-conversion-guide-turning-your-flac-files-into-high-quality-m4a-audio/"><u>Seamless Conversion Guide: Turning Your FLAC Files Into High-Quality M4A Audio</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-converting-lossless-flac-audio-to-compact-aac-without-quality-loss/"><u>The Ultimate Guide to Converting Lossless FLAC Audio to Compact AAC without Quality Loss</u></a></li>
-<li><a href="https://media-tips.techidaily.com/three-easy-techniques-for-combining-tracks-with-illustrative-images/"><u>Three Easy Techniques for Combining Tracks with Illustrative Images</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-c55-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme C55 Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-revival-overcoming-creator-setbacks/"><u>Win10 Revival: Overcoming Creator Setbacks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-exploring-the-best-of-android-does-pickup-lead-photo-editing-tools-in-2024/"><u>[New] Exploring the Best of Android Does PickUp Lead Photo Editing Tools, In 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-complete-guide-twitter-reaction-videos/"><u>[New] In 2024, Complete Guide | Twitter Reaction Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-vidgrabber-mobilepc-for-fb-streams/"><u>[Updated] In 2024, VidGrabber Mobile/PC for Fb Streams</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-ultimate-free-dvd-players-our-top-picks-for-pc-and-mac-users/"><u>Discover the Ultimate Free DVD Players: Our Top Picks for PC and Mac Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-set-up-dlna-screen-mirroring-on-windows-117-a-complete-guide/"><u>How to Set Up DLNA Screen Mirroring on Windows 11/7: A Complete Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-quickened-keys-powerpoint-presentation-capture/"><u>In 2024, Quickened Keys PowerPoint Presentation Capture</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-pro-max-vs-samsung-galaxy-s2-ultra-showdown-uncovering-the-differences/"><u>IPhone 15 Pro Max Vs. Samsung Galaxy S2# Ultra Showdown: Uncovering the Differences</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-audio-on-windows-10-overcoming-unresponsive-volume-control-challenges/"><u>Mastering Audio on Windows 10: Overcoming Unresponsive Volume Control Challenges</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-dlna-media-sharing-and-screen-mirroring-across-windows-11-and-10-pcs-with-top-players/"><u>Mastering DLNA Media Sharing and Screen Mirroring Across Windows 11 & 10 PCs with Top Players</u></a></li>
+<li><a href="https://media-tips.techidaily.com/stream-seamlessly-from-your-windows-7-computer-to-any-apple-tv-model-432-free-airplay-methods-unveiled/"><u>Stream Seamlessly From Your Windows 7 Computer to Any Apple TV Model (4/3/2) - Free AirPlay Methods Unveiled!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/stream-your-pc-on-any-screen-with-beamer-compatible-with-windows-11-8-and-7/"><u>Stream Your PC on Any Screen with Beamer: Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-setting-up-a-dlna-media-player-for-seamless-screen-reflection-in-windows-11windows-7/"><u>The Ultimate Guide to Setting Up a DLNA Media Player for Seamless Screen Reflection in Windows 11/Windows 7</u></a></li>
 </ul></div>
 
