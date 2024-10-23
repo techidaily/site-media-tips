@@ -1,7 +1,7 @@
 ---
 title: "VLC Media Player and HEVC Codec Support: Mastering High-Efficiency Video Coding for Ultra HD Content"
-date: 2024-10-13T02:18:25.892Z
-updated: 2024-10-17T17:38:22.669Z
+date: 2024-10-16T19:24:30.977Z
+updated: 2024-10-23T17:07:10.510Z
 tags:
   - vlc
 categories:
@@ -49,10 +49,16 @@ VLC media player has HEVC/H.265 support for a very long time, that could be prov
 From the VLC update log, we can see that VLC media player developer has done a lot of changes, improvements and fixes to make H.265/HEVC player VLC much better.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Play HEVC/H.265 Videos with VLC HEVC Media Player?
@@ -68,19 +74,19 @@ However, if the HEVC/H.265 video bit rate or resolution is too high, VLC won't p
 ![VLC Codec Support](https://www.5kplayer.com/vlc/img/vlc-hevc-player.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Despite the fact that VLC developer has done a lot of work to improve VLC HEVC feature, it doesn't mean that VLC handles any HEVC/H.265 files very successfully. [VLC not playing HEVC/H.265 4K video](https://tools.techidaily.com/5kplayer/video-music-player/) is a big headache from the very beginning, but there are seldom ways to solve it completely. If you are annoyed by VLC HEVC drop frames, choppy playback, 4K crashing or HEVC black screen, 5KPlayer is here to offer help.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Solve VLC not Playing HEVC/H.265 4K Videos? Try 5KPlayer
@@ -90,10 +96,16 @@ VLC HEVC/H.265 playback error will ends here by using VLC alternative 5KPlayer. 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -111,24 +123,24 @@ VLC HEVC/H.265 playback error will ends here by using VLC alternative 5KPlayer. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-elite-10-audio-boosters-for-os-x-ios-android/"><u>[Updated] Elite 10 Audio Boosters for OS X, iOS, Android</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-make-big-bucks-fast-with-a-focus-on-youtube-short-video-creation/"><u>[Updated] Make Big Bucks Fast with a Focus on YouTube Short Video Creation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/boosting-laptop-efficiency-through-cpu-enhancement/"><u>Boosting Laptop Efficiency Through CPU Enhancement</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/elite-listing-top-10-windows-11-cam-capture-devices/"><u>Elite Listing Top 10 Windows 11 Cam Capture Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enjoy-a-charlie-brown-christmas-step-by-step-streaming-instructions/"><u>Enjoy 'A Charlie Brown Christmas' - Step-by-Step Streaming Instructions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exploring-the-surge-of-gaming-in-video-platforms-and-news-websites-unraveling-the-trend/"><u>Exploring the Surge of Gaming in Video Platforms & News Websites: Unraveling the Trend</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/from-twitters-tube-to-your-whatsapp-buddy-list-for-2024/"><u>From Twitter's Tube to Your WhatsApp Buddy List for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hot-oculus-vr-games-that-everyones-playing-for-2024/"><u>Hot Oculus VR Games That Everyone's Playing for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-and-why-to-cut-off-your-vizios-wi-fi-access-for-enhanced-privacy/"><u>How and Why to Cut Off Your Vizio's Wi-Fi Access for Enhanced Privacy</u></a></li>
-<li><a href="https://media-tips.techidaily.com/improving-spotifys-ai-dj-with-local-news-integration-a-next-level-music-experience/"><u>Improving Spotify's AI DJ with Local News Integration: A Next-Level Music Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maximize-value-top-5-tips-for-getting-more-from-your-hulu-subscription/"><u>Maximize Value: Top 5 Tips for Getting More From Your Hulu Subscription</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging-in-2024/"><u>New What Should Be Considered to Choose A Nice GoPro for Vlogging, In 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/revamped-sonos-mobile-app-and-introduction-to-the-advanced-web-client-a-leap-forward-in-sound-technology/"><u>Revamped Sonos Mobile App and Introduction to the Advanced Web Client – A Leap Forward in Sound Technology</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamless-integration-of-spotify-and-fitbit-for-enhanced-gym-playlists-management/"><u>Seamless Integration of Spotify & Fitbit for Enhanced Gym Playlists Management</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-issues-what-to-do-when-netflix-cannot-stream-your-chosen-movie/"><u>Solving Issues: What To Do When Netflix Cannot Stream Your Chosen Movie</u></a></li>
-<li><a href="https://media-tips.techidaily.com/spotifys-hidden-gem-the-underutilized-potential-of-its-jam-feature/"><u>Spotify's Hidden Gem: The Underutilized Potential of Its Jam Feature</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-installing-non-amazon-applications-on-your-fire-tv-and-fire-tv-stick/"><u>Step-by-Step Guide: Installing Non-Amazon Applications on Your Fire TV & Fire TV Stick</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-handbrake-dvd-ripper-failures-due-to-damaged-disk-areas/"><u>Troubleshooting Handbrake DVD Ripper Failures Due to Damaged Disk Areas</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-new-possibilities-connect-and-control-your-smartphone-via-windows-11s-start-menu/"><u>Unlock New Possibilities: Connect and Control Your Smartphone via Windows 11'S Start Menu</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-5-driving-and-race-replicas/"><u>[New] 2024 Approved Top 5 Driving & Race Replicas</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-from-snapchat-to-youtube-uploading-pics/"><u>[New] From Snapchat to YouTube Uploading Pics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/kyrocket-to-youtube-partner-status-with-10k-vistas-goal/"><u>[New] Skyrocket to YouTube Partner Status with 10K Vistas Goal</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-innovative-approaches-for-unwavering-viewership-within-limit/"><u>[Updated] In 2024, Innovative Approaches for Unwavering Viewership (Within Limit)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/airplay-server-tricks-transferring-iphone-content-to-your-mac-without-cost/"><u>AirPlay Server Tricks: Transferring iPhone Content to Your Mac Without Cost</u></a></li>
+<li><a href="https://media-tips.techidaily.com/dlna-ready-5kplayer-free-software-learn-about-its-capabilities-and-advantages-for-seamless-media-streaming/"><u>DLNA-Ready 5KPlayer Free Software - Learn About Its Capabilities & Advantages for Seamless Media Streaming</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-best-free-windows-compatible-upnp-dlna-streaming-servers-windows-10-8-7/"><u>Download Best FREE Windows Compatible UPnP DLNA Streaming Servers (Windows 10 / 8 / 7)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhance-your-xbox-one-viewing-experience-with-vlc-support-hevc-mkv-flac-playback-and-more/"><u>Enhance Your Xbox One Viewing Experience with VLC - Support HEVC, MKV, FLAC Playback & More</u></a></li>
+<li><a href="https://media-tips.techidaily.com/entschlusseln-sie-die-kunst-der-fehlerbehebung-bei-4k-videoabspielproblemen-auf-verschiedenen-plattformen-pcmacmobil/"><u>Entschlüsseln Sie Die Kunst Der Fehlerbehebung Bei 4K-Videoabspielproblemen Auf Verschiedenen Plattformen: PC/Mac/Mobil</u></a></li>
+<li><a href="https://media-tips.techidaily.com/fixing-media-player-classic-issues-on-windows-11-dvds-mkv-files-troubleshooting/"><u>Fixing Media Player Classic Issues on Windows 11 - DVDs, MKV Files Troubleshooting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/immersive-worlds-confrontation-metaverse-vs-omniverse-explored/"><u>Immersive Worlds Confrontation Metaverse Vs. Omniverse Explored</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-y17s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo Y17s without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-to-make-a-mark-with-your-gopro-studio-edits/"><u>In 2024, Innovative Techniques to Make a Mark with Your GoPro Studio Edits</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-s17-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo S17 Pro Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimize-oust-and-outperform-youtube-titles-that-dominate-for-2024/"><u>Optimize, Oust & Outperform YouTube Titles That Dominate for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-drone-buying-roadmap-pre-purchase-essentials-for-2024/"><u>The Ultimate Drone Buying Roadmap Pre-Purchase Essentials for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-funktionsreicher-kostenloser-mkv-player-auf-windows-nahtlose-wiedergabe-mit-einfachster-bedienung/"><u>Top Funktionsreicher Kostenloser MKV-Player Auf Windows - Nahtlose Wiedergabe Mit Einfachster Bedienung</u></a></li>
+<li><a href="https://media-tips.techidaily.com/troubleshooting-fixing-mp4-playback-issues-in-vlc-media-player-on-windows-and-mac-systems/"><u>Troubleshooting: Fixing MP4 Playback Issues in VLC Media Player on Windows & Mac Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-how-to-cast-your-iphone-display-on-tv-pc-or-mac/"><u>Ultimate Guide: How to Cast Your iPhone Display on TV, PC or Mac</u></a></li>
 </ul></div>
 

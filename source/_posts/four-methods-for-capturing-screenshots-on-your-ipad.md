@@ -1,7 +1,7 @@
 ---
 title: Four Methods for Capturing Screenshots on Your iPad
-date: 2024-10-15T19:51:09.480Z
-updated: 2024-10-18T02:10:05.913Z
+date: 2024-10-21T17:56:33.496Z
+updated: 2024-10-23T18:49:59.831Z
 tags:
   - airplay
 categories:
@@ -38,6 +38,13 @@ Now that you are in dire need of recording iPad screen, the below four ways will
 [3\. QuickTime – wired way](https://tools.techidaily.com/5kplayer/airplay/)  
 [4\. 5KPlayer – wireless way](https://tools.techidaily.com/5kplayer/airplay/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4 Ways to Screen Record iPad Contents
 
 #### **Method 1\. Using the Screen Recording Function Built in iPad**
@@ -47,21 +54,7 @@ iPad with iOS 11 or later and iPadOS has an embedded screen recorder that you ca
 **Step 1\. Add iPad screen recording function to Control Center**  
  Go to Settings > Control Center > Customizable Controls > tap the "plus" icon ![](https://www.5kplayer.com/airplay/img/plus-icon.jpg) next to Screen Recording to add it to Control Center > Go back to the UI of iPad
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Add Screen Recording to Control Center](https://www.5kplayer.com/airplay/img/add-screen-recording-to-control-center.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2\. Activate iPad screen recording**  
  1\. Swipe up from the bottom of any screen if you have an iOS 11 iPad, or swipe down from the upper-right corner of the screen if you have an iPad with iOS 12 or iPadOS.  
@@ -72,6 +65,13 @@ iPad with iOS 11 or later and iPadOS has an embedded screen recorder that you ca
 
 **Step 3\. Start recording iPad screen**  
  When the icon ![](https://www.5kplayer.com/airplay/img/record-icon-1.jpg) turns red, it means the recording starts. Now, do operations on your iPad and every action will be recorded.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4\. Stop iPad screen recording**  
  Open Control Center and tap ![](https://www.5kplayer.com/airplay/img/record-icon-2.jpg) to stop the recording. Alternatively, tap the red icon with a timer on the upper-right corner of your iPad screen and then a message will pop up to allow you to stop recording. Now, you can find the recording file in Photos and trim it.
@@ -106,10 +106,10 @@ By making use of QuickTime, you are able to record iPad screen without the need 
 ![Record iPad Screen via QuickTime](https://www.5kplayer.com/airplay/img/5k-screen-recorder-for-ipad-trl-031602.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Notice:** If you want to [trim a video](https://tools.techidaily.com/5kplayer/video-music-player/) to keep only the relevant part, you can hit Cmd+T before saving the video to realize that.
@@ -137,6 +137,13 @@ Like QuickTime Player, 5KPlayer is also a media player which supports iPad/[iPho
 
 ![Screen Record iOS via 5KPlayer](https://www.5kplayer.com/airplay/img/5kplayer-record-iphone-screen.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Cons of this way:**   
  \* Need installation.  
  \* Need WiFi.  
@@ -146,13 +153,6 @@ BTW, you can also edit your recorded video to keep the good and trim out the bad
 As an AirPlay-enabled 4K video player, 5KPlayer has improved its [AirPlay](https://tools.techidaily.com/5kplayer/airplay/) feature to help you stream contents from iPhone iPad to Mac/PC wirelessly, smoothly and with no quality loss. You can stream videos and music, [play iOS games](https://tools.techidaily.com/5kplayer/airplay/), and display photos, presentations, apps and files easily. Also, screen recording them in case needed.
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,24 +169,24 @@ As an AirPlay-enabled 4K video player, 5KPlayer has improved its [AirPlay](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-game-changers-discovering-top-tier-gaming-webcam-technology/"><u>[New] 2024 Approved Game Changers Discovering Top-Tier Gaming Webcam Technology</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-break-free-the-chuckles-ranking-20-hilarious-fb-detention-scenes-for-2024/"><u>[New] Break Free the Chuckles Ranking 20 Hilarious FB Detention Scenes for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-harmony-through-play-our-best-10-gems/"><u>[New] In 2024, Harmony Through Play Our Best 10 Gems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-infusing-personality-into-instagram-stories-with-unique-icons-for-2024/"><u>[New] Infusing Personality Into Instagram Stories with Unique Icons for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-go-digital-without-breaking-the-bank-top-20-cost-free-cloud-storage-services-1tbplus/"><u>[Updated] In 2024, Go Digital Without Breaking the Bank - Top 20 Cost-Free Cloud Storage Services (1TB+)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-guide-to-instagram-live-communication/"><u>[Updated] Step-by-Step Guide to Instagram Live Communication</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/budget-drone-buyers-guide-top-choices-under-100/"><u>Budget Drone Buyer's Guide Top Choices Under $100</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-svchostexe-causing-high-cpu-use-on-your-windows-11-pc/"><u>How to Fix svchost.exe Causing High CPU Use on Your Windows 11 PC</u></a></li>
-<li><a href="https://media-tips.techidaily.com/leveraging-artificial-intelligence-on-youtube-for-enhanced-video-viewing-experience/"><u>Leveraging Artificial Intelligence on YouTube for Enhanced Video Viewing Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leveraging-unwanted-scenes-for-creative-outcomes-for-2024/"><u>Leveraging Unwanted Scenes for Creative Outcomes for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maximize-entertainment-with-just-10-exclusive-offer-for-verizon-subscribers-stream-netflix-and-more/"><u>Maximize Entertainment with Just $10: Exclusive Offer for Verizon Subscribers - Stream Netflix & More!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maximize-your-gridiron-experience-with-these-5-key-streamers-for-the-entire-nfl-season/"><u>Maximize Your Gridiron Experience with These 5 Key Streamers for the Entire NFL Season</u></a></li>
-<li><a href="https://media-tips.techidaily.com/nfl-game-pass-subscribers-rejoice-youtube-tv-slashes-prices-by-50/"><u>NFL Game Pass Subscribers Rejoice: YouTube TV Slashes Prices by 50%!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/paramountplus-announces-regular-price-increases-what-subscribers-need-to-know/"><u>Paramount+ Announces Regular Price Increases: What Subscribers Need to Know</u></a></li>
-<li><a href="https://media-tips.techidaily.com/predicting-the-unknown-through-melodies-discover-your-future-on-spotifys-playlist-oracle/"><u>Predicting the Unknown Through Melodies: Discover Your Future on Spotify's Playlist Oracle</u></a></li>
-<li><a href="https://media-tips.techidaily.com/rising-subscription-fees-disneyplus-espnplus-and-hulu-announce-price-hike/"><u>Rising Subscription Fees: Disney+, ESPN+, & Hulu Announce Price Hike</u></a></li>
-<li><a href="https://media-tips.techidaily.com/roku-television-receives-significant-image-clarity-improvements-for-a-superior-display/"><u>Roku Television Receives Significant Image Clarity Improvements for a Superior Display</u></a></li>
-<li><a href="https://media-tips.techidaily.com/secure-a-250-discount-on-the-portable-marvel-xgimis-mogo/"><u>Secure a $250 Discount on the Portable Marvel: XGIMI's MoGo</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-nvidia-cp-non-saving-on-win11/"><u>Troubleshooting Nvidia CP Non-Saving on Win11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-digital-display-delights-top-plugins-and-apps-for-photo-frames-for-2024/"><u>[New] Digital Display Delights Top Plugins & Apps for Photo Frames for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-compre-written-in-html-a-journey-through-web-content-creation/"><u>[Updated] The Compre Written in HTML A Journey Through Web Content Creation</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-dlna-mobile-applications-how-to-seamlessly-stream-your-android-device-to-tv-mac-or-pc/"><u>Best DLNA Mobile Applications: How to Seamlessly Stream Your Android Device to TV, Mac or PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-latency-problems-in-counter-strike-global-offensive-with-simple-tricks/"><u>Bypassing Latency Problems in Counter-Strike: Global Offensive with Simple Tricks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-best-5-complimentary-music-player-programs-for-your-mac-system/"><u>Discover the Best 5 Complimentary Music Player Programs for Your Mac System</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-kmplayer-directly-without-bundled-software/"><u>Download KMPlayer Directly Without Bundled Software</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-the-best-no-cost-mp4-video-player-for-windows-10-pcs-here/"><u>Download the Best No-Cost MP4 Video Player for Windows 10 PCs Here!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-nubia-z50-ultra-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Nubia Z50 Ultra Pattern Lock Screen</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-downloads-best-software-for-opening-and-editing-asf-formats-windows-and-macos-support/"><u>Free Downloads: Best Software for Opening and Editing ASF Formats (Windows & macOS Support)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-motorola-g54-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Motorola G54 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-motorola-g24-power-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Motorola G24 Power</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-avi-files-essential-vlc-media-player-guide-on-playback-and-conversion/"><u>Mastering AVI Files: Essential VLC Media Player Guide on Playback & Conversion</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mpc-hc-blu-ray/"><u>MPC-HC Blu-Ray再生失敗時の専門的対策方法 - スムーズな視聴へ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808329954-seamless-windows-11-driver-update-process-get-started-now/"><u>Seamless Windows 11 Driver Update Process: Get Started Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-emptying-your-android-devices-cache/"><u>Step-by-Step Guide: Emptying Your Android Device's Cache</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streaming-tutorial-easily-cast-your-pc-screen-and-videos-over-airplay/"><u>Streaming Tutorial: Easily Cast Your PC Screen & Videos Over AirPlay</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-impressive-hdr-portraits-explained-for-2024/"><u>The Art of Impressive HDR Portraits Explained for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-iphone-models-ranked-by-gamer-performance-which-one-reigns-supreme/"><u>Top iPhone Models Ranked by Gamer Performance: Which One Reigns Supreme?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/troubleshooting-av1-format-issues-enable-support-on-your-windows-11mac/"><u>Troubleshooting AV1 Format Issues: Enable Support on Your Windows 11/Mac</u></a></li>
 </ul></div>
 

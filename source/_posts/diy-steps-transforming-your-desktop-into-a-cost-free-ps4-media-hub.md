@@ -1,7 +1,7 @@
 ---
 title: "DIY Steps: Transforming Your Desktop Into a Cost-Free PS4 Media Hub"
-date: 2024-10-10T16:05:29.190Z
-updated: 2024-10-17T19:55:15.818Z
+date: 2024-10-22T16:56:19.427Z
+updated: 2024-10-23T16:56:43.737Z
 tags:
   - dlna
 categories:
@@ -24,18 +24,18 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 
 Now that the PS4 media player has made it possible for a **PS4 media server** to connect to the game console to play MKV AVI MP4 videos, MP3 AAC music, or even photos. You may need to turn computer into a PS4 media server Windows 10 to share everything in the computer library to the bigger screen, now check to find out.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements: PS4 Meida Player + PS 4 Media Server Windows 10/Mac
 
 Whenever you need to stream computer to PS4, the PS4 media player needs to come into play: for classic PlayStation 4 models, the Media Player APP easily helps users stream whatever on a DLNA server to the target TV screen connected to the game console. While for PS4 Pro and PS4 VR models, the APP also receives videos, music & photos stored in a USB driver, on condition that the display supports up to 4K. 
 
 Now that you've launched the PS4 Media Player, and the last step to successfully stream PC to PS4 is a reliable PS4 Media Server Windows 10 or Mac. You may start to set up computer or Mac into a [DLNA server Windows 10](https://tools.techidaily.com/5kplayer/dlna/) using such software as Universal Media Server, or free 5KPlayer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why We Choose 5KPlayer to Set Up Computer As PS4 Media Server?
 
@@ -50,20 +50,14 @@ To set up a PS4 media server Windows 10 or Mac, you'll need to turn the computer
 
 [![](https://www.5kplayer.com/dlna/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/dlna/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Stream PC to PlayStation 4 Wirelessly?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Turn PC Into a PS4 Media Server
 
@@ -77,25 +71,18 @@ To set up a PS4 media server Windows 10 or Mac, you'll need to turn the computer
 
 ![DLNA server Windows 10](https://www.5kplayer.com/dlna/img/dlna-media-share.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Hit on the "DLNA + AirPlay" icon on the main UI of 5KPlayer, turn on "DLNA server", and now your computer is turned into an open PS4 media server which you can add media files to anytime you want.
 
 ![Turn on PS4 Media Server Windows 10](https://www.5kplayer.com/dlna/img/turn-on-dlna-server.jpg) 
 
 [![](https://www.5kplayer.com/dlna/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/dlna/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### PS4 Pro: Browse 4K UHD Videos on PS4 Media Server
 
@@ -108,6 +95,13 @@ This makes one of the [best HDR video players 2019](https://tools.techidaily.com
 Even if you have the PlayStation 4 VR headset, the PS camera and VR games are for sale separately. But using the virtual reality gadget to play VR videos from a PS4 media server sounds really nice if you have 5KPlayer, which can [download VR videos](https://tools.techidaily.com/5kplayer/youtube-download/) from the YouTube 360 channel, or directly play VR video files without hassle. Setting up & connect PC to PS4 VR is just like how to can do it with an ordinary PS4 model. But you're sure to be amazed by the virtual reality videos that aren't directly available in the game console. 
 
 ![PS4 VR Server](https://www.5kplayer.com/dlna/img/ps4-vr-media-server.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### FAQs About the PS4 Media Server
 
@@ -121,10 +115,10 @@ By the time you managed to make a computer a PS4 media server, it's not just the
 To be specific, you always need to connect PS4 to a TV screen to play games or watch videos movies. The PS4 itself doesn't turn into any forms of media servers, but it can read the media content when the set-up PS4 media server uses DLNA protocol. In that form, the only way to use PS4 as a media streamer is to make contents on a PS4 media server recognizable for the console.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### PS4 Pro: Browse 4K UHD Videos on PS4 Media Server
@@ -133,18 +127,18 @@ If you have the PS4 Pro at home, don't waste its lifelike HDR color performance 
 
 This makes one of the [best HDR video players 2019](https://tools.techidaily.com/5kplayer/video-music-player/) – 5KPlayer to be an ideal choice that turns computer into a PS4 media server for PS4 pro. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### PS VR: Play 4K VR Content on TV from 5KPlayer
 
 Even if you have the PlayStation 4 VR headset, the PS camera and VR games are for sale separately. But using the virtual reality gadget to play VR videos from a PS4 media server sounds really nice if you have 5KPlayer, which can [download VR videos](https://tools.techidaily.com/5kplayer/youtube-download/) from the YouTube 360 channel, or directly play VR video files without hassle. Setting up & connect PC to PS4 VR is just like how to can do it with an ordinary PS4 model. But you're sure to be amazed by the virtual reality videos that aren't directly available in the game console. 
 
 ![PS4 VR Server](https://www.5kplayer.com/dlna/img/ps4-vr-media-server.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### FAQs About the PS4 Media Server
 
@@ -172,21 +166,19 @@ To be specific, you always need to connect PS4 to a TV screen to play games or w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-video-flexibility-unleashed-5-powerful-online-methods-to-edit-videos-on-vimeo-for-2024/"><u>[New] Video Flexibility Unleashed 5 Powerful Online Methods to Edit Videos on Vimeo for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-pros-picks-best-microphones-for-asmr-recording/"><u>[Updated] 2024 Approved Pros' Picks Best Microphones for ASMR Recording</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/cinema-grade-camera-lineup-the-1-to-18-selections-for-2024/"><u>Cinema-Grade Camera Lineup - The #1 to #18 Selections for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enjoy-unlimited-access-to-youtube-on-your-tv-screen-for-zero-dollars-step-by-step-instructions/"><u>Enjoy Unlimited Access to YouTube on Your TV Screen for Zero Dollars: Step-by-Step Instructions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exploring-the-realm-of-3d-vr-top-5-key-points-for-beginners-to-know/"><u>Exploring the Realm of 3D VR: Top 5 Key Points for Beginners to Know!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-fix-your-apple-tvs-issues-with-hbo-go-a-comprehensive-guide/"><u>How to Fix Your Apple TV's Issues with HBO Go: A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-upgrade-your-vlc-media-player-step-by-step-tutorial-on-getting-the-newest-release/"><u>How to Upgrade Your VLC Media Player: Step-by-Step Tutorial on Getting the Newest Release</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-8-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 8 to Samsung | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-fullscape-synergy-the-smart-mcn-picking-game/"><u>In 2024, FullScape Synergy The Smart MCN Picking Game</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722958831655-latest-hp-deskjet-3630-printer-software-compatible-with-windows-11-download-here/"><u>Latest HP Deskjet 3630 Printer Software Compatible with Windows 11 - Download Here</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/playing-us-games-on-a-pal-region-player-a-comprehensive-guide/"><u>Playing US Games on a PAL Region Player: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/seamless-username-switching-in-google-meet-settings/"><u>Seamless Username Switching in Google Meet Settings</u></a></li>
-<li><a href="https://media-tips.techidaily.com/solving-vlc-dvd-player-issues-on-windows-11-and-macos-a-comprehensive-guide/"><u>Solving VLC DVD Player Issues on Windows 11 & MacOS: A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-7-free-dvd-players-for-windows-11-no-cost-downloads-available/"><u>Top 7 FREE DVD Players for Windows 11 – No Cost Downloads Available</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-ipad-screen-recording-software-quality-tips-and-reviews/"><u>Ultimate Guide to Choosing the Perfect iPad Screen Recording Software: Quality Tips & Reviews</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-20-popular-tiktok-rap-songs-you-probably-have-listened-to-for-2024/"><u>[Updated] 20 Popular TikTok Rap Songs You Probably Have Listened To for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-tips-for-xbox-live-streaming-setup-for-2024/"><u>[Updated] Essential Tips for Xbox Live Streaming Setup for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-quality-overload-top-10-hd-video-apps-for-your-android/"><u>[Updated] Quality Overload Top 10 HD Video Apps for Your Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlined-accessibility-learning-iphoneipad-techniques-for-podcast-downloads/"><u>2024 Approved Streamlined Accessibility Learning iPhone/iPad Techniques for Podcast Downloads</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-audio-enhancement-tools-of-2024-comparative-review-and-feature-analysis/"><u>Best Audio Enhancement Tools of 2024: Comparative Review & Feature Analysis</u></a></li>
+<li><a href="https://media-tips.techidaily.com/high-quality-techniques-the-leading-three-ways-to-transform-midi-into-exquisite-mp3-format/"><u>High-Quality Techniques: The Leading Three Ways to Transform MIDI Into Exquisite MP3 Format</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi 14 Pro Bootloader Easily</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-c55-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco C55 Phones with/without a PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-smart-spending-on-action-cams-find-your-bargains-under-100/"><u>In 2024, Smart Spending on ACTION Cams Find Your Bargains Under $100</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp3-to-ogg-conversion-mastered-a-visual-walkthrough-for-perfect-audio-file-transformation/"><u>MP3-to-OGG Conversion Mastered: A Visual Walkthrough for Perfect Audio File Transformation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/non-functional-keyboard-lights-on-asus-model/"><u>Non-Functional Keyboard Lights on ASUS Model</u></a></li>
+<li><a href="https://media-tips.techidaily.com/online-and-offline-guide-transforming-flv-into-mp3-audio-files-effortlessly/"><u>Online & Offline Guide: Transforming FLV Into MP3 Audio Files Effortlessly</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/the-ultimate-guide-to-new-technology-by-toms-hardware-experts/"><u>The Ultimate Guide to New Technology by Tom's Hardware Experts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-audio-converter-tools-compatible-with-windows-11-8-and-7-mp3-wma-flac-wav-aiff/"><u>Top-Rated Audio Converter Tools Compatible with Windows 11, 8 & 7: MP3, WMA, FLAC, WAV, AIFF</u></a></li>
 </ul></div>
 

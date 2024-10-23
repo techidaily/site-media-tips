@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to the AV1 Video Codec: Insights and Information"
-date: 2024-10-11T00:53:06.135Z
-updated: 2024-10-17T16:19:18.499Z
+date: 2024-10-17T18:57:26.343Z
+updated: 2024-10-23T18:24:34.085Z
 tags:
   - video-music-player
 categories:
@@ -34,10 +34,10 @@ Con las noticias sobre el **códec AV1** aparecidas a principios de 2023, puede 
 [5\. ¿Cómo descargar el códec de vídeo AV1?](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ¿Qué es el códec AV1?
@@ -49,13 +49,6 @@ El códec de vídeo AV1, basado en el códec VP9 y VP10 de Google, es un formato
 **AOMedia - El padre del códec de vídeo AV1**
 
 AV1 es el producto de AOMedia (Alliance for Open Media) que está formada por empresas de semiconductores, proveedores de vídeo a la carta, productores de contenidos de vídeo, empresas de desarrollo de software y proveedores de navegadores web, con Google, Mozilla, Cisco, Microsoft, Netflix, Amazon e Intel como los siete miembros fundadores. Para diseñar un formato de vídeo que pueda ayudar a producir con rapidez vídeos web de alta definición de forma gratuita, se propuso el concepto de códec AV1 por primera vez en 2015 por estos siete gigantes de la tecnología y, finalmente, la especificación 1.0 para AV1 salió en 2018\. Viendo el gran beneficio del AV1, hoy en día más y más compañías de renombre, incluidas Apple, YouTube y Facebook, se han unido a AOM para ayudar a acelerar la propagación del AV1 y el reemplazo final de la HEVC de alto costo.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ¿Por qué se necesita urgentemente el AV1? \[Explicaciones detalladas\]
 
@@ -93,6 +86,13 @@ El AV1 puede ahorrar hasta un 30%\~50% de ancho de banda para la misma calidad d
 
 _(Prueba de AV1 vs. HEVC de Bitmovin)_
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adopción del AV1 - ¿Qué soporta el códec de vídeo AV1 ahora?
 
 La adopción del códec AV1 es diversa, lo que incluye servicios de streaming online, navegadores, codificadores, decodificadores, sistema operativo, reproductores multimedia, etc. 
@@ -109,16 +109,16 @@ La adopción del códec AV1 es diversa, lo que incluye servicios de streaming on
 
 **Reproductores multimedia:** El reproductor multimedia de código abierto VLC Media Player y [5KPlayer](https://tools.techidaily.com/5kplayer/products/) son los únicos dos programas de reproducción que soportan AV1 en la actualidad.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Las desventajas del códec AV1
 
 La obvia deficiencia del códec de vídeo AV1 que encontramos a partir de ahora es que los algoritmos utilizados en AV1 son un poco más avanzados que los del HEVC, por lo que requiere un hardware y un software más potente para codificar o decodificar. Es por eso que ocurre el problema de que el AV1 no se reproduce, por eso YouTube advierte a sus usuarios con un mensaje de error como "todo los que supere los 480p requerirá un ordenador potente", y por eso el formato de vídeo AV1 no es popular entre el público en la actualidad. No importa, el AV1 será una superestrella al final con un futuro brillante.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### El futuro del códec de vídeo AV1
 
@@ -133,10 +133,10 @@ En la última versión, 5KPlayer añade soporte para la decodificación de víde
 ![5KPlayer Plays AV1](https://www.5kplayer.com/video-music-player-es/../video-music-player/img/play-av1-video.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _(5KPlayer reproduce video AV1 en 4K)_
@@ -167,21 +167,24 @@ _**Fuente:**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-imaginary-giggles-generate-with-kapwings-maker/"><u>[New] Imaginary Giggles Generate with Kapwing's Maker</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-efficiently-add-your-own-look-to-youtube-shorts-via-simple-steps/"><u>[New] In 2024, Efficiently Add Your Own Look to YouTube Shorts via Simple Steps</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-dance-revolution-tiktok-routines-on-a-mac-platform/"><u>[Updated] 2024 Approved Dance Revolution TikTok Routines on a Mac Platform</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sci-fis-virtual-frontiers-top-10-metaverse-escapes/"><u>2024 Approved Sci-Fi's Virtual Frontiers Top 10 Metaverse Escapes</u></a></li>
-<li><a href="https://facebook.techidaily.com/breaking-down-why-facebook-changed-its-user-interface-terminology/"><u>Breaking Down Why Facebook Changed Its User Interface Terminology</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fubotv-discontinues-19-major-discovery-networks-what-you-need-to-know/"><u>FuboTV Discontinues 19 Major Discovery Networks: What You Need to Know</u></a></li>
-<li><a href="https://media-tips.techidaily.com/future-of-smart-viewing-samsung-excludes-google-voice-control-from-upcoming-televisions/"><u>Future of Smart Viewing: Samsung Excludes Google Voice Control From Upcoming Televisions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/get-free-disneyplus-hulu-and-espn-with-verizons-complimentary-bundle-offer/"><u>Get Free Disney+, Hulu & ESPN with Verizon's Complimentary Bundle Offer</u></a></li>
-<li><a href="https://media-tips.techidaily.com/huge-black-friday-sale-save-30-on-rokus-top-rated-4k-streaming-box/"><u>Huge Black Friday Sale: Save $30 on Roku's Top-Rated 4K Streaming Box</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-real-time-screen-aspects-management-guide/"><u>In 2024, Real-Time Screen Aspects Management Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-rising-stars-top-10-gamers-on-tiktok/"><u>In 2024, The Rising Stars Top 10 Gamers on TikTok</u></a></li>
-<li><a href="https://media-tips.techidaily.com/introducing-the-latest-4-tuner-tablo-digital-video-recorder-for-enhanced-viewing-experience/"><u>Introducing the Latest 4-Tuner Tablo Digital Video Recorder for Enhanced Viewing Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-group-listening-a-guide-to-sharing-and-creating-playlists-on-apple-music/"><u>Mastering Group Listening: A Guide to Sharing and Creating Playlists on Apple Music</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maximizing-value-top-5-strategies-to-extract-full-benefits-from-peacock-ownership/"><u>Maximizing Value: Top 5 Strategies to Extract Full Benefits From Peacock Ownership</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-nokia-c12-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nokia C12</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ispring-screen-recorder-review/"><u>[Updated] 2024 Approved ISpring Screen Recorder Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterclass-in-monochrome-magic-a-professionals-guide/"><u>[Updated] Masterclass in Monochrome Magic A Professional's Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-troubleshooting-guide-how-to-fix-youtube-issues-on-your-apple-tv-device/"><u>1. Troubleshooting Guide: How To Fix YouTube Issues On Your Apple TV Device</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-dlna-compatible-streaming-applications-for-iphone-users-top-5-picks/"><u>Best DLNA-Compatible Streaming Applications for iPhone Users: Top 5 Picks</u></a></li>
+<li><a href="https://facebook.techidaily.com/checking-the-legitimacy-of-fbs-safety-mail-address-securityfbcom/"><u>Checking the Legitimacy of FB's Safety Mail Address: security@fb.com</u></a></li>
+<li><a href="https://media-tips.techidaily.com/divide-your-videos-effortlessly-mastering-the-art-with-5kplayers-top-tier-solution/"><u>Divide Your Videos Effortlessly - Mastering the Art with 5KPlayer's Top-Tier Solution</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-guide-installing-and-using-windows-11s-built-in-dvd-player-software-with-tips/"><u>Free Guide: Installing & Using Windows 11'S Built-In DVD Player Software with Tips</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-share-your-media-library-on-tv-using-vlcs-dlna-support/"><u>How to Share Your Media Library on TV Using VLC's DLNA Support</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-exploring-the-economic-value-of-a-million-youtube-followers/"><u>In 2024, Exploring the Economic Value of a Million YouTube Followers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/include-direct-quotations-from-imaginary-judges-and-lawyers-defending-their-positions-on-the-ownership-of-the-technology/"><u>Include Direct Quotations From Imaginary Judges and Lawyers Defending Their Positions on the Ownership of the Technology.</u></a></li>
+<li><a href="https://media-tips.techidaily.com/operation-1-generate-a-mock-trial-scenario-where-the-urine-test-for-prostate-cancer-is-being-challenged-in-court-over-intellectual-property-rights-between-s6/"><u>Operation 1 - Generate a Mock Trial Scenario Where the Urine Test for Prostate Cancer Is Being Challenged in Court over Intellectual Property Rights Between Stanford University and SLAC National Accelerator Laboratory. Ensure That:</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-destiny-srevz-nt-aevalebe-1ssuz-the-ultimate-troubleshooting-guide/"><u>Resolve Destiny ˈsɪrəvz Nɑt ˌævaɪləbəɫ 1Ssuːz: The Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-a-colossal-lg-ultragear-wqhd-curved-monitor-39-steal-it-at-amazon-for-only-999/"><u>Snag a Colossal LG Ultragear WQHD Curved Monitor (39) - Steal It at Amazon for Only $999</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-enigmatic-functionality-of-the-blue-indicator-in-fb-messaging-for-2024/"><u>The Enigmatic Functionality of the Blue Indicator in FB Messaging for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-30-metaverse-memes-crafting-hilarious-digital-delights/"><u>Top 30 Metaverse Memes Crafting Hilarious Digital Delights</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-trusted-free-dvr-software-solutions-compatible-with-windows-10-and-macos/"><u>Top 5 Trusted Free DVR Software Solutions Compatible with Windows 10 & macOS</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-successfully-watching-wmv-files-on-your-mac-catalina-and-big-sur-supported/"><u>Ultimate Guide: Successfully Watching WMV Files on Your Mac - Catalina & Big Sur Supported!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-x-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone X</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/m4vmp3/"><u>ハイクオリティ M4V音楽ファイルをMP3に変換し、劣化無し！</u></a></li>
 </ul></div>
 
