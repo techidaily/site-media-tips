@@ -1,7 +1,7 @@
 ---
 title: "Story 1: The Misconception of Radiation-Only Therapy"
-date: 2024-10-16T16:38:09.884Z
-updated: 2024-10-18T00:11:31.462Z
+date: 2024-10-27T16:14:01.805Z
+updated: 2024-10-29T16:04:35.499Z
 tags:
   - vlc
 categories:
@@ -65,6 +65,13 @@ Note that video output was set "Automatic", and it auto choosed Direct3D9\.
 
 ![VLC 8K Video Playback Test](https://www.5kplayer.com/vlc/img/vlc-8k.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **KMplayer 2018.10.7.14 for Windows** \- 8K video playback quality and CPU usage **\[#1\]**
 
 ![VLC 8K Video Playback Test](https://www.5kplayer.com/vlc/img/km-8k.jpg) 
@@ -74,10 +81,10 @@ Note that video output was set "Automatic", and it auto choosed Direct3D9\.
 ![VLC 8K Video Playback Test](https://www.5kplayer.com/vlc/img/pot-8k.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### **GOMplayer 2.3.34.5295 for Windows** \- 8K video playback quality and CPU usage **\[#3\]**
@@ -99,21 +106,22 @@ VLC media player was going choppy at first, but given time, it gradually fell in
 
 ![VLC 4K Video Playback Test](https://www.5kplayer.com/vlc/img/vlc-4k.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **KMplayer 2018.10.7.14 for Windows** \- 4K HDR video playback quality and CPU usage **\[#2\]**
 
 ![Windows VLC Alternative 4K Playback](https://www.5kplayer.com/vlc/img/km-4k.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### **PotPlayer 1.7.14804 for Windows** \- 4K HDR video playback quality and CPU usage **\[#1\]**
@@ -124,22 +132,8 @@ VLC media player was going choppy at first, but given time, it gradually fell in
 
 ![Windows VLC Alternative 4K Playback](https://www.5kplayer.com/vlc/img/gom-4k.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Verdict:**  
  GOMplayer secretely jumps frames and is slow at starting, but even so, it is still more capable of processing 4K HDR video than VLC in terms of video output quality. PotPlayer delivers constant and relatively smooth visuals as it is with KMplayer, only that PotPlayer takes a higher CPU usage of about 86% while KMPlayer's control bar stays unmoved. The best 4K HDR video player goes to both **KMPlayer** and **Potplayer** in this round. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: VLC Alternatives for Windows SlowMo Playback Test
 
@@ -148,6 +142,13 @@ VLC media player was going choppy at first, but given time, it gradually fell in
 The CPU usage of VLC as well as of all the other players are alarmingly high throughout this tests, and the visuals varies and are not as good as expected. VLC in particular stuck at the first frame and you could only see the playback bar moving without changing to the corresponding frames. 
 
 ![VLC Slowmotion Video Playback Test](https://www.5kplayer.com/vlc/img/vlc-slmo.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **KMplayer 2018.10.7.14 for Windows** \- Slowmo video playback quality and CPU usage **\[#1\]**
 
@@ -166,16 +167,10 @@ VLC media player was going choppy at first, but given time, it gradually fell in
 ![Windows VLC Alternative Slowmotion Playback](https://www.5kplayer.com/vlc/img/gom-slmo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Verdict:**  
@@ -205,21 +200,14 @@ There are even more 360-deg video modes in PotPlayer, as we can see from the giv
 
 ![Windows VLC Alternative 360 Video Playback](https://www.5kplayer.com/vlc/img/gom-360.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Verdict**:  
  GOMplayer delivers flexible and quick 360-deg video interactive response between mouse clicks and the view angle, it also provides a tank of 360-deg videos from online for direct playback with relatively better visuals. GOM is like a 360-deg themed video player, while Potplayer and KMplayer only offers the ability to read those files in serveral modes. VLC is the poorest player to handle 360-deg videos.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Another VLC Player Alternative Windows - 5KPlayer
@@ -227,13 +215,6 @@ There are even more 360-deg video modes in PotPlayer, as we can see from the giv
 Another VLC alternative for Windows would be [5KPlayer](https://tools.techidaily.com/5kplayer/products/). This media player is a more elegant version of VLC which provides AirPlay mirroring recording, DLNA streaming, YouTube download, live streaming, as well as 4K HEVC video playback utilities. You can not only use it to play common videos audio in MOV MP4 MPEG ASF DivX FLV and MP3 WAV AAC etc, but also open CDs and DVDs. Even better, this Windows VLC player alternative allows you to adjust movies and extract audio from a video. 
 
 ![VLC Player Alternative Windows](https://www.5kplayer.com/vlc/../video-music-player/img/5kplayer-ver-dlna.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 All in all, for 4K/8K 8-bit video(gopro/drone/YouTube downloads,etc), go for KMPlayer > PotPlayer > GOMPlayer.  
 For 360-deg VR video, go for PotPlayer = GOMPlayer = KMPlayer.   
@@ -243,6 +224,13 @@ To make story shorter and be even more helpful:
 Install 5KPlayer, KMPlayer, PotPlayer, GOMPlayer, besides VLC. And it is prooved that VLC does not deserve its "BEST" title for Windows PC in terms of the above tested video playback.
 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -259,17 +247,22 @@ Install 5KPlayer, KMPlayer, PotPlayer, GOMPlayer, besides VLC. And it is prooved
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-youtube-videos-without-spending-a-penny-the-best-tools/"><u>[New] In 2024, Elevate Your YouTube Videos Without Spending a Penny - The Best Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-harnessing-the-power-of-zooms-video-features-on-youtube-platform/"><u>[New] In 2024, Harnessing the Power of Zoom's Video Features on YouTube Platform</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-luminous-upgrades-5-must-try-online-video-tools/"><u>[New] In 2024, Luminous Upgrades 5 Must-Try Online Video Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/s-youtubes-monetization-routine/"><u>[New] Is YouTube’s Monetization Routine?</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-tier-laptops-and-pcs-for-ultimate-comfort/"><u>[Updated] Top-Tier Laptops & PCs for Ultimate Comfort</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-elite-mac-audio-enhanced-screen-recorder/"><u>2024 Approved Elite Mac Audio-Enhanced Screen Recorder</u></a></li>
-<li><a href="https://media-tips.techidaily.com/anleitung-zur-umwandlung-eines-windows-10-pcs-in-einen-dlna-kompatiblen-medienserver/"><u>Anleitung Zur Umwandlung Eines Windows 10 PCs in Einen DLNA-Kompatiblen Medienserver</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-alternative-media-players-for-windows-in-2019-a-comprehensive-guide/"><u>Best Alternative Media Players for Windows in 2019: A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/download-free-dvd-player-software-easy-tutorials-and-setup-for-windows-and-mac-os/"><u>Download Free DVD Player Software: Easy Tutorials & Setup for Windows and Mac OS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/japan-introduces-new-fun-learning-hub-youngsters-master-building-computers-at-real-hardware-playground/"><u>Japan Introduces New Fun Learning Hub: Youngsters Master Building Computers at 'Real Hardware Playground'</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-free-3gp-media-player-compatible-with-macos-monterey-windows-11-and-earlier-versions/"><u>Top-Rated Free 3GP Media Player: Compatible with macOS Monterey, Windows 11, and Earlier Versions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-innovative-recording-solutions-for-dynamic-ppts-webcam-edition/"><u>[New] 2024 Approved Innovative Recording Solutions for Dynamic PPTs, Webcam Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-techniques-for-iphones-in-virtual-space/"><u>[Updated] Comprehensive Techniques for iPhones in Virtual Space</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-insiders-guide-to-recording-slideshows/"><u>[Updated] The Insider's Guide to Recording Slideshows</u></a></li>
+<li><a href="https://media-tips.techidaily.com/44cm5pya5paw44ow44or44o844os44kk44oh44kj44k544kv44ks5bplusr6ygp44gr5qw944gx44ka44gf44kb44gu44ox44os44kk44ok44o844ob44ol44o844oi44oq44ki44or44cn/"><u>「最新ブルーレイディスクを快適に楽しむためのプレイヤーチュートリアル」</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-dissecting-sharex-opinions-and-picks/"><u>2024 Approved Dissecting ShareX Opinions & Picks</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/bypassing-the-bitlocker-security-hurdle-with-these-2-strategies-in-windows-11/"><u>Bypassing the BitLocker Security Hurdle with These 2 Strategies in Windows 11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-no-cost-mkv-encoder-and-decoder-app-for-windows-11macos-systems/"><u>Download No-Cost MKV Encoder & Decoder App for Windows 11/MacOS Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lgs-cinematic-revolution-the-31mu97-b-monitor-breakdown-review/"><u>LG’s Cinematic Revolution The 31MU97-B Monitor Breakdown Review</u></a></li>
+<li><a href="https://media-tips.techidaily.com/live-action-gaming-battles-online-watch-league-of-legends-fortnite-and-overwatch-races/"><u>Live Action Gaming Battles Online - Watch League of Legends, Fortnite, and Overwatch Races!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maximizing-visual-quality-enable-ultra-hd-4k-and-hdr-streams-on-your-window-10-pc/"><u>Maximizing Visual Quality: Enable Ultra HD 4K and HDR Streams on Your Window 10 PC</u></a></li>
+<li><a href="https://media-tips.techidaily.com/no-hacks-required-a-comprehensive-tutorial-on-iphone-screen-recording/"><u>No Hacks Required: A Comprehensive Tutorial on iPhone Screen Recording</u></a></li>
+<li><a href="https://media-tips.techidaily.com/official-nba-championship-finals-of-202n3-watch-now-for-no-cost/"><u>Official NBA Championship Finals of 202N3: Watch Now for No Cost</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/reflection-photography-tips-for-iphone-for-2024/"><u>Reflection Photography Tips for iPhone for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/solving-vlcs-360-degree-video-playback-issues-a-step-by-step-guide/"><u>Solving VLC's 360 Degree Video Playback Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-trending-twitch-channel-urls-access-the-latest-in-live-game-broadcasts/"><u>Top Trending Twitch Channel URLs: Access the Latest in Live Game Broadcasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/travel-ready-nuphy-air60-v2-mechanical-keyboard-evaluation-portable-and-durable-performance/"><u>Travel-Ready Nuphy Air60 V2 Mechanical Keyboard Evaluation – Portable and Durable Performance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/tricks-of-the-trade-saving-slides-in-high-definition-for-2024/"><u>Tricks of the Trade Saving Slides in High Definition for 2024</u></a></li>
 </ul></div>
 

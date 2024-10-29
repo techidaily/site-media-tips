@@ -1,7 +1,7 @@
 ---
 title: "Fixing the VLC-AirPlay Glitch: Effective Strategies for Uninterrupted Streaming"
-date: 2024-10-17T16:45:32.172Z
-updated: 2024-10-23T19:14:38.326Z
+date: 2024-10-22T16:20:13.454Z
+updated: 2024-10-29T16:19:19.893Z
 tags:
   - vlc
 categories:
@@ -32,37 +32,16 @@ The problem can highly lie in Windows 10 update build 1803, which has managed to
 
 ![VLC 4 AirPlay Not Showing](https://www.5kplayer.com/vlc/img/vlc-airplay-not-working.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Solutions:**  
 1\. Install Bonjour Print Service for Windows from Apple website instead of Bonjour 2.2;  
 2\. Install VLC to "C:xxx" or any other folders, instead of under "C:\\program files\\xxx" and create firewall exceptions for VLC.   
 3\. Also, VLC AirPlay not loading issue can also be resulted from WiFi routers, which can block multicast packets going from wired to wireless if your PC is at wired connection. In this case, your best defense is to buy high-quality APs from companies that care about making sure multicasts work.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VLC AirPlay not working issue 2: Apple TV No Sound AirPlay from VLC 4
 
 VLC AirPlay no sound on Apple TV issue can be, case 1, "volume still plays on the computer itself and does not transfer to the TV when watching a video"; case 2, Apple TV no sound at all during AirPlay. Make sure that sound level is set to the highest before you rush to preference settings.
 
 ![VLC 4 AirPlay No Sound Apple TV](https://www.5kplayer.com/vlc/img/Apple-TV-Audio-16bit.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 For the first case, you might want to reset your core audio. On Mac, launch the terminal and enter the command: sudo killall coreaudiod and press Enter; on Windows and Apple TV, reboot your devices to restart audio drive.
 
@@ -72,11 +51,31 @@ For the second case, it can be a problem with Apple TV audio output setting.
 1\. Go to Settings > Audio & Video on your Apple TV > Change the Audio Output setting from Auto to 16 bit  
 2\. Change Dolby Digital Out setting: set to Off.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## VLC AirPlay not working issue 3: Apple TV Sound but No Picture AirPlay from VLC 4
 
 VLC AirPlay not showing video on TV renderer. "Playing a movie through Itunes; it works great. Playing a movie through Beamer; it works great. Using VLC Airplay; all I get is sound and no video." 
 
 ![VLC 4 AirPlay Not Working No Video](https://www.5kplayer.com/vlc/../airplay/img/airplay-pc-to-apple-tv-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Solutions:**   
  Check AirPlay status on the Apple TV. Turn it off and on.  
@@ -100,13 +99,26 @@ If necessary, you may want to
 ![VLC AirPlay Not Working Alternative Player](https://www.5kplayer.com/vlc/../dlna/img/dlna-mac-to-tv.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,22 +135,24 @@ If necessary, you may want to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-roundup-high-quality-zero-price-livestream-software-list/"><u>[New] Exclusive Roundup High-Quality, Zero-Price LiveStream Software List</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-enhancing-your-mac-installation-manual-for-sierra-version/"><u>[Updated] In 2024, Enhancing Your Mac Installation Manual for Sierra Version</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-iphone-images-in-dim-light/"><u>[Updated] Perfecting iPhone Images in Dim Light</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-zoom-brilliance-a-blueprint-for-immaculate-edges/"><u>[Updated] Zoom Brilliance A Blueprint for Immaculate Edges</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-update-your-canon-dr-c225-printer-drivers-for-windows-windows-11108/"><u>Find and Update Your Canon DR-C225 Printer Drivers for Windows (Windows 11/10/8)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y100-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y100 Without PUK Codes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-video-conferencing-zooming-towards-youtube-streaming-excellence/"><u>Mastering Video Conferencing Zooming Towards YouTube Streaming Excellence</u></a></li>
-<li><a href="https://media-tips.techidaily.com/perfectly-sized-gifs-tips-and-techniques-for-enlarging-or-reducing-while-keeping-the-original-definition-intact/"><u>Perfectly Sized GIFs: Tips and Techniques for Enlarging or Reducing While Keeping the Original Definition Intact</u></a></li>
-<li><a href="https://media-tips.techidaily.com/revamp-your-animated-gifs-ultimate-cropping-solutions-for-both-web-and-desktop-applications/"><u>Revamp Your Animated GIFs: Ultimate Cropping Solutions for Both Web & Desktop Applications</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamless-conversion-of-mov-files-to-gif-discover-3-exceptional-methods-for-preserving-quality/"><u>Seamless Conversion of MOV Files to GIF: Discover 3 Exceptional Methods for Preserving Quality</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-poco-m6-pro-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Poco M6 Pro 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-pick-of-the-top-10-tools-for-creating-gifs-from-your-screen/"><u>The Ultimate Pick of the Top 10 Tools for Creating GIFs From Your Screen</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-10-gif-generators-ranked-discover-the-best-applications-for-making-engaging-animated-images/"><u>Top 10 GIF Generators Ranked: Discover the Best Applications for Making Engaging Animated Images</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-leading-tools-for-crafting-stunning-stereoscopy-gifs/"><u>Top 5 Leading Tools for Crafting Stunning Stereoscopy GIFs</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-videos-and-photos-into-engaging-gifs-using-adobe-software-solutions/"><u>Transform Videos and Photos Into Engaging GIFs Using Adobe Software Solutions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/understanding-the-acronym-gif-its-meaning-and-usage-on-facebook/"><u>Understanding the Acronym 'GIF': Its Meaning and Usage on Facebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style/"><u>[New] 2024 Approved Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-much-do-you-earn-when-a-million-watch-youtube/"><u>[New] How Much Do You Earn When a Million Watch Youtube?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-counter-facebooks-instantaneous-deletion-of-videos/"><u>[Updated] How to Counter Facebook's Instantaneous Deletion of Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/a-closer-look-at-youtubes-improved-video-quality-through-enhanced-bitrates/"><u>A Closer Look at YouTube's Improved Video Quality Through Enhanced Bitrates</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-hot-40-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Hot 40 FRP Bypass Instantly</u></a></li>
+<li><a href="https://media-tips.techidaily.com/all-in-one-entertainment-on-demand-dive-into-siriusxms-comprehensive-mix-of-riveting-sports-coverage-and-top-hits-music/"><u>All-in-One Entertainment on Demand: Dive Into SiriusXM's Comprehensive Mix of Riveting Sports Coverage and Top Hits Music!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/amazon-prime-day-special-assemble-and-enjoy-an-optimized-plex-media-server-at-unbeatable-prices/"><u>Amazon Prime Day Special: Assemble & Enjoy an Optimized Plex Media Server at Unbeatable Prices</u></a></li>
+<li><a href="https://media-tips.techidaily.com/beyond-boredom-discover-the-incredible-features-that-make-this-app-surpass-spotify-wrapped/"><u>Beyond Boredom: Discover the Incredible Features That Make This App Surpass Spotify Wrapped</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-and-student-essays-are-they-competing-titles-now/"><u>GPT and Student Essays: Are They Competing Titles Now?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-maximizing-clicks-ultimate-youtube-banner-guidebook/"><u>In 2024, Maximizing Clicks Ultimate YouTube Banner Guidebook</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-seamlessly-integrate-into-others-tiktok-livestreams/"><u>In 2024, Seamlessly Integrate Into Others’ TikTok Livestreams</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Phone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-opus-files-and-methods-for-easy-opening-instructions/"><u>Understanding OPUS Files & Methods for Easy Opening Instructions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unify-window-border-stability/"><u>Unify Window Border Stability</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unleashing-powerful-enhancements-with-this-supercharged-spotify-client-hack-a-must-try/"><u>Unleashing Powerful Enhancements with This Supercharged Spotify Client Hack - A Must-Try!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-the-full-potential-of-google-tv-by-learning-how-to-sideload-external-apps/"><u>Unlock the Full Potential of Google TV by Learning How to Sideload External Apps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-hidden-gems-discover-how-to-enjoy-every-penny-spent-on-disneyplus/"><u>Unlocking Hidden Gems: Discover How to Enjoy Every Penny Spent on Disney+</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-revolutionize-your-video-workflow-6-adobe-premiere-productivity-hacks-for-2024/"><u>Updated Revolutionize Your Video Workflow 6 Adobe Premiere Productivity Hacks for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/watch-more-share-more-disney-enhances-hulu-for-bigger-group-experiences/"><u>Watch More, Share More: Disney Enhances Hulu for Bigger Group Experiences!</u></a></li>
 </ul></div>
 

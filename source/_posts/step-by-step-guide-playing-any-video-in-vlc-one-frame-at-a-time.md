@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Playing Any Video in VLC One Frame at a Time"
-date: 2024-10-21T21:01:47.430Z
-updated: 2024-10-23T19:34:59.070Z
+date: 2024-10-25T16:07:15.668Z
+updated: 2024-10-29T16:11:28.540Z
 tags:
   - vlc
 categories:
@@ -26,6 +26,19 @@ When you are watching some fast speed videos like the extreme sport videos, you 
 
 BTW, VLC media player doesn’t support frame by frame backwards as of now, so this guide will teach you how to play forward one frame at a time with VLC, and play videos backwards by frame with some other tool.
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to View Video Frame by Frame in VLC on Mac/PC?
 
 There are two main ways to go through videos frame by frame in VLC media player – Hotkeys & Advanced Control bar.
@@ -41,10 +54,10 @@ There are two main ways to go through videos frame by frame in VLC media player 
 ![VLC Frame by Frame Hotkeys](https://www.5kplayer.com/vlc/img/vlc-frame-by-frame-hotkey.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### **Method 2\. Use Advanced Controls Bar**
@@ -61,26 +74,6 @@ Worth mentioning, problems like VLC frame by frame freezes are inevitable. Besid
 
 ![VLC Frame by Frame Button](https://www.5kplayer.com/vlc/img/vlc-frame-by-frame-button.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### VLC Player Frame by Frame not Working? How to Solve?
 
 If you have any issues with VLC media player frame by frame function, you can turn to its best alternative – 5KPlayer. 5KPlayer is a [frame by frame video player](https://tools.techidaily.com/5kplayer/video-music-player/) with embedded 4K video playback, AirPlay, DLNA streaming and online media download features that you can use to play MP4 MKV AVI etc. videos in milliseconds smoothly.
@@ -90,10 +83,10 @@ If you have any issues with VLC media player frame by frame function, you can tu
 **Step 2.** Play a video with 5KPlayer, and then click on the "scissors" ![](https://www.5kplayer.com/vlc/../user-guide/img/scissors-icon.jpg) icon on the playback bar of 5KPlayer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3.** View your favorite part by dragging the progress bar under the main picture window.
@@ -103,6 +96,13 @@ If you have any issues with VLC media player frame by frame function, you can tu
 ![5KPlayer Frame by Frame](https://www.5kplayer.com/vlc/img/5kplayer-frame-by-frame.jpg) 
 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### People Also Ask
 
@@ -137,16 +137,21 @@ To save a frame when playing a video in VLC, VLC frame by frame screenshot is th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-flickerframe-repository-review/"><u>[New] In 2024, FlickerFrame Repository Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-integration-12-stream-app-experience/"><u>2024 Approved Seamless Integration 12 Stream App Experience</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-resolve-the-problem-of-non-running-applications-on-your-desktop-computer/"><u>How to Resolve the Problem of Non-Running Applications on Your Desktop Computer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-smart-7-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Smart 7 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://media-tips.techidaily.com/live-streaming-of-the-apple-product-launch-for-march-2023-free-access/"><u>Live Streaming of the Apple Product Launch for March 2023 - Free Access</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-power-play-top-contenders-for-best-pc-psus-amongst-tech-enthusiasts/"><u>Mastering the Power Play: Top Contenders for Best PC PSUs Amongst Tech Enthusiasts</u></a></li>
-<li><a href="https://media-tips.techidaily.com/play-high-quality-hd-mkv-movies-in-4k-using-the-free-vlc-media-player-get-it-now/"><u>Play High-Quality HD MKV Movies in 4K Using the Free VLC Media Player – Get It Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-sluggish-keyboard-responses-a-step-by-step-guide/"><u>Quick Solutions for Sluggish Keyboard Responses: A Step-by-Step Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/resolve-vlc-airplay-connection-problems-a-comprehensive-fix-guide/"><u>Resolve VLC AirPlay Connection Problems: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-instructions-for-streaming-apple-devices-to-pcs-and-macs/"><u>Step-by-Step Instructions for Streaming Apple Devices to PCs and Macs</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-top-picks-for-free-screen-and-speaker-mirroring-solutions-like-airparrot/"><u>Ultimate Top Picks for Free Screen & Speaker Mirroring Solutions Like AirParrot</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-zoomed-into-the-core-of-action-films/"><u>[New] 2024 Approved Zoomed Into the Core of Action Films</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-entrepreneurial-guide-to-video-content-monetization/"><u>[New] In 2024, The Entrepreneurial Guide to Video Content Monetization</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-decoding-the-visual-language-of-live-videos-on-youtube-for-2024/"><u>[Updated] Decoding the Visual Language of Live Videos on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-educational-synergy-enhancing-learning-with-youtube-videos/"><u>[Updated] In 2024, Educational Synergy Enhancing Learning with YouTube Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-transforming-facebook-videos-steps-to-high-definition/"><u>[Updated] Transforming Facebook Videos Steps to High Definition</u></a></li>
+<li><a href="https://media-tips.techidaily.com/accelerate-your-videos-quickly-using-aiseesofts-advanced-amd-tech-features/"><u>Accelerate Your Videos Quickly Using Aiseesoft's Advanced AMD Tech Features</u></a></li>
+<li><a href="https://media-tips.techidaily.com/complete-overview-on-sony-xperia-video-transformation-techniques-for-web-and-desktop-use/"><u>Complete Overview on Sony Xperia Video Transformation Techniques for Web & Desktop Use</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-and-edit-4k-xavc-footage-efficiently-in-avid-using-a-complimentary-4k-mov-to-mp4-transition-tool/"><u>Convert and Edit 4K XAVC Footage Efficiently in AVID Using a Complimentary 4K Mov to MP4 Transition Tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-y28-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo Y28 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-connectivity-with-tp-link-re200-ac750-range-extender-a-review/"><u>Maximizing Connectivity with TP-Link RE200 AC750 Range Extender: A Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-green-screen-on-a-budget-top-10-free-apps-for-android-and-ios-for-2024/"><u>New Green Screen on a Budget Top 10 Free Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-m2ts-files-for-your-kindle-fire-device/"><u>Step-by-Step Guide: Transforming M2TS Files for Your Kindle Fire Device</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-how-to-use-the-swf-video-converter-for-converting-videos-to-swf-files/"><u>Step-by-Step Tutorial: How To Use The SWF Video Converter for Converting Videos to SWF Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620223382-top-rated-all-in-one-avi-to-mpeg4-3g2-video-format-converter-must-try/"><u>Top Rated All-in-One AVI to MPEG4 (3G2) Video Format Converter Must Try</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-how-to-download-mp3s-from-flv-videos-on-your-mac/"><u>Ultimate Guide: How to Download MP3s From FLV Videos on Your Mac</u></a></li>
 </ul></div>
 

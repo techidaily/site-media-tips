@@ -1,7 +1,7 @@
 ---
 title: Guide to Turning On AirPlay for iPhone 12, Previous Versions with iOS Up to Version 14
-date: 2024-10-22T18:01:31.000Z
-updated: 2024-10-23T20:17:39.504Z
+date: 2024-10-23T16:24:20.771Z
+updated: 2024-10-29T16:05:58.515Z
 tags:
   - airplay
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
 This article discusses how to **enable AirPlay on iPhone** 12 iOS 14 & Earlier to stream video auido from iPhone to Mac/PC. Turn on AirPlay on your iPhone 12 iOS 14 (or earlier), and with the help of all-in-one AirPlay receiver & sender — 5KPlayer, your can stream movies and music songs from iPhone to Mac/PC easier than ever.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Turn On AirPlay on iPhone 12 iOS 14 Or Before?
 
 If you are trying to enable AirPlay on iPhone iOS 7 or newer, the AirPlay icon has been removed to the control center, thus providing a shortcut for users to turn on AirPlay on iPhone and stream videos. Please find out the iOS version number in your iPhone > General > About and find out your iOS version.
@@ -44,10 +51,10 @@ After successfully enabling AirPlay on iPhone 12 iOS 14, 5KPlayer can walk you t
  \* Disconnecting iPhone from the WiFi can also turn off AirPlay.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How To Use iPhone AirPlay Mirroring to Mac/Windows/Apple TV?
@@ -55,10 +62,10 @@ After successfully enabling AirPlay on iPhone 12 iOS 14, 5KPlayer can walk you t
 When you successfully enable AirPlay on iPhone 12 iOS 14 and connect iPhone to the AirPlay destination, you may find the "Mirroring" slider available to turn on. AirPlay Mirroring iPhone screen with 5KPlayer can blast everything on your mobile phone to Mac or Windows without lag, including the desktop, photos, slide shows. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Instruction to Enable AirPlay and Stream Movies/Music On iPhone
@@ -75,13 +82,6 @@ Download [**5KPlayer**](https://tools.techidaily.com/5kplayer/products/), launch
 
 ![Connect iPhone and Mac to Enable AirPlay](https://www.5kplayer.com/airplay/img/5kplayer-freeaacplayer-yxt-030603.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2**: After you yurn on AirPlay: Directly AirPlay videos on iPhone, or AirPlay YouTube online. 
 
 \* **AirPlay videos on iPhone**: For downloaded .mov, .m4v, .mp4 videos on iPhone. You can activate AirPlay on iPhone and directly stream them to Mac Windows.  
@@ -96,10 +96,10 @@ Notice: 5KPlayer AirPlay function now can't stream video music, but it will come
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -117,20 +117,21 @@ Notice: 5KPlayer AirPlay function now can't stream video music, but it will come
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/he-complete-youtube-editors-toolkit-for-post-publish-adjustments-for-2024/"><u>[New] The Complete YouTube Editor's Toolkit for Post-Publish Adjustments for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unravel-media-complexity-transforming-xmlttml-into-srt-gold/"><u>[New] Unravel Media Complexity Transforming XML/TTML Into SRT Gold</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-canva-creative-editor-exploration/"><u>2024 Approved Canva Creative Editor Exploration</u></a></li>
-<li><a href="https://media-tips.techidaily.com/blu-ray/"><u>Blu-Rayアーカイブス用最強解除ツール集 - 安全なリッピングガイド</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/blueprint-for-big-screens-the-art-of-filmmaking/"><u>Blueprint for Big Screens The Art of Filmmaking</u></a></li>
-<li><a href="https://win-forum.techidaily.com/dealing-with-unregistered-class-alerts-in-windows-expert-advice/"><u>Dealing with Unregistered Class Alerts in Windows: Expert Advice</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-set-up-dlna-media-streaming-on-your-pc-windows-107/"><u>How To Set Up DLNA Media Streaming on Your PC (Windows 10/7)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-13-mini-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 13 mini with iTunes | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-budsplus-test-drive-an-exclusive-hands-on-analysis/"><u>Samsung Galaxy Buds+ Test Drive: An Exclusive Hands-On Analysis</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamless-movie-viewing-casting-from-ipad-air-pro-or-mini-to-pc-via-apples-airplay-technology/"><u>Seamless Movie Viewing: Casting From iPad Air, Pro, or Mini to PC via Apple's AirPlay Technology</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-steps-to-watch-mkv-videos-on-your-windows-computer-windows-7-8-and-10-beginners-guide/"><u>Simple Steps to Watch MKV Videos on Your Windows Computer (Windows 7, 8 & 10) - Beginner's Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/solving-connectivity-and-functionality-issues-in-xbox-app-while-updating-to-windows-10/"><u>Solving Connectivity and Functionality Issues in Xbox App While Updating to Windows # 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-buttons-in-windows-operating-systems-win-10-11/"><u>Troubleshooting Unresponsive Buttons in Windows Operating Systems (Win 10, 11)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unlocking-your-iphone-11-and-ipad-pro-with-ios-13-a-comprehensive-jailbreaking-guide/"><u>Unlocking Your iPhone 11 and iPad Pro with iOS 13: A Comprehensive Jailbreaking Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-a-novices-pathway-to-writing-youtube-video-plans/"><u>[New] 2024 Approved A Novice's Pathway to Writing YouTube Video Plans</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-master-the-art-of-organizing-group-conversations-on-skype-irrespective-of-your-systems-os/"><u>[New] In 2024, Master the Art of Organizing Group Conversations on Skype, Irrespective of Your System's OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-apples-latest-creation-the-exciting-launch-of-a-brand-new-iphone/"><u>Discover Apple's Latest Creation: The Exciting Launch of a Brand New iPhone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/diy-guide-transforming-divx-files-into-dvd-format-with-easy-steps/"><u>DIY Guide: Transforming DivX Files Into DVD Format with Easy Steps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-game-of-thrones-captions-with-ease-a-step-by-step-guide-for-fans/"><u>Download Game of Thrones Captions with Ease: A Step-by-Step Guide for Fans</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-steps-changing-mpg-files-into-mp4-format-on-your-mac/"><u>Easy Steps: Changing MPG Files Into MP4 Format on Your Mac</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficient-subtitle-stripper-how-to-remove-text-overlays-on-your-movies-and-videos/"><u>Efficient Subtitle Stripper: How to Remove Text Overlays on Your Movies and Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/flv-to-mp4-conversion-free-online-tools-and-methods-for-windows-and-macos/"><u>FLV to MP4 Conversion: Free Online Tools & Methods for Windows and macOS</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-x50-gt-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor X50 GT Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-quickly-and-easily-transform-videos-for-optimal-playback-on-ipad-mini-devices/"><u>How to Quickly and Easily Transform Videos for Optimal Playback on iPad Mini Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-ps3-playback-a-comprehensible-methodology/"><u>In 2024, PS3 Playback A Comprehensible Methodology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seizing-stability-eliminating-instability/"><u>Seizing Stability Eliminating Instability</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-strategies-for-efficiently-converting-mp3-files-to-aiff-format-using-a-specialized-mp3-to-aiff-converter/"><u>Top Strategies for Efficiently Converting MP3 Files to AIFF Format Using a Specialized MP3-to-AIFF Converter</u></a></li>
 </ul></div>
 

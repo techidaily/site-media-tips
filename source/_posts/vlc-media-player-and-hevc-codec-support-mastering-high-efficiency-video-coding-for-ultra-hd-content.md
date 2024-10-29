@@ -1,7 +1,7 @@
 ---
 title: "VLC Media Player and HEVC Codec Support: Mastering High-Efficiency Video Coding for Ultra HD Content"
-date: 2024-10-16T19:24:30.977Z
-updated: 2024-10-23T17:07:10.510Z
+date: 2024-10-27T16:11:47.777Z
+updated: 2024-10-29T16:22:33.276Z
 tags:
   - vlc
 categories:
@@ -49,16 +49,10 @@ VLC media player has HEVC/H.265 support for a very long time, that could be prov
 From the VLC update log, we can see that VLC media player developer has done a lot of changes, improvements and fixes to make H.265/HEVC player VLC much better.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Play HEVC/H.265 Videos with VLC HEVC Media Player?
@@ -74,19 +68,19 @@ However, if the HEVC/H.265 video bit rate or resolution is too high, VLC won't p
 ![VLC Codec Support](https://www.5kplayer.com/vlc/img/vlc-hevc-player.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Despite the fact that VLC developer has done a lot of work to improve VLC HEVC feature, it doesn't mean that VLC handles any HEVC/H.265 files very successfully. [VLC not playing HEVC/H.265 4K video](https://tools.techidaily.com/5kplayer/video-music-player/) is a big headache from the very beginning, but there are seldom ways to solve it completely. If you are annoyed by VLC HEVC drop frames, choppy playback, 4K crashing or HEVC black screen, 5KPlayer is here to offer help.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Solve VLC not Playing HEVC/H.265 4K Videos? Try 5KPlayer
@@ -96,16 +90,16 @@ VLC HEVC/H.265 playback error will ends here by using VLC alternative 5KPlayer. 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -123,24 +117,18 @@ VLC HEVC/H.265 playback error will ends here by using VLC alternative 5KPlayer. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-5-driving-and-race-replicas/"><u>[New] 2024 Approved Top 5 Driving & Race Replicas</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-from-snapchat-to-youtube-uploading-pics/"><u>[New] From Snapchat to YouTube Uploading Pics</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/kyrocket-to-youtube-partner-status-with-10k-vistas-goal/"><u>[New] Skyrocket to YouTube Partner Status with 10K Vistas Goal</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-innovative-approaches-for-unwavering-viewership-within-limit/"><u>[Updated] In 2024, Innovative Approaches for Unwavering Viewership (Within Limit)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/airplay-server-tricks-transferring-iphone-content-to-your-mac-without-cost/"><u>AirPlay Server Tricks: Transferring iPhone Content to Your Mac Without Cost</u></a></li>
-<li><a href="https://media-tips.techidaily.com/dlna-ready-5kplayer-free-software-learn-about-its-capabilities-and-advantages-for-seamless-media-streaming/"><u>DLNA-Ready 5KPlayer Free Software - Learn About Its Capabilities & Advantages for Seamless Media Streaming</u></a></li>
-<li><a href="https://media-tips.techidaily.com/download-best-free-windows-compatible-upnp-dlna-streaming-servers-windows-10-8-7/"><u>Download Best FREE Windows Compatible UPnP DLNA Streaming Servers (Windows 10 / 8 / 7)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhance-your-xbox-one-viewing-experience-with-vlc-support-hevc-mkv-flac-playback-and-more/"><u>Enhance Your Xbox One Viewing Experience with VLC - Support HEVC, MKV, FLAC Playback & More</u></a></li>
-<li><a href="https://media-tips.techidaily.com/entschlusseln-sie-die-kunst-der-fehlerbehebung-bei-4k-videoabspielproblemen-auf-verschiedenen-plattformen-pcmacmobil/"><u>Entschlüsseln Sie Die Kunst Der Fehlerbehebung Bei 4K-Videoabspielproblemen Auf Verschiedenen Plattformen: PC/Mac/Mobil</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fixing-media-player-classic-issues-on-windows-11-dvds-mkv-files-troubleshooting/"><u>Fixing Media Player Classic Issues on Windows 11 - DVDs, MKV Files Troubleshooting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/immersive-worlds-confrontation-metaverse-vs-omniverse-explored/"><u>Immersive Worlds Confrontation Metaverse Vs. Omniverse Explored</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-y17s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo Y17s without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-to-make-a-mark-with-your-gopro-studio-edits/"><u>In 2024, Innovative Techniques to Make a Mark with Your GoPro Studio Edits</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-s17-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo S17 Pro Device</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimize-oust-and-outperform-youtube-titles-that-dominate-for-2024/"><u>Optimize, Oust & Outperform YouTube Titles That Dominate for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-drone-buying-roadmap-pre-purchase-essentials-for-2024/"><u>The Ultimate Drone Buying Roadmap Pre-Purchase Essentials for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-funktionsreicher-kostenloser-mkv-player-auf-windows-nahtlose-wiedergabe-mit-einfachster-bedienung/"><u>Top Funktionsreicher Kostenloser MKV-Player Auf Windows - Nahtlose Wiedergabe Mit Einfachster Bedienung</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-fixing-mp4-playback-issues-in-vlc-media-player-on-windows-and-mac-systems/"><u>Troubleshooting: Fixing MP4 Playback Issues in VLC Media Player on Windows & Mac Systems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-how-to-cast-your-iphone-display-on-tv-pc-or-mac/"><u>Ultimate Guide: How to Cast Your iPhone Display on TV, PC or Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-win-11s-best-practices-the-ultimate-guide-to-saving-mov-files/"><u>[New] In 2024, Win 11'S Best Practices The Ultimate Guide to Saving MOV Files</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-build-and-launch-youtube-video-ads-on-budget/"><u>[Updated] In 2024, Build & Launch YouTube Video Ads on Budget</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-guide-mastering-mkv-file-playback-on-your-ps3-console/"><u>Easy Guide: Mastering MKV File Playback on Your PS3 Console</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-mp4-to-ogg-file-transformation-tips-for-pcs-macs-and-cloud-services-top-7-strategies/"><u>Effortless MP4-to-OGG File Transformation Tips for PCs, Macs & Cloud Services - Top 7 Strategies</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-vid-conversion-guide-transforming-multiple-file-types-mp4aviflv-etc-for-optimal-playback-on-your-sansa-player/"><u>Effortless Vid-Conversion Guide: Transforming Multiple File Types (MP4/AVI/FLV Etc.) For Optimal Playback on Your Sansa Player</u></a></li>
+<li><a href="https://media-tips.techidaily.com/fast-and-easy-steps-making-your-videos-compatible-for-galaxy-tab-devices/"><u>Fast and Easy Steps: Making Your Videos Compatible for Galaxy Tab Devices</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-to-easily-transforming-flv-files-into-mp4-format-using-free-services-on-pc-or-mac/"><u>Guide to Easily Transforming FLV Files Into MP4 Format Using Free Services on PC or Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-common-directx-errors-in-fifa-20-steps-for-a-smooth-gameplay/"><u>How to Fix Common DirectX Errors in FIFA 20: Steps for a Smooth Gameplay</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-xs-max-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone XS Max Without Previous Owner?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 8 Plus 3 Ways To Unlock</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mirthful-mobile-memories-iphone-for-2024/"><u>Mirthful Mobile Memories (iPhone) for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-convert-ts-files-into-flv-videos-for-optimal-playback/"><u>The Ultimate Guide to Convert TS Files Into FLV Videos for Optimal Playback</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-10-best-video-editing-apps-for-kids-free-and-paid/"><u>Updated 2024 Approved 10 Best Video Editing Apps for Kids FREE & PAID</u></a></li>
 </ul></div>
 
