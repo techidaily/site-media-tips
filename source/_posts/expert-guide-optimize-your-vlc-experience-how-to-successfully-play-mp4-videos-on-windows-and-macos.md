@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Optimize Your VLC Experience - How to Successfully Play MP4 Videos on Windows and MacOS"
-date: 2024-10-25T16:11:26.441Z
-updated: 2024-10-29T16:02:52.039Z
+date: 2024-10-31T06:21:58.231Z
+updated: 2024-11-04T04:53:42.269Z
 tags:
   - video-music-player
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/75622c9aef94101b38b55f9079234e66e622d3109
 It can be extremely vexing when you want to play a common file format - MP4 and it ends up in "fail to open" or "black screen" situation in VLC. There are many possible reasons that might lead to this **VLC not playing MP4** issue like nonstandard MP4 codecs and corrupted MP4 files. Here, we provide you serval efficient solutions to VLC won't MP4 problem. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Reasons & Solutions to Your VLC Can't Play MP4 Files:
@@ -52,16 +52,16 @@ There are many reasons that might lead to "VLC won't play MP4" issue: your MP4 f
 
 ![Tackle VLC Won't Play MP4 Issue](https://www.5kplayer.com/video-music-player/img/5kp-vlc-mp4-zjy-001.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Now navigate to "Input/Codecs" --> "Video Codecs" --> "FFmpeg", in there you'll want to uncheck the box that relates to "Hardware decoding".
 
 ![Solve VLC MP4 Problem](https://www.5kplayer.com/video-music-player/img/5kp-vlc-mp4-zjy-002.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Close VLC and open it up again, load up your video and see if that works for solving MP4 not playing in VLC error.
 
@@ -74,25 +74,19 @@ There are many reasons that might lead to "VLC won't play MP4" issue: your MP4 f
 ![Best Free MP4 Player](https://www.5kplayer.com/video-music-player/img/flv-player-free-download.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -110,17 +104,20 @@ There are many reasons that might lead to "VLC won't play MP4" issue: your MP4 f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-a-step-by-step-approach-for-flawless-instagrams-for-2024/"><u>[New] A Step-by-Step Approach for Flawless Instagrams for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-screen-grab-king-macos-recorder-free/"><u>[New] Screen Grab King MacOS Recorder, Free</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-nes-switch-brawlers-the-ultimate-10-game-guide-for-2024/"><u>[Updated] NES Switch Brawlers The Ultimate 10-Game Guide for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-redmi-note-13-pro-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi Redmi Note 13 Pro 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-game-captures-with-shadowplay-overcoming-windows-recording-hurdles/"><u>Mastering Game Captures with ShadowPlay: Overcoming Windows Recording Hurdles</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/praey-for-the-gods-pc-version-stability-issues-and-how-to-resolve-them/"><u>Praey for the Gods PC Version Stability Issues and How to Resolve Them</u></a></li>
-<li><a href="https://media-tips.techidaily.com/us-paying-customers-gain-unlimited-audiobook-downloads-on-spotify/"><u>U.S. Paying Customers Gain Unlimited Audiobook Downloads on Spotify</u></a></li>
-<li><a href="https://media-tips.techidaily.com/upcoming-streams-nba-and-wnba-matches-set-to-debut-on-online-platforms/"><u>Upcoming Streams: NBA & WNBA Matches Set to Debut on Online Platforms</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-dvdmacpro/"><u>Updated In 2024, DVDMacPro</u></a></li>
-<li><a href="https://media-tips.techidaily.com/watching-american-football-with-ease-how-to-tune-into-the-nfl-through-your-amazon-prime-subscription/"><u>Watching American Football with Ease: How to Tune Into the NFL Through Your Amazon Prime Subscription</u></a></li>
-<li><a href="https://media-tips.techidaily.com/watching-with-youtube-tv-create-your-own-ultimate-sports-viewing-experience/"><u>Watching with YouTube TV: Create Your Own Ultimate Sports Viewing Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/why-i-prefer-using-discord-over-other-services-for-watching-movies-online/"><u>Why I Prefer Using Discord Over Other Services for Watching Movies Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-breakthrough-in-recording-nine-revolutionary-online-microphones/"><u>[Updated] 2024 Approved Breakthrough in Recording Nine Revolutionary Online Microphones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mind-matters-top-educational-youtube-picks-for-2024/"><u>[Updated] Mind Matters Top Educational YouTube Picks for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-video-twisting-techniques-boost-your-instagram-media-presentation-for-2024/"><u>[Updated] Video Twisting Techniques Boost Your Instagram Media Presentation for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/avchd-vs-mp4-showdown-determining-the-perfect-video-format-fit-for-your-needs/"><u>AVCHD Vs. MP4 Showdown: Determining the Perfect Video Format Fit for Your Needs</u></a></li>
+<li><a href="https://media-tips.techidaily.com/decoding-3gp-media-tips-for-accessing-opening-and-playback-of-3gp-videos/"><u>Decoding 3GP Media: Tips for Accessing, Opening, and Playback of 3GP Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-guide-transforming-cda-files-into-mp3-format-on-your-windows-or-mac-computer/"><u>Easy Guide: Transforming CDA Files Into MP3 Format on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-x8b-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor X8b to iPhone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ize-impact-aspect-ratio-expertise-for-youtube-experts-for-2024/"><u>Maximize Impact Aspect Ratio Expertise for YouTube Experts for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/michael-kors-gen-5e-mkgo-analysis-blending-elegance-with-innovative-design/"><u>Michael Kors Gen 5E MKGO Analysis: Blending Elegance with Innovative Design</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-on-hdmi-after-linking-computer-with-tv-and-monitor-fix-guide/"><u>No Audio on HDMI After Linking Computer With TV and Monitor - Fix Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/speedy-methods-for-changing-tod-documents-to-mp4-videos-on-mac-computers/"><u>Speedy Methods for Changing TOD Documents to MP4 Videos on Mac Computers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-10-no-cost-nokia-video-converter-apps-for-mac-users-get-your-list-here/"><u>Top 10 No-Cost Nokia Video Converter Apps for Mac Users - Get Your List Here</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-mts-mp4-converter-a-3-step-guide-to-flawless-video-format-transformation/"><u>Top Rated MTS-MP4 Converter: A 3-Step Guide to Flawless Video Format Transformation</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-seamless-transformation-of-mkv-files-into-compatible-formats/"><u>Ultimate Guide: Seamless Transformation of MKV Files Into Compatible Formats</u></a></li>
 </ul></div>
 

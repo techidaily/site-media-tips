@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide on Setting Up Personalized Video Timestamps in VLC Media Player
-date: 2024-10-24T16:15:00.829Z
-updated: 2024-10-29T16:16:46.142Z
+date: 2024-10-31T02:08:51.617Z
+updated: 2024-11-04T04:52:42.353Z
 tags:
   - vlc
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/6195218912eaa800d5cbedefde726b6171a7555ef
 How to continue your playback from where you left last time? How to easily access the specific parts in a very long video with a few clicks? **VLC Custom Bookmarks** feature will help remember the video playback position you just want to save. No need to spend much time to step forward your video, you can easily get to the right position without missing a frame.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Create Bookmarks in VLC Media Player?
@@ -40,16 +40,10 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Custom Bookmarks](https://www.5kplayer.com/vlc/img/vlc-custom-bookmark.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3.** When the **Edit Bookmarks** window pops up, just click on the **Create** button to add bookmarks to your video. 
@@ -57,10 +51,10 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Create Bookmarks](https://www.5kplayer.com/vlc/img/vlc-create-bookmarks.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4.** To find the specific bookmarked video to play, just click on **Playback** \> **Custom Bookmarks** and choose the one to start playing.
@@ -94,10 +88,10 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -115,24 +109,18 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-a-brief-history-of-virtual-reality/"><u>[New] A Brief History of Virtual Reality</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-exclusive-ig-edits-for-apple-and-android-users/"><u>[New] Exclusive IG Edits for Apple & Android Users</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-tiktoks-biggest-foodie-trends-unveiled/"><u>[Updated] TikTok's Biggest Foodie Trends Unveiled</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enjoy-unlimited-access-to-youtube-on-your-tv-screen-for-zero-dollars-step-by-step-instructions/"><u>Enjoy Unlimited Access to YouTube on Your TV Screen for Zero Dollars: Step-by-Step Instructions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exploring-the-realm-of-3d-vr-top-5-key-points-for-beginners-to-know/"><u>Exploring the Realm of 3D VR: Top 5 Key Points for Beginners to Know!</u></a></li>
-<li><a href="https://discover-community.techidaily.com/gillware-data-recuperation-lalternative-superieure-pour-la-recuperation-de-donnees/"><u>Gillware Data Récupération – L'alternative Supérieure Pour La Récupération De Données</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-fix-your-apple-tvs-issues-with-hbo-go-a-comprehensive-guide/"><u>How to Fix Your Apple TV's Issues with HBO Go: A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-upgrade-your-vlc-media-player-step-by-step-tutorial-on-getting-the-newest-release/"><u>How to Upgrade Your VLC Media Player: Step-by-Step Tutorial on Getting the Newest Release</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-6-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 6 in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/navigating-xbox-broadcasts-to-facebook-streams/"><u>Navigating Xbox Broadcasts to Facebook Streams</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-xinput13dll-errors-on-your-pc-a-comprehensive-guide/"><u>Resolving xinput1_3.dll Errors on Your PC - A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/solving-vlc-dvd-player-issues-on-windows-11-and-macos-a-comprehensive-guide/"><u>Solving VLC DVD Player Issues on Windows 11 & MacOS: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/pposite-view-creative-ways-to-watch-youtube-backwards/"><u>The Opposite View Creative Ways to Watch YouTube Backwards</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-facetune-photo-enhancement-for-2024/"><u>The Ultimate Guide to Facetune Photo Enhancement for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-7-free-dvd-players-for-windows-11-no-cost-downloads-available/"><u>Top 7 FREE DVD Players for Windows 11 – No Cost Downloads Available</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-motorola-moto-e13-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Motorola Moto E13 Location | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-techniques-for-displaying-your-iphonescreen-on-macos-devices/"><u>Top Techniques for Displaying Your iPhonescreen on macOS Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-top-video-streaming-services-for-cinematic-and-musical-content/"><u>Ultimate Guide: Top Video Streaming Services for Cinematic and Musical Content</u></a></li>
-<li><a href="https://media-tips.techidaily.com/watch-seamless-streams-using-airplayer-and-top-no-cost-airplayer-substitutes/"><u>Watch Seamless Streams: Using AirPlayer & Top No-Cost AirPlayer Substitutes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-life-in-new-ways-hero-4-and-hero-5/"><u>[New] Capturing Life in New Ways Hero 4 & Hero 5</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-boredom-be-gone-find-joy-with-these-top-15-humorists/"><u>[Updated] 2024 Approved Boredom Be Gone Find Joy with These Top 15 Humorists</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-images-choose-the-top-grid-software-now/"><u>Elevate Images Choose the Top Grid Software Now</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-gigglestv-beginners-guide-to-making-videos/"><u>In 2024, GigglesTV Beginner's Guide to Making Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620219701-mastering-3d-viewing-techniques-learn-what-is-3d-and-experience-movies-in-depth-fast/"><u>Mastering 3D Viewing Techniques - Learn What Is 3D and Experience Movies in Depth Fast</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-imovie-to-mp4-transfers-in-depth-explanatory-videos-for-professionals/"><u>Mastering iMovie to MP4 Transfers: In-Depth Explanatory Videos for Professionals</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mpg-to-divx-video-conversion-for-windows-and-macos-users-a-comprehensive-tutorial/"><u>MPG to DivX Video Conversion for Windows and macOS Users - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-5-why-traditional-handheld-devices-are-great/"><u>Prime 5: Why Traditional Handheld Devices Are Great</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-guide-switching-from-vob-to-xvid-simple-conversion-techniques/"><u>Quick Guide: Switching From VOB to XviD - Simple Conversion Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-error-code-327-in-star-wars-battlefront-ii-a-step-by-step-fix/"><u>Resolving 'Error Code 327' In Star Wars Battlefront II: A Step-by-Step Fix</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620222964-top-10-no-cost-nokia-video-converter-apps-for-mac-users-get-your-list-here/"><u>Top 10 No-Cost Nokia Video Converter Apps for Mac Users - Get Your List Here!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-video-shooting-equipment-a-comprehensive-review-for-2024/"><u>Top Video Shooting Equipment A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/under-100-budget-friendly-action-cams-top-choices-guide/"><u>Under-$100 Budget-Friendly Action Cams – Top Choices Guide</u></a></li>
 </ul></div>
 
