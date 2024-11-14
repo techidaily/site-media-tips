@@ -1,7 +1,7 @@
 ---
 title: How to Get the Newest Version of Media Player for Your Windows 10 System, Free!
-date: 2024-11-11T21:54:35.426Z
-updated: 2024-11-12T18:53:45.045Z
+date: 2024-11-07T18:39:32.548Z
+updated: 2024-11-14T02:48:26.115Z
 tags:
   - video-music-player
 categories:
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
 When you upgrade your PC OS to windows 10, correspondingly, you will update your Media Player to be more elastic to handle more files on this greater OS. Media Player version 12 is available to download and update for Windows 10 now. Don't know how to update Media Player on Windows 10? No worries, here teaches you two ways to get your Media Player updated for Windows or Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Update Windows Media Player to Version 12 Manually?
 
 If your have the problem of playing MP4 on Windows Media Player, or [adding subtitles problems](https://tools.techidaily.com/5kplayer/video-music-player/), the first solution is to update the Media Player on the latest version, you may check for updates and if not, you may want to update Media Player on Windows 10 manually just by following the above steps. 
@@ -44,10 +37,10 @@ Step 4: Click on "Check for updates" to see what version of Media Player are you
 ![Media Player Updates  to Version 12](https://www.5kplayer.com/video-music-player/img/upadate-media-player.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And if you want to set your **media player to be updated automatically**, you have to go through the following settings: 
@@ -64,6 +57,13 @@ Now you have updated to Windows Media Player version 12, let's learn about the *
 
 However, Windows media player still can't play DVD in Windows 10 and Windows 8.1, and you also have to install [MKV Media Player codec pack](https://tools.techidaily.com/5kplayer/video-music-player/) to be able to play MKV files. Want to download the best DVD player for Windows 10? Update your Media Player to 5KPlayer - the best alternative media player for Windows 10 now!
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Second Solution: Update your media player to 5KPlayer
 
 5KPlayer ranks on the top for the [top 5 media players for Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/), not only because it is an excellent media player, but also that it also does multitask. Look what the best media player is capable of: 
@@ -77,10 +77,10 @@ However, Windows media player still can't play DVD in Windows 10 and Windows 8.1
 ![Update Media Player to 5KPlayer](https://www.5kplayer.com/video-music-player/../youtube-download/img/play-4k.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ☆ [Best 4K/8K UHD player](https://tools.techidaily.com/5kplayer/video-music-player/): With the power to play ultra HD videos in AVI (Divx/Xvid), MKV (H.265), MP4 (H.264) and more, better still, it can also download and stream 4K 8K UHD videos on Mac and PC.   
@@ -92,10 +92,10 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -113,19 +113,19 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-explore-and-download-50-free-youtube-banners/"><u>[New] In 2024, Explore & Download 50 FREE YouTube Banners</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-10-accessory-hits-for-sj-series-drivers/"><u>[New] In 2024, Top 10 Accessory Hits for SJ-Series Drivers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-optimizing-your-home-studio-for-online-broadcasts/"><u>[New] Optimizing Your Home Studio for Online Broadcasts</u></a></li>
-<li><a href="https://media-tips.techidaily.com/2023s-leading-airplay-sound-systems-ranked-expert-analysis-and-buying-guide/"><u>2023'S Leading AirPlay Sound Systems Ranked: Expert Analysis & Buying Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-no-cost-mpeg4-media-software-with-full-compatibility/"><u>Best No-Cost MPEG4 Media Software with Full Compatibility</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratuit-wegomschrijvingen-van-tiff-naar-jpeg-onlinereis-met-movavi/"><u>Gratuit Wegomschrijvingen Van TIFF Naar JPEG - Onlinereis Met Movavi</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-vmware-start-issues-on-windows-11plusoses/"><u>Mastering VMware Start Issues on Windows 11+OSes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/premier-chromecast-companion-apps-expert-recommendations-for-optimal-video-streaming-on-mac-and-pc/"><u>Premier Chromecast Companion Apps: Expert Recommendations for Optimal Video Streaming on Mac and PC</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamless-cross-platform-streaming-transfer-dlna-content-from-android-devices-to-pcs-and-macs-including-connections-with-smart-tvs/"><u>Seamless Cross-Platform Streaming: Transfer DLNA Content From Android Devices to PCs and Macs, Including Connections with Smart TVs</u></a></li>
-<li><a href="https://media-tips.techidaily.com/stream-seamlessly-from-your-windows-7-computer-to-any-apple-tv-model-432-free-airplay-methods-unveiled/"><u>Stream Seamlessly From Your Windows 7 Computer to Any Apple TV Model (4/3/2) - Free AirPlay Methods Unveiled!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/stream-your-pc-on-any-screen-with-beamer-compatible-with-windows-11-8-and-7/"><u>Stream Your PC on Any Screen with Beamer: Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-y78-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo Y78 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-1011-curing-file-write-inaccessibility/"><u>Win 10/11: Curing File Write Inaccessibility</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-dynamic-typography-for-effects-top-10-picks/"><u>[New] 2024 Approved Dynamic Typography for Effects Top 10 Picks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-enthralling-experienences-try-these-top-14-text-animatees/"><u>[New] In 2024, Enthralling Experienences Try These Top 14 Text Animatees</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-next-gen-cloud-vaults-ultimate-pick-list/"><u>[New] Next-Gen Cloud Vaults Ultimate Pick List</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-wirecast-for-high-quality-youtube-broadcasts/"><u>[Updated] Navigating WireCast for High-Quality YouTube Broadcasts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-exclusive-access-to-pinnacle-android-viewer/"><u>2024 Approved Exclusive Access to Pinnacle Android Viewer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-leading-websites-with-unrestricted-access-to-ebooks-and-comics-without-drm-protection/"><u>Discover The Leading Websites With Unrestricted Access To Ebooks & Comics Without DRM Protection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fashioning-small-homes-with-eastern-aesthetics/"><u>Fashioning Small Homes with Eastern Aesthetics</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transfer-your-canon-xdcam-ex-files-into-cyberlink-powerdirector/"><u>How to Transfer Your Canon XDCAM EX Files Into CyberLink PowerDirector</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xs-max-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XS Max</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ipad-2-ready-video-transformer-effortless-conversion-of-avi-files-to-compatible-format/"><u>IPad 2-Ready Video Transformer: Effortless Conversion of AVI Files to Compatible Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-steps-making-your-videos-playable-on-kindle-fire-via-mac/"><u>Simple Steps: Making Your Videos Playable on Kindle Fire via Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-windows-11-on-fresh-storage/"><u>Step-by-Step Guide: Setting Up Windows 11 on Fresh Storage</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-swf-file-conversion-to-avi-video-type/"><u>Step-by-Step Tutorial on SWF File Conversion to AVI Video Type</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-complete-overview-on-mts-files-understanding-their-structure-and-uses/"><u>The Complete Overview on MTS Files – Understanding Their Structure and Uses</u></a></li>
 </ul></div>
 

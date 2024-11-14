@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting AV1 Format Issues: Enable Support on Your Windows 11/Mac"
-date: 2024-10-09T23:26:43.931Z
-updated: 2024-10-11T21:20:14.215Z
+date: 2024-11-11T23:00:55.129Z
+updated: 2024-11-14T04:16:08.158Z
 tags:
   - video-music-player
 categories:
@@ -32,31 +32,11 @@ thumbnail: https://thmb.techidaily.com/f6b900a7e2a78e7ffb6b0f28d526eebcba1c857a7
 [3\. AV1 Playback Issues with VLC?](https://tools.techidaily.com/5kplayer/video-music-player/)  
 [4\. Best Free AV1 Video Player >>](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **AV1 not Playing on Windows 10? \[Solved\]**
 
 Trying to [play AV1 video on Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) with the native Windows 10 application but only receive an error message: "_Can't play. This item was encoded in a format that's not supported. 0xc00d5212_"? 
 
 ![Can't Play AV1 on Windows 10](https://www.5kplayer.com/video-music-player/img/av1-not-playing-windows-10.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 As a matter of fact, Windows 10 doesn't supply a native application which contains the required [AV1 codec](https://tools.techidaily.com/5kplayer/video-music-player/) to support AV1 playback on Windows 10 as of now. To enable your Movies & TV app or Edge to open AV1 videos on Windows 10 successfully, you need to download Microsoft's AV1 Video Extension to power the default media player.
 
@@ -65,10 +45,10 @@ As a matter of fact, Windows 10 doesn't supply a native application which contai
 ![AV1 Video Extension](https://www.5kplayer.com/video-music-player/img/av1-video-extension.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **AV1 not Playing on Mac? \[Solved\]**
@@ -88,6 +68,13 @@ Even the quite new VLC 3.0.8 can't play AV1 video files though [VLC AV1](https:/
 
 **Solution:** Upgrade your VLC media player to the latest version 3.0.10 to see if it works. Or manually set the configuration to the right situation by unchecking the "Use hardware YUV -> RGB conversions" checkbox or set the Output to DirectX, Direct3D, Windows GDI or OpenGL. Or just switch to professional AV1 video player 5KPlayer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AV1 not Playing? Try Free AV1 Video Player 5KPlayer
 
 AV1 won't play on Windows 10/Mac not only because AV1 video codec is new but also it is a heavier codec requiring more powerful media software to decode it. According to the test from Bitmovin, current AV1 codec offers about 20% and 30% better compression rate compared to VP9 and HEVC respectively, and it is predicted that the compression rate should be 50% better. What does that mean? It means that video encoded with AV1 will contain more details compared to the same size video encoded with VP9 or HEVC. And the media player for AV1 playback should be typically designed to meet the demand of playing videos with such high compression standard.
@@ -98,13 +85,20 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 ![AV1 Player](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -122,22 +116,18 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-maximize-monetization-the-step-by-step-for-youtube-profiles/"><u>[New] 2024 Approved Maximize Monetization The Step-by-Step for YouTube Profiles</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-sky-high-quality-with-your-iphone-camera-essential-tips-top-8/"><u>[New] 2024 Approved Sky-High Quality with Your iPhone Camera Essential Tips (Top 8)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-techniques-for-convenient-iphone-screen-recording/"><u>[New] In 2024, Essential Techniques for Convenient Iphone Screen Recording</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instagram-glitch-reverse-angle-video-mystery/"><u>[Updated] Instagram Glitch Reverse-Angle Video Mystery</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-bank-balance-crafting-commercial-video-content/"><u>Boosting Bank Balance Crafting Commercial Video Content</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comparing-sling-orange-and-sling-blue-key-features-perks-and-accessories/"><u>Comparing Sling Orange and Sling Blue: Key Features, Perks, and Accessories</u></a></li>
-<li><a href="https://media-tips.techidaily.com/cutting-costs-not-quality-youtube-tvs-halved-nfl-sunday-ticket-offering/"><u>Cutting Costs, Not Quality: YouTube TV's Halved NFL Sunday Ticket Offering.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008968836-cyberpunk-2077-and-steam-a-comprehensive-guide-to-resolving-download-issues/"><u>Cyberpunk 2077 and Steam: A Comprehensive Guide to Resolving Download Issues.</u></a></li>
-<li><a href="https://media-tips.techidaily.com/deceptive-practices-when-your-fire-tv-pushes-paid-features-as-gratis-offerings/"><u>Deceptive Practices: When Your Fire TV Pushes Paid Features as Gratis Offerings</u></a></li>
-<li><a href="https://media-tips.techidaily.com/demand-youtube-to-separate-youtube-music-from-youtube-premium-services-now/"><u>Demand YouTube To Separate YouTube Music From YouTube Premium Services Now!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/disney-series-set-to-arrive-on-netflix-in-the-coming-year/"><u>Disney Series Set to Arrive on Netflix in the Coming Year</u></a></li>
-<li><a href="https://media-tips.techidaily.com/elevate-your-cinema-the-ultimate-selection-of-10-masterpieces-for-oled-tv-owners/"><u>Elevate Your Cinema: The Ultimate Selection of 10 Masterpieces for OLED TV Owners</u></a></li>
-<li><a href="https://media-tips.techidaily.com/elevate-your-viewing-max-invites-you-to-upgrade-to-ultra-hd-4k-content-at-a-special-price/"><u>Elevate Your Viewing: Max Invites You to Upgrade to Ultra HD 4K Content at a Special Price!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/embrace-comfort-secure-your-beloved-tv-series-on-blu-ray/"><u>Embrace Comfort: Secure Your Beloved TV Series on Blu-Ray</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-samsung-galaxy-z-flip-5-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Samsung Galaxy Z Flip 5? Fixed | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/smirk-spawners-identifying-premium-meme-tools-for-2024/"><u>Smirk Spawners Identifying Premium Meme Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-your-edits-top-10-youtube-editing-strategies-for-2024/"><u>[New] Elevate Your Edits Top 10 YouTube Editing Strategies for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-detailed-steps-to-record-hulu-on-every-os-and-device-type/"><u>[Updated] In 2024, Detailed Steps to Record Hulu on Every OS and Device Type</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/cloning-from-hdd-to-ssd-with-clonezilla-the-complete-walkthrough/"><u>Cloning From HDD to SSD with Clonezilla - The Complete Walkthrough</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-steps-for-converting-flv-video-tracks-to-mp3-format-both-web-based-and-local-methods-covered/"><u>Comprehensive Steps for Converting FLV Video Tracks to MP3 Format - Both Web-Based and Local Methods Covered</u></a></li>
+<li><a href="https://media-tips.techidaily.com/decoding-audio-file-types-understanding-the-distinct-characteristics-of-aiff-wav-flac-and-alac/"><u>Decoding Audio File Types: Understanding the Distinct Characteristics of AIFF, WAV, FLAC & ALAC</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-conversion-top-3-methods-for-changing-m3u8-streaming-files-into-mp3-audio/"><u>Effortless Conversion: Top 3 Methods for Changing M3U8 Streaming Files Into MP3 Audio</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-se-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone SE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-optimize-solo-streaming-with-flawless-execution-for-2024/"><u>How to Optimize Solo Streaming with Flawless Execution for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-add-fade-inout-premiere-pro/"><u>In 2024, Add Fade In/Out Premiere Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-aligning-brands-with-youtube-content/"><u>In 2024, The Art of Aligning Brands with YouTube Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-5-iphones-for-podcasting-pleasure-for-2024/"><u>Superior 5 iPhones for Podcasting Pleasure for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transform-your-aif-audio-to-mp3-in-no-time-top-techniques-for-web-and-desktop-use/"><u>Transform Your AIF Audio to MP3 in No Time - Top Techniques for Web & Desktop Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-frozen-opera-downloads-in-windows-sphere/"><u>Unlock Frozen Opera Downloads in Windows Sphere</u></a></li>
 </ul></div>
 

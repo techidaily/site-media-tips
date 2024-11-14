@@ -1,7 +1,7 @@
 ---
 title: "Cross-Platform Gaming: Controlling iPhone and iPad Games on Mac with PlayStation 4 & Xbox Wireless Controllers"
-date: 2024-11-09T07:02:38.309Z
-updated: 2024-11-13T04:23:06.972Z
+date: 2024-11-06T17:51:53.729Z
+updated: 2024-11-13T19:46:50.855Z
 tags:
   - airplay
 categories:
@@ -29,10 +29,10 @@ With the release of Apple Arcade, iOS 13 and iPadOS 13's support for PS4 and Xbo
 [Part 2\. Screen Mirror iOS 13/iPadOS Game to Computer](https://tools.techidaily.com/5kplayer/airplay/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Part 1\. How to Connect a PS4/Xbox One Controller on iOS 13/iPadOS?
@@ -52,10 +52,10 @@ If you're running iOS 13 or iPadOS 13, you can now use Sony PlayStation 4 DualSh
 ![Pair PS4 Controller to iOS 13](https://www.5kplayer.com/airplay/img/pair-ps4-controller-to-ios13.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4.** Now, on your iPhone or iPad, you should see "DUALSHOCK 4 Wireless Controller" pop up under OTHER DEVICES in the Bluetooth menu. Just tap it.  
@@ -73,26 +73,13 @@ If you're running iOS 13 or iPadOS 13, you can now use Sony PlayStation 4 DualSh
 
 ![Pair Xbox One Controller to iOS 13](https://www.5kplayer.com/airplay/img/pair-xbox-controller-to-ios13.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Notice:** You can use the model number 1708 of Xbox One, aka Xbox One S, to pair to iOS 13 and iPadOS. Also, the new Elite 2 controller with Bluetooth support that Microsoft Xbox just announced at E3 can be an ideal one. You may think that these two kinds of models can pair with the new iOS 13 and iPadOS, but the fact is most modern Xbox One controllers support Bluetooth that you can use to play games on iOS 13 iPhone and iPadOS iPad.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Play Games from iOS 13/iPadOS to Computer with PS4/Xbox One Controller?
@@ -115,6 +102,13 @@ Fire up a game and you're good to go. Besides helping play games from iOS 13/iPa
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -130,22 +124,24 @@ Fire up a game and you're good to go. Besides helping play games from iOS 13/iPa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-minimal-shake-cam-for-dynamic-shooting/"><u>[New] 2024 Approved Minimal-Shake Cam for Dynamic Shooting</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-pathway-to-streaming-google-meet-on-youtube-procedures/"><u>[New] The Pathway to Streaming Google Meet on YouTube Procedures</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-uniting-realms-a-comparative-study-of-mr-ar-and-vr-technologies/"><u>2024 Approved Uniting Realms A Comparative Study of MR, AR, and VR Technologies</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/diy-fix-unmarred-media-playback/"><u>DIY Fix: Unmarred Media Playback</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-chrome-os-native-screen-recorder/"><u>In 2024, Chrome OS Native Screen Recorder</u></a></li>
-<li><a href="https://win-forum.techidaily.com/rapid-startup-solutions-for-enhanced-windows-11-performance/"><u>Rapid Startup Solutions for Enhanced Windows 11 Performance</u></a></li>
-<li><a href="https://media-tips.techidaily.com/redbox-announces-complete-closure-end-of-an-era/"><u>Redbox Announces Complete Closure: End of an Era</u></a></li>
-<li><a href="https://media-tips.techidaily.com/requesting-spotifys-help-how-to-enable-muting-on-my-account/"><u>Requesting Spotify's Help - How To Enable Muting on My Account</u></a></li>
-<li><a href="https://media-tips.techidaily.com/reviving-my-damaged-macbook-as-a-superior-plex-streaming-station-surprisingly-exceptional-performance/"><u>Reviving My Damaged MacBook as a Superior Plex Streaming Station - Surprisingly Exceptional Performance!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simplified-seamless-viewing-discover-fire-tvs-new-continue-watching-functionality/"><u>Simplified Seamless Viewing: Discover Fire TV's New Continue Watching Functionality</u></a></li>
-<li><a href="https://media-tips.techidaily.com/slash-costs-with-directv-opt-out-of-local-networks-for-greater-savings/"><u>Slash Costs with DirecTV: Opt Out of Local Networks for Greater Savings</u></a></li>
-<li><a href="https://media-tips.techidaily.com/start-streaming-newly-available-movie-rental-service-with-plex-integration/"><u>Start Streaming: Newly Available Movie Rental Service with Plex Integration</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/stepwise-unveiling-effect-for-2024/"><u>Stepwise Unveiling Effect for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-declining-standard-of-promotions-on-amazons-fire-tv-platform/"><u>The Declining Standard of Promotions on Amazon's Fire TV Platform</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-end-of-an-era-how-plex-steps-back-from-its-venture-in-vr-technology/"><u>The End of an Era: How Plex Steps Back From Its Venture in VR Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transferir-peliculas-de-dvd-a-la-nube-facilmente-metodos-para-usar-google-drive-e-icloud/"><u>Transferir Películas De DVD a La Nube Fácilmente: Métodos Para Usar Google Drive E iCloud</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-record-a-podcast-effortlessly-a-step-by-step-guide/"><u>Updated How to Record a Podcast Effortlessly A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-chill-bites-analysis-in-depth-review-of-ice-cream-recorder/"><u>[Updated] Chill Bites Analysis In-Depth Review of Ice Cream Recorder</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-choose-wisely-the-ultimate-list-of-mac-gif-tools/"><u>[Updated] Choose Wisely The Ultimate List of Mac GIF Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-finalizing-account-deletion-on-instagram-method-and-tips/"><u>[Updated] In 2024, Finalizing Account Deletion on Instagram Method and Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-quick-guide-to-influential-instagram-hashtags/"><u>[Updated] In 2024, Quick Guide to Influential #Instagram Hashtags</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-combo-for-your-yi-4k-adventures/"><u>[Updated] The Ultimate Combo for Your YI 4K Adventures</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/benchmarking-the-latest-chromecast-with-google-tv-against-firetv-an-in-depth-review/"><u>Benchmarking the Latest Chromecast with Google TV Against FireTV - An In-Depth Review</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-dat-to-anything-converter-seamless-format-transformation-made-simple/"><u>Easy DAT-to-Anything Converter: Seamless Format Transformation Made Simple</u></a></li>
+<li><a href="https://media-tips.techidaily.com/explore-and-capture-in-style-ranking-the-5-superior-gopro-cameras-on-the-market/"><u>Explore & Capture in Style: Ranking the 5 Superior GoPro Cameras on the Market</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/exploring-the-disparities-between-youtube-and-dailymention/"><u>Exploring the Disparities Between YouTube and DailyMention</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-and-simple-techniques-for-converting-audio-samples-into-mp4-videos-6-proven-methods/"><u>Free and Simple Techniques for Converting Audio Samples Into MP4 Videos - 6 Proven Methods</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-optimally-transform-vob-videos-into-superior-swf-with-best-practices/"><u>How to Optimally Transform VOB Videos Into Superior SWF with Best Practices</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/in-depth-analysis-avc-converter-evaluation-and-top-3-viable-alternatives/"><u>In-Depth Analysis: AVC Converter Evaluation & Top 3 Viable Alternatives</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-webm-explained-a-complete-manual-covering-every-aspect-youll-ever-want-to-know/"><u>Mastering WebM Explained: A Complete Manual Covering Every Aspect You'll Ever Want to Know</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-4-methods-to-seamlessly-transform-your-m2ts-files-into-ipad-compatible-videos/"><u>Top 4 Methods to Seamlessly Transform Your M2TS Files Into iPad-Compatible Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-best-free-software-to-convert-mp4-files-into-asf-format/"><u>Top 5 Best Free Software to Convert MP4 Files Into ASF Format</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-free-ransomware-recovery-tools-to-safeguard-your-data/"><u>Top Free Ransomware Recovery Tools to Safeguard Your Data</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620235375-turn-your-ipod-into-a-portable-cinema-with-our-top-video-conversion-tool/"><u>Turn Your iPod Into a Portable Cinema with Our Top Video Conversion Tool!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/vrij-en-gemakkelijk-wav-wmv-conversie-online-movavi/"><u>Vrij en Gemakkelijk Wav-Wmv Conversie Online - Movavi</u></a></li>
 </ul></div>
 

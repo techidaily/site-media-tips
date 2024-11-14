@@ -1,7 +1,7 @@
 ---
 title: How To Easily Fix Offset in VLC's Subtitles – Top Solutions Inside
-date: 2024-10-13T00:31:54.840Z
-updated: 2024-10-18T01:32:27.436Z
+date: 2024-11-10T04:02:08.409Z
+updated: 2024-11-13T23:05:33.438Z
 tags:
   - vlc
 categories:
@@ -38,22 +38,15 @@ Since VLC media player is a cross-platform software, we will explain the solutio
 [Sync Subtitles VLC on Apple TV >>](https://tools.techidaily.com/5kplayer/products/)  
 [Best VLC Alternative to Solve VLC Subtitle Delay >>](https://tools.techidaily.com/5kplayer/products/)  
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solve VLC Subtitle Delay on Windows, Mac, iOS, Android & TV
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/1.png) **How to Sync Subtitles in VLC on Windows PC?**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Method 1.** When playing a video or movie with VLC media player, you simply use the hotkey to adjust the subtitle delay or forward. If subtitle is ahead of sound, press **G**. If subtitle is behind sound, press **H**. With every key press, it will adjust the subtitle by 50 milliseconds, and you will see the confirmation "Subtitle delay 50ms" or "Subtitle delay -50ms" on the top right corner of the playing screen.
@@ -84,10 +77,10 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 #### ![](https://www.5kplayer.com/vlc/../seoimg/2.png) **How to Adjust Subtitle Timing in VLC on Mac?**
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Method 1.** During playback, you can press hotkey **H** (decrease delay, subtitles show after sound) or **J** (increase delay, subtitles display before sound) to sync subtitles in VLC. Same with that on Windows PC, every key press will adjust 50 milliseconds.
@@ -110,13 +103,20 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 ![VLC Subtitle Synchronization Android](https://www.5kplayer.com/vlc/img/vlc-subtitle-android.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### ![](https://www.5kplayer.com/vlc/../seoimg/4.png) **How to Sync Subtitles in VLC on iOS iPhone/iPad?**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1\. Open a video with VLC media player for iOS.  
@@ -126,14 +126,14 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 ![VLC Subtitle Synchronization iOS](https://www.5kplayer.com/vlc/img/vlc-subtitle-ios.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### ![](https://www.5kplayer.com/vlc/../seoimg/5.png) **How to Adjust Subtitles in VLC on Apple TV?**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1\. When watching a video on Apple TV, swipe down on your remote’s Touch surface.  
  2\. Swipe right to see the Subtitles or Audio menus  
@@ -175,19 +175,18 @@ Actually VLC not working problems vary, and 5KPlayer is also the best alternativ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-building-your-hyperlapse-filmmaking-toolkit/"><u>[New] Building Your Hyperlapse Filmmaking Toolkit</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-ideal-software-tools-for-embossing-photos-with-framing/"><u>[New] Ideal Software Tools for Embossing Photos with Framing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-showdown-evaluating-claude-and-chatgpt-to-find-your-perfect-daily-assistant/"><u>AI Showdown: Evaluating Claude and ChatGPT to Find Your Perfect Daily Assistant</u></a></li>
-<li><a href="https://media-tips.techidaily.com/amd-powered-aiseesoft-fast-and-efficient-video-transcoding-solutions/"><u>AMD-Powered Aiseesoft: Fast and Efficient Video Transcoding Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/blitzing-through-images-on-win11-for-2024/"><u>Blitzing Through Images on Win11 for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-guide-to-resolving-vrchat-load-failures-for-an-uninterrupted-experience/"><u>Complete Guide to Resolving VRChat Load Failures for an Uninterrupted Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-resolve-compatibility-problems-with-ralink-rt3290-wi-fi-adapter-in-windows-1187-systems/"><u>How to Resolve Compatibility Problems with Ralink RT3290 Wi-Fi Adapter in Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y200-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-simple-guide-converting-flv-files-for-ipad-iphone-and-psp-devices-on-your-mac/"><u>Quick & Simple Guide: Converting FLV Files for iPad, iPhone & PSP Devices on Your Mac</u></a></li>
-<li><a href="https://facebook.techidaily.com/seize-share-of-facebooks-massive-725m-settlement-fund/"><u>Seize Share of Facebook's Massive $725M Settlement Fund</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transferring-your-diy-dvd-footage-into-imovie/"><u>Step-by-Step Guide: Transferring Your DIY DVD Footage Into iMovie</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-picks-the-best-online-and-offline-tools-for-media-format-conversion/"><u>Top Picks: The Best Online and Offline Tools for Media Format Conversion</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transforming-mkv-files-to-mp4-on-mac-top-5-cost-free-methods/"><u>Transforming MKV Files to MP4 on Mac: Top 5 Cost-Free Methods</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-windows-11-guide-titling-video-files-in-photos-app/"><u>[Updated] In 2024, Windows 11 Guide Titling Video Files in Photos App</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-universal-dlna-players-for-cross-device-media-sync-optimal-compatibility-with-pcmac-android-smart-tvs-and-audio-systems/"><u>Best Universal DLNA Players for Cross-Device Media Sync: Optimal Compatibility with PC/Mac, Android, Smart TVs, and Audio Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-video-player-options-for-windows-1011-including-daums-free-potplayer-app/"><u>Best Video Player Options for Windows 10/11, Including Daum's Free PotPlayer App</u></a></li>
+<li><a href="https://media-tips.techidaily.com/come-trasformare-il-tuo-pc-con-windows-10-in-un-server-multimediale-con-dlna/"><u>Come Trasformare Il Tuo PC Con Windows 10 in Un Server Multimediale Con DLNA</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-cv-with-ais-help-from-chatgpt/"><u>Enhancing Your CV with AI's Help From ChatGPT</u></a></li>
+<li><a href="https://media-tips.techidaily.com/gratis-herunterladbare-dvd-player-programme-fur-windows-11-und-macos-beste-optionen-finden/"><u>Gratis Herunterladbare DVD-Player-Programme Für Windows 11 Und macOS – Beste Optionen Finden</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-gopro-hero5-black-vs-garmin-virb-ultra-30-which-one-is-better/"><u>In 2024, GoPro Hero5 Black VS Garmin Virb Ultra 30 Which One Is Better?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-immediate-frame-grabbers-help/"><u>In 2024, Immediate Frame Grabber's Help</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/levelplay-combat-air-ca4-cpu-cooler-a-thorough-review-on-low-noise-high-performance-cooling-excellence/"><u>Levelplay Combat Air CA^4 CPU Cooler: A Thorough Review on Low Noise, High Performance Cooling Excellence</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mirroring-made-easy-transferring-data-from-your-iphone-to-any-windows-os-in-just-four-steps/"><u>Mirroring Made Easy: Transferring Data From Your iPhone to Any Windows OS in Just Four Steps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/transforming-mac-usage-discover-stellars-fix/"><u>Transforming Mac Usage – Discover Stellar's Fix</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-successfully-casting-your-ipad-air-pro-or-mini-to-computer-mac-and-tv/"><u>Ultimate Guide: Successfully Casting Your iPad Air, Pro, or Mini to Computer, Mac, and TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722869933614-your-scoop-on-samsungs-big-day-a-complete-guide-to-whats-coming/"><u>Your Scoop on Samsung's Big Day - A Complete Guide to What’s Coming !</u></a></li>
 </ul></div>
 

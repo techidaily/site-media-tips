@@ -1,7 +1,7 @@
 ---
 title: Mastering Video Navigation with VLC's Custom Bookmark Feature
-date: 2024-10-11T00:44:44.107Z
-updated: 2024-10-17T20:11:40.408Z
+date: 2024-11-09T00:12:24.338Z
+updated: 2024-11-14T01:06:27.489Z
 tags:
   - vlc
 categories:
@@ -25,10 +25,16 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 How to continue your playback from where you left last time? How to easily access the specific parts in a very long video with a few clicks? **VLC Custom Bookmarks** feature will help remember the video playback position you just want to save. No need to spend much time to step forward your video, you can easily get to the right position without missing a frame.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Create Bookmarks in VLC Media Player?
@@ -40,10 +46,10 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Custom Bookmarks](https://www.5kplayer.com/vlc/img/vlc-custom-bookmark.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3.** When the **Edit Bookmarks** window pops up, just click on the **Create** button to add bookmarks to your video. 
@@ -51,16 +57,16 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Create Bookmarks](https://www.5kplayer.com/vlc/img/vlc-create-bookmarks.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4.** To find the specific bookmarked video to play, just click on **Playback** \> **Custom Bookmarks** and choose the one to start playing.
@@ -94,10 +100,10 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -115,22 +121,14 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-discover-comedy-tear-fusion-in-these-highest-rated-memetic-accounts-for-2024/"><u>[New] Discover Comedy-Tear Fusion in These Highest Rated Memetic Accounts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovations-in-vr-a-deep-dive-into-the-best-engine-updates/"><u>[New] Innovations in VR A Deep Dive Into the Best Engine Updates</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-why-instagram-story-highlights-matter-a-primer-for-2024/"><u>[New] Why Instagram Story Highlights Matter A Primer for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sliding-to-victory-celebrating-the-best-in-snowboard-cross-winter-games-22/"><u>[Updated] Sliding to Victory Celebrating the Best in Snowboard Cross, Winter Games '22</u></a></li>
-<li><a href="https://media-tips.techidaily.com/beginners-guide-crafting-memes-with-your-iphone-top-5-latest-tools-and-apps/"><u>Beginner's Guide: Crafting Memes with Your iPhone - Top 5 Latest Tools and Apps</u></a></li>
-<li><a href="https://media-tips.techidaily.com/complete-step-by-step-tutorial-creating-customizable-gif-wallpapers-across-various-devices/"><u>Complete Step-by-Step Tutorial: Creating Customizable GIF Wallpapers Across Various Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/elevate-your-memes-the-best-software-solutions-for-super-sized-sharper-gifs/"><u>Elevate Your Memes: The Best Software Solutions for Super-Sized, Sharper GIFs</u></a></li>
-<li><a href="https://games-able.techidaily.com/endocannabinoid-signaling-pathways-and-their-impact-on-mood-regulation/"><u>Endocannabinoid Signaling Pathways and Their Impact on Mood Regulation</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expert-strategies-for-effortlessly-capturing-and-saving-your-favorite-gifs-with-leading-downloaders/"><u>Expert Strategies for Effortlessly Capturing and Saving Your Favorite GIFs with Leading Downloaders</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12r-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12R Phone without PIN</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-tackling-negative-comments-a-content-creators-mantra/"><u>In 2024, Tackling Negative Comments A Content Creator's Mantra</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-the-art-of-sharing-animated-gifs-on-instagram-tips-for-your-feed-and-stories/"><u>Mastering the Art of Sharing Animated GIFs on Instagram: Tips for Your Feed & Stories</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620262023-must-know-tips-for-converting-wmv-videos-to-gif-format-avoid-missing-out/"><u>Must-Know Tips for Converting WMV Videos to GIF Format: Avoid Missing Out</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-6s-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6s Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620262066-top-6-must-have-tools-convert-your-favorite-gifs-into-videos-seamlessly/"><u>Top 6 Must-Have Tools: Convert Your Favorite GIFs Into Videos Seamlessly</u></a></li>
-<li><a href="https://location-social.techidaily.com/ultimate-guide-to-solving-iphones-phantom-tap-issue-top-10-proven-remedies/"><u>Ultimate Guide to Solving iPhone's Phantom Tap Issue: Top 10 Proven Remedies</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-selecting-the-top-5-gif-looper-applications-for-seamless-image-cycling/"><u>Ultimate Guide: Selecting the Top 5 GIF Looper Applications for Seamless Image Cycling</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-harnessing-microsoft-teams-power-with-simple-snap-camera-use-for-2024/"><u>[New] Harnessing Microsoft Teams' Power with Simple Snap Camera Use for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-new-speech-potentials-on-chrome-ranked-top-voice-alteration-tools/"><u>[Updated] Unlock New Speech Potentials on Chrome Ranked Top Voice Alteration Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-s23plus-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy S23+ to Roku | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/fixing-compatibility-problems-with-media-player-classic-and-mkv-files-in-widnows-11-and-macos/"><u>Fixing Compatibility Problems with Media Player Classic and MKV Files in Widnows 11 & macOS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-the-art-of-8k-streaming-tutorial-on-enabling-airplay-with-your-ultra-hd-tv/"><u>Mastering the Art of 8K Streaming: Tutorial on Enabling AirPlay with Your Ultra HD TV</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-free-upnp-dlna-compatible-media-servers-for-windows-10-8-and-7/"><u>Top Free Upnp Dlna Compatible Media Servers for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-top-10-free-multimedia-players-compatible-with-windows-and-mac-os/"><u>Ultimate Top 10 Free Multimedia Players: Compatible with Windows and Mac OS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-world-of-sound-on-ios-apple-point-and-click-guide-for-2024/"><u>Unlocking the World of Sound on iOS Apple' Point-and-Click Guide for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Optimize Your VLC Experience - How to Successfully Play MP4 Videos on Windows and MacOS"
-date: 2024-11-07T03:36:36.567Z
-updated: 2024-11-12T17:26:29.722Z
+date: 2024-11-07T21:37:54.397Z
+updated: 2024-11-13T19:18:59.381Z
 tags:
   - video-music-player
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/75622c9aef94101b38b55f9079234e66e622d3109
 It can be extremely vexing when you want to play a common file format - MP4 and it ends up in "fail to open" or "black screen" situation in VLC. There are many possible reasons that might lead to this **VLC not playing MP4** issue like nonstandard MP4 codecs and corrupted MP4 files. Here, we provide you serval efficient solutions to VLC won't MP4 problem. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Reasons & Solutions to Your VLC Can't Play MP4 Files:
@@ -53,22 +53,15 @@ There are many reasons that might lead to "VLC won't play MP4" issue: your MP4 f
 ![Tackle VLC Won't Play MP4 Issue](https://www.5kplayer.com/video-music-player/img/5kp-vlc-mp4-zjy-001.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2\. Now navigate to "Input/Codecs" --> "Video Codecs" --> "FFmpeg", in there you'll want to uncheck the box that relates to "Hardware decoding".
 
 ![Solve VLC MP4 Problem](https://www.5kplayer.com/video-music-player/img/5kp-vlc-mp4-zjy-002.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Close VLC and open it up again, load up your video and see if that works for solving MP4 not playing in VLC error.
 
@@ -79,8 +72,6 @@ There are many reasons that might lead to "VLC won't play MP4" issue: your MP4 f
  You can leave the MP4 playback problem to the professional MP4 player - 5KPlayer, which supports tons of A/V formats like h264, h265, VP8, VP9, Xvid and it is able to play incomplete, unfinished, damaged videos or an unknown format in its raw form. It is one of the best solutions to VLC not playing MP4 problem as of now. 5KPlayer also outshines other MP4 players in image rendering ability with 4K/8K video support. Other file formats like FLV, WMV, MKV are also supported by 5KPlayer. To solve mixed VLC problems like [VLC not working](https://tools.techidaily.com/5kplayer/video-music-player/), [VLC H265 4K playback problems](https://tools.techidaily.com/5kplayer/video-music-player/), you can refer to the links accordingly.
 
 ![Best Free MP4 Player](https://www.5kplayer.com/video-music-player/img/flv-player-free-download.jpg) 
-
-[![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
 <span id="1982462">
@@ -93,6 +84,15 @@ There are many reasons that might lead to "VLC won't play MP4" issue: your MP4 f
 	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+[![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -110,20 +110,24 @@ There are many reasons that might lead to "VLC won't play MP4" issue: your MP4 f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-the-ultimate-guide-to-youtube-live-streaming/"><u>[New] In 2024, The Ultimate Guide to YouTube Live Streaming</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-elevating-your-live-broadcast-with-mixer-on-macos/"><u>[Updated] 2024 Approved Elevating Your Live Broadcast with Mixer on macOS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-skyrocket-viewer-count-efficient-templated-content-creation-in-youtube-descs/"><u>2024 Approved Skyrocket Viewer Count Efficient Templated Content Creation in YouTube Descs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-yi-4k-action-excellence-choosing-the-best-extras/"><u>2024 Approved YI 4K Action Excellence Choosing the Best Extras</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conversational-leap-forward-chatgpts-new-voice-capability-unveiled-by-openai/"><u>Conversational Leap Forward: ChatGPT's New Voice Capability Unveiled by OpenAI</u></a></li>
-<li><a href="https://driver-error.techidaily.com/core-isolation-disabled-on-wdcsam64prewin8sys-fix/"><u>Core Isolation Disabled on wdcsam64_prewin8.sys Fix</u></a></li>
-<li><a href="https://media-tips.techidaily.com/die-top-5-gratis-360-video-player-fur-windows-10-and-mac-herunterladen-ohne-zogern/"><u>Die Top-5 Gratis 360° Video Player Für Windows 10 & Mac: Herunterladen Ohne Zögern</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-and-best-mac-compatible-media-streaming-software-featuring-native-dlna-functionality/"><u>Free & Best MAC Compatible Media Streaming Software Featuring Native DLNA Functionality</u></a></li>
-<li><a href="https://media-tips.techidaily.com/get-your-free-vlc-media-player-update-40-with-advanced-features-and-resolved-issues/"><u>Get Your Free VLC Media Player Update 4.0 with Advanced Features & Resolved Issues</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-blend-voice-recordings-into-ppt-framework/"><u>In 2024, Blend Voice Recordings Into PPT Framework</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/pc-gaming-essentials-mastering-sky-children-of-the-light-with-a-comprehensive-tutorial/"><u>PC Gaming Essentials: Mastering 'Sky - Children of the Light' With a Comprehensive Tutorial</u></a></li>
-<li><a href="https://article-helps.techidaily.com/solo-spotlight-crafting-a-chart-topping-podcast-for-2024/"><u>Solo Spotlight Crafting a Chart-Topping Podcast for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-best-free-dvd-player-software-recommendations-for-windows-and-mac/"><u>Top 5 Best Free DVD Player Software Recommendations for Windows & Mac</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-guide-resolving-netflix-app-problems-for-windows-11-and-8-users/"><u>Troubleshooting Guide: Resolving Netflix App Problems for Windows 11 and 8 Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-gameplay-reel-how-to-reviewed-for-2024/"><u>[Updated] Gameplay Reel How-To Reviewed for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/a-comprehensive-guide-to-unveiling-key-disparities-4k-resolution-vs-1080p-high-definition/"><u>A Comprehensive Guide to Unveiling Key Disparities - 4K Resolution vs 1080P High Definition</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-englished-subtitles-available-in-yeh-jawani-hain-diwani-movie/"><u>Best Englished Subtitles Available in 'Yeh Jawani Hain Diwani' Movie</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-x-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On Apple iPhone X</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-and-geniell-installing-guide-till-18-gratis-filmtjuvkar-for-windows-1187/"><u>DiscoveR & Geniell Installing-Guide Till 18 Gratis Filmtjuvkar För Windows (11/8/7)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-steps-quick-guide-to-changing-avi-files-into-3gp-format/"><u>Easy Steps: Quick Guide to Changing AVI Files Into 3GP Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-effortlessly-convert-mp4-videos-into-mov-format-on-your-mac/"><u>How to Effortlessly Convert MP4 Videos Into MOV Format on Your Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-choreographed-ice-winter-olympics-highlights/"><u>In 2024, Choreographed Ice Winter Olympics Highlights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y78-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y78 5G Phone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-miniature-movie-dialogue-draft/"><u>In 2024, Miniature Movie Dialogue Draft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-transforma-gravamenes-de-video-mpeg-en-audio-flac-sin-coste-adicional-online/"><u>Movavi - Transforma Gravámenes De Vídeo MPEG en Audio FLAC Sin Coste Adicional Online</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ating-sony-vegas-for-professional-youtube-video-creation/"><u>Navigating Sony Vegas for Professional YouTube Video Creation</u></a></li>
+<li><a href="https://media-tips.techidaily.com/newest-mac-compatible-xbox-game-trailers-transcoding-tool/"><u>Newest Mac Compatible Xbox Game Trailers Transcoding Tool</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-guide-how-to-transform-avchd-mts-videos-into-galaxy-note-friendly-formats/"><u>Quick Guide: How to Transform AVCHD MTS Videos Into Galaxy Note-Friendly Formats</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-nokia-150-2023-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Nokia 150 (2023) to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-flv-videos-to-high-quality-wav-audio/"><u>Step-by-Step Guide: Transforming FLV Videos to High-Quality WAV Audio</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-strategies-for-converting-video-formats-mp4-avi-flv-wmv-mpeg-vob-and-mkv-into-compatible-sansa-files/"><u>Top Strategies for Converting Video Formats: MP4, AVI, FLV, WMV, MPEG, VOB & MKV Into Compatible Sansa Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-techniques-transforming-your-flv-files-into-mp4-format-via-web-or-desktop-applications/"><u>Top Techniques: Transforming Your FLV Files Into MP4 Format Via Web or Desktop Applications</u></a></li>
 </ul></div>
 

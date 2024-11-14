@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Sharing Your iOS Gaming Sessions on Twitch via OBS
-date: 2024-10-25T16:02:44.365Z
-updated: 2024-10-29T16:23:29.238Z
+date: 2024-11-06T18:34:55.712Z
+updated: 2024-11-14T00:35:36.657Z
 tags:
   - airplay
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d8
 Anyone who wants to **broadcast iOS games on Twitch.tv using OBS streaming** would find it quite annoying that OBS requires the game to be playing on the desktop in the first place. This is not at all a problem for macOS users, since they can directly mirror iPhone/iPad iOS screen to a Mac. But it can be quite another story for Windows user. How can we add iOS to OBS streaming source on PC Windows to stream Fortnite on Twitch PC? [5KPlayer](https://tools.techidaily.com/5kplayer/products/) freeware holds the answer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Stream Fortnite iOS Game with OBS to Twitch/FB/Twitter?
@@ -45,10 +45,10 @@ Ta-dah, your iPad screen is now shown on your Windows computer, ready to be capt
 ![iPhone Xs Max Screen Mirroring](https://www.5kplayer.com/airplay/img/ipad-pro-2-windows-10-b.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3**: Open OBS, under Source, and click on "Add", choose Windows Capture to capture 5KPlayer window precisely.
@@ -58,17 +58,10 @@ Ta-dah, your iPad screen is now shown on your Windows computer, ready to be capt
 ![OBS iPhone Streaming](https://www.5kplayer.com/airplay/img/obs-ios.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Stream iOS Games Fortnite to Twitch.tv with OBS on PC
@@ -87,6 +80,13 @@ You will need to get the Stream Key before broadcasting to Twitch.tv
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -102,18 +102,19 @@ You will need to get the Stream Key before broadcasting to Twitch.tv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-sparkle-your-streams-top-5-tech-gems-for-videos/"><u>[New] In 2024, Sparkle Your Streams Top 5 Tech Gems for Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-visual-simplification-in-hybrid-workspaces-with-zoom-and-google-meet/"><u>[New] Visual Simplification in Hybrid Workspaces with Zoom & Google Meet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unraveling-the-metaverse-an-analysis-of-6-complex-instances/"><u>[Updated] Unraveling the Metaverse An Analysis of 6 Complex Instances</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-excellent-no-cost-online-radio-software-top-picks-and-downloads/"><u>Discover Excellent No-Cost Online Radio Software – Top Picks and Downloads</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-techniques-for-seamlessly-mirroring-your-iphone-screen-on-a-mac/"><u>Effortless Techniques for Seamlessly Mirroring Your iPhone Screen on a Mac</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-high-definition-playback-software-compatible-with-windows-and-macos-enhanced-with-4k-hdr-support/"><u>Free High Definition Playback Software: Compatible with Windows and macOS, Enhanced with 4K HDR Support!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/get-your-free-copy-of-umplayer-today-seamless-multimedia-experience-on-windows-11-systems/"><u>Get Your Free Copy of UMPlayer Today! Seamless Multimedia Experience on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-decide-what-to-watch-next/"><u>How to Use ChatGPT to Decide What to Watch Next</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-xs-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone XS Max Making It Possible</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-2024-assassins-creed-syndicate-glitches-ultimate-troubleshooting-guide/"><u>Solving the 2024 Assassin’s Creed: Syndicate Glitches - Ultimate Troubleshooting Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/streaming-made-simple-use-airplay-on-iphoneipad-even-if-you-dont-own-an-apple-tv/"><u>Streaming Made Simple: Use AirPlay on iPhone/iPad Even If You Don't Own an Apple TV</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-amendment-should-be-introduced-as-the-protection-of-urinalysis-data-act/"><u>The Amendment Should Be Introduced as The Protection of Urinalysis Data Act.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-reno-11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo Reno 11 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unleashing-brand-potential-with-essential-phrases/"><u>[Updated] Unleashing Brand Potential with Essential Phrases</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-pioneering-sites-for-downloading-text-aesthetics/"><u>2024 Approved Pioneering Sites for Downloading Text Aesthetics</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/artistic-ventures-on-ios-the-bestiary-of-the-top-8-drawing-apps/"><u>Artistic Ventures on iOS The Bestiary of the Top 8 Drawing Apps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/cross-platform-dlna-streaming-from-smartphones-to-laptopsdesktops-to-hdtvs/"><u>Cross-Platform DLNA Streaming From Smartphones to Laptops/Desktops to HDTVs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-nokia-c12-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Nokia C12 Phone? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-learn-the-easy-way-of-transferring-music-and-videos-via-airplay-technology-for-windows-or-mac-at-no-cost/"><u>Guide: Learn the Easy Way of Transferring Music and Videos via AirPlay Technology for Windows or Mac - At No Cost!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-play-your-favorite-spotify-tracks-on-mac-or-pc-using-airplay-technology/"><u>How to Play Your Favorite Spotify Tracks on Mac or PC Using AirPlay Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-using-gpt-plugins-secure/"><u>Is Using GPT Plugins Secure?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pioneering-virtual-realms-equip-yourself-with-these-tech-for-2024/"><u>Pioneering Virtual Realms - Equip Yourself With These Tech for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/solving-playback-problems-in-windows-media-player-a-guide-for-mp4-files/"><u>Solving Playback Problems in Windows Media Player: A Guide for MP4 Files</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-capturing-gameplay-footage-of-gwent-across-pc-and-mobile-devices/"><u>Step-by-Step Guide: Capturing Gameplay Footage of Gwent Across PC & Mobile Devices</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-setting-up-and-using-apples-airplay-feature-with-your-imac-4k5k/"><u>Step-by-Step Guide: Setting Up and Using Apple's AirPlay Feature with Your iMac (4K/5K)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/violating-federal-regulations-can-result-in-fines-license-revocation-or-even-criminal-charges/"><u>Violating Federal Regulations Can Result in Fines, License Revocation, or Even Criminal Charges.</u></a></li>
 </ul></div>
 

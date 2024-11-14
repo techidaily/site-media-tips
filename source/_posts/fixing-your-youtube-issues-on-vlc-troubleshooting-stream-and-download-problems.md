@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your YouTube Issues on VLC: Troubleshooting Stream and Download Problems"
-date: 2024-10-12T21:03:06.714Z
-updated: 2024-10-18T01:17:55.091Z
+date: 2024-11-09T04:28:15.098Z
+updated: 2024-11-14T02:58:39.568Z
 tags:
   - vlc
 categories:
@@ -27,10 +27,10 @@ Not only the powerful media playback ability, but VLC should also own its big su
 VLC YouTube function offers us a much easier way to watch YouTube videos and movies without annoying advertisements or popups. If any interesting or educational video has attracted you, you can also save it with VLC to local folder for further viewing. However, YouTube transmission protocols change occasionally, and the changes may break the YouTube module embedded in VLC, thus making VLC unable to open YouTube videos. As YouTube updates unexpectedly, VLC YouTube not working problem may also happen out of your control, and therefore you are suggested to bookmark this guide when you want to stream and [download YouTube with VLC](https://tools.techidaily.com/5kplayer/youtube-download/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Solve VLC YouTube Live Stream not Working?
@@ -57,10 +57,10 @@ After scouring, I have only found that in May 2018 YouTube had figured out a way
 ![VLC YouTube Live Stream not Working](https://www.5kplayer.com/vlc/img/vlc-youtube-not-working.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6\. Copy the youtube.luac file to the following location:  
@@ -68,19 +68,6 @@ After scouring, I have only found that in May 2018 YouTube had figured out a way
  On Windows 32-bit: C:\\Program Files\\VideoLAN\\VLC\\lua\\playlist\\
 
 If lucky, you won't see the message "Your input can't be opened. [VLC is unable to open mrl](https://tools.techidaily.com/5kplayer/products/).", but stream YouTube videos directly through the URLs. 
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Solve VLC YouTube Download not Working?
 
@@ -98,6 +85,13 @@ As long as the video is playable on YouTube, VLC alternative 5KPlayer has the co
 
 ![VLC YouTube Download not Working](https://www.5kplayer.com/vlc/../youtube-download/img/download-fifty-shades-darker.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Notice:**   
  \* If you need a specific resolution for the video, you can click on the settings icon next to the video thumbnail to choose one before hitting the Download button. And download YouTube playlist is as the same as the method mentioned above.  
  \* 5KPlayer also features a DLNA function that allows you to [DLNA streaming](https://tools.techidaily.com/5kplayer/dlna/) YouTube videos music from iPhone/Android to PC/Mac and computer to Apple TV, Sony/Samsung/LG smart TV, Xbox one, etc wirelessly.
@@ -105,10 +99,10 @@ As long as the video is playable on YouTube, VLC alternative 5KPlayer has the co
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -126,17 +120,22 @@ As long as the video is playable on YouTube, VLC alternative 5KPlayer has the co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-fb-video-capture-toolkit/"><u>[Updated] FB Video Capture Toolkit</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-itel-a05s-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Itel A05s</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-avoid-social-stress-how-to-unfollow-people/"><u>In 2024, Avoid Social Stress How to Unfollow People</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/major-listing-of-affordable-visual-content-sites/"><u>Major Listing of Affordable Visual Content Sites</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620262154-quick-and-easy-guide-to-making-amazing-gifs-for-free-top-20-platforms-explored/"><u>Quick and Easy Guide to Making Amazing GIFs for Free – Top 20 Platforms Explored!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-accessing-hulu-streaming-on-your-lg-smart-television/"><u>Step-by-Step Guide: Accessing Hulu Streaming on Your LG Smart Television</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-compilation-mastering-animated-gifs-and-humorous-memes-for-joyful-moments/"><u>The Ultimate Compilation: Mastering Animated GIFs & Humorous Memes for Joyful Moments</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-buying-a-quality-projector-what-matters-most/"><u>The Ultimate Guide to Buying a Quality Projector - What Matters Most?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-for-creating-stunning-images-with-photo-cutouts-on-ios-16-devices/"><u>The Ultimate Walkthrough for Creating Stunning Images with Photo Cutouts on iOS 16 Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-techniques-for-merging-animation-gifs-explore-both-cost-free-and-premium-solutions/"><u>Top 5 Techniques for Merging Animation GIFs: Explore Both Cost-Free & Premium Solutions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-top-3-software-solutions-for-crafting-dynamic-gif-content-everywhere/"><u>Ultimate Top 3 Software Solutions for Crafting Dynamic GIF Content Everywhere</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/wmv-a-aiff-conversione-gratuita-e-online-con-movie-maker-di-movavi/"><u>WMV a AIFF: Conversione Gratuita E Online Con Movie Maker Di Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-design-guide-youtube-banners-and-thumbnail-creation/"><u>[Updated] 2024 Approved Design Guide YouTube Banners & Thumbnail Creation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/bridging-social-gaps-efficiently-share-video-content-between-platforms-for-2024/"><u>Bridging Social Gaps Efficiently Share Video Content Between Platforms for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comparing-top-techniques-how-to-cast-your-computer-screen-on-a-smart-tv/"><u>Comparing Top Techniques: How to Cast Your Computer Screen on a Smart TV</u></a></li>
+<li><a href="https://common-error.techidaily.com/destiny-2-wont-start-here-are-solutions-to-fix-initialization-errors/"><u>Destiny 2 Won't Start? Here Are Solutions to Fix Initialization Errors</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dji-phantom-4-pro-version-20-critique-striving-for-aerial-excellence/"><u>DJI Phantom 4 Pro Version 2.0 Critique: Striving for Aerial Excellence</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-top-free-players-and-alternatives-compare-with-potplayer-on-mac/"><u>Download Top FREE Players & Alternatives: Compare with PotPlayer on Mac</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-steps-for-seamless-sync-streaming-apples-latest-ipads-to-mac-devices-with-airplay-technology/"><u>Easy Steps for Seamless Sync: Streaming Apple's Latest iPads to Mac Devices with AirPlay Technology</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-instagram-image-addition-playbook/"><u>In 2024, The Instagram Image Addition Playbook</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-12-pro-max-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 12 Pro Max Is Unlocked</u></a></li>
+<li><a href="https://discover-help.techidaily.com/schnellste-methode-zum-upgrade-ihrer-lenovo-flex-6-mit-einer-ssd/"><u>Schnellste Methode Zum Upgrade Ihrer Lenovo Flex 6 Mit Einer SSD</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-free-youtube-video-download-using-the-vlc-media-player/"><u>Step-by-Step Tutorial on Free YouTube Video Download Using the VLC Media Player</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ranking-free-media-servers-compatible-with-upnpdlna-on-windows-11-8-and-7/"><u>Top Ranking Free Media Servers Compatible with UPnP/DLNA on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-upward-amplifying-your-youtube-audience-for-2024/"><u>Trending Upward Amplifying Your YouTube Audience for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/troubleshooting-guide-fixing-samsung-smart-tvs-airplay-connectivity-issues/"><u>Troubleshooting Guide: Fixing Samsung Smart TV's AirPlay Connectivity Issues</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-to-flawless-dlna-setup-linking-pcs-macs-smartphones-and-televisions-for-hassle-free-media-sharing/"><u>Ultimate Guide to Flawless DLNA Setup: Linking PCs, Macs, Smartphones & Televisions for Hassle-Free Media Sharing</u></a></li>
+<li><a href="https://media-tips.techidaily.com/watch-your-favorite-shows-on-tv-from-iphone/"><u>Watch Your Favorite Shows on TV From iPhone</u></a></li>
 </ul></div>
 
