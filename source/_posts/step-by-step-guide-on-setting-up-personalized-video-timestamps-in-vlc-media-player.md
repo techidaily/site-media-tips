@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide on Setting Up Personalized Video Timestamps in VLC Media Player
-date: 2024-10-31T02:08:51.617Z
-updated: 2024-11-04T04:52:42.353Z
+date: 2024-11-09T16:50:57.723Z
+updated: 2024-11-12T20:17:53.396Z
 tags:
   - vlc
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/6195218912eaa800d5cbedefde726b6171a7555ef
 How to continue your playback from where you left last time? How to easily access the specific parts in a very long video with a few clicks? **VLC Custom Bookmarks** feature will help remember the video playback position you just want to save. No need to spend much time to step forward your video, you can easily get to the right position without missing a frame.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Create Bookmarks in VLC Media Player?
@@ -40,10 +40,10 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Custom Bookmarks](https://www.5kplayer.com/vlc/img/vlc-custom-bookmark.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3.** When the **Edit Bookmarks** window pops up, just click on the **Create** button to add bookmarks to your video. 
@@ -51,10 +51,10 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Create Bookmarks](https://www.5kplayer.com/vlc/img/vlc-create-bookmarks.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4.** To find the specific bookmarked video to play, just click on **Playback** \> **Custom Bookmarks** and choose the one to start playing.
@@ -88,10 +88,10 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -109,18 +109,21 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-capturing-life-in-new-ways-hero-4-and-hero-5/"><u>[New] Capturing Life in New Ways Hero 4 & Hero 5</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-boredom-be-gone-find-joy-with-these-top-15-humorists/"><u>[Updated] 2024 Approved Boredom Be Gone Find Joy with These Top 15 Humorists</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-images-choose-the-top-grid-software-now/"><u>Elevate Images Choose the Top Grid Software Now</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-gigglestv-beginners-guide-to-making-videos/"><u>In 2024, GigglesTV Beginner's Guide to Making Videos</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620219701-mastering-3d-viewing-techniques-learn-what-is-3d-and-experience-movies-in-depth-fast/"><u>Mastering 3D Viewing Techniques - Learn What Is 3D and Experience Movies in Depth Fast</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-imovie-to-mp4-transfers-in-depth-explanatory-videos-for-professionals/"><u>Mastering iMovie to MP4 Transfers: In-Depth Explanatory Videos for Professionals</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mpg-to-divx-video-conversion-for-windows-and-macos-users-a-comprehensive-tutorial/"><u>MPG to DivX Video Conversion for Windows and macOS Users - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-5-why-traditional-handheld-devices-are-great/"><u>Prime 5: Why Traditional Handheld Devices Are Great</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-guide-switching-from-vob-to-xvid-simple-conversion-techniques/"><u>Quick Guide: Switching From VOB to XviD - Simple Conversion Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-error-code-327-in-star-wars-battlefront-ii-a-step-by-step-fix/"><u>Resolving 'Error Code 327' In Star Wars Battlefront II: A Step-by-Step Fix</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620222964-top-10-no-cost-nokia-video-converter-apps-for-mac-users-get-your-list-here/"><u>Top 10 No-Cost Nokia Video Converter Apps for Mac Users - Get Your List Here!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-video-shooting-equipment-a-comprehensive-review-for-2024/"><u>Top Video Shooting Equipment A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/under-100-budget-friendly-action-cams-top-choices-guide/"><u>Under-$100 Budget-Friendly Action Cams – Top Choices Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-learn-to-leverage-kinemasters-features-for-maximum-gaming-fun-then-compare/"><u>[New] Learn to Leverage KineMaster's Features for Maximum Gaming Fun, Then Compare</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-secrets-of-facebook-cover-vids-for-aspiring-social-media-stars/"><u>[Updated] 2024 Approved Secrets of Facebook Cover Vids for Aspiring Social Media Stars</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-exquisite-selection-idle-games-with-infinite-play/"><u>2024 Approved Exquisite Selection Idle Games with Infinite Play</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-top-7-audio-converters-from-m4a-to-mp3-compatible-with-mac-windows-and-web/"><u>Best Top 7 Audio Converters From M4A to MP3: Compatible with Mac, Windows & Web</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/discover-the-best-unboxing-experience-on-youtube/"><u>Discover the Best Unboxing Experience on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/enhancing-video-production-quality-top-5-strategies-for-obs-users-for-2024/"><u>Enhancing Video Production Quality Top 5 Strategies for OBS Users for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-resolving-connectivity-issues-in-street-fighter-6-on-windows-computers/"><u>Expert Tips for Resolving Connectivity Issues in Street Fighter 6 on Windows Computers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-change-video-audio-from-vob-to-wav-format-using-pc-and-web-services/"><u>How to Change Video Audio From VOB to WAV Format Using PC and Web Services</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-ogg-recordings-into-mp3-tips-for-both-pc-and-mac-users/"><u>How to Transform OGG Recordings Into MP3: Tips for Both PC and Mac Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-your-mp3-audio-into-mp4-video-for-free-using-web-tools-windows-and-mac-compatible/"><u>How to Transform Your MP3 Audio Into MP4 Video for Free Using Web Tools: Windows and Mac Compatible</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-for-effortless-apple-podcast-acquisition-swift-and-smooth/"><u>In 2024, How-To for Effortless Apple Podcast Acquisition – Swift & Smooth</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterful-online-advertising-for-beginners-4-must-know-strategies/"><u>Masterful Online Advertising for Beginners 4 Must-Know Strategies</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp3-transformation-of-mov-videos-for-pc-mac-and-mobile-the-ultimate-tutorial/"><u>MP3 Transformation of MOV Videos for PC, Mac, and Mobile - The Ultimate Tutorial</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-leading-6-tools-for-transforming-your-audio-from-mp3-to-ogg-format-available-both-offline-and-online/"><u>The Leading 6 Tools for Transforming Your Audio From MP3 to OGG Format, Available Both Offline and Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-visuals-on-the-social-media-giant-fb/"><u>Twitters' Visuals on the Social Media Giant FB</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-to-choosing-the-best-audio-format-converter-for-pcs-windows-1187-supporting-mp3-wma-flac-wav-and-aiff/"><u>Ultimate Guide to Choosing the Best Audio Format Converter for PCs (Windows 11/8/7): Supporting MP3, WMA, FLAC, WAV, and AIFF</u></a></li>
 </ul></div>
 

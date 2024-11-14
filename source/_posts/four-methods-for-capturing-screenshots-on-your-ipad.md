@@ -1,7 +1,7 @@
 ---
 title: Four Methods for Capturing Screenshots on Your iPad
-date: 2024-10-28T16:04:11.563Z
-updated: 2024-11-04T09:18:39.864Z
+date: 2024-11-06T17:44:57.083Z
+updated: 2024-11-13T10:15:08.816Z
 tags:
   - airplay
 categories:
@@ -47,7 +47,21 @@ iPad with iOS 11 or later and iPadOS has an embedded screen recorder that you ca
 **Step 1\. Add iPad screen recording function to Control Center**  
  Go to Settings > Control Center > Customizable Controls > tap the "plus" icon ![](https://www.5kplayer.com/airplay/img/plus-icon.jpg) next to Screen Recording to add it to Control Center > Go back to the UI of iPad
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Add Screen Recording to Control Center](https://www.5kplayer.com/airplay/img/add-screen-recording-to-control-center.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2\. Activate iPad screen recording**  
  1\. Swipe up from the bottom of any screen if you have an iOS 11 iPad, or swipe down from the upper-right corner of the screen if you have an iPad with iOS 12 or iPadOS.  
@@ -57,10 +71,10 @@ iPad with iOS 11 or later and iPadOS has an embedded screen recorder that you ca
 ![Start Recording iPad](https://www.5kplayer.com/airplay/img/start-ipad-screen-recording.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3\. Start recording iPad screen**  
@@ -98,13 +112,6 @@ By making use of QuickTime, you are able to record iPad screen without the need 
 
 ![Record iPad Screen via QuickTime](https://www.5kplayer.com/airplay/img/5k-screen-recorder-for-ipad-trl-031602.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Notice:** If you want to [trim a video](https://tools.techidaily.com/5kplayer/video-music-player/) to keep only the relevant part, you can hit Cmd+T before saving the video to realize that.
 
 **Cons of this way:**   
@@ -126,16 +133,16 @@ Like QuickTime Player, 5KPlayer is also a media player which supports iPad/[iPho
 
 ![iPhone Screen Mirroring](https://www.5kplayer.com/airplay/img/iphone-screen-mirroring.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5.** Now, you can see your iPad screen has been cast to your computer. Just hit the red circle on your computer to start recording and click the icon again to stop. The recorded video will show in "AirRecord" playlist in the Library of 5KPlayer.
 
 ![Screen Record iOS via 5KPlayer](https://www.5kplayer.com/airplay/img/5kplayer-record-iphone-screen.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Cons of this way:**   
  \* Need installation.  
@@ -146,13 +153,6 @@ BTW, you can also edit your recorded video to keep the good and trim out the bad
 As an AirPlay-enabled 4K video player, 5KPlayer has improved its [AirPlay](https://tools.techidaily.com/5kplayer/airplay/) feature to help you stream contents from iPhone iPad to Mac/PC wirelessly, smoothly and with no quality loss. You can stream videos and music, [play iOS games](https://tools.techidaily.com/5kplayer/airplay/), and display photos, presentations, apps and files easily. Also, screen recording them in case needed.
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,19 +169,18 @@ As an AirPlay-enabled 4K video player, 5KPlayer has improved its [AirPlay](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-engaging-viewers-with-personalized-vimeo-end-screens-for-2024/"><u>[New] Engaging Viewers with Personalized Vimeo End Screens for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-smoothly-record-your-desktop-on-win11/"><u>[New] Smoothly Record Your Desktop on Win11</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-essential-guide-for-avi-to-gif-editing-a-quick-filmora-workflow-on-windows-and-macos-for-2024/"><u>[New] The Essential Guide for AVI-to-GIF Editing A Quick Filmora Workflow on Windows & macOS for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-solving-the-puzzle-of-nonexistent-facebook-video-suggests/"><u>[Updated] Solving the Puzzle of Nonexistent Facebook Video Suggests</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-x50-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/apple-ipad-air-4-vs-samsung-galaxy-tab-s7plus-the-uncompromising-duel-between-leading-tablets/"><u>Apple iPad Air 4 Vs. Samsung Galaxy Tab S7+: The Uncompromising Duel Between Leading Tablets</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-5-mac-based-music-editing-tools-streamline-your-production-workflow/"><u>Best 5 Mac-Based Music Editing Tools: Streamline Your Production Workflow</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-conversion-top-7-strategies-for-changing-mp2-audio-tracks-into-mp3-on-pcmac-and-via-web-services/"><u>Effortless Conversion: Top 7 Strategies for Changing MP2 Audio Tracks Into MP3 on PC/Mac and via Web Services</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhance-your-conversations-top-5-tts-software-solutions-for-effective-communication/"><u>Enhance Your Conversations: Top 5 TTS Software Solutions for Effective Communication</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-seamlessly-transform-your-aac-files-into-mp3-format-tips-and-tricks/"><u>How to Seamlessly Transform Your AAC Files Into MP3 Format: Tips & Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-googles-game-service-on-desktops-a-guide/"><u>Navigating Google's Game Service on Desktops: A Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-video-editor-videopad-review-pricing-and-recommendations-for-2024/"><u>New Top Rated Video Editor Videopad Review, Pricing, and Recommendations for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/review-discovering-elegance-and-functionality-in-the-withings-move-smartwatch/"><u>Review: Discovering Elegance and Functionality in the Withings Move Smartwatch</u></a></li>
-<li><a href="https://media-tips.techidaily.com/safely-transform-your-aac-tunes-into-mp3-format-with-top-rated-free-applications/"><u>Safely Transform Your AAC Tunes Into MP3 Format with Top-Rated Free Applications</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-hero5-black-vs-yis-new-tech-action-cam-showdown-update/"><u>[New] 2024 Approved Hero5 Black Vs. Yi's New Tech Action Cam Showdown Update</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-how-to-use-story-remix-to-edit-a-video-in-windows-10-photos/"><u>[New] In 2024, How to Use Story Remix to Edit a Video in Windows 10 Photos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-capturing-moving-images-mirrorless-versus-dslr-for-2024/"><u>[Updated] Capturing Moving Images Mirrorless Versus DSLR for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-media-an-intuitive-approach-to-pc-mac-and-mobile-movies/"><u>[Updated] In 2024, Mastering Media An Intuitive Approach to PC, Mac & Mobile Movies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2023s-most-outstanding-smartphones-a-closer-look-at-leading-iphones/"><u>2023'S Most Outstanding Smartphones: A Closer Look at Leading iPhones</u></a></li>
+<li><a href="https://media-tips.techidaily.com/3-in-1-streaming-superbundle-xfinity-peacock-and-apple-tvplus-unite/"><u>3-In-1 Streaming Superbundle: Xfinity, Peacock & Apple TV+ Unite!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/9-essential-functions-of-google-tv-every-user-needs-to-know/"><u>9 Essential Functions of Google TV Every User Needs to Know</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-tackle-the-notorious-stop-code-0x0000001a-bsod-problem-in-windows-os/"><u>Effective Solutions to Tackle the Notorious Stop Code 0X0000001A BSOD Problem in Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-navigation-and-troubleshooting-for-windows-10s-file-explorer/"><u>Effortless Navigation and Troubleshooting for Windows 10'S File Explorer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-prevent-and-fix-black-myth-wukong-from-freezing-or-crashing-on-pc-systems/"><u>Troubleshooting Steps to Prevent and Fix 'Black Myth Wukong' From Freezing or Crashing on PC Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/why-i-swapped-my-tunes-over-to-deezer-the-superior-streaming-experience-unveiled/"><u>Why I Swapped My Tunes Over to Deezer - The Superior Streaming Experience Unveiled!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/why-slowing-down-your-netflix-stream-is-sometimes-the-better-choice/"><u>Why Slowing Down Your Netflix Stream Is Sometimes the Better Choice</u></a></li>
+<li><a href="https://media-tips.techidaily.com/why-you-no-longer-have-access-to-purchasing-tv-show-selections-on-google-tv/"><u>Why You No Longer Have Access to Purchasing TV Show Selections on Google TV</u></a></li>
 </ul></div>
 

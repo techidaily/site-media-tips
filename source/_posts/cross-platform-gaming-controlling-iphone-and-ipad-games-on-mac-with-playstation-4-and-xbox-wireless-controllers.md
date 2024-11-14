@@ -1,7 +1,7 @@
 ---
 title: "Cross-Platform Gaming: Controlling iPhone and iPad Games on Mac with PlayStation 4 & Xbox Wireless Controllers"
-date: 2024-10-29T22:55:09.526Z
-updated: 2024-11-03T18:05:32.792Z
+date: 2024-11-09T07:02:38.309Z
+updated: 2024-11-13T04:23:06.972Z
 tags:
   - airplay
 categories:
@@ -29,10 +29,10 @@ With the release of Apple Arcade, iOS 13 and iPadOS 13's support for PS4 and Xbo
 [Part 2\. Screen Mirror iOS 13/iPadOS Game to Computer](https://tools.techidaily.com/5kplayer/airplay/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Part 1\. How to Connect a PS4/Xbox One Controller on iOS 13/iPadOS?
@@ -52,10 +52,10 @@ If you're running iOS 13 or iPadOS 13, you can now use Sony PlayStation 4 DualSh
 ![Pair PS4 Controller to iOS 13](https://www.5kplayer.com/airplay/img/pair-ps4-controller-to-ios13.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4.** Now, on your iPhone or iPad, you should see "DUALSHOCK 4 Wireless Controller" pop up under OTHER DEVICES in the Bluetooth menu. Just tap it.  
@@ -73,7 +73,27 @@ If you're running iOS 13 or iPadOS 13, you can now use Sony PlayStation 4 DualSh
 
 ![Pair Xbox One Controller to iOS 13](https://www.5kplayer.com/airplay/img/pair-xbox-controller-to-ios13.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Notice:** You can use the model number 1708 of Xbox One, aka Xbox One S, to pair to iOS 13 and iPadOS. Also, the new Elite 2 controller with Bluetooth support that Microsoft Xbox just announced at E3 can be an ideal one. You may think that these two kinds of models can pair with the new iOS 13 and iPadOS, but the fact is most modern Xbox One controllers support Bluetooth that you can use to play games on iOS 13 iPhone and iPadOS iPad.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Play Games from iOS 13/iPadOS to Computer with PS4/Xbox One Controller?
 
@@ -91,29 +111,9 @@ Now that you have connected your game console to iOS 13 or iPadOS, the only job 
 
 ![Mirror iOS 13 Games to Computer](https://www.5kplayer.com/airplay/img/airplay-ipad-2-to-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Fire up a game and you're good to go. Besides helping play games from iOS 13/iPadOS to computer with PS4/Xbox One controller through the iPadOS/[iOS 13 screen mirroring](https://tools.techidaily.com/5kplayer/airplay/) feature, 5KPlayer's screen mirror function also allows for the newest [iPhone 11, 11 Pro, 11 Pro Max AirPlay](https://tools.techidaily.com/5kplayer/airplay/) to Mac and PC. Born to be a multimedia player, downloader and streamer, you are also able to use it to play 4K MP4 MKV etc videos, download video clips as well as [DLNA stream](https://tools.techidaily.com/5kplayer/dlna/) video music to DLNA-compatible devices.
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,18 +130,22 @@ Fire up a game and you're good to go. Besides helping play games from iOS 13/iPa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-mac-recording-hub-essential-insights/"><u>[Updated] 2024 Approved Mac Recording Hub Essential Insights</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-checklist-for-optimal-yt-brand-aesthetics/"><u>2024 Approved The Ultimate Checklist for Optimal YT Brand Aesthetics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-zeroing-in-on-your-ideal-youtube-subset/"><u>2024 Approved Zeroing In on Your Ideal YouTube Subset</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-ios-music-streamers-enjoy-seamless-audio-playback-without-interruptions/"><u>Best iOS Music Streamers: Enjoy Seamless Audio Playback Without Interruptions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-clash-discovering-best-generative-ai-rivals/"><u>ChatBots Clash: Discovering Best Generative AI Rivals</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-screen-mirroring-techniques-for-seamless-iphone-and-ipad-projection-onto-big-screens/"><u>Mastering Screen Mirroring Techniques for Seamless iPhone and iPad Projection Onto Big Screens</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/office-chairs-vs-gaming-chairs-why-functionality-and-comfort-should-be-priority-for-long-term-savings/"><u>Office Chairs Vs. Gaming Chairs: Why Functionality and Comfort Should Be Priority for Long-Term Savings</u></a></li>
-<li><a href="https://common-error.techidaily.com/quickly-restore-charging-functionality-to-your-laptop-expert-tips-inside/"><u>Quickly Restore Charging Functionality to Your Laptop: Expert Tips Inside!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-free-downloadable-mac-media-players-compatible-with-mojave-and-catalina/"><u>Top Rated Free Downloadable Mac Media Players Compatible with Mojave & Catalina</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubles-with-your-recently-updated-pc-cant-find-my-dear-old-prodigy-cam-heres-what-i-learned-to-do-about-it-solved/"><u>Troubles with Your Recently Updated PC? Can't Find My Dear Old Prodigy Cam – Here’s What I Learned to Do About It! [Solved]</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-seamlessly-broadcasting-high-quality-4k-content-from-your-computer-or-mac-to-apple-tv/"><u>Ultimate Guide: Seamlessly Broadcasting High-Quality 4K Content From Your Computer or Mac to Apple TV</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-elevate-your-storytelling-how-to-create-stunning-hollywood-style-videos/"><u>Updated Elevate Your Storytelling How to Create Stunning, Hollywood-Style Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-minimal-shake-cam-for-dynamic-shooting/"><u>[New] 2024 Approved Minimal-Shake Cam for Dynamic Shooting</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-pathway-to-streaming-google-meet-on-youtube-procedures/"><u>[New] The Pathway to Streaming Google Meet on YouTube Procedures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uniting-realms-a-comparative-study-of-mr-ar-and-vr-technologies/"><u>2024 Approved Uniting Realms A Comparative Study of MR, AR, and VR Technologies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diy-fix-unmarred-media-playback/"><u>DIY Fix: Unmarred Media Playback</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-chrome-os-native-screen-recorder/"><u>In 2024, Chrome OS Native Screen Recorder</u></a></li>
+<li><a href="https://win-forum.techidaily.com/rapid-startup-solutions-for-enhanced-windows-11-performance/"><u>Rapid Startup Solutions for Enhanced Windows 11 Performance</u></a></li>
+<li><a href="https://media-tips.techidaily.com/redbox-announces-complete-closure-end-of-an-era/"><u>Redbox Announces Complete Closure: End of an Era</u></a></li>
+<li><a href="https://media-tips.techidaily.com/requesting-spotifys-help-how-to-enable-muting-on-my-account/"><u>Requesting Spotify's Help - How To Enable Muting on My Account</u></a></li>
+<li><a href="https://media-tips.techidaily.com/reviving-my-damaged-macbook-as-a-superior-plex-streaming-station-surprisingly-exceptional-performance/"><u>Reviving My Damaged MacBook as a Superior Plex Streaming Station - Surprisingly Exceptional Performance!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simplified-seamless-viewing-discover-fire-tvs-new-continue-watching-functionality/"><u>Simplified Seamless Viewing: Discover Fire TV's New Continue Watching Functionality</u></a></li>
+<li><a href="https://media-tips.techidaily.com/slash-costs-with-directv-opt-out-of-local-networks-for-greater-savings/"><u>Slash Costs with DirecTV: Opt Out of Local Networks for Greater Savings</u></a></li>
+<li><a href="https://media-tips.techidaily.com/start-streaming-newly-available-movie-rental-service-with-plex-integration/"><u>Start Streaming: Newly Available Movie Rental Service with Plex Integration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/stepwise-unveiling-effect-for-2024/"><u>Stepwise Unveiling Effect for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-declining-standard-of-promotions-on-amazons-fire-tv-platform/"><u>The Declining Standard of Promotions on Amazon's Fire TV Platform</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-end-of-an-era-how-plex-steps-back-from-its-venture-in-vr-technology/"><u>The End of an Era: How Plex Steps Back From Its Venture in VR Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transferir-peliculas-de-dvd-a-la-nube-facilmente-metodos-para-usar-google-drive-e-icloud/"><u>Transferir Películas De DVD a La Nube Fácilmente: Métodos Para Usar Google Drive E iCloud</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-record-a-podcast-effortlessly-a-step-by-step-guide/"><u>Updated How to Record a Podcast Effortlessly A Step-by-Step Guide</u></a></li>
 </ul></div>
 

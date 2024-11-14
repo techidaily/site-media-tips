@@ -1,7 +1,7 @@
 ---
 title: Guide to Turning On AirPlay for iPhone 12, Previous Versions with iOS Up to Version 14
-date: 2024-10-29T03:23:05.461Z
-updated: 2024-11-04T05:11:37.988Z
+date: 2024-11-06T18:08:14.932Z
+updated: 2024-11-12T22:40:29.188Z
 tags:
   - airplay
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
 This article discusses how to **enable AirPlay on iPhone** 12 iOS 14 & Earlier to stream video auido from iPhone to Mac/PC. Turn on AirPlay on your iPhone 12 iOS 14 (or earlier), and with the help of all-in-one AirPlay receiver & sender — 5KPlayer, your can stream movies and music songs from iPhone to Mac/PC easier than ever.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Turn On AirPlay on iPhone 12 iOS 14 Or Before?
 
 If you are trying to enable AirPlay on iPhone iOS 7 or newer, the AirPlay icon has been removed to the control center, thus providing a shortcut for users to turn on AirPlay on iPhone and stream videos. Please find out the iOS version number in your iPhone > General > About and find out your iOS version.
@@ -44,16 +51,10 @@ After successfully enabling AirPlay on iPhone 12 iOS 14, 5KPlayer can walk you t
  \* Disconnecting iPhone from the WiFi can also turn off AirPlay.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How To Use iPhone AirPlay Mirroring to Mac/Windows/Apple TV?
@@ -61,10 +62,10 @@ After successfully enabling AirPlay on iPhone 12 iOS 14, 5KPlayer can walk you t
 When you successfully enable AirPlay on iPhone 12 iOS 14 and connect iPhone to the AirPlay destination, you may find the "Mirroring" slider available to turn on. AirPlay Mirroring iPhone screen with 5KPlayer can blast everything on your mobile phone to Mac or Windows without lag, including the desktop, photos, slide shows. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Instruction to Enable AirPlay and Stream Movies/Music On iPhone
@@ -81,13 +82,6 @@ Download [**5KPlayer**](https://tools.techidaily.com/5kplayer/products/), launch
 
 ![Connect iPhone and Mac to Enable AirPlay](https://www.5kplayer.com/airplay/img/5kplayer-freeaacplayer-yxt-030603.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2**: After you yurn on AirPlay: Directly AirPlay videos on iPhone, or AirPlay YouTube online. 
 
 \* **AirPlay videos on iPhone**: For downloaded .mov, .m4v, .mp4 videos on iPhone. You can activate AirPlay on iPhone and directly stream them to Mac Windows.  
@@ -102,10 +96,10 @@ Notice: 5KPlayer AirPlay function now can't stream video music, but it will come
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -123,18 +117,18 @@ Notice: 5KPlayer AirPlay function now can't stream video music, but it will come
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-perfect-presentation-youtubes-video-ratio-insights/"><u>[New] Unlocking Perfect Presentation YouTube's Video Ratio Insights</u></a></li>
-<li><a href="https://media-tips.techidaily.com/2024s-top-tools-for-extracting-audio-from-mp4-videos-comprehensive-desktop-and-online-solutions/"><u>2024'S Top Tools for Extracting Audio From MP4 Videos: Comprehensive Desktop & Online Solutions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620209216-create-customizable-mp3-ringtones-with-our-user-friendly-cutting-tool/"><u>Create Customizable MP3 Ringtones with Our User-Friendly Cutting Tool</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-guide-mastering-the-art-of-reducing-tempo-in-mp3-songs/"><u>Free Guide: Mastering the Art of Reducing Tempo in MP3 Songs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-tutorials-for-beginners-how-to-add-audio-to-imovie/"><u>In 2024, Tutorials for Beginners How to Add Audio to iMovie</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-12-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 12 Pro Max? How to Fix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-remote-connectivity-a-guide-for-your-samsung-smart-tv/"><u>Mastering Remote Connectivity: A Guide for Your Samsung Smart TV</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/navigating-digital-assets-how-to-distinguish-between-crypto-tokens-and-coins/"><u>Navigating Digital Assets: How to Distinguish Between Crypto Tokens and Coins</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-wma-audio-to-wav-format-quickly-and-easily/"><u>Step-by-Step Guide: Converting WMA Audio to WAV Format Quickly & Easily</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-flac-files-into-apples-superior-alac-format/"><u>Step-by-Step Guide: Transforming FLAC Files Into Apple's Superior ALAC Format</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-easy-way-to-spot-and-view-trending-youtube-feedback/"><u>The Easy Way to Spot and View Trending YouTube Feedback</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unraveling-the-mystery-of-3d-audio-technology-functionality-and-reliable-download-sources/"><u>Unraveling the Mystery of 3D Audio Technology: Functionality & Reliable Download Sources</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-monetizing-your-youtube-channels-strategies-for-success/"><u>[Updated] 2024 Approved Monetizing Your YouTube Channels Strategies for Success</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-the-art-of-crafting-engaging-spotify-promos-for-2024/"><u>[Updated] Mastering the Art of Crafting Engaging Spotify Promos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pcs-best-vr-top-10-immersive-360-video-players/"><u>[Updated] PC's Best VR Top 10 Immersive 360 Video Players</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-alert-tones-superior-download-sites-list/"><u>2024 Approved Top Alert Tones Superior Download Sites List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convertissez-gratuitement-vos-fichiers-flac-en-wma-sur-internet-grace-a-movavi-guide-complet/"><u>Convertissez Gratuitement Vos Fichiers FLAC en WMA Sur Internet Grâce À Movavi - Guide Complet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/deceptive-practices-when-your-fire-tv-pushes-paid-features-as-gratis-offerings/"><u>Deceptive Practices: When Your Fire TV Pushes Paid Features as Gratis Offerings</u></a></li>
+<li><a href="https://media-tips.techidaily.com/demand-youtube-to-separate-youtube-music-from-youtube-premium-services-now/"><u>Demand YouTube To Separate YouTube Music From YouTube Premium Services Now!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/disney-series-set-to-arrive-on-netflix-in-the-coming-year/"><u>Disney Series Set to Arrive on Netflix in the Coming Year</u></a></li>
+<li><a href="https://media-tips.techidaily.com/elevate-your-cinema-the-ultimate-selection-of-10-masterpieces-for-oled-tv-owners/"><u>Elevate Your Cinema: The Ultimate Selection of 10 Masterpieces for OLED TV Owners</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-seamless-guest-entry-into-your-peers-tiktok-lives/"><u>In 2024, Seamless Guest Entry Into Your Peers' TikTok Lives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/srt-unveiled-essential-information-for-all-ages-for-2024/"><u>SRT Unveiled Essential Information for All Ages for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-reinstating-notification-banners/"><u>Steps for Reinstating Notification Banners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleashing-the-full-capabilities-of-the-m4-ipad-pro-how-ai-elevates-its-power-at-apples-wwdc-zdnet/"><u>Unleashing the Full Capabilities of the M4 iPad Pro: How AI Elevates Its Power at Apple's WWDC | ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Free 5KPlayer with DLNA Support - Functions, Benefits, Configuration, and Usage Guide
-date: 2024-11-01T21:59:58.558Z
-updated: 2024-11-04T08:37:54.976Z
+date: 2024-11-12T08:59:20.021Z
+updated: 2024-11-13T11:21:27.243Z
 tags:
   - dlna
 categories:
@@ -74,15 +74,22 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 ![5KPlayer DLNA](https://www.5kplayer.com/dlna-jp/img/dlna-guide-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 （3）Windows/Mac PCをメディアサーバーとして利用したいとき、DLNAサービスを「OFF」から「ON」にしてください。Windows/Mac PCをDLNAプレイヤーとして、AndroidスマホやタブレットからPCへメディアファイルをミラーリングしたい場合、DLNAデバイスを「ON」にします。これで、5KPlayer DLNA対応を有効にします。 
 
 ![5KPlayer DLNA](https://www.5kplayer.com/dlna-jp/img/dlna-guide-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ※どれが有効すればよいのかわからない場合、DLNAサービスとDLNAデバイスの両方を「ON」にしてもOKです。 
@@ -92,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitewin-jp.png)](https://www.5kplayer.com/5kplayer-download-windows-jp.htm) [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitemac-jp.png)](https://www.5kplayer.com/5kplayer-download-mac-jp.htm)
 
 **関連記事：**[おすすめの動画再生アプリランキング18選｜PC/Mac/iPhone/Android](https://tools.techidaily.com/5kplayer/video-music-player/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5KPlayer DLNAの使い方（具体的な例を挙げる）
 
@@ -113,19 +113,6 @@ Step2、インタフェースにある「AirPlayer DLNA」アイコンをクリ�
 Step3、Androidスマホ上でDLNA対応アプリを開き、ミラーリングしたい映像を選択し、アプリのオプションにある「DLNA」（アプルによって表示単語が異なる）が表示されて、5KPlayerを搭載したPCを選択します。これで、AndroidスマホからWindows/Mac PCに動画がミラーリングされます。
 
 ![5KPlayer DLNAの使い方](https://www.5kplayer.com/dlna-jp/img/dlna-guide-5.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ※AndroidスマホにDLNA対応アプリをインストールする必要があります。 
 
@@ -161,15 +148,22 @@ Step4、手元のAndroidスマホ/スマートTV/ PS4/Xboxのアプリ共有セ�
 
 ![5KPlayer DLNAの使い方](https://www.5kplayer.com/dlna-jp/img/dlna-guide-7.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ※フォーマットによって、一部のビデオ・オディオは再生できない可能性があります。MP4 / AVI / MKVフォーマットのビデオとMP3 / AAC / WMAフォーマットの音楽を追加することをお勧めします。 
 
 [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitewin-jp.png)](https://www.5kplayer.com/5kplayer-download-windows-jp.htm) [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitemac-jp.png)](https://www.5kplayer.com/5kplayer-download-mac-jp.htm)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **まとめ**
@@ -191,18 +185,24 @@ Step4、手元のAndroidスマホ/スマートTV/ PS4/Xboxのアプリ共有セ�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlocking-instagram-memories-with-these-apps/"><u>[New] 2024 Approved Unlocking Instagram Memories with These Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-captivating-video-narratives-for-youtube-success-for-2024/"><u>[Updated] Crafting Captivating Video Narratives for YouTube Success for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-windows-10-mastering-photo-and-video-importation/"><u>[Updated] Unveiling Windows 10 Mastering Photo & Video Importation</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-skincare-and-sensational-looks/"><u>2024 Approved Skincare and Sensational Looks</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discovering-the-latest-model-of-macbook-what-to-know-about-apples-new-laptop/"><u>Discovering the Latest Model of MacBook: What to Know About Apple's New Laptop</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortlessly-switch-between-mpg-and-mpeg-a-step-by-step-guide/"><u>Effortlessly Switch Between MPG and MPEG: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/speeding-up-keys-in-windows-10-and-11-with-7-hacks/"><u>Speeding Up Keys in Windows 10 & 11 with 7 Hacks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-mp4-video-format-into-vob/"><u>Step-by-Step Guide: Transforming MP4 Video Format Into VOB</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-watching-wtv-videos-on-your-computer-windows-and-macos/"><u>Step-by-Step Guide: Watching WTV Videos on Your Computer - Windows & macOS</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-rise-of-artificial-intelligence-transforming-the-way-you-interact-with-your-google-photos/"><u>The Rise of Artificial Intelligence: Transforming the Way You Interact with Your Google Photos</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620233504-ultimate-guide-to-the-best-gopro-models-top-5-picks-reviewed/"><u>Ultimate Guide to the Best GoPro Models - Top 5 Picks Reviewed!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/wireless-guide-how-to-flawlessly-stream-your-iphone-screen-to-a-mac-or-tv/"><u>Wireless Guide: How to Flawlessly Stream Your iPhone Screen to a Mac or TV</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-m1-deciphered-apples-computing-game-changer/"><u>[New] In 2024, M1 Deciphered Apple's Computing Game-Changer</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-your-ultimate-checklist-for-channel-buying-success/"><u>[Updated] 2024 Approved Your Ultimate Checklist for Channel Buying Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-collection-top-notch-free-meme-designs/"><u>2024 Approved Ultimate Collection Top-Notch FREE Meme Designs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-innovations-snapchat-vs-gpt-powered-chatter/"><u>Conversational Innovations: Snapchat vs GPT-Powered Chatter</u></a></li>
+<li><a href="https://media-tips.techidaily.com/conversione-facile-di-un-pc-con-windows-11-in-uno-streaming-server-dlna/"><u>Conversione Facile Di Un PC Con Windows 11 in Uno Streaming Server DLNA</u></a></li>
+<li><a href="https://media-tips.techidaily.com/detailed-record-keeping-is-a-critical-component-of-complying-with-federal-explosives-law/"><u>Detailed Record-Keeping Is a Critical Component of Complying with Federal Explosives Law.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-maximizing-your-win11-conference-capabilities-for-2024/"><u>Expert Tips Maximizing Your Win11 Conference Capabilities for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-solutions-watching-3d-films-without-glasses-on-your-windows-118-computer/"><u>Free Solutions: Watching 3D Films Without Glasses on Your Windows 11/8 Computer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/gratisk-musicplayer-herunterladen-spielt-alle-lieder-und-multimedia-formate/"><u>Gratisk Musicplayer Herunterladen – Spielt Alle Lieder Und Multimedia-Formate</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-on-mirroring-mkv-content-onto-an-apple-tv-screen-via-airplay-technology/"><u>Guide on Mirroring MKV Content Onto an Apple TV Screen Via AirPlay Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-retrieve-and-return-calls-from-unknown-numbers/"><u>Guide: Retrieve and Return Calls From Unknown Numbers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-enjoy-dvd-movies-on-your-hdtv-top-three-wireless-and-wired-solutions/"><u>How To Enjoy DVD Movies On Your HDTV – Top Three Wireless and Wired Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone 11 Pro</u></a></li>
+<li><a href="https://media-tips.techidaily.com/legitimate-licenses-for-airparrot-on-mac-ensure-safe-installation/"><u>Legitimate Licenses for AirParrot on Mac - Ensure Safe Installation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/proven-pathways-for-sound-alteration-in-pubg-gamers-for-2024/"><u>Proven Pathways for Sound Alteration in PUBG Gamers for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/stream-content-seamlessly-to-apple-tv-using-the-beamer-app-on-windows-versions-1087/"><u>Stream Content Seamlessly to Apple TV Using the Beamer App on Windows (Versions 10/8/7)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-ace-2-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unearth-everyones-holiday-favorites-with-our-ultimate-selection-of-100plus-festive-songs-for-all-ages-and-preferences/"><u>Unearth Everyone's Holiday Favorites with Our Ultimate Selection of 1,00+ Festive Songs for All Ages and Preferences!</u></a></li>
 </ul></div>
 
