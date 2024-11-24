@@ -1,7 +1,7 @@
 ---
 title: "DIY Steps: Transforming Your Desktop Into a Cost-Free PS4 Media Hub"
-date: 2024-11-08T22:55:01.339Z
-updated: 2024-11-14T05:43:29.755Z
+date: 2024-11-21T17:27:32.508Z
+updated: 2024-11-23T20:19:10.444Z
 tags:
   - dlna
 categories:
@@ -25,10 +25,7 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 Now that the PS4 media player has made it possible for a **PS4 media server** to connect to the game console to play MKV AVI MP4 videos, MP3 AAC music, or even photos. You may need to turn computer into a PS4 media server Windows 10 to share everything in the computer library to the bigger screen, now check to find out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements: PS4 Meida Player + PS 4 Media Server Windows 10/Mac
@@ -51,20 +48,14 @@ To set up a PS4 media server Windows 10 or Mac, you'll need to turn the computer
 [![](https://www.5kplayer.com/dlna/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/dlna/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stream PC to PlayStation 4 Wirelessly?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn PC Into a PS4 Media Server
 
@@ -78,9 +69,17 @@ To set up a PS4 media server Windows 10 or Mac, you'll need to turn the computer
 
 ![DLNA server Windows 10](https://www.5kplayer.com/dlna/img/dlna-media-share.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Hit on the "DLNA + AirPlay" icon on the main UI of 5KPlayer, turn on "DLNA server", and now your computer is turned into an open PS4 media server which you can add media files to anytime you want.
 
 ![Turn on PS4 Media Server Windows 10](https://www.5kplayer.com/dlna/img/turn-on-dlna-server.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/dlna/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/dlna/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
@@ -97,17 +96,7 @@ Even if you have the PlayStation 4 VR headset, the PS camera and VR games are fo
 ![PS4 VR Server](https://www.5kplayer.com/dlna/img/ps4-vr-media-server.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### FAQs About the PS4 Media Server
@@ -132,13 +121,6 @@ This makes one of the [best HDR video players 2019](https://tools.techidaily.com
 Even if you have the PlayStation 4 VR headset, the PS camera and VR games are for sale separately. But using the virtual reality gadget to play VR videos from a PS4 media server sounds really nice if you have 5KPlayer, which can [download VR videos](https://tools.techidaily.com/5kplayer/youtube-download/) from the YouTube 360 channel, or directly play VR video files without hassle. Setting up & connect PC to PS4 VR is just like how to can do it with an ordinary PS4 model. But you're sure to be amazed by the virtual reality videos that aren't directly available in the game console. 
 
 ![PS4 VR Server](https://www.5kplayer.com/dlna/img/ps4-vr-media-server.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### FAQs About the PS4 Media Server
 
@@ -166,22 +148,20 @@ To be specific, you always need to connect PS4 to a TV screen to play games or w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting/"><u>[New] 2024 Approved 2023|How to Share Videos on Twitter on Your Phone Without Retweeting?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rafting-a-profitable-youtube-content-strategy/"><u>[New] Crafting a Profitable YouTube Content Strategy</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-mobile-moba-showdown-androids-best-games-list/"><u>[New] Mobile MOBA Showdown - Android's Best Games List</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nlock-youtubes-potential-essential-tips-and-techniques-for-optimal-titles-for-2024/"><u>[New] Unlock YouTube's Potential Essential Tips & Techniques for Optimal Titles for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-pantheon-of-praise-celebrating-ten-superstar-posts/"><u>[Updated] In 2024, The Pantheon of Praise Celebrating Ten Superstar Posts</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-free-compact-button-rich-templates-available-now-on-flipbuildercom/"><u>1. Free Compact Button-Rich Templates Available Now on FlipBuilder.com</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/command-chatgpt-the-ultimate-voice-guide-5-methods/"><u>Command ChatGPT: The Ultimate Voice Guide (5 Methods)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-authenticity-of-truthgpt-cryptocurrency/"><u>Exploring the Authenticity of TruthGPT Cryptocurrency</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-virtual-realitys-basic-words/"><u>In 2024, Understanding Virtual Reality's Basic Words</u></a></li>
-<li><a href="https://media-tips.techidaily.com/no-more-free-trials-at-5-understanding-changes-in-apple-music-pricing/"><u>No More Free Trials at $5 - Understanding Changes in Apple Music Pricing</u></a></li>
-<li><a href="https://media-tips.techidaily.com/price-increase-announced-apple-bundle-offering-now-at-higher-cost-with-one-arcade-and-tvplus/"><u>Price Increase Announced: Apple Bundle Offering Now at Higher Cost with One, Arcade & TV+</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-impeccablecapture-studio-suite-windows-10-edition/"><u>[Updated] ImpeccableCapture Studio Suite (Windows 10 Edition)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-art-of-engaging-responding-in-discord-conversations-for-2024/"><u>[Updated] The Art of Engaging Responding in Discord Conversations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-using-supplementary-film-scenes/"><u>[Updated] The Essential Guide to Using Supplementary Film Scenes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-to-overcoming-the-crash-dilemma-of-thunder-tier-one-while-playing-on-your-desktop/"><u>Expert Guide to Overcoming the Crash Dilemma of Thunder TIER One While Playing on Your Desktop</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instructions-installing-hp-officejet-on-pc-interface/"><u>Instructions: Installing HP Officejet on PC Interface</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-ai-script/"><u>New Create AI Avatar Video with AI Script</u></a></li>
 <li><a href="https://media-tips.techidaily.com/remove-youtube-music-from-youtube-premium-a-must-have-feature/"><u>Remove YouTube Music From YouTube Premium - A Must-Have Feature!</u></a></li>
 <li><a href="https://media-tips.techidaily.com/rock-your-tunes-with-winamp-newly-released-for-iphone-and-android-users/"><u>Rock Your Tunes with Winamp – Newly Released for iPhone and Android Users!</u></a></li>
 <li><a href="https://media-tips.techidaily.com/saying-goodbye-netflixs-older-basic-subscription-ends-forever/"><u>Saying Goodbye: Netflix's Older Basic Subscription Ends Forever</u></a></li>
 <li><a href="https://media-tips.techidaily.com/skydance-to-take-control-of-paramountplus-and-pluto-tv-in-strategic-moves/"><u>Skydance to Take Control of Paramount+ & Pluto TV in Strategic Moves</u></a></li>
 <li><a href="https://media-tips.techidaily.com/slash-your-subscription-cost-in-half-secret-savings-on-paramountplus-access-now-revealed/"><u>Slash Your Subscription Cost in Half - Secret Savings on Paramount+ Access Now Revealed!</u></a></li>
 <li><a href="https://media-tips.techidaily.com/the-end-of-an-era-spotifys-impending-discontinuation-of-car-thing/"><u>The End of an Era: Spotify's Impending Discontinuation of 'Car Thing'</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-futility-of-review-based-decisions-when-selecting-streaming-content/"><u>The Futility of Review-Based Decisions When Selecting Streaming Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/when-and-why-should-you-post-on-instagram-for-2024/"><u>When and Why Should You Post on Instagram for 2024</u></a></li>
 </ul></div>
 

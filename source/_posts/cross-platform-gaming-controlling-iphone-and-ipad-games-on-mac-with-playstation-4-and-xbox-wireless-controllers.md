@@ -1,7 +1,7 @@
 ---
 title: "Cross-Platform Gaming: Controlling iPhone and iPad Games on Mac with PlayStation 4 & Xbox Wireless Controllers"
-date: 2024-11-06T17:51:53.729Z
-updated: 2024-11-13T19:46:50.855Z
+date: 2024-11-19T16:59:56.395Z
+updated: 2024-11-23T22:25:32.524Z
 tags:
   - airplay
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Play Games from iOS 13/iPadOS to Computer with PS4/Xbox One Controller?
 
  _Written by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21)_ | Last update: May 22, 2020
@@ -27,13 +31,6 @@ With the release of Apple Arcade, iOS 13 and iPadOS 13's support for PS4 and Xbo
 **Main Contents:**  
 [Part 1\. Connect PS4 or Xbox One Controller to iOS 13/iPadOS](https://tools.techidaily.com/5kplayer/airplay/)  
 [Part 2\. Screen Mirror iOS 13/iPadOS Game to Computer](https://tools.techidaily.com/5kplayer/airplay/)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 1\. How to Connect a PS4/Xbox One Controller on iOS 13/iPadOS?
 
@@ -52,10 +49,7 @@ If you're running iOS 13 or iPadOS 13, you can now use Sony PlayStation 4 DualSh
 ![Pair PS4 Controller to iOS 13](https://www.5kplayer.com/airplay/img/pair-ps4-controller-to-ios13.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4.** Now, on your iPhone or iPad, you should see "DUALSHOCK 4 Wireless Controller" pop up under OTHER DEVICES in the Bluetooth menu. Just tap it.  
@@ -73,13 +67,14 @@ If you're running iOS 13 or iPadOS 13, you can now use Sony PlayStation 4 DualSh
 
 ![Pair Xbox One Controller to iOS 13](https://www.5kplayer.com/airplay/img/pair-xbox-controller-to-ios13.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Notice:** You can use the model number 1708 of Xbox One, aka Xbox One S, to pair to iOS 13 and iPadOS. Also, the new Elite 2 controller with Bluetooth support that Microsoft Xbox just announced at E3 can be an ideal one. You may think that these two kinds of models can pair with the new iOS 13 and iPadOS, but the fact is most modern Xbox One controllers support Bluetooth that you can use to play games on iOS 13 iPhone and iPadOS iPad.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Play Games from iOS 13/iPadOS to Computer with PS4/Xbox One Controller?
@@ -103,10 +98,7 @@ Fire up a game and you're good to go. Besides helping play games from iOS 13/iPa
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -124,24 +116,22 @@ Fire up a game and you're good to go. Besides helping play games from iOS 13/iPa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-chill-bites-analysis-in-depth-review-of-ice-cream-recorder/"><u>[Updated] Chill Bites Analysis In-Depth Review of Ice Cream Recorder</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-choose-wisely-the-ultimate-list-of-mac-gif-tools/"><u>[Updated] Choose Wisely The Ultimate List of Mac GIF Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-finalizing-account-deletion-on-instagram-method-and-tips/"><u>[Updated] In 2024, Finalizing Account Deletion on Instagram Method and Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-quick-guide-to-influential-instagram-hashtags/"><u>[Updated] In 2024, Quick Guide to Influential #Instagram Hashtags</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-combo-for-your-yi-4k-adventures/"><u>[Updated] The Ultimate Combo for Your YI 4K Adventures</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/benchmarking-the-latest-chromecast-with-google-tv-against-firetv-an-in-depth-review/"><u>Benchmarking the Latest Chromecast with Google TV Against FireTV - An In-Depth Review</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-dat-to-anything-converter-seamless-format-transformation-made-simple/"><u>Easy DAT-to-Anything Converter: Seamless Format Transformation Made Simple</u></a></li>
-<li><a href="https://media-tips.techidaily.com/explore-and-capture-in-style-ranking-the-5-superior-gopro-cameras-on-the-market/"><u>Explore & Capture in Style: Ranking the 5 Superior GoPro Cameras on the Market</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/exploring-the-disparities-between-youtube-and-dailymention/"><u>Exploring the Disparities Between YouTube and DailyMention</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-and-simple-techniques-for-converting-audio-samples-into-mp4-videos-6-proven-methods/"><u>Free and Simple Techniques for Converting Audio Samples Into MP4 Videos - 6 Proven Methods</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-optimally-transform-vob-videos-into-superior-swf-with-best-practices/"><u>How to Optimally Transform VOB Videos Into Superior SWF with Best Practices</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/in-depth-analysis-avc-converter-evaluation-and-top-3-viable-alternatives/"><u>In-Depth Analysis: AVC Converter Evaluation & Top 3 Viable Alternatives</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-webm-explained-a-complete-manual-covering-every-aspect-youll-ever-want-to-know/"><u>Mastering WebM Explained: A Complete Manual Covering Every Aspect You'll Ever Want to Know</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-4-methods-to-seamlessly-transform-your-m2ts-files-into-ipad-compatible-videos/"><u>Top 4 Methods to Seamlessly Transform Your M2TS Files Into iPad-Compatible Videos</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-best-free-software-to-convert-mp4-files-into-asf-format/"><u>Top 5 Best Free Software to Convert MP4 Files Into ASF Format</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-free-ransomware-recovery-tools-to-safeguard-your-data/"><u>Top Free Ransomware Recovery Tools to Safeguard Your Data</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620235375-turn-your-ipod-into-a-portable-cinema-with-our-top-video-conversion-tool/"><u>Turn Your iPod Into a Portable Cinema with Our Top Video Conversion Tool!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/vrij-en-gemakkelijk-wav-wmv-conversie-online-movavi/"><u>Vrij en Gemakkelijk Wav-Wmv Conversie Online - Movavi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-freevista-landing-on-exquisite-costless-tiktok-screenshots/"><u>[New] The FREEvista Landing on Exquisite, Costless TikTok Screenshots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-selection-for-top-tier-hdr-cameras/"><u>[New] Ultimate Selection for Top-Tier HDR Cameras</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-favorites-to-featured-the-journey-to-a-unique-youtube-list-for-2024/"><u>[Updated] From Favorites to Featured The Journey to a Unique YouTube List for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-integrating-timestamps-into-your-images/"><u>[Updated] Integrating Timestamps Into Your Images</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-step-into-the-stream-a-guide-to-roku-and-facebook-live-broadcasts-for-2024/"><u>[Updated] Step Into the Stream A Guide to ROKU & Facebook Live Broadcasts for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-video-software-top-8-tools-to-effortlessly-transform-vob-files-into-mp4-format/"><u>Best Free Video Software: Top 8 Tools to Effortlessly Transform VOB Files Into MP4 Format</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/comparison-of-googles-ar-embellishments-to-competitors/"><u>Comparison of Google's AR Embellishments to Competitors</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-guide-transforming-cda-files-into-mp3-format-on-your-windows-or-mac-computer/"><u>Easy Guide: Transforming CDA Files Into MP3 Format on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-steps-for-converting-aviwmv-videos-to-high-quality-mp4/"><u>Easy Steps for Converting AVI/WMV Videos to High-Quality MP4</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-online-methods-transforming-mov-files-into-3gp-format-simple-techniques/"><u>Free Online Methods: Transforming MOV Files Into 3GP Format - Simple Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-seamlessly-transfer-and-watch-vob-videos-on-your-iphone-with-a-mac-the-top-techniques/"><u>How to Seamlessly Transfer and Watch VOB Videos on Your iPhone with a Mac: The Top Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-rmvb-file-conversion-a-comprehensive-guide/"><u>Mastering RMVB File Conversion: A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-a54-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy A54 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-yet-powerful-strategies-for-converting-mp4-files-to-swf-with-minimal-effort/"><u>Simple Yet Powerful Strategies for Converting MP4 Files to SWF with Minimal Effort</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-flv-files-into-compatible-xbox-formats-like-mp4-avi-and-mpeg/"><u>Step-by-Step Guide: Transforming FLV Files Into Compatible Xbox Formats Like MP4, AVI & MPEG</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-co-op-couch-choices-for-next-gen-xbox-sx/"><u>Unbeatable Co-Op Couch Choices for Next-Gen Xbox S/X</u></a></li>
 </ul></div>
 

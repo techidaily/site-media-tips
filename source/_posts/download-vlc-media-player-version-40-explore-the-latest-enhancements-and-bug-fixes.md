@@ -1,7 +1,7 @@
 ---
 title: "Download VLC Media Player Version 4.0: Explore the Latest Enhancements & Bug Fixes"
-date: 2024-11-07T19:02:48.508Z
-updated: 2024-11-13T19:32:36.929Z
+date: 2024-11-22T00:35:00.548Z
+updated: 2024-11-23T20:08:02.824Z
 tags:
   - vlc
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VLC Media Player 4.0 Download Free: New Features and Bugs
 
  _Written by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21)_ | Last updated: March 18, 2021 
@@ -27,16 +31,7 @@ At FOSDEM 2019, the VLC developer revealed some new details about the VLC 4.0\. 
 **Notice:** The preview version of VLC media player 4.0 is already available to download at https://nightlies.videolan.org/build/, but keep in mind it is a development build especially for testors that may have bugs or missing features.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### VLC 4.0 Download: What's New?
@@ -47,26 +42,20 @@ The upcoming VLC 4.0 will have a brand-new look and a bunch of new features and 
 
 ![VLC 4.0 Download](https://www.5kplayer.com/vlc/img/vlc-4-0-ui.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2\. New User Interface:** When opening up the developer version of VLC 4.0, you will see a "media browser" but not a "file opener", with thumbnails of all videos showing in the user's Videos folder. You can also see Music, Browse and Discover sections. BTW, VLC 4.0 instead spawns a new player window, separate from the browsing/control window from which the video was selected.
 
 ![VLC 4.0 UI](https://www.5kplayer.com/vlc/img/vlc-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3\. VLC Media Player 4.0 Will Bring a New Media Library:** The media library is used on Android and now is coming to desktop and iOS platforms. With the new media library, it is quite easier to browse and find a media to play, as well as manage the media files more conveniently.
 
 ![VLC 4.0 Free Download](https://www.5kplayer.com/vlc/img/vlc-4.0-library.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4\. VR Support:** VR video is a smash hit nowadays as well as in the future, so the best media player would not drop this eye-catching feature. VLC 4.0 will be a real and professional [VR video player](https://tools.techidaily.com/5kplayer/video-music-player/) for Windows, Mac and Linux that you can experience the immersive and interactive scenes with HTC Vive, PSVR, Oculus Rift, Oclulus GO and range of Microsoft headsets much more easily than before.
@@ -76,10 +65,7 @@ The upcoming VLC 4.0 will have a brand-new look and a bunch of new features and 
 **6\. What Else?** It is said that VLC media player 4.0 will bring GNOME and KDE adaptations for Linux, as well as support for Wayland, HEIF, Dash/WebM, TTML images, AV1 and AV2 codecs, and WebVTT encoding. A Web version is also in the works. VideoLAN foundation President Jean-Baptiste Kempf also told that VideoLAN is exploring a Plex-like business model for VLC player by providing ad-supported free video streams.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### VLC 4.0 Download: What's Improved?
@@ -109,20 +95,21 @@ _Source: https://www.neowin.net/news/vlc-40-to-drop-support-for-older-platforms-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-maximizing-video-memories-3-itunes-saving-methods-for-2024/"><u>[Updated] Maximizing Video Memories 3 iTunes Saving Methods for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-methods-for-converting-mxf-files-to-m4v-format-a-guide-for-pc-and-mac-users/"><u>Best Methods for Converting MXF Files to M4V Format: A Guide for PC & Mac Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-conversion-techniques-from-m2ts-to-kindle-fire-compatible-format/"><u>Easy Conversion Techniques From M2TS to Kindle Fire Compatible Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/efficient-techniques-for-converting-avi-videos-into-jpeg-images/"><u>Efficient Techniques for Converting AVI Videos Into JPEG Images</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-conversion-of-ts-and-mpeg-media-files-into-popular-mp4-mp3-mov-and-wmv-audiovideo-formats/"><u>Effortless Conversion of TS and MPEG Media Files Into Popular MP4, MP3, MOV, and WMV Audio/Video Formats</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-virtual-reality-with-ps-vr2-perks/"><u>Enhance Virtual Reality with PS VR2 Perks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-article-speedy-techniques-for-transforming-clips-into-static-animation-gifs/"><u>How-To Article: Speedy Techniques for Transforming Clips Into Static Animation GIFs</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-edge-40-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Edge 40 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-pro-level-video-production-made-simple-a-step-by-step-guide/"><u>New 2024 Approved Pro-Level Video Production Made Simple A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726029133465-pc/"><u>PCで楽曲を繋ぐための無料ガイド</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-video-transformation-techniques-using-handbrake/"><u>Step-by-Step Video Transformation Techniques Using Handbrake</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-ranked-macbook-models-a-comprehensive-guide/"><u>Top-Ranked MacBook Models : A Comprehensive Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-v30-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme V30 FRP Bypass</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-prime-5-toy-drones-reviewed/"><u>[New] 2024 Approved Prime 5 Toy Drones Reviewed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-barely-there-to-top-rated-the-youtube-growth-arc/"><u>[New] From Barely There to Top Rated The Youtube Growth Arc</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ajeys-youtube-earnings-insight-2023/"><u>Ajey's YouTube Earnings Insight - 2023</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-guide-unveiling-the-secrets-of-mkv-video-files/"><u>Comprehensive Guide: Unveiling the Secrets of MKV Video Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620233790-download-premium-english-captions-at-no-cost-the-ultimate-guide-for-top-4-websites/"><u>Download Premium English Captions at No Cost: The Ultimate Guide for TOP 4 Websites</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/easy-methods-for-restoring-lost-data-on-your-hp-computer/"><u>Easy Methods for Restoring Lost Data on Your HP Computer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-tutorial-on-transforming-your-h264-videos-into-the-avi-format/"><u>Easy Tutorial on Transforming Your H.264 Videos Into the AVI Format</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-itbm-driver-not-available-error-easily/"><u>Fix ITBM Driver Not Available Error. Easily!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-unexpectedly-stopped-error-on-your-cod-modern-warfare-3-app/"><u>Fixing the 'Unexpectedly Stopped' Error on Your Cod: Modern Warfare 3 App</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020), Apples New iPhone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-guide-converting-mts-video-files-into-mp4-for-windows-and-macos-users/"><u>Quick Guide: Converting MTS Video Files Into MP4 for Windows and macOS Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-x-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone X to PC or Mac | Stellar</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-uploading-ultra-high-definition-videos-to-youtube-in-4k-720p-or-1080p/"><u>Step-by-Step Tutorial: Uploading Ultra High-Definition Videos to YouTube in 4K, 720P, or 1080P</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-comprehensive-guide-to-selecting-a-4k-smartphone-or-tablet-with-video-playback-and-recording-capabilities/"><u>The Comprehensive Guide to Selecting a 4K Smartphone or Tablet with Video Playback and Recording Capabilities</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210929277-9781781484951-training-your-mind-to-realize-its-potential/"><u>Training Your Mind To Realize Its Potential | Free Book</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transferring-home-videos-from-dvds-to-itunes-for-easy-access-and-management/"><u>Transferring Home Videos From DVDs to iTunes for Easy Access and Management</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Recording Your iPad's Display in Just Four Steps"
-date: 2024-11-07T18:49:03.681Z
-updated: 2024-11-14T03:33:12.017Z
+date: 2024-11-22T17:23:56.725Z
+updated: 2024-11-23T18:40:23.362Z
 tags:
   - airplay
 categories:
@@ -49,6 +49,10 @@ iPad with iOS 11 or later and iPadOS has an embedded screen recorder that you ca
 
 ![Add Screen Recording to Control Center](https://www.5kplayer.com/airplay/img/add-screen-recording-to-control-center.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2\. Activate iPad screen recording**  
  1\. Swipe up from the bottom of any screen if you have an iOS 11 iPad, or swipe down from the upper-right corner of the screen if you have an iPad with iOS 12 or iPadOS.  
  2\. Firm press the icon ![](https://www.5kplayer.com/airplay/img/record-icon-1.jpg) and tap Microphone to turn on it if you want to screen recording iPad with sound or turn off it to record no sound. Here, you can also choose a different destination for the screen recording other than the Photos library.  
@@ -57,20 +61,14 @@ iPad with iOS 11 or later and iPadOS has an embedded screen recorder that you ca
 ![Start Recording iPad](https://www.5kplayer.com/airplay/img/start-ipad-screen-recording.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3\. Start recording iPad screen**  
  When the icon ![](https://www.5kplayer.com/airplay/img/record-icon-1.jpg) turns red, it means the recording starts. Now, do operations on your iPad and every action will be recorded.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4\. Stop iPad screen recording**  
@@ -105,6 +103,10 @@ By making use of QuickTime, you are able to record iPad screen without the need 
 
 ![Record iPad Screen via QuickTime](https://www.5kplayer.com/airplay/img/5k-screen-recorder-for-ipad-trl-031602.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Notice:** If you want to [trim a video](https://tools.techidaily.com/5kplayer/video-music-player/) to keep only the relevant part, you can hit Cmd+T before saving the video to realize that.
 
 **Cons of this way:**   
@@ -120,18 +122,15 @@ Like QuickTime Player, 5KPlayer is also a media player which supports iPad/[iPho
 
 ![Turn on 5KPlayer AirPlay](https://www.5kplayer.com/airplay/img/turn-on-airplay-5kplayer.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3.** Connect your iPad and your computer to the same WiFi network.
 
 **Step 4.** Swipe up from the bottom of any screen if you have an iOS 11 iPad, or swipe down from the upper-right corner of the screen if you have an iPad with iOS 12 or iPadOS. Tap Screen Mirroring and then choose 5KPlayer to connect from the list.
 
 ![iPhone Screen Mirroring](https://www.5kplayer.com/airplay/img/iphone-screen-mirroring.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** Now, you can see your iPad screen has been cast to your computer. Just hit the red circle on your computer to start recording and click the icon again to stop. The recorded video will show in "AirRecord" playlist in the Library of 5KPlayer.
 
@@ -146,13 +145,6 @@ BTW, you can also edit your recorded video to keep the good and trim out the bad
 As an AirPlay-enabled 4K video player, 5KPlayer has improved its [AirPlay](https://tools.techidaily.com/5kplayer/airplay/) feature to help you stream contents from iPhone iPad to Mac/PC wirelessly, smoothly and with no quality loss. You can stream videos and music, [play iOS games](https://tools.techidaily.com/5kplayer/airplay/), and display photos, presentations, apps and files easily. Also, screen recording them in case needed.
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,16 +161,22 @@ As an AirPlay-enabled 4K video player, 5KPlayer has improved its [AirPlay](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-combine-movie-tracks-in-youtube-repertoire/"><u>[Updated] Combine Movie Tracks in YouTube Repertoire</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-overview-of-google-ar-sticker-and-its-alternative/"><u>[Updated] In 2024, Overview of Google AR Sticker and Its Alternative</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-de-archivo-mp4-a-wmv-sin-fines-de-lucro-en-linea-herramientas-gratuitas-de-movavi-para-la-conversion-de-video/"><u>Conversión De Archivo MP4 a WMV Sin Fines De Lucro en Línea - Herramientas Gratuitas De Movavi Para La Conversión De Vídeo</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/expert-analysis-the-full-spectrum-of-bublcam-360-for-2024/"><u>Expert Analysis The Full Spectrum of Bublcam 360 for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/in-depth-bose-smart-soundbar-evaluation-stunning-audio-quality-and-user-friendly-functions/"><u>In-Depth Bose Smart Soundbar Evaluation: Stunning Audio Quality & User-Friendly Functions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-teslas-mind-unveiling-gpt/"><u>Inside Tesla's Mind: Unveiling GPT</u></a></li>
-<li><a href="https://media-tips.techidaily.com/latest-news-secure-in-knowing-playstation-preserves-your-purchased-television-episodes/"><u>Latest News: Secure in Knowing PlayStation Preserves Your Purchased Television Episodes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-privacy-with-apple-tv-a-step-by-step-guide-to-using-built-in-vpn-features/"><u>Mastering Privacy with Apple TV: A Step-by-Step Guide to Using Built-In VPN Features</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maximizing-value-top-5-strategies-for-enjoying-the-full-benefits-of-apple-tvplus/"><u>Maximizing Value: Top 5 Strategies for Enjoying the Full Benefits of Apple TV+</u></a></li>
-<li><a href="https://media-tips.techidaily.com/netflix-and-chill-how-to-effortlessly-stream-on-discord/"><u>Netflix and Chill? How to Effortlessly Stream on Discord!</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-error-0x8007007e/"><u>Troubleshooting Windows Error 0X8007007E</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-complete-guide-to-camstudio-screencap-mastery-for-2024/"><u>[Updated] Complete Guide to CamStudio Screencap Mastery for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-most-acclaimed-cloud-services-on-android-platform/"><u>[Updated] In 2024, The Most Acclaimed Cloud Services on Android Platform</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-12-game-choices-for-the-ultimate-pc-clicking-journey-for-2024/"><u>[Updated] Top 12 Game Choices for the Ultimate PC Clicking Journey for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-face-fluidity-techniques-implementing-motion-blur-effects/"><u>2024 Approved Face Fluidity Techniques Implementing Motion Blur Effects</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/access-denied-overcoming-connection-problems-between-wd-my-cloud-and-windows-nx-discover-12-proven-fixes-now/"><u>Access Denied: Overcoming Connection Problems Between WD My Cloud and Windows nX - Discover 12 Proven Fixes Now</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/aomei-software-nutzungsbedingungen-verstandliche-lizenzvereinbarungen-fur-benutzer/"><u>AOMEI Software Nutzungsbedingungen: Verständliche Lizenzvereinbarungen Für Benutzer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/broadcast-windows-pcs-w10-w8-w7-live-connect-seamlessly-using-beamer-to-apple-tv-via-airplay/"><u>Broadcast Windows PCs (W10, W8, W7) Live - Connect Seamlessly Using Beamer to Apple TV via AirPlay</u></a></li>
+<li><a href="https://media-tips.techidaily.com/cost-free-guide-to-copying-songs-from-your-ipod-onto-your-desktop-computer/"><u>Cost-Free Guide to Copying Songs From Your iPod Onto Your Desktop Computer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-fix-av1-compatibility-problems-and-watch-on-windows-11mac-computers/"><u>How To Fix AV1 Compatibility Problems and Watch On Windows 11/Mac Computers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/include-provisions-that-require-the-destruction-of-data-after-5-years-unless-renewed-consent-is-given-by-the-patient-or-required-for-ongoing-research-purpos1/"><u>Include Provisions that Require the Destruction of Data After 5 Years Unless Renewed Consent Is Given by the Patient or Required for Ongoing Research Purposes, Citing Section XX, Paragraph YY.</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tart-your-career-with-a-killer-youtube-gaming-channel-for-2024/"><u>Jumpstart Your Career with a Killer YouTube Gaming Channel for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/make-every-picture-pop-with-these-10-online-photo-fixers/"><u>Make Every Picture Pop with These 10 Online Photo Fixers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-the-art-of-airplay-a-comprehensive-tutorial-for-connecting-to-your-imac-4k5k-screens/"><u>Mastering the Art of AirPlay: A Comprehensive Tutorial for Connecting to Your iMac (4K/5K) Screens</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138582521-9781452541501-psychic-integrity/"><u>Psychic Integrity | Free Book</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-easy-guide-transferring-your-iphone-data-to-windows-11-8-or-7/"><u>Quick & Easy Guide: Transferring Your iPhone Data to Windows 11, 8 or 7</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-the-top-5-iphone-apps-for-seamless-dlna-media-sharing/"><u>The Ultimate Guide to the Top 5 iPhone Apps for Seamless DLNA Media Sharing</u></a></li>
+<li><a href="https://media-tips.techidaily.com/vlc-player-issue-resolved-restoring-video-capability-on-desktop-and-laptop-computers/"><u>VLC Player Issue Resolved: Restoring Video Capability on Desktop and Laptop Computers</u></a></li>
 </ul></div>
 

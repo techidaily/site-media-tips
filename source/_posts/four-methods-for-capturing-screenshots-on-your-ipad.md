@@ -1,7 +1,7 @@
 ---
 title: Four Methods for Capturing Screenshots on Your iPad
-date: 2024-11-12T04:44:14.551Z
-updated: 2024-11-14T01:54:32.383Z
+date: 2024-11-18T18:25:04.458Z
+updated: 2024-11-23T21:20:02.872Z
 tags:
   - airplay
 categories:
@@ -39,10 +39,7 @@ Now that you are in dire need of recording iPad screen, the below four ways will
 [4\. 5KPlayer – wireless way](https://tools.techidaily.com/5kplayer/airplay/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4 Ways to Screen Record iPad Contents
@@ -54,6 +51,10 @@ iPad with iOS 11 or later and iPadOS has an embedded screen recorder that you ca
 **Step 1\. Add iPad screen recording function to Control Center**  
  Go to Settings > Control Center > Customizable Controls > tap the "plus" icon ![](https://www.5kplayer.com/airplay/img/plus-icon.jpg) next to Screen Recording to add it to Control Center > Go back to the UI of iPad
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Add Screen Recording to Control Center](https://www.5kplayer.com/airplay/img/add-screen-recording-to-control-center.jpg) 
 
 **Step 2\. Activate iPad screen recording**  
@@ -64,24 +65,18 @@ iPad with iOS 11 or later and iPadOS has an embedded screen recorder that you ca
 ![Start Recording iPad](https://www.5kplayer.com/airplay/img/start-ipad-screen-recording.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3\. Start recording iPad screen**  
  When the icon ![](https://www.5kplayer.com/airplay/img/record-icon-1.jpg) turns red, it means the recording starts. Now, do operations on your iPad and every action will be recorded.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4\. Stop iPad screen recording**  
  Open Control Center and tap ![](https://www.5kplayer.com/airplay/img/record-icon-2.jpg) to stop the recording. Alternatively, tap the red icon with a timer on the upper-right corner of your iPad screen and then a message will pop up to allow you to stop recording. Now, you can find the recording file in Photos and trim it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Cons of this way:**   
  \* Only available to iPad with iOS 11 or later and iPadOS.  
@@ -111,13 +106,6 @@ By making use of QuickTime, you are able to record iPad screen without the need 
 **Step 7.** When finishing, click the stop button and save the video.
 
 ![Record iPad Screen via QuickTime](https://www.5kplayer.com/airplay/img/5k-screen-recorder-for-ipad-trl-031602.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Notice:** If you want to [trim a video](https://tools.techidaily.com/5kplayer/video-music-player/) to keep only the relevant part, you can hit Cmd+T before saving the video to realize that.
 
@@ -154,6 +142,10 @@ As an AirPlay-enabled 4K video player, 5KPlayer has improved its [AirPlay](https
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -169,22 +161,20 @@ As an AirPlay-enabled 4K video player, 5KPlayer has improved its [AirPlay](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-effortlessly-journey-to-your-custom-designed-music-library-on-youtube-for-2024/"><u>[New] Effortlessly Journey to Your Custom-Designed Music Library on Youtube for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-list-of-ad-free-android-capturing-apps/"><u>[New] In 2024, Ultimate List of Ad-Free Android Capturing Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-simplifying-video-workflows-with-showmores-top-recording-tool-for-2024/"><u>[New] Simplifying Video Workflows with ShowMore's Top Recording Tool for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-fast-guide-mastering-instagram-live-conversations/"><u>[Updated] 2024 Approved Fast Guide Mastering Instagram Live Conversations</u></a></li>
-<li><a href="https://media-tips.techidaily.com/access-unlimited-streams-daily-free-updates-of-new-iptv-m3u8-content-available-now/"><u>Access Unlimited Streams – Daily Free Updates of New IPTV M3U8 Content Available Now</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-v30-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo V30 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-5-free-and-effective-online-tools-to-convert-avi-files-into-mp4-format/"><u>Best 5 FREE and Effective Online Tools to Convert AVI Files Into MP4 Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620230229-discover-the-ultimate-list-of-5-leading-dvd-to-flv-transcoding-applications-for-pcs-and-macbooks/"><u>Discover the Ultimate List of 5 Leading DVD to FLV Transcoding Applications for PCs and Macbooks!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-techniques-top-5-strategies-for-converting-videos-to-gif-format/"><u>Effortless Techniques: Top 5 Strategies for Converting Videos to GIF Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expert-advice-mastering-playback-and-conversion-of-high-quality-hd-videos-in-mtstsm2ts-formats/"><u>Expert Advice: Mastering Playback & Conversion of High-Quality HD Videos in MTS/TS/M2TS Formats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explaining-the-freeze-photo-booth-film-flow-for-2024/"><u>Explaining the Freeze Photo Booth Film Flow for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-methods-for-mp4-file-conversion-into-flv-format/"><u>Free Methods for MP4 File Conversion Into FLV Format</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-8-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 8?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/selecting-the-top-wtv-to-mp4-converter-software-compatible-with-windows-operating-systems-7-8-10/"><u>Selecting the Top WTV to MP4 Converter Software Compatible with Windows Operating Systems (7, 8, 10)</u></a></li>
-<li><a href="https://win-updates.techidaily.com/simple-steps-converting-mov-files-to-wma-format-using-windows/"><u>Simple Steps: Converting Mov Files to Wma Format Using Windows</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-free-methods-converting-vob-files-into-avi-format/"><u>Top Free Methods: Converting VOB Files Into AVI Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upcoming-apple-watches-compatible-with-watchos-11-revealed-exclusive-list-and-unsupported-model-details/"><u>Upcoming Apple Watches Compatible with WatchOS 11 Revealed - Exclusive List and Unsupported Model Details</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-supercharge-your-social-media-best-apps-for-post-and-followers-for-2024/"><u>[New] Supercharge Your Social Media Best Apps for Post & Followers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-easy-ways-to-get-free-views-on-youtube-alternative-methods/"><u>[Updated] 2024 Approved Easy Ways To Get Free Views on YouTube! Alternative Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-3-ways-to-record-itunes-videos-for-2024/"><u>[Updated] 3 Ways to Record iTunes Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-humor-hub-essential-apps-for-meme-makers/"><u>[Updated] Humor Hub Essential Apps for Meme Makers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-selfie-verification-everything-you-need-to-know/"><u>2024 Approved Instagram Selfie Verification - Everything You Need to Know</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620235009-expert-strategies-for-converting-wmv-to-gifs-top-techniques-to-master-now/"><u>Expert Strategies for Converting WMV to GIFs: Top Techniques to Master Now!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/hassle-free-steps-for-transforming-avi-videos-into-playstation-portable-psp-compatible-formats/"><u>Hassle-Free Steps for Transforming AVI Videos Into PlayStation Portable (PSP) Compatible Formats</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-12-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 12 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://media-tips.techidaily.com/make-your-mod-files-compatible-with-ipad-e-top-rated-ipad-2-video-converting-toolkit/"><u>Make Your MOD Files Compatible with iPad E - Top-Rated iPad 2 Video Converting Toolkit</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp4-to-flv-transformation-a-comprehensive-tutorial-for-windows-and-macos-users/"><u>MP4 to FLV Transformation: A Comprehensive Tutorial for Windows and macOS Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-conversion-premium-quality-dpg-from-any-video/"><u>Simple Conversion: Premium-Quality DPG From Any Video</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-videos-into-compatible-formats-for-your-kindle-fire/"><u>Step-by-Step Guide: Transforming Videos Into Compatible Formats for Your Kindle Fire</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamlined-content-generation-utilizing-canva-and-chatgpt-synergy/"><u>Streamlined Content Generation: Utilizing Canva and ChatGPT Synergy</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-persistent-echoes-of-eternal-return-a-look-at-black-endurance/"><u>The Persistent Echoes of 'Eternal Return': A Look at Black Endurance</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-videos-into-masterpieces-a-guide-on-creating-with-creative-zen/"><u>Transforming Videos Into Masterpieces: A Guide on Creating with Creative Zen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the VLC-AirPlay Glitch: Effective Strategies for Uninterrupted Streaming"
-date: 2024-11-11T20:24:03.574Z
-updated: 2024-11-13T17:13:55.672Z
+date: 2024-11-22T22:36:13.217Z
+updated: 2024-11-23T16:51:48.184Z
 tags:
   - vlc
 categories:
@@ -18,18 +18,15 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Solve VLC AirPlay Not Working Issue?
 
  _Written by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21)_ | Last updated: April 30, 2020 
 
 VLC 4's developers have been working on **VLC AirPlay** support for some time and it is confirmed that the feature will be included in the VLC 4 major version upgrade. "Just like with Chromecast, we intend to support AirPlay on any platform." This means that we can get an easier way to stream video and audio files from VLC media player on PC/phones/tablets to a big screen TV, without the need to install additional apps or purchase additional widgets. However, **VLC AirPlay not working issue** stands in the way of a smooth streaming experience every now and then.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VLC AirPlay not working issue 1: VLC AirPlay not showing up, can't find AirPlay renderer
 
@@ -39,10 +36,18 @@ The problem can highly lie in Windows 10 update build 1803, which has managed to
 
 ![VLC 4 AirPlay Not Showing](https://www.5kplayer.com/vlc/img/vlc-airplay-not-working.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Solutions:**  
 1\. Install Bonjour Print Service for Windows from Apple website instead of Bonjour 2.2;  
 2\. Install VLC to "C:xxx" or any other folders, instead of under "C:\\program files\\xxx" and create firewall exceptions for VLC.   
 3\. Also, VLC AirPlay not loading issue can also be resulted from WiFi routers, which can block multicast packets going from wired to wireless if your PC is at wired connection. In this case, your best defense is to buy high-quality APs from companies that care about making sure multicasts work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VLC AirPlay not working issue 2: Apple TV No Sound AirPlay from VLC 4
 
@@ -58,25 +63,11 @@ For the second case, it can be a problem with Apple TV audio output setting.
 1\. Go to Settings > Audio & Video on your Apple TV > Change the Audio Output setting from Auto to 16 bit  
 2\. Change Dolby Digital Out setting: set to Off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## VLC AirPlay not working issue 3: Apple TV Sound but No Picture AirPlay from VLC 4
 
 VLC AirPlay not showing video on TV renderer. "Playing a movie through Itunes; it works great. Playing a movie through Beamer; it works great. Using VLC Airplay; all I get is sound and no video." 
 
 ![VLC 4 AirPlay Not Working No Video](https://www.5kplayer.com/vlc/../airplay/img/airplay-pc-to-apple-tv-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Solutions:**   
  Check AirPlay status on the Apple TV. Turn it off and on.  
@@ -91,6 +82,10 @@ If necessary, you may want to
  Restart your router. (Also try removing it’s power cord for at least 30 seconds)  
  Restart your mobile device or computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Another Way to Solve VLC AirPlay Not Working
 
 **VLC AirPlayer Alternative – [5KPlayer](https://tools.techidaily.com/5kplayer/products/) \- Recommend Workaround.**
@@ -102,10 +97,7 @@ If necessary, you may want to
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -123,22 +115,14 @@ If necessary, you may want to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-inside-look-a-detailed-review-of-the-android-lightroom-app-for-2024/"><u>[Updated] Inside Look A Detailed Review of the Android Lightroom App for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-no-cash-needed-try-these-free-youtube-subtitle-tools/"><u>2024 Approved No Cash Needed? Try These Free YouTube Subtitle Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-youtubes-payment-mechanisms-for-content-makers-for-2024/"><u>Exploring YouTube's Payment Mechanisms for Content Makers for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/fb-video-downloader-extraordinaire-mp4-transformation/"><u>FB Video Downloader Extraordinaire - MP4 Transformation</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-c110-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia C110</u></a></li>
-<li><a href="https://games-able.techidaily.com/pushing-gaming-limits-with-razers-superior-basilisk-v3-pro/"><u>Pushing Gaming Limits with Razer's Superior Basilisk V3 Pro</u></a></li>
-<li><a href="https://media-tips.techidaily.com/secure-a-250-discount-on-the-portable-marvel-xgimis-mogo/"><u>Secure a $250 Discount on the Portable Marvel: XGIMI's MoGo</u></a></li>
-<li><a href="https://media-tips.techidaily.com/speedy-search-tips-for-checking-movies-and-tv-shows-on-popular-streaming-platforms/"><u>Speedy Search Tips for Checking Movies and TV Shows on Popular Streaming Platforms</u></a></li>
-<li><a href="https://media-tips.techidaily.com/spotifys-new-personalized-experience-my-spotify-awaits-you/"><u>Spotify's New Personalized Experience: My Spotify Awaits You!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-generating-and-sharing-your-own-spotify-link-codes/"><u>Step-by-Step Guide: Generating & Sharing Your Own Spotify Link Codes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/stuck-with-choices-in-your-streaming-library-discover-our-top-recommendations/"><u>Stuck with Choices in Your Streaming Library? Discover Our Top Recommendations!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/supreme-graphics-power-for-4k-gamers-only/"><u>Supreme Graphics Power For 4K Gamers Only</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-7-undeniable-benefits-of-choosing-smart-over-modern-television-sets/"><u>Top 7 Undeniable Benefits of Choosing Smart Over Modern Television Sets</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unleash-gaming-on-your-roku-tv-discover-the-latest-play-options/"><u>Unleash Gaming on Your Roku TV: Discover the Latest Play Options</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unlock-savings-of-250-with-xgimis-compact-powerful-mogo-2-pro-projector/"><u>Unlock Savings of $250 with XGIMI's Compact, Powerful MoGo 2 Pro Projector!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unveiling-tech-secrets-a-journey-into-toms-hardware-universe/"><u>Unveiling Tech Secrets: A Journey Into Tom's Hardware Universe</u></a></li>
+<li><a href="https://media-tips.techidaily.com/7-proven-strategies-to-manage-your-monthly-streaming-costs/"><u>7 Proven Strategies to Manage Your Monthly Streaming Costs</u></a></li>
+<li><a href="https://media-tips.techidaily.com/april-2024-marks-the-expiration-of-federal-broadband-assistance-programs/"><u>April 2024 Marks the Expiration of Federal Broadband Assistance Programs</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comprehensive-tutorial-steps-to-successfully-add-an-extra-ssd-drive-in-windows-11/"><u>Comprehensive Tutorial: Steps to Successfully Add an Extra SSD Drive in Windows 11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/customizing-your-viewing-experience-how-to-bypass-the-built-in-two-hour-timeout-on-plex-streaming-service/"><u>Customizing Your Viewing Experience: How to Bypass the Built-In Two Hour Timeout on Plex Streaming Service</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-discover-the-potential-detailed-look-at-showmore-as-your-recording-companion/"><u>In 2024, Discover the Potential Detailed Look at ShowMore as Your Recording Companion</u></a></li>
+<li><a href="https://fox-where.techidaily.com/risoluzione-guidata-soluzioni-rapide-per-il-problemi-di-pianificazione-su-windows-server/"><u>Risoluzione Guidata - Soluzioni Rapide per Il Problemi Di Pianificazione Su Windows Server</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-itel-a60-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Itel A60 Location | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-itel-p40-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Itel P40 Screen | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/why-its-essential-the-three-key-advantages-of-rating-the-tv-series-you-enjoy-on-streaming-platforms/"><u>Why It's Essential: The Three Key Advantages of Rating the TV Series You Enjoy on Streaming Platforms</u></a></li>
 </ul></div>
 

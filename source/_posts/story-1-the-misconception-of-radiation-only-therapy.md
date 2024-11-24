@@ -1,7 +1,7 @@
 ---
 title: "Story 1: The Misconception of Radiation-Only Therapy"
-date: 2024-11-13T00:57:00.855Z
-updated: 2024-11-14T02:35:56.658Z
+date: 2024-11-16T17:09:46.715Z
+updated: 2024-11-23T20:44:36.403Z
 tags:
   - vlc
 categories:
@@ -55,13 +55,6 @@ Monitor: Samsung SAM08DF S27B370 (27.2 inches)
 
 ![VLC Alternatives for Windows Test](https://www.5kplayer.com/vlc/img/vlc-alternative-win-test-vid.jpg) ![VLC Alternatives for Windows Sample Table](https://www.5kplayer.com/vlc/img/vlc-alternative-win-test-vid-info.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 With above test details given, let's throw videos at those "overbloated" media players and see if they are truly worthy of the praises.
 
 ## Part 2: VLC Alternatives for Windows 8K Video Playback Test
@@ -76,21 +69,16 @@ Note that video output was set "Automatic", and it auto choosed Direct3D9\.
 
 ![VLC 8K Video Playback Test](https://www.5kplayer.com/vlc/img/km-8k.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **PotPlayer 1.7.14804 for Windows** \- 8K video playback quality and CPU usage **\[#2\]**
 
 ![VLC 8K Video Playback Test](https://www.5kplayer.com/vlc/img/pot-8k.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **GOMplayer 2.3.34.5295 for Windows** \- 8K video playback quality and CPU usage **\[#3\]**
@@ -98,10 +86,7 @@ Note that video output was set "Automatic", and it auto choosed Direct3D9\.
 ![VLC 8K Video Playback Test](https://www.5kplayer.com/vlc/img/gom-8k.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Verdict:**   
@@ -120,10 +105,7 @@ VLC media player was going choppy at first, but given time, it gradually fell in
 ![VLC 4K Video Playback Test](https://www.5kplayer.com/vlc/img/vlc-4k.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **KMplayer 2018.10.7.14 for Windows** \- 4K HDR video playback quality and CPU usage **\[#2\]**
@@ -134,16 +116,13 @@ VLC media player was going choppy at first, but given time, it gradually fell in
 
 ![Windows VLC Alternative 4K Playback](https://www.5kplayer.com/vlc/img/pot-4k.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **GOMplayer 2.3.34.5295 for Windows** \- 4K HDR video playback quality and CPU usage **\[#3\]**
 
 ![Windows VLC Alternative 4K Playback](https://www.5kplayer.com/vlc/img/gom-4k.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Verdict:**  
  GOMplayer secretely jumps frames and is slow at starting, but even so, it is still more capable of processing 4K HDR video than VLC in terms of video output quality. PotPlayer delivers constant and relatively smooth visuals as it is with KMplayer, only that PotPlayer takes a higher CPU usage of about 86% while KMPlayer's control bar stays unmoved. The best 4K HDR video player goes to both **KMPlayer** and **Potplayer** in this round. 
@@ -162,6 +141,10 @@ KMPlayer was doing good in slow-motion video playback. It reads the video as if 
 
 ![Windows VLC Alternative Slowmotion Playback](https://www.5kplayer.com/vlc/img/km-slmo.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **PotPlayer 1.7.14804 for Windows** \- Slowmo video playback quality and CPU usage **\[#2\]**
 
 VLC media player was going choppy at first, but given time, it gradually fell in the tune with the video and started to read it, but still in a poorly manner at an alarming high CPU usage of 90\. 
@@ -174,13 +157,6 @@ VLC media player was going choppy at first, but given time, it gradually fell in
 
 **Verdict:**  
  From above comparison, **KMPlayer** is the most stable media player for iPhone recorded slow motion videos no matter in HEVC or AVC H264\. It successfully reads iOS recorded slow-mo video with speed marks as contained in the video data. However, Gomplayer jumps frames rapidly; VLC freezes at the first frame, unable to read; Potplayer only reads slow motion video in HEVC codec and plays AVC H264 slow-mo video at normal speed. 
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: VLC Alternatives for Windows 360-deg Playback Test
 
@@ -196,13 +172,6 @@ There are three 360 degree video modes to choose in KMPlayer: original size, nor
 
 ![Windows VLC Alternative 360 Video Playback](https://www.5kplayer.com/vlc/img/km-360.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### **PotPlayer 1.7.14804 for Windows** \- 360-deg video playback quality and CPU usage **\[#2\]**
 
 There are even more 360-deg video modes in PotPlayer, as we can see from the given screenshot. It even supports 2 google cardboad modes, proving it a very delicately crafted video player. 
@@ -213,14 +182,15 @@ There are even more 360-deg video modes in PotPlayer, as we can see from the giv
 
 ![Windows VLC Alternative 360 Video Playback](https://www.5kplayer.com/vlc/img/gom-360.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Verdict**:  
  GOMplayer delivers flexible and quick 360-deg video interactive response between mouse clicks and the view angle, it also provides a tank of 360-deg videos from online for direct playback with relatively better visuals. GOM is like a 360-deg themed video player, while Potplayer and KMplayer only offers the ability to read those files in serveral modes. VLC is the poorest player to handle 360-deg videos.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Another VLC Player Alternative Windows - 5KPlayer
@@ -238,6 +208,10 @@ Install 5KPlayer, KMPlayer, PotPlayer, GOMPlayer, besides VLC. And it is prooved
 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -253,24 +227,15 @@ Install 5KPlayer, KMPlayer, PotPlayer, GOMPlayer, besides VLC. And it is prooved
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optimal-mac-animation-storer/"><u>[Updated] 2024 Approved Optimal Mac Animation Storer</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-guide-to-stunning-instagram-videos/"><u>[Updated] Step-by-Step Guide to Stunning Instagram Videos</u></a></li>
-<li><a href="https://media-tips.techidaily.com/599-deal-access-to-a-full-years-worth-of-apple-tvplus-subscriptions-for-just-three-months/"><u>$5.99 Deal - Access to a Full Year's Worth of Apple TV+ Subscriptions for Just Three Months!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/a-refreshing-cleanse-for-online-privacy-how-i-successfully-removed-decades-worth-of-youtube-watch-history/"><u>A Refreshing Cleanse for Online Privacy: How I Successfully Removed Decades Worth of YouTube Watch History</u></a></li>
-<li><a href="https://media-tips.techidaily.com/achieve-professional-sound-in-your-vehicle-with-spotifys-advanced-equalizer-feature/"><u>Achieve Professional Sound in Your Vehicle with Spotify's Advanced Equalizer Feature</u></a></li>
-<li><a href="https://media-tips.techidaily.com/affordable-high-fidelity-audio-discover-the-new-reduced-rates-for-streaming-on-tidals-hifi-platform/"><u>Affordable High-Fidelity Audio: Discover the New, Reduced Rates for Streaming on Tidal's HiFi Platform</u></a></li>
-<li><a href="https://media-tips.techidaily.com/apple-music-subscription-is-the-5-price-offer-no-longer-available/"><u>Apple Music Subscription: Is the $5 Price Offer No Longer Available?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/apples-billing-cut-off-netflix-ends-legacy-support-on-the-ios-platform/"><u>Apple's Billing Cut-Off: Netflix Ends Legacy Support on the iOS Platform</u></a></li>
-<li><a href="https://media-tips.techidaily.com/back-on-track-access-your-favorite-shows-as-hulu-returns-through-disneyplus/"><u>Back on Track: Access Your Favorite Shows as Hulu Returns Through Disney+</u></a></li>
-<li><a href="https://media-tips.techidaily.com/boosting-enjoyment-and-savings-top-7-tips-for-getting-more-from-sling-tv-subscription/"><u>Boosting Enjoyment and Savings: Top 7 Tips for Getting More From Sling TV Subscription</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/breaking-into-your-ipad-strategies-for-no-passcode-entry/"><u>Breaking Into Your iPad: Strategies for No-Passcode Entry</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-stellar-youtube-thumbnails-with-these-8-software-alternatives-for-2024/"><u>Craft Stellar YouTube Thumbnails with These 8 Software Alternatives for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/essential-elements-in-your-next-smart-tv-acquisition/"><u>Essential Elements in Your Next Smart TV Acquisition</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-fostering-an-online-oasis-paving-the-way-for-a-prolific-youtube-presence/"><u>In 2024, Fostering an Online Oasis Paving the Way for a Prolific Youtube Presence</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-brio-camera-drivers-for-pcs-running-win10-8-or-7/"><u>Latest Logitech BRIO Camera Drivers for PCs Running Win10, 8 or 7</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-limitations-maximizing-ram-in-windows/"><u>Overcoming Limitations: Maximizing RAM In Windows</u></a></li>
-<li><a href="https://media-tips.techidaily.com/xgimi-vs-sony-battle-of-the-titans-featuring-imax-enhanced-projection-technology/"><u>XGIMI vs Sony: Battle of the Titans Featuring IMAX-Enhanced Projection Technology</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/"><u>Your Smartphone as an Artist’s Canvas Producing Quality YouTube Video Content</u></a></li>
+<li><a href="https://media-tips.techidaily.com/current-year-sneak-peek-plexs-upcoming-rollout-of-on-demand-movie-and-show-rentals/"><u>[Current Year] Sneak Peek: Plex's Upcoming Rollout of On-Demand Movie and Show Rentals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-gif-making-software-showdown/"><u>[Updated] The Ultimate GIF Making Software Showdown</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>[Updated] Top 5 Effortlessly Converted GIF to Professional Videos Online</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-insiders-guide-to-the-vr-lexicon-essentials/"><u>2024 Approved Insider's Guide to the VR Lexicon Essentials</u></a></li>
+<li><a href="https://media-tips.techidaily.com/critical-alert-more-than-15000-roku-logins-compromised-through-weak-password-habits/"><u>Critical Alert: More Than 15,000 Roku Logins Compromised Through Weak Password Habits</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-latest-features-of-kodi-version-205-rollout-and-enhancements-unveiled/"><u>Discover the Latest Features of Kodi Version 20.5: Rollout and Enhancements Unveiled!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-steps-to-access-live-twitch-gameplay-on-your-roku-tv/"><u>Easy Steps to Access Live Twitch Gameplay on Your Roku TV</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-12-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone 12 How to Bypass?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevating-your-contents-exposure-with-ongoing-creative-commons-usage/"><u>In 2024, Elevating Your Content's Exposure with Ongoing Creative Commons Usage</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/jumpstart-your-urdu-learning-now/"><u>Jumpstart Your Urdu Learning Now</u></a></li>
 </ul></div>
 

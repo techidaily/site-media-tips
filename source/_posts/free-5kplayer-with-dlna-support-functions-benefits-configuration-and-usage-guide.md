@@ -1,7 +1,7 @@
 ---
 title: Free 5KPlayer with DLNA Support - Functions, Benefits, Configuration, and Usage Guide
-date: 2024-11-09T04:42:04.051Z
-updated: 2024-11-13T20:35:03.871Z
+date: 2024-11-21T22:34:19.640Z
+updated: 2024-11-23T17:57:43.150Z
 tags:
   - dlna
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5KPlayer DLNA機能について：できること・メリット・設定・使い方
 
 **_定番メディアプレイヤーとしての5KPlayerはDLNA機能が追加しました！_**  
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 **関連記事：**[【無料】iPhoneの画面をPCで録画する方法～iPhoneをPCにミラーリングして録画](https://tools.techidaily.com/5kplayer/airplay/)
 
 ![5KPlayer DLNA](https://www.5kplayer.com/dlna-jp/img/dlna-guide-2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **[DLNAとは](https://tools.techidaily.com/5kplayer/dlna/)**
 
@@ -74,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 ![5KPlayer DLNA](https://www.5kplayer.com/dlna-jp/img/dlna-guide-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 （3）Windows/Mac PCをメディアサーバーとして利用したいとき、DLNAサービスを「OFF」から「ON」にしてください。Windows/Mac PCをDLNAプレイヤーとして、AndroidスマホやタブレットからPCへメディアファイルをミラーリングしたい場合、DLNAデバイスを「ON」にします。これで、5KPlayer DLNA対応を有効にします。 
 
 ![5KPlayer DLNA](https://www.5kplayer.com/dlna-jp/img/dlna-guide-4.jpg)
@@ -92,13 +93,14 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitewin-jp.png)](https://www.5kplayer.com/5kplayer-download-windows-jp.htm) [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitemac-jp.png)](https://www.5kplayer.com/5kplayer-download-mac-jp.htm)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **関連記事：**[おすすめの動画再生アプリランキング18選｜PC/Mac/iPhone/Android](https://tools.techidaily.com/5kplayer/video-music-player/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5KPlayer DLNAの使い方（具体的な例を挙げる）
 
@@ -113,6 +115,10 @@ Step2、インタフェースにある「AirPlayer DLNA」アイコンをクリ�
 Step3、Androidスマホ上でDLNA対応アプリを開き、ミラーリングしたい映像を選択し、アプリのオプションにある「DLNA」（アプルによって表示単語が異なる）が表示されて、5KPlayerを搭載したPCを選択します。これで、AndroidスマホからWindows/Mac PCに動画がミラーリングされます。
 
 ![5KPlayer DLNAの使い方](https://www.5kplayer.com/dlna-jp/img/dlna-guide-5.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ※AndroidスマホにDLNA対応アプリをインストールする必要があります。 
 
@@ -129,13 +135,6 @@ Step3、インタフェースの右上隅にある「DLNA」アイコンをク�
  Step4、5KPlayerのインタフェースにある「ビデオ」からミラーリングしたい映像を追加したら、その映画がスマートTVで再生し始めます。 
 
 ![5KPlayer DLNAの使い方](https://www.5kplayer.com/dlna-jp/img/dlna-guide-6.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ※上記の方法を利用して、スマートTVの他、DLNA対応可能なPCやPS4/Xboxにミラーリンググすることができます。別にDLNA対応アプリ等が不要です。
 
@@ -159,19 +158,6 @@ Step4、手元のAndroidスマホ/スマートTV/ PS4/Xboxのアプリ共有セ�
 
 [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitewin-jp.png)](https://www.5kplayer.com/5kplayer-download-windows-jp.htm) [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitemac-jp.png)](https://www.5kplayer.com/5kplayer-download-mac-jp.htm)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **まとめ**
 
 以上は5KPlayer DLNA対応でできること、メリット、設定及び使い方を詳しく紹介しました。 ご覧の通り、DLNA対応ソフト「5KPlayer」は、Windows /Mac PCをDLNAプレイヤー、DLNAコントローラ、又はDLNAサーバーに変えることができます。手元のDLNA機器の間でメディア共有をもっと簡単にします。しかも、完全無料で使えるので、便利なDLNA機能を是非ご活用ください！
@@ -191,18 +177,18 @@ Step4、手元のAndroidスマホ/スマートTV/ PS4/Xboxのアプリ共有セ�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-power-of-persuasion-hire-success-stories-1-10-for-2024/"><u>[Updated] The Power of Persuasion Hire Success Stories #1-10 for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-list-of-16-key-youtube-videos-for-higher-engagement-for-2024/"><u>[Updated] Ultimate List of 16 Key YouTube Videos for Higher Engagement for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-guide-to-downloading-and-installing-brother-l2740dw-drivers-on-your-pc-windows-compatible/"><u>Complete Guide to Downloading & Installing Brother L2740DW Drivers on Your PC - Windows Compatible</u></a></li>
-<li><a href="https://media-tips.techidaily.com/elevate-your-listening-experience-switch-to-youtube-premium-now/"><u>Elevate Your Listening Experience: Switch to YouTube Premium Now!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exclusive-promotion-get-a-whopping-90-discount-on-directv-stream-act-fast-before-it-expires/"><u>Exclusive Promotion: Get a Whopping $90 Discount on DIRECTV Stream - Act Fast Before It Expires!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experience-ultra-hd-cinema-anywhere-with-the-new-stylish-easy-to-carry-lg-4k-projector/"><u>Experience Ultra HD Cinema Anywhere with the New Stylish, Easy-to-Carry LG 4K Projector</u></a></li>
-<li><a href="https://media-tips.techidaily.com/gentle-plea-for-pause-functionality-on-spotify-need-some-silence/"><u>Gentle Plea for Pause Functionality on Spotify - Need Some Silence!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-recent-online-disruptions-turned-me-back-into-an-enthusiastic-collector-of-tangible-music-and-movies/"><u>How Recent Online Disruptions Turned Me Back Into an Enthusiastic Collector of Tangible Music and Movies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/increased-advertising-on-youtube-what-you-need-to-know/"><u>Increased Advertising on YouTube: What You Need To Know</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-to-securely-migrate-your-gpt-volume-from-hard-drive-to-solid-state-in-windows-11/"><u>Step-by-Step Guide to Securely Migrate Your GPT Volume From Hard Drive to Solid State in WIndows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-mac-display-utilizing-picture-in-picture-multimedia-features-for-2024/"><u>Transform Your Mac Display Utilizing Picture in Picture Multimedia Features for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ow-to-easily-disableremove-youtube-shorts-permanently/"><u>[New] How to Easily Disable/Remove YouTube Shorts Permanently?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-maximizing-play-in-apex-legends-without-cross-platform-limitations/"><u>[Updated] Maximizing Play in Apex Legends Without Cross-Platform Limitations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-vlc-software-basics-for-macos/"><u>[Updated] Navigating VLC Software Basics for MacOS</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-cinematic-brilliance-through-masterful-application-of-luts-from-cg-central/"><u>2024 Approved Cinematic Brilliance Through Masterful Application of Luts From CG Central</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-m34-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy M34 FRP Locks</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-skype-recording-obs-integration-guide/"><u>In 2024, Mastering Skype Recording OBS Integration Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-simplifying-iphoneipad-screen-captures-for-online-sharing/"><u>In 2024, Simplifying iPhone/iPad Screen Captures for Online Sharing</u></a></li>
+<li><a href="https://media-tips.techidaily.com/lose-not-a-beat-top-spotify-lyric-enabled-services-as-the-official-ones-discontinues/"><u>Lose Not a Beat: Top Spotify Lyric-Enabled Services as the Official Ones Discontinues</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maximize-savings-find-exclusive-discount-codes-on-blu-rays-prior-to-going-digital-with-movies/"><u>Maximize Savings: Find Exclusive Discount Codes on Blu-Rays Prior to Going Digital with Movies!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-android-tv-version-14-enhanced-picture-in-picture-feature-unveiled/"><u>New Android TV Version 14: Enhanced Picture-in-Picture Feature Unveiled</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-feature-alert-spotify-introduces-live-music-video-playback/"><u>New Feature Alert: Spotify Introduces Live Music Video Playback!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/save-on-entertainment-verizons-new-myhome-internet-packages-include-special-streaming-deals/"><u>Save on Entertainment: Verizon's New MyHome Internet Packages Include Special Streaming Deals</u></a></li>
 </ul></div>
 

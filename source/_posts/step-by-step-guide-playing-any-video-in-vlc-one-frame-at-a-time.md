@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Playing Any Video in VLC One Frame at a Time"
-date: 2024-11-12T16:29:25.176Z
-updated: 2024-11-14T02:51:34.679Z
+date: 2024-11-19T20:48:42.907Z
+updated: 2024-11-23T16:59:20.310Z
 tags:
   - vlc
 categories:
@@ -26,6 +26,10 @@ When you are watching some fast speed videos like the extreme sport videos, you 
 
 BTW, VLC media player doesn’t support frame by frame backwards as of now, so this guide will teach you how to play forward one frame at a time with VLC, and play videos backwards by frame with some other tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to View Video Frame by Frame in VLC on Mac/PC?
 
 There are two main ways to go through videos frame by frame in VLC media player – Hotkeys & Advanced Control bar.
@@ -39,6 +43,10 @@ There are two main ways to go through videos frame by frame in VLC media player 
 **Note:** This shortcut can be applied either when your video is playing or pausing. If the hotkey doesn’t work for you, maybe another shortcut key is doing the task. You can simply go to **Tools** \> **Preferences** \> **Hotkeys** and search for frame to edit it or just keep it as it is. To edit the shortcut, just double-click the hotkey "e" and type a new key to reset.
 
 ![VLC Frame by Frame Hotkeys](https://www.5kplayer.com/vlc/img/vlc-frame-by-frame-hotkey.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Method 2\. Use Advanced Controls Bar**
 
@@ -55,17 +63,7 @@ Worth mentioning, problems like VLC frame by frame freezes are inevitable. Besid
 ![VLC Frame by Frame Button](https://www.5kplayer.com/vlc/img/vlc-frame-by-frame-button.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### VLC Player Frame by Frame not Working? How to Solve?
@@ -76,26 +74,20 @@ If you have any issues with VLC media player frame by frame function, you can tu
 
 **Step 2.** Play a video with 5KPlayer, and then click on the "scissors" ![](https://www.5kplayer.com/vlc/../user-guide/img/scissors-icon.jpg) icon on the playback bar of 5KPlayer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** View your favorite part by dragging the progress bar under the main picture window.
 
 **Note:** This is mainly the video processing window of 5KPlayer where you can cut your video into segments.
 
 ![5KPlayer Frame by Frame](https://www.5kplayer.com/vlc/img/5kplayer-frame-by-frame.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### People Also Ask
@@ -131,22 +123,21 @@ To save a frame when playing a video in VLC, VLC frame by frame screenshot is th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-captivating-cold-ideal-snowy-scenes-to-brighten-videos/"><u>[New] In 2024, Captivating Cold Ideal Snowy Scenes to Brighten Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-ultimate-slow-motion-compendium-slomo-review-2024/"><u>[New] The Ultimate Slow-Motion Compendium SloMo Review, 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-educators-roadmap-to-effective-multimedia-use/"><u>[Updated] 2024 Approved The Educator's Roadmap to Effective Multimedia Use</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-easy-steps-for-win-11-users-to-reactivate-photo-viewing-software/"><u>[Updated] Easy Steps for Win 11 Users to Reactivate Photo Viewing Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-unveiling-the-new-apeaksoft-screenscape-capture/"><u>[Updated] In 2024, Unveiling the New Apeaksoft Screenscape Capture</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-your-quicktime-videos-into-mp4-format-with-ease-a-step-by-step-guide/"><u>Convert Your QuickTime Videos Into MP4 Format with Ease: A Step-by-Step Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/creating-and-downloading-gifs-at-no-cost-the-ultimate-guide-for-beginners/"><u>Creating & Downloading GIFs at No Cost: The Ultimate Guide for Beginners</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-creativity-essential-tiktok-video-tricks/"><u>Enhance Creativity Essential TikTok Video Tricks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-software-update-for-nvidia-quadro-rtx-8000-how-to-download-and-install-on-win-10-8-or-7/"><u>Latest Software Update for Nvidia Quadro RTX 8000: How to Download & Install on Win 10, 8 or 7</u></a></li>
-<li><a href="https://media-tips.techidaily.com/rapid-solution-transform-your-mkv-videos-into-mp4-seamlessly-and-swiftly/"><u>Rapid Solution: Transform Your MKV Videos Into MP4 Seamlessly & Swiftly</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-guide-converting-avi-videos-to-play-smoothly-on-your-ipad/"><u>Simple Guide: Converting AVI Videos to Play Smoothly on Your iPad</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-steps-to-change-your-videos-into-mp4-and-make-them-play-on-psp/"><u>Simple Steps to Change Your Videos Into MP4 and Make Them Play on PSP</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-best-of-the-best-exciting-windows-10-apps-and-games/"><u>The Best of the Best Exciting Windows 10 Apps & Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-business-perspective-5-main-arguments-against-ais-invasion/"><u>The Business Perspective: 5 Main Arguments Against AI's Invasion</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-10-tips-for-transforming-videos-into-engaging-animated-gifs/"><u>Top 10 Tips for Transforming Videos Into Engaging Animated GIFs</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-free-techniques-to-transform-gif-images-into-wmv-format-windows-and-mac-solutions/"><u>Top Free Techniques to Transform GIF Images Into WMV Format: Windows and Mac Solutions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/two-effective-strategies-for-converting-flv-to-ipad-friendly-mp4mov-files-both-online-and-offline/"><u>Two Effective Strategies for Converting FLV to iPad-Friendly MP4/MOV Files, Both Online and Offline</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-best-microphones-ranked-perfect-companions-for-4k-cinematography/"><u>[Updated] 2024 Approved Best Microphones Ranked Perfect Companions for 4K Cinematography</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-get-started-on-creativity-top-10-apps-for-digital-pencils-on-chrome-os/"><u>[Updated] 2024 Approved Get Started on Creativity Top 10 Apps for Digital Pencils on Chrome OS</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ace-your-media-playback-with-superior-mkv-converters-compatible-with-mac-high-sierra-systems/"><u>Ace Your Media Playback with Superior MKV Converters Compatible with Mac High Sierra Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-subtitles-players-top-6-picks-for-effortless-viewing-experience/"><u>Best Free Subtitles Players: Top 6 Picks for Effortless Viewing Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/convenient-curvature-creation-techniques-in-pixels-for-2024/"><u>Convenient Curvature Creation Techniques in Pixels for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-your-flv-videos-to-mov-format-top-5-free-methods-for-windows-and-mac-users/"><u>Convert Your FLV Videos to MOV Format: Top 5 Free Methods for Windows and Mac Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-convert-and-enjoy-videos-on-your-kindle-fire-a-user-friendly-guide/"><u>How to Convert and Enjoy Videos on Your Kindle Fire: A User-Friendly Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-3-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord 3 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-to-the-latest-hid-compatible-mouse-software/"><u>How to Upgrade to the Latest HID-Compatible Mouse Software</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/maintaining-a-polished-online-presence-blocking-profiles/"><u>Maintaining a Polished Online Presence: Blocking Profiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-pc-printer-link-fixes/"><u>Mastering PC Printer Link Fixes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-easy-free-methods-to-transform-3gp-video-files-into-avi-format-at-lightning-speeds/"><u>Quick & Easy: Free Methods to Transform 3GP Video Files Into AVI Format at Lightning Speeds</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-methods-to-transform-flv-files-into-3gp-format-with-free-editing-tools/"><u>Simple Methods to Transform Flv Files Into 3Gp Format with Free Editing Tools</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-7-methods-to-transform-your-m4v-files-into-lfv-format-discover-the-best-online-and-offline-converters/"><u>Top 7 Methods to Transform Your M4V Files Into LFV Format: Discover the Best Online and Offline Converters</u></a></li>
 </ul></div>
 
