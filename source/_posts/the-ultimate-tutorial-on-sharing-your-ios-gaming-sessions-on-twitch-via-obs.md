@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Sharing Your iOS Gaming Sessions on Twitch via OBS
-date: 2024-11-19T16:41:16.962Z
-updated: 2024-11-23T18:22:35.192Z
+date: 2024-11-24T21:42:16.619Z
+updated: 2024-12-02T00:23:16.964Z
 tags:
   - airplay
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stream iOS Game with OBS to Twitch?
 
  _Written by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21)_ | Last update: April 28, 2020
@@ -25,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d8
 Anyone who wants to **broadcast iOS games on Twitch.tv using OBS streaming** would find it quite annoying that OBS requires the game to be playing on the desktop in the first place. This is not at all a problem for macOS users, since they can directly mirror iPhone/iPad iOS screen to a Mac. But it can be quite another story for Windows user. How can we add iOS to OBS streaming source on PC Windows to stream Fortnite on Twitch PC? [5KPlayer](https://tools.techidaily.com/5kplayer/products/) freeware holds the answer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stream Fortnite iOS Game with OBS to Twitch/FB/Twitter?
@@ -41,10 +45,6 @@ Ta-dah, your iPad screen is now shown on your Windows computer, ready to be capt
 
 ![iPhone Xs Max Screen Mirroring](https://www.5kplayer.com/airplay/img/ipad-pro-2-windows-10-b.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: Open OBS, under Source, and click on "Add", choose Windows Capture to capture 5KPlayer window precisely.
 
 **Notice:** 5KPlayer also provides screen recording utility locally. Simply click the recording button and your iOS screen will be recorded with audio. 
@@ -52,11 +52,7 @@ Ta-dah, your iPad screen is now shown on your Windows computer, ready to be capt
 ![OBS iPhone Streaming](https://www.5kplayer.com/airplay/img/obs-ios.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stream iOS Games Fortnite to Twitch.tv with OBS on PC
@@ -71,12 +67,16 @@ You will need to get the Stream Key before broadcasting to Twitch.tv
 
 ![how to stream iOS games with obs](https://www.5kplayer.com/airplay/img/obs-twitch.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5KPlayer can also directly [record your Fortnite game](https://tools.techidaily.com/5kplayer/airplay/) without OBS on PC Windows/Mac wirelessly. Get this free iPhone screen recording and streaming tool to work with OBS now!
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -94,20 +94,17 @@ You will need to get the Stream Key before broadcasting to Twitch.tv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-close-up-mastery-in-video-production-via-videoleap-for-2024/"><u>[Updated] Close-Up Mastery in Video Production via Videoleap for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hustle-smart-listen-hard-top-tasks-for-podcast-enthusiasts/"><u>2024 Approved Hustle Smart, Listen Hard Top Tasks for Podcast Enthusiasts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-instagram-gurus-playbook-5-game-changing-strategies-and-outcomes/"><u>2024 Approved The Instagram Guru’s Playbook 5 Game Changing Strategies and Outcomes</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-xripad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone XR/iPad | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-top-5-best-mkv-media-players-compatible-with-windows-7-x64-no-cost-options-available/"><u>Discover the Top 5 Best MKV Media Players Compatible with Windows 7 (X64) - No Cost Options Available</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enjoy-unlimited-access-to-youtube-on-your-tv-screen-for-zero-dollars-step-by-step-instructions/"><u>Enjoy Unlimited Access to YouTube on Your TV Screen for Zero Dollars: Step-by-Step Instructions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-fix-your-apple-tvs-issues-with-hbo-go-a-comprehensive-guide/"><u>How to Fix Your Apple TV's Issues with HBO Go: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-relocate-your-windows-1-boot-drive-to-a-new-hardware-two-effective-strategies/"><u>How to Relocate Your Windows 1# Boot Drive to a New Hardware - Two Effective Strategies</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-upgrade-your-vlc-media-player-step-by-step-tutorial-on-getting-the-newest-release/"><u>How to Upgrade Your VLC Media Player: Step-by-Step Tutorial on Getting the Newest Release</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-refine-auditory-perception-through-targeted-frequency-attenuation/"><u>In 2024, Refine Auditory Perception Through Targeted Frequency Attenuation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-syma-x5c-a-beginners-prime-drone-choice/"><u>In 2024, Unveiling the Syma X5C A Beginner’s Prime Drone Choice</u></a></li>
-<li><a href="https://media-tips.techidaily.com/solving-vlc-dvd-player-issues-on-windows-11-and-macos-a-comprehensive-guide/"><u>Solving VLC DVD Player Issues on Windows 11 & MacOS: A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-7-free-dvd-players-for-windows-11-no-cost-downloads-available/"><u>Top 7 FREE DVD Players for Windows 11 – No Cost Downloads Available</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-ipad-screen-recording-software-quality-tips-and-reviews/"><u>Ultimate Guide to Choosing the Perfect iPad Screen Recording Software: Quality Tips & Reviews</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-effortless-techniques-for-lenovo-capture-tasks/"><u>[New] 2024 Approved Effortless Techniques for Lenovo Capture Tasks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-elevate-your-brand-with-these-biz-channel-standouts/"><u>[New] In 2024, Elevate Your Brand with These Biz Channel Standouts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-a-beginners-blueprint-for-effective-facebook-analytics/"><u>2024 Approved A Beginner's Blueprint for Effective Facebook Analytics</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-amazon-prime-video-fee-additional-costs-for-dolby-vision-and-atmos-enhancement/"><u>New Amazon Prime Video Fee: Additional Costs for Dolby Vision and Atmos Enhancement</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-quicktime-player-hacks-speed-up-your-video-watching-experience-for-2024/"><u>New QuickTime Player Hacks Speed Up Your Video Watching Experience for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-top-10-windows-and-macos-compatible-daws-the-ultimate-selection-for-2024/"><u>New Top 10 Windows & macOS Compatible DAWs The Ultimate Selection for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/on-schedule-upgrade-understanding-the-latest-price-hikes-on-paramountplus/"><u>On Schedule Upgrade: Understanding the Latest Price Hikes on Paramount+</u></a></li>
+<li><a href="https://media-tips.techidaily.com/protect-your-data-privacy-step-by-step-instructions-to-deactivate-youtubes-auto-downloads/"><u>Protect Your Data Privacy: Step-by-Step Instructions to Deactivate YouTube's Auto-Downloads</u></a></li>
+<li><a href="https://media-tips.techidaily.com/revolutionizing-in-car-entertainment-the-future-without-spotifys-car-thing/"><u>Revolutionizing In-Car Entertainment: The Future Without Spotify's 'Car Thing'</u></a></li>
+<li><a href="https://media-tips.techidaily.com/spotifys-television-app-overhaul-say-goodbye-to-clutter-and-chaos/"><u>Spotify's Television App Overhaul: Say Goodbye to Clutter and Chaos!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-definitive-guide-to-perfecting-vimeo-recordings-for-2024/"><u>The Definitive Guide to Perfecting Vimeo Recordings for 2024</u></a></li>
 </ul></div>
 

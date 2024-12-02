@@ -1,7 +1,7 @@
 ---
 title: "Free Guide: Setting Up Your Mac or PC as an Apple AirPlay Streaming Source"
-date: 2024-11-12T22:25:56.668Z
-updated: 2024-11-14T05:47:55.116Z
+date: 2024-11-29T00:54:42.678Z
+updated: 2024-12-02T05:37:22.901Z
 tags:
   - airplay
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn PC/Mac into a Free AirPlay Server
 
  _Written by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21)_ | Last update: April 28, 2020
@@ -28,18 +32,15 @@ Designed with the most user-friendly UI, 5KPlayer requires least computer skills
 
 The content is [mirroring](https://tools.techidaily.com/5kplayer/airplay/) to the streamed devices, which only takes seconds and does no damage to picture quality. And mirroring will not occupy the memory of the streamed devices, thus it does no influence to the streamed devices. 5KPlayer makes it simple to project or receive the screen of iOS 13/12/11/10/9 devices to your PC/Mac and it allows music from PC/Mac to be played wirelessly to compatible speakers. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Currently **5KPlayer** Supports DLNA Streaming & AirPlay Mirroring
 
 Official Clarification: Since Apple has strengthened the "sign & countersign" for AirPlay Bonjour protocol, 5KPlayer for Windows does not support movie/music AirPlay at present.
 
 We have been working hard on AirPlay streaming to figure out a solution. Please stay with us and trust our dedication and efforts! AirPlay for Windows will be back soon!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Guide to Turn PC/Mac into a Free AirPlay Server
 
@@ -49,22 +50,12 @@ The setup process is quite simple, users can deal with it without any efforts.
 
 ![Best AirPlay receiver](https://www.5kplayer.com/airplay/img/youtube-0119-01.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2**: Set the setting of AirPlay of 5KPlayer, specify a name and password in Preferences, if you wish.
 
 ![Free AirPlay Server Setting](https://www.5kplayer.com/airplay/img/5k-free-airplay-server-trl-020901.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If 5KPlayer acts as AirPlay sender, click the AirPlay button beside the progress bar or the right top of the window while the video or music is playing to activate AirPlay and to select the device to stream to and then you're good to go.
@@ -73,21 +64,16 @@ Please note that to successfully stream media, the AirPlay sender and receiver m
 
 ![AirPlay receiver stream video audio](https://www.5kplayer.com/airplay/img/5kplayer-airplay-0120.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you begin to use 5KPlayer, it will surprise you all the way! It is a powerful and highly integrated UHD media player other than being the best free AirPlay server. It can [play 4K even 5K video and music](https://tools.techidaily.com/5kplayer/video-music-player/)with high stability. It can also download videos from [Facebook, Vimeo](https://tools.techidaily.com/5kplayer/youtube-download/) and other 300 websites with high speed and no quality loss. 5KPlayer will never disappoint you as an AirPlay server and UHD video player!
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -105,18 +91,21 @@ Once you begin to use 5KPlayer, it will surprise you all the way! It is a powerf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-expertly-recorded-hd-content-ultimate-screen-recorder-guide/"><u>[Updated] Expertly Recorded HD Content Ultimate Screen Recorder Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-inverting-movies-with-iphone/"><u>2024 Approved Step by Step Inverting Movies with iPhone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/build-your-own-free-pc-based-ps4-media-streaming-station-a-step-by-step-guide/"><u>Build Your Own Free PC-Based PS4 Media Streaming Station: A Step-by-Step Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/descarga-gratis-el-mejor-programa-universal-de-windows-11-and-mac-para-reproducir-dvds-con-facilidad/"><u>Descarga Gratis: El Mejor Programa Universal De Windows 11 & Mac Para Reproducir DVDs Con Facilidad</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-5kplayer-with-dlna-support-functions-benefits-configuration-and-usage-guide/"><u>Free 5KPlayer with DLNA Support - Functions, Benefits, Configuration, and Usage Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-scrolling-to-serenity-the-top-10-reasons-to-leave-the-facebook-journey/"><u>From Scrolling to Serenity: The Top 10 Reasons to Leave the Facebook Journey</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-90-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Honor 90 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://solve-info.techidaily.com/1726028345290-mp4/"><u>MP4ファイルの再コーディング手順とテクニック</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-transferring-4k-hd-videos-free-of-cost-from-pcsmacs-directly-to-an-apple-tv-device/"><u>Step-by-Step Tutorial on Transferring 4K HD Videos Free of Cost From PCs/Macs Directly to an Apple TV Device</u></a></li>
-<li><a href="https://media-tips.techidaily.com/story-1-the-misconception-of-radiation-only-therapy/"><u>Story 1: The Misconception of Radiation-Only Therapy</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/stream-and-save-discover-the-top-5-recorders-of-live-conferences/"><u>Stream and Save - Discover The Top 5 Recorders of Live Conferences</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-prime-selection-top-ranked-gopro-case-models/"><u>The Prime Selection Top-Ranked GoPro Case Models</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-crashes-in-warno-game-for-desktop-users/"><u>Troubleshooting Persistent Crashes in Warno Game for Desktop Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigating-fb-discovering-shared-video-content/"><u>[New] 2024 Approved Navigating FB Discovering Shared Video Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-maximizing-social-sharing-uploading-360-degree-images-on-mobile-platforms/"><u>[New] In 2024, Maximizing Social Sharing Uploading 360-Degree Images on Mobile Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-screening-gems/"><u>[New] Premier Screening Gems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-pubg-voice-transformation-hacks/"><u>[Updated] 2024 Approved PUBG Voice Transformation Hacks</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/adaptable-brightness-discover-spk10-037-softbox-kick-assassin/"><u>Adaptable Brightness - Discover SPK10-037 Softbox Kick Assassin</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-android-tv-version-14-enhanced-picture-in-picture-feature-unveiled/"><u>New Android TV Version 14: Enhanced Picture-in-Picture Feature Unveiled</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-feature-alert-spotify-introduces-live-music-video-playback/"><u>New Feature Alert: Spotify Introduces Live Music Video Playback!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/save-on-entertainment-verizons-new-myhome-internet-packages-include-special-streaming-deals/"><u>Save on Entertainment: Verizon's New MyHome Internet Packages Include Special Streaming Deals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-to-successfully-installing-and-updating-your-amd-graphics-driver/"><u>Simple Steps to Successfully Installing & Updating Your AMD Graphics Driver</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-issues-a-guide-to-restoring-your-obs-desktop-sound/"><u>Solving Audio Issues: A Guide to Restoring Your OBS Desktop Sound</u></a></li>
+<li><a href="https://media-tips.techidaily.com/starting-june-new-restrictions-on-sharing-disneypluss-account-passwords/"><u>Starting June: New Restrictions on Sharing Disney+'s Account Passwords</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-turning-off-your-exposure-to-youtube-shorts/"><u>Step-by-Step Guide: Turning Off Your Exposure to YouTube Shorts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streamlining-your-viewing-choices-without-falling-for-the-hype-in-show-reviews/"><u>Streamlining Your Viewing Choices Without Falling for the Hype in Show Reviews</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-rise-of-conversational-agents-unpacking-the-appeal-of-artifice-intelligence-chatbots/"><u>The Rise of Conversational Agents: Unpacking the Appeal of Artifice Intelligence Chatbots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-broadcasts-using-manycams-advanced-live-video-solutions/"><u>Transform Your Broadcasts Using ManyCam's Advanced Live Video Solutions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-selection-the-premier-streaming-service-providers-dominating-2024/"><u>Ultimate Selection: The Premier Streaming Service Providers Dominating 2024</u></a></li>
 </ul></div>
 

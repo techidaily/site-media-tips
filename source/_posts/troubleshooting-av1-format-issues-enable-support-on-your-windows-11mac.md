@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting AV1 Format Issues: Enable Support on Your Windows 11/Mac"
-date: 2024-11-11T23:00:55.129Z
-updated: 2024-11-14T04:16:08.158Z
+date: 2024-11-29T22:12:02.625Z
+updated: 2024-12-01T21:27:34.335Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f6b900a7e2a78e7ffb6b0f28d526eebcba1c857a7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AV1 Can't Play? How to Play AV1 on Windows 10/Mac?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: September 30, 2020 | 3 Min Read_
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/f6b900a7e2a78e7ffb6b0f28d526eebcba1c857a7
 [3\. AV1 Playback Issues with VLC?](https://tools.techidaily.com/5kplayer/video-music-player/)  
 [4\. Best Free AV1 Video Player >>](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **AV1 not Playing on Windows 10? \[Solved\]**
 
 Trying to [play AV1 video on Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) with the native Windows 10 application but only receive an error message: "_Can't play. This item was encoded in a format that's not supported. 0xc00d5212_"? 
@@ -44,13 +52,6 @@ As a matter of fact, Windows 10 doesn't supply a native application which contai
 
 ![AV1 Video Extension](https://www.5kplayer.com/video-music-player/img/av1-video-extension.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **AV1 not Playing on Mac? \[Solved\]**
 
 Though Apple joined the AV1 codec consortium earlier in 2018, it doesn't mean devices like iPhone, Mac and Apple TV support AV1 video playback. In fact, because of the transition to 64-bit technology in macOS in 2019, you will see an alert when using iMovie about the media files that won't be compatible with macOS Catalina. For sure, the incompatible video format includes AV1\. As of now, you can only solve can't play AV1 on Mac problem through converting AV1 to Mac compatible format like HEVC, H.264, MP4, etc if you want to play AV1 videos with the native Mac media player like QuickTime.
@@ -58,6 +59,10 @@ Though Apple joined the AV1 codec consortium earlier in 2018, it doesn't mean de
 **Solution:** As the option to convert the incompatible files will no longer be available on macOS Catalina, you are highly suggested to detect and convert the incompatible video files using iMovie before upgrading to macOS Catalina, so as to make all of the video files compatible with the future versions of macOS. If the method mentioned above doesn't works for you, you can try third-party video converter like WinX Video Converter to convert the AV1 file. 
 
 Obviously, the file you play on Mac now is a converted version which has a totally different video codec. To directly play video files encoded with AV1 codec without changing anything, you may need professional [AV1 player](https://tools.techidaily.com/5kplayer/video-music-player/) to play AV1 on Mac and 5KPlayer is highly recommended.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **AV1 Playback Issue with VLC**
 
@@ -69,10 +74,7 @@ Even the quite new VLC 3.0.8 can't play AV1 video files though [VLC AV1](https:/
 **Solution:** Upgrade your VLC media player to the latest version 3.0.10 to see if it works. Or manually set the configuration to the right situation by unchecking the "Use hardware YUV -> RGB conversions" checkbox or set the Output to DirectX, Direct3D, Windows GDI or OpenGL. Or just switch to professional AV1 video player 5KPlayer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AV1 not Playing? Try Free AV1 Video Player 5KPlayer
@@ -86,20 +88,10 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 ![AV1 Player](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,18 +108,20 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-your-edits-top-10-youtube-editing-strategies-for-2024/"><u>[New] Elevate Your Edits Top 10 YouTube Editing Strategies for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-detailed-steps-to-record-hulu-on-every-os-and-device-type/"><u>[Updated] In 2024, Detailed Steps to Record Hulu on Every OS and Device Type</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/cloning-from-hdd-to-ssd-with-clonezilla-the-complete-walkthrough/"><u>Cloning From HDD to SSD with Clonezilla - The Complete Walkthrough</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-steps-for-converting-flv-video-tracks-to-mp3-format-both-web-based-and-local-methods-covered/"><u>Comprehensive Steps for Converting FLV Video Tracks to MP3 Format - Both Web-Based and Local Methods Covered</u></a></li>
-<li><a href="https://media-tips.techidaily.com/decoding-audio-file-types-understanding-the-distinct-characteristics-of-aiff-wav-flac-and-alac/"><u>Decoding Audio File Types: Understanding the Distinct Characteristics of AIFF, WAV, FLAC & ALAC</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-conversion-top-3-methods-for-changing-m3u8-streaming-files-into-mp3-audio/"><u>Effortless Conversion: Top 3 Methods for Changing M3U8 Streaming Files Into MP3 Audio</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-se-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone SE</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-optimize-solo-streaming-with-flawless-execution-for-2024/"><u>How to Optimize Solo Streaming with Flawless Execution for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-add-fade-inout-premiere-pro/"><u>In 2024, Add Fade In/Out Premiere Pro</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-aligning-brands-with-youtube-content/"><u>In 2024, The Art of Aligning Brands with YouTube Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-5-iphones-for-podcasting-pleasure-for-2024/"><u>Superior 5 iPhones for Podcasting Pleasure for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-your-aif-audio-to-mp3-in-no-time-top-techniques-for-web-and-desktop-use/"><u>Transform Your AIF Audio to MP3 in No Time - Top Techniques for Web & Desktop Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-frozen-opera-downloads-in-windows-sphere/"><u>Unlock Frozen Opera Downloads in Windows Sphere</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-complete-price-proposition-the-first-step-in-podcasting/"><u>[New] Complete Price Proposition The First Step in Podcasting</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-eco-editing-tools-no-charge/"><u>[Updated] Eco Editing Tools No Charge</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-free-end-credits-maker-the-1-video-closers-guide-in-2024/"><u>[Updated] Free End Credits Maker - The #1 Video Closers Guide, In 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-meringue-movie-magic-step-by-step-guide-to-ice-cream-capture-for-2024/"><u>[Updated] Meringue Movie Magic Step-by-Step Guide to Ice Cream Capture for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cross-language-communication-with-chatgpt-tips-and-tricks-for-a-global-experience/"><u>Cross-Language Communication with ChatGPT: Tips and Tricks for a Global Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/fix-your-airplay-2-connectivity-problems-and-overcome-compatibility-concerns/"><u>Fix Your AirPlay 2 Connectivity Problems & Overcome Compatibility Concerns</u></a></li>
+<li><a href="https://media-tips.techidaily.com/fixing-common-vlc-player-issues-with-mkv-hevc-and-4k-files/"><u>Fixing Common VLC Player Issues with MKV, HEVC, and 4K Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-do-you-play-mp4-videos-on-mac-and-pc-platforms-a-comprehensive-guide/"><u>How Do You Play MP4 Videos on Mac and PC Platforms: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-honor-magic-5-lite-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Honor Magic 5 Lite Phone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/no-cost-unlimited-hd-mts-file-player-enjoy-seamless-high-definition-videos-without-downloading-extra-software/"><u>No Cost, Unlimited HD MTS File Player - Enjoy Seamless High-Definition Videos Without Downloading Extra Software</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-to-transferring-content-from-samsung-phone-to-laptoppc/"><u>Step-by-Step Guide to Transferring Content From Samsung Phone to Laptop/PC</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-streaming-high-resolution-content-from-windows-11-to-your-apple-tv-series/"><u>Step-by-Step Guide: Streaming High-Resolution Content From Windows 11 to Your Apple TV Series</u></a></li>
+<li><a href="https://media-tips.techidaily.com/stream-your-xbox-one360-games-seamlessly-using-the-windows-11-xbox-gaming-platform/"><u>Stream Your Xbox One/360 Games Seamlessly Using the Windows 11 Xbox Gaming Platform</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-persistent-god-of-war-pc-game-crashes/"><u>Troubleshooting Steps for Persistent God of War PC Game Crashes</u></a></li>
 </ul></div>
 

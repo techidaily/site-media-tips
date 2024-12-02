@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for Lack of Video in VLC Player Across Windows & macOS Systems"
-date: 2024-11-18T23:53:39.264Z
-updated: 2024-11-24T01:29:15.129Z
+date: 2024-11-26T04:32:01.016Z
+updated: 2024-12-02T04:36:20.474Z
 tags:
   - vlc
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/461111458e3b4ce139d48fb2aa4a766468aa7e6bd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix VLC No Video on Mac/Windows 10 When Playing MP4 MKV AVI etc Files
@@ -61,7 +61,7 @@ Someone had solved the VLC no video only audio issue by resetting the Preference
 ![VLC No Video](https://www.5kplayer.com/vlc/img/vlc-output-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Mac:** Click on VLC on the top left corner of Mac > Preferences > Show All > Click on Video on the left bar > Output modules > choose the output mode from the drop down menu.
@@ -69,7 +69,7 @@ Someone had solved the VLC no video only audio issue by resetting the Preference
 ![VLC No Video Only Audio](https://www.5kplayer.com/vlc/img/vlc-ouput-mac.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6\. The particular video has a video format that VLC doesn't support**
@@ -79,7 +79,7 @@ Usually, when there is unsupported video codec contained in the video file, VLC 
 Hope these solutions offer helps. If you have tried the above methods but find VLC no video problem still exists, maybe you should try a [VLC alternative](https://tools.techidaily.com/5kplayer/video-music-player/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best VLC Media Player Alternative Free Download
@@ -89,7 +89,7 @@ Hope these solutions offer helps. If you have tried the above methods but find V
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -107,18 +107,17 @@ Hope these solutions offer helps. If you have tried the above methods but find V
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-nine-techniques-for-reversing-livestream-engagement/"><u>[New] Nine Techniques for Reversing Livestream Engagement</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-visual-narratives-at-your-fingertips-explore-the-10-best-banner-designers/"><u>[New] Visual Narratives at Your Fingertips Explore the 10 Best Banner Designers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-true-value-of-smoothing-in-adobes-arsenal/"><u>[Updated] Unveiling the True Value of Smoothing in Adobe’s Arsenal</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-6-rise-of-creative-tools/"><u>Artificial Intelligence: 6 Rise of Creative Tools</u></a></li>
-<li><a href="https://media-tips.techidaily.com/come-configurare-lo-streaming-video-con-il-protocollo-dlna-su-windows-11/"><u>Come Configurare Lo Streaming Video Con Il Protocollo DLNA Su Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-netgear-orbi-assessment-why-its-a-must-have-for-unmatched-wi-fi-performance/"><u>Comprehensive Netgear Orbi Assessment: Why It's a Must-Have for Unmatched Wi-Fi Performance</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-ace-2-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Ace 2 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-xiaomi-13t-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi 13T Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/microsoft-teams-not-hearing-you-fix-your-mic-issues-in-windows-11-or-10-with-these-tips/"><u>Microsoft Teams Not Hearing You? Fix Your Mic Issues in Windows 11 or 10 with These Tips!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-instructions-for-streaming-apple-devices-to-pcs-and-macs/"><u>Step-by-Step Instructions for Streaming Apple Devices to PCs and Macs</u></a></li>
-<li><a href="https://media-tips.techidaily.com/stream-and-control-your-audio-video-content-5kplayer-enables-airplay-transfer-between-windows-and-mac-computers/"><u>Stream & Control Your Audio-Video Content: 5KPlayer Enables AirPlay Transfer Between Windows and Mac Computers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-earth-pressure-balance-shield-tunnel-epb/"><u>The Earth Pressure Balance Shield Tunnel (EPB)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-no-cost-universal-media-server-apps-for-macos-with-built-in-dlna-support/"><u>Top Rated No-Cost Universal Media Server Apps for macOS with Built-In DLNA Support</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-foundations-of-motion-design-fundamentals/"><u>[New] Foundations of Motion Design Fundamentals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-enjoy-massive-savings-of-up-to-25-on-the-incredible-85-inch-tcl-tv-this-labor-day-limited-time-offer-at-zdnet/"><u>Don't Miss Out! Enjoy Massive Savings of Up to 25% on the Incredible 85-Inch TCL TV This Labor Day – Limited Time Offer at ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-0x80d03801-glitches-on-microsoft-store/"><u>Eliminating 0X80D03801 Glitches on Microsoft Store</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-elevating-your-instagram-presence-with-optimized-video-sizes/"><u>In 2024, Elevating Your Instagram Presence with Optimized Video Sizes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-hulu-subscriber-policy-prohibits-account-passwords-from-spreading/"><u>New Hulu Subscriber Policy Prohibits Account Passwords From Spreading</u></a></li>
+<li><a href="https://media-tips.techidaily.com/optimizing-spotify-streaming-tips-to-save-space-and-bandwidth/"><u>Optimizing Spotify Streaming: Tips to Save Space and Bandwidth</u></a></li>
+<li><a href="https://media-tips.techidaily.com/reclaim-your-smart-tv-display-settings-prevent-youtube-control-on-apple-and-android-tv-screensavers/"><u>Reclaim Your Smart TV Display Settings: Prevent YouTube Control on Apple and Android TV Screensavers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/revolutionize-your-home-screen-with-this-simple-google-tv-upgrade/"><u>Revolutionize Your Home Screen with This Simple Google TV Upgrade</u></a></li>
+<li><a href="https://media-tips.techidaily.com/rising-costs-how-netflix-subscription-fees-are-increasing/"><u>Rising Costs: How Netflix Subscription Fees Are Increasing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-aeiusny-portable-sun-powered-generator-ideal-pure-sine-wave-technology-for-fragile-medical-gadgets/"><u>Unveiling the Aeiusny Portable Sun-Powered Generator: Ideal Pure Sine Wave Technology for Fragile Medical Gadgets</u></a></li>
 </ul></div>
 

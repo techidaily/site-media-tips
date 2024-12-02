@@ -1,7 +1,7 @@
 ---
 title: "DIY Steps: Transforming Your Desktop Into a Cost-Free PS4 Media Hub"
-date: 2024-11-21T17:27:32.508Z
-updated: 2024-11-23T20:19:10.444Z
+date: 2024-11-25T00:46:39.372Z
+updated: 2024-12-02T01:04:38.760Z
 tags:
   - dlna
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 Now that the PS4 media player has made it possible for a **PS4 media server** to connect to the game console to play MKV AVI MP4 videos, MP3 AAC music, or even photos. You may need to turn computer into a PS4 media server Windows 10 to share everything in the computer library to the bigger screen, now check to find out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements: PS4 Meida Player + PS 4 Media Server Windows 10/Mac
@@ -48,14 +48,10 @@ To set up a PS4 media server Windows 10 or Mac, you'll need to turn the computer
 [![](https://www.5kplayer.com/dlna/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/dlna/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stream PC to PlayStation 4 Wirelessly?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Turn PC Into a PS4 Media Server
 
@@ -69,17 +65,9 @@ To set up a PS4 media server Windows 10 or Mac, you'll need to turn the computer
 
 ![DLNA server Windows 10](https://www.5kplayer.com/dlna/img/dlna-media-share.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Hit on the "DLNA + AirPlay" icon on the main UI of 5KPlayer, turn on "DLNA server", and now your computer is turned into an open PS4 media server which you can add media files to anytime you want.
 
 ![Turn on PS4 Media Server Windows 10](https://www.5kplayer.com/dlna/img/turn-on-dlna-server.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/dlna/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/dlna/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
@@ -89,6 +77,10 @@ If you have the PS4 Pro at home, don't waste its lifelike HDR color performance 
 
 This makes one of the [best HDR video players 2019](https://tools.techidaily.com/5kplayer/video-music-player/) – 5KPlayer to be an ideal choice that turns computer into a PS4 media server for PS4 pro. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### PS VR: Play 4K VR Content on TV from 5KPlayer
 
 Even if you have the PlayStation 4 VR headset, the PS camera and VR games are for sale separately. But using the virtual reality gadget to play VR videos from a PS4 media server sounds really nice if you have 5KPlayer, which can [download VR videos](https://tools.techidaily.com/5kplayer/youtube-download/) from the YouTube 360 channel, or directly play VR video files without hassle. Setting up & connect PC to PS4 VR is just like how to can do it with an ordinary PS4 model. But you're sure to be amazed by the virtual reality videos that aren't directly available in the game console. 
@@ -96,7 +88,7 @@ Even if you have the PlayStation 4 VR headset, the PS camera and VR games are fo
 ![PS4 VR Server](https://www.5kplayer.com/dlna/img/ps4-vr-media-server.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### FAQs About the PS4 Media Server
@@ -116,11 +108,19 @@ If you have the PS4 Pro at home, don't waste its lifelike HDR color performance 
 
 This makes one of the [best HDR video players 2019](https://tools.techidaily.com/5kplayer/video-music-player/) – 5KPlayer to be an ideal choice that turns computer into a PS4 media server for PS4 pro. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### PS VR: Play 4K VR Content on TV from 5KPlayer
 
 Even if you have the PlayStation 4 VR headset, the PS camera and VR games are for sale separately. But using the virtual reality gadget to play VR videos from a PS4 media server sounds really nice if you have 5KPlayer, which can [download VR videos](https://tools.techidaily.com/5kplayer/youtube-download/) from the YouTube 360 channel, or directly play VR video files without hassle. Setting up & connect PC to PS4 VR is just like how to can do it with an ordinary PS4 model. But you're sure to be amazed by the virtual reality videos that aren't directly available in the game console. 
 
 ![PS4 VR Server](https://www.5kplayer.com/dlna/img/ps4-vr-media-server.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### FAQs About the PS4 Media Server
 
@@ -148,20 +148,22 @@ To be specific, you always need to connect PS4 to a TV screen to play games or w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-impeccablecapture-studio-suite-windows-10-edition/"><u>[Updated] ImpeccableCapture Studio Suite (Windows 10 Edition)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-art-of-engaging-responding-in-discord-conversations-for-2024/"><u>[Updated] The Art of Engaging Responding in Discord Conversations for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-using-supplementary-film-scenes/"><u>[Updated] The Essential Guide to Using Supplementary Film Scenes</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-to-overcoming-the-crash-dilemma-of-thunder-tier-one-while-playing-on-your-desktop/"><u>Expert Guide to Overcoming the Crash Dilemma of Thunder TIER One While Playing on Your Desktop</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instructions-installing-hp-officejet-on-pc-interface/"><u>Instructions: Installing HP Officejet on PC Interface</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-ai-script/"><u>New Create AI Avatar Video with AI Script</u></a></li>
-<li><a href="https://media-tips.techidaily.com/remove-youtube-music-from-youtube-premium-a-must-have-feature/"><u>Remove YouTube Music From YouTube Premium - A Must-Have Feature!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/rock-your-tunes-with-winamp-newly-released-for-iphone-and-android-users/"><u>Rock Your Tunes with Winamp – Newly Released for iPhone and Android Users!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/saying-goodbye-netflixs-older-basic-subscription-ends-forever/"><u>Saying Goodbye: Netflix's Older Basic Subscription Ends Forever</u></a></li>
-<li><a href="https://media-tips.techidaily.com/skydance-to-take-control-of-paramountplus-and-pluto-tv-in-strategic-moves/"><u>Skydance to Take Control of Paramount+ & Pluto TV in Strategic Moves</u></a></li>
-<li><a href="https://media-tips.techidaily.com/slash-your-subscription-cost-in-half-secret-savings-on-paramountplus-access-now-revealed/"><u>Slash Your Subscription Cost in Half - Secret Savings on Paramount+ Access Now Revealed!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-end-of-an-era-spotifys-impending-discontinuation-of-car-thing/"><u>The End of an Era: Spotify's Impending Discontinuation of 'Car Thing'</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-futility-of-review-based-decisions-when-selecting-streaming-content/"><u>The Futility of Review-Based Decisions When Selecting Streaming Content</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/when-and-why-should-you-post-on-instagram-for-2024/"><u>When and Why Should You Post on Instagram for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-windows-animation-top-9-apps-for-high-quality-gif-capture/"><u>[New] Mastering Windows Animation Top 9 Apps for High-Quality GIF Capture</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevate-your-watchlist-experience-with-youtubes-av1-settings/"><u>[Updated] In 2024, Elevate Your Watchlist Experience with YouTube's AV1 Settings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-how-to-retrieve-individual-frames-from-windows-media-files/"><u>[Updated] In 2024, How To Retrieve Individual Frames From Windows Media Files</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-simplifying-the-process-of-deleting-youtube-files/"><u>[Updated] In 2024, Simplifying the Process of Deleting YouTube Files</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-the-best-practices-of-live-streaming-with-google-meet-youtube/"><u>Adopt the Best Practices of Live Streaming with Google Meet Youtube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-dialogue-to-life-writing-for-youtube-videos/"><u>Bringing Dialogue to Life Writing for YouTube Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-slow-cellular-speeds-expert-tips-to-enhance-your-mobile-data/"><u>Conquer Slow Cellular Speeds: Expert Tips to Enhance Your Mobile Data</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-ultimate-convertor-for-avi-and-3g2-files-your-go-to-solution/"><u>Discover the Ultimate Convertor for AVI and 3G2 Files: Your Go-To Solution!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortlessly-change-mxf-to-mp4-with-our-easy-cost-free-techniques-go-digital/"><u>Effortlessly Change MXF to MP4 with Our Easy, Cost-Free Techniques - Go Digital</u></a></li>
+<li><a href="https://media-tips.techidaily.com/expert-strategies-for-converting-wmv-to-gifs-top-techniques-to-master-now/"><u>Expert Strategies for Converting WMV to GIFs: Top Techniques to Master Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-gptplus-subscription-merits/"><u>Exploring GPT+ Subscription Merits</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-effortlessly-convert-mp4-files-into-mpeg-format-using-your-mac-a-step-by-step-guide/"><u>How to Effortlessly Convert MP4 Files Into MPEG Format Using Your Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-any-video-into-a-playable-dpg-file-on-nintendo-ds-with-minimal-hassle/"><u>How to Transform Any Video Into a Playable .dpg File on Nintendo DS with Minimal Hassle</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-captivating-your-audience-youtube-intro-excellence-with-imovie/"><u>In 2024, Captivating Your Audience YouTube Intro Excellence with iMovie</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-mxf-files-into-editable-formats-for-imovie-using-a-reliable-mxf-converter-on-your-mac/"><u>Step-by-Step Guide: Transforming MXF Files Into Editable Formats for iMovie Using a Reliable MXF Converter on Your Mac</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-devices-for-streaming-and-capturing-ultra-hd-content-a-guide-to-the-best-4k-phone-and-tablet-options/"><u>Top Devices for Streaming & Capturing Ultra HD Content: A Guide to the Best 4K Phone and Tablet Options</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-mac-based-video-and-audio-transformation-tools-the-ultimate-guide/"><u>Top Mac-Based Video & Audio Transformation Tools: The Ultimate Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Video Navigation with VLC's Custom Bookmark Feature
-date: 2024-11-09T00:12:24.338Z
-updated: 2024-11-14T01:06:27.489Z
+date: 2024-11-29T02:50:39.544Z
+updated: 2024-12-01T19:01:49.037Z
 tags:
   - vlc
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use VLC Custom Bookmarks to Mark Video Positions?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: February 02, 2021 | 3 Min Read_
@@ -25,16 +29,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 How to continue your playback from where you left last time? How to easily access the specific parts in a very long video with a few clicks? **VLC Custom Bookmarks** feature will help remember the video playback position you just want to save. No need to spend much time to step forward your video, you can easily get to the right position without missing a frame.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create Bookmarks in VLC Media Player?
@@ -46,10 +41,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Custom Bookmarks](https://www.5kplayer.com/vlc/img/vlc-custom-bookmark.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** When the **Edit Bookmarks** window pops up, just click on the **Create** button to add bookmarks to your video. 
@@ -57,16 +49,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Create Bookmarks](https://www.5kplayer.com/vlc/img/vlc-create-bookmarks.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4.** To find the specific bookmarked video to play, just click on **Playback** \> **Custom Bookmarks** and choose the one to start playing.
@@ -100,10 +83,7 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -121,14 +101,17 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-harnessing-microsoft-teams-power-with-simple-snap-camera-use-for-2024/"><u>[New] Harnessing Microsoft Teams' Power with Simple Snap Camera Use for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlock-new-speech-potentials-on-chrome-ranked-top-voice-alteration-tools/"><u>[Updated] Unlock New Speech Potentials on Chrome Ranked Top Voice Alteration Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-s23plus-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy S23+ to Roku | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fixing-compatibility-problems-with-media-player-classic-and-mkv-files-in-widnows-11-and-macos/"><u>Fixing Compatibility Problems with Media Player Classic and MKV Files in Widnows 11 & macOS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-the-art-of-8k-streaming-tutorial-on-enabling-airplay-with-your-ultra-hd-tv/"><u>Mastering the Art of 8K Streaming: Tutorial on Enabling AirPlay with Your Ultra HD TV</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-free-upnp-dlna-compatible-media-servers-for-windows-10-8-and-7/"><u>Top Free Upnp Dlna Compatible Media Servers for Windows 10, 8 & 7</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-top-10-free-multimedia-players-compatible-with-windows-and-mac-os/"><u>Ultimate Top 10 Free Multimedia Players: Compatible with Windows and Mac OS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-the-world-of-sound-on-ios-apple-point-and-click-guide-for-2024/"><u>Unlocking the World of Sound on iOS Apple' Point-and-Click Guide for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-ace-your-viewing-experience-onboarding-av1-in-youtube/"><u>[New] 2024 Approved Ace Your Viewing Experience Onboarding AV1 in YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/effortless-igtv-video-downloads-ios-and-android-guide/"><u>Effortless IGTV Video Downloads IOS & Android Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/examining-wirecasts-features-against-competitors/"><u>Examining WireCast's Features Against Competitors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-eliminate-frustrating-delays-for-a-smoother-cyberpunk-prise-quest-experience/"><u>How to Eliminate Frustrating Delays for a Smoother Cyberpunk Prise Quest Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-efficiency-with-top-5-clock-screensaver-apps/"><u>Improve Efficiency with Top 5 Clock Screensaver Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/lilliputian-storyboard-outline/"><u>Lilliputian Storyboard Outline</u></a></li>
+<li><a href="https://media-tips.techidaily.com/paramountplus-announces-regular-price-increases-what-subscribers-need-to-know/"><u>Paramount+ Announces Regular Price Increases: What Subscribers Need to Know</u></a></li>
+<li><a href="https://media-tips.techidaily.com/predicting-the-unknown-through-melodies-discover-your-future-on-spotifys-playlist-oracle/"><u>Predicting the Unknown Through Melodies: Discover Your Future on Spotify's Playlist Oracle</u></a></li>
+<li><a href="https://media-tips.techidaily.com/rising-subscription-fees-disneyplus-espnplus-and-hulu-announce-price-hike/"><u>Rising Subscription Fees: Disney+, ESPN+, & Hulu Announce Price Hike</u></a></li>
+<li><a href="https://media-tips.techidaily.com/roku-television-receives-significant-image-clarity-improvements-for-a-superior-display/"><u>Roku Television Receives Significant Image Clarity Improvements for a Superior Display</u></a></li>
+<li><a href="https://media-tips.techidaily.com/secure-a-250-discount-on-the-portable-marvel-xgimis-mogo/"><u>Secure a $250 Discount on the Portable Marvel: XGIMI's MoGo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-cross-platform-use-how-to-operate-android-apps-in-windows-10-environment/"><u>Unlocking Cross-Platform Use: How to Operate Android Apps in Windows 10 Environment</u></a></li>
 </ul></div>
 

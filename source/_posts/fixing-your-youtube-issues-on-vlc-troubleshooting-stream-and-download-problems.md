@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your YouTube Issues on VLC: Troubleshooting Stream and Download Problems"
-date: 2024-11-09T04:28:15.098Z
-updated: 2024-11-14T02:58:39.568Z
+date: 2024-11-24T23:12:00.255Z
+updated: 2024-12-01T19:12:19.758Z
 tags:
   - vlc
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba4095
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solve VLC YouTube not Working - not Stream/not Download
 
  _Written by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21)_ | Last updated: April 30, 2020 
@@ -27,10 +31,7 @@ Not only the powerful media playback ability, but VLC should also own its big su
 VLC YouTube function offers us a much easier way to watch YouTube videos and movies without annoying advertisements or popups. If any interesting or educational video has attracted you, you can also save it with VLC to local folder for further viewing. However, YouTube transmission protocols change occasionally, and the changes may break the YouTube module embedded in VLC, thus making VLC unable to open YouTube videos. As YouTube updates unexpectedly, VLC YouTube not working problem may also happen out of your control, and therefore you are suggested to bookmark this guide when you want to stream and [download YouTube with VLC](https://tools.techidaily.com/5kplayer/youtube-download/).
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Solve VLC YouTube Live Stream not Working?
@@ -57,10 +58,7 @@ After scouring, I have only found that in May 2018 YouTube had figured out a way
 ![VLC YouTube Live Stream not Working](https://www.5kplayer.com/vlc/img/vlc-youtube-not-working.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6\. Copy the youtube.luac file to the following location:  
@@ -68,6 +66,10 @@ After scouring, I have only found that in May 2018 YouTube had figured out a way
  On Windows 32-bit: C:\\Program Files\\VideoLAN\\VLC\\lua\\playlist\\
 
 If lucky, you won't see the message "Your input can't be opened. [VLC is unable to open mrl](https://tools.techidaily.com/5kplayer/products/).", but stream YouTube videos directly through the URLs. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Solve VLC YouTube Download not Working?
 
@@ -86,10 +88,7 @@ As long as the video is playable on YouTube, VLC alternative 5KPlayer has the co
 ![VLC YouTube Download not Working](https://www.5kplayer.com/vlc/../youtube-download/img/download-fifty-shades-darker.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Notice:**   
@@ -97,13 +96,6 @@ As long as the video is playable on YouTube, VLC alternative 5KPlayer has the co
  \* 5KPlayer also features a DLNA function that allows you to [DLNA streaming](https://tools.techidaily.com/5kplayer/dlna/) YouTube videos music from iPhone/Android to PC/Mac and computer to Apple TV, Sony/Samsung/LG smart TV, Xbox one, etc wirelessly.
 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,22 +112,14 @@ As long as the video is playable on YouTube, VLC alternative 5KPlayer has the co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-design-guide-youtube-banners-and-thumbnail-creation/"><u>[Updated] 2024 Approved Design Guide YouTube Banners & Thumbnail Creation</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/bridging-social-gaps-efficiently-share-video-content-between-platforms-for-2024/"><u>Bridging Social Gaps Efficiently Share Video Content Between Platforms for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comparing-top-techniques-how-to-cast-your-computer-screen-on-a-smart-tv/"><u>Comparing Top Techniques: How to Cast Your Computer Screen on a Smart TV</u></a></li>
-<li><a href="https://common-error.techidaily.com/destiny-2-wont-start-here-are-solutions-to-fix-initialization-errors/"><u>Destiny 2 Won't Start? Here Are Solutions to Fix Initialization Errors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dji-phantom-4-pro-version-20-critique-striving-for-aerial-excellence/"><u>DJI Phantom 4 Pro Version 2.0 Critique: Striving for Aerial Excellence</u></a></li>
-<li><a href="https://media-tips.techidaily.com/download-top-free-players-and-alternatives-compare-with-potplayer-on-mac/"><u>Download Top FREE Players & Alternatives: Compare with PotPlayer on Mac</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-steps-for-seamless-sync-streaming-apples-latest-ipads-to-mac-devices-with-airplay-technology/"><u>Easy Steps for Seamless Sync: Streaming Apple's Latest iPads to Mac Devices with AirPlay Technology</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-instagram-image-addition-playbook/"><u>In 2024, The Instagram Image Addition Playbook</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-12-pro-max-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 12 Pro Max Is Unlocked</u></a></li>
-<li><a href="https://discover-help.techidaily.com/schnellste-methode-zum-upgrade-ihrer-lenovo-flex-6-mit-einer-ssd/"><u>Schnellste Methode Zum Upgrade Ihrer Lenovo Flex 6 Mit Einer SSD</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-free-youtube-video-download-using-the-vlc-media-player/"><u>Step-by-Step Tutorial on Free YouTube Video Download Using the VLC Media Player</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-ranking-free-media-servers-compatible-with-upnpdlna-on-windows-11-8-and-7/"><u>Top Ranking Free Media Servers Compatible with UPnP/DLNA on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-upward-amplifying-your-youtube-audience-for-2024/"><u>Trending Upward Amplifying Your YouTube Audience for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-guide-fixing-samsung-smart-tvs-airplay-connectivity-issues/"><u>Troubleshooting Guide: Fixing Samsung Smart TV's AirPlay Connectivity Issues</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-to-flawless-dlna-setup-linking-pcs-macs-smartphones-and-televisions-for-hassle-free-media-sharing/"><u>Ultimate Guide to Flawless DLNA Setup: Linking PCs, Macs, Smartphones & Televisions for Hassle-Free Media Sharing</u></a></li>
-<li><a href="https://media-tips.techidaily.com/watch-your-favorite-shows-on-tv-from-iphone/"><u>Watch Your Favorite Shows on TV From iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syncing-scores-youtube-musics-role-in-multimedia-content/"><u>[Updated] Syncing Scores YouTube Music's Role in Multimedia Content</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/essential-seo-optimization-techniques-and-tools-for-growth-oriented-small-enterprsises/"><u>Essential SEO Optimization Techniques & Tools for Growth-Oriented Small Enterprsises</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/speedy-search-tips-for-checking-movies-and-tv-shows-on-popular-streaming-platforms/"><u>Speedy Search Tips for Checking Movies and TV Shows on Popular Streaming Platforms</u></a></li>
+<li><a href="https://media-tips.techidaily.com/spotifys-new-personalized-experience-my-spotify-awaits-you/"><u>Spotify's New Personalized Experience: My Spotify Awaits You!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-generating-and-sharing-your-own-spotify-link-codes/"><u>Step-by-Step Guide: Generating & Sharing Your Own Spotify Link Codes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/stuck-with-choices-in-your-streaming-library-discover-our-top-recommendations/"><u>Stuck with Choices in Your Streaming Library? Discover Our Top Recommendations!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-of-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-windows-computers-sound-driver-free-microsoft-driver-download/"><u>Update Your Windows Computer's Sound Driver: Free Microsoft Driver Download</u></a></li>
 </ul></div>
 

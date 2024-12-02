@@ -1,7 +1,7 @@
 ---
 title: Four Methods for Capturing Screenshots on Your iPad
-date: 2024-11-18T18:25:04.458Z
-updated: 2024-11-23T21:20:02.872Z
+date: 2024-11-28T17:47:30.642Z
+updated: 2024-12-02T00:11:22.390Z
 tags:
   - airplay
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Record iPad Screen?
 
@@ -38,10 +42,6 @@ Now that you are in dire need of recording iPad screen, the below four ways will
 [3\. QuickTime – wired way](https://tools.techidaily.com/5kplayer/airplay/)  
 [4\. 5KPlayer – wireless way](https://tools.techidaily.com/5kplayer/airplay/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4 Ways to Screen Record iPad Contents
 
 #### **Method 1\. Using the Screen Recording Function Built in iPad**
@@ -51,32 +51,28 @@ iPad with iOS 11 or later and iPadOS has an embedded screen recorder that you ca
 **Step 1\. Add iPad screen recording function to Control Center**  
  Go to Settings > Control Center > Customizable Controls > tap the "plus" icon ![](https://www.5kplayer.com/airplay/img/plus-icon.jpg) next to Screen Recording to add it to Control Center > Go back to the UI of iPad
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Add Screen Recording to Control Center](https://www.5kplayer.com/airplay/img/add-screen-recording-to-control-center.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2\. Activate iPad screen recording**  
  1\. Swipe up from the bottom of any screen if you have an iOS 11 iPad, or swipe down from the upper-right corner of the screen if you have an iPad with iOS 12 or iPadOS.  
  2\. Firm press the icon ![](https://www.5kplayer.com/airplay/img/record-icon-1.jpg) and tap Microphone to turn on it if you want to screen recording iPad with sound or turn off it to record no sound. Here, you can also choose a different destination for the screen recording other than the Photos library.  
  3\. Tap Start Recording, and wait for the three-second countdown.
 
-![Start Recording iPad](https://www.5kplayer.com/airplay/img/start-ipad-screen-recording.jpg) 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Start Recording iPad](https://www.5kplayer.com/airplay/img/start-ipad-screen-recording.jpg) 
 
 **Step 3\. Start recording iPad screen**  
  When the icon ![](https://www.5kplayer.com/airplay/img/record-icon-1.jpg) turns red, it means the recording starts. Now, do operations on your iPad and every action will be recorded.
 
 **Step 4\. Stop iPad screen recording**  
  Open Control Center and tap ![](https://www.5kplayer.com/airplay/img/record-icon-2.jpg) to stop the recording. Alternatively, tap the red icon with a timer on the upper-right corner of your iPad screen and then a message will pop up to allow you to stop recording. Now, you can find the recording file in Photos and trim it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Cons of this way:**   
  \* Only available to iPad with iOS 11 or later and iPadOS.  
@@ -107,6 +103,10 @@ By making use of QuickTime, you are able to record iPad screen without the need 
 
 ![Record iPad Screen via QuickTime](https://www.5kplayer.com/airplay/img/5k-screen-recorder-for-ipad-trl-031602.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Notice:** If you want to [trim a video](https://tools.techidaily.com/5kplayer/video-music-player/) to keep only the relevant part, you can hit Cmd+T before saving the video to realize that.
 
 **Cons of this way:**   
@@ -121,6 +121,10 @@ Like QuickTime Player, 5KPlayer is also a media player which supports iPad/[iPho
 **Step 2.** Click on the "DLNA AirPlay" icon on the main UI of 5KPlayer to access the Settings window to turn on 5KPlayer's AirPlay option. Then, go back to the main UI.
 
 ![Turn on 5KPlayer AirPlay](https://www.5kplayer.com/airplay/img/turn-on-airplay-5kplayer.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** Connect your iPad and your computer to the same WiFi network.
 
@@ -142,10 +146,6 @@ As an AirPlay-enabled 4K video player, 5KPlayer has improved its [AirPlay](https
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -161,20 +161,21 @@ As an AirPlay-enabled 4K video player, 5KPlayer has improved its [AirPlay](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-supercharge-your-social-media-best-apps-for-post-and-followers-for-2024/"><u>[New] Supercharge Your Social Media Best Apps for Post & Followers for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-easy-ways-to-get-free-views-on-youtube-alternative-methods/"><u>[Updated] 2024 Approved Easy Ways To Get Free Views on YouTube! Alternative Methods</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-3-ways-to-record-itunes-videos-for-2024/"><u>[Updated] 3 Ways to Record iTunes Videos for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-humor-hub-essential-apps-for-meme-makers/"><u>[Updated] Humor Hub Essential Apps for Meme Makers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-selfie-verification-everything-you-need-to-know/"><u>2024 Approved Instagram Selfie Verification - Everything You Need to Know</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620235009-expert-strategies-for-converting-wmv-to-gifs-top-techniques-to-master-now/"><u>Expert Strategies for Converting WMV to GIFs: Top Techniques to Master Now!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/hassle-free-steps-for-transforming-avi-videos-into-playstation-portable-psp-compatible-formats/"><u>Hassle-Free Steps for Transforming AVI Videos Into PlayStation Portable (PSP) Compatible Formats</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-12-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 12 Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://media-tips.techidaily.com/make-your-mod-files-compatible-with-ipad-e-top-rated-ipad-2-video-converting-toolkit/"><u>Make Your MOD Files Compatible with iPad E - Top-Rated iPad 2 Video Converting Toolkit</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mp4-to-flv-transformation-a-comprehensive-tutorial-for-windows-and-macos-users/"><u>MP4 to FLV Transformation: A Comprehensive Tutorial for Windows and macOS Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-conversion-premium-quality-dpg-from-any-video/"><u>Simple Conversion: Premium-Quality DPG From Any Video</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-videos-into-compatible-formats-for-your-kindle-fire/"><u>Step-by-Step Guide: Transforming Videos Into Compatible Formats for Your Kindle Fire</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlined-content-generation-utilizing-canva-and-chatgpt-synergy/"><u>Streamlined Content Generation: Utilizing Canva and ChatGPT Synergy</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-persistent-echoes-of-eternal-return-a-look-at-black-endurance/"><u>The Persistent Echoes of 'Eternal Return': A Look at Black Endurance</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transforming-videos-into-masterpieces-a-guide-on-creating-with-creative-zen/"><u>Transforming Videos Into Masterpieces: A Guide on Creating with Creative Zen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-conquering-macs-record-functionality-keyboard-driven-tips-for-2024/"><u>[New] Conquering Mac's Record Functionality Keyboard-Driven Tips for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-ios-music-streamers-enjoy-seamless-audio-playback-without-interruptions/"><u>Best iOS Music Streamers: Enjoy Seamless Audio Playback Without Interruptions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/catch-russia-play-live-in-the-201n-fifa-tournament-for-free-via-apple-tv-platform/"><u>Catch Russia Play Live in the 201N FIFA Tournament for Free via Apple TV Platform</u></a></li>
+<li><a href="https://article-tips.techidaily.com/find-excellence-in-hd-on-android-our-top-10-player-guide-for-2024/"><u>Find Excellence in HD on Android Our Top 10 Player Guide for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-screen-mirroring-techniques-for-seamless-iphone-and-ipad-projection-onto-big-screens/"><u>Mastering Screen Mirroring Techniques for Seamless iPhone and iPad Projection Onto Big Screens</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-the-art-of-web-refresh-insights-on-site-rebrands-and-enhancing-seo-performance-with-expert-techniques/"><u>Mastering the Art of Web Refresh: Insights on Site Rebrands & Enhancing SEO Performance with Expert Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/overcoming-4k-playback-hurdles-how-to-solve-non-streaming-and-airplay-errors-on-apple-devices/"><u>Overcoming 4K Playback Hurdles: How to Solve Non-Streaming & AirPlay Errors on Apple Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-unresolved-roblox-issues-on-windows/"><u>Overcoming Unresolved Roblox Issues on Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/setting-strict-rules-to-govern-online-communities/"><u>Setting Strict Rules to Govern Online Communities</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-playing-any-video-in-vlc-one-frame-at-a-time/"><u>Step-by-Step Guide: Playing Any Video in VLC One Frame at a Time</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-free-downloadable-mac-media-players-compatible-with-mojave-and-catalina/"><u>Top Rated Free Downloadable Mac Media Players Compatible with Mojave & Catalina</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-seamlessly-broadcasting-high-quality-4k-content-from-your-computer-or-mac-to-apple-tv/"><u>Ultimate Guide: Seamlessly Broadcasting High-Quality 4K Content From Your Computer or Mac to Apple TV</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-of-health-bandwagon-champions/"><u>Ultimate Selection of Health Bandwagon Champions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-of-the-chkdsk-command-in-windows-operating-systems/"><u>Unlocking the Secrets of the Chkdsk Command in Windows Operating Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-how-apples-ipad-pro-price-cut-offers-unbeatable-value-before-prime-day-insights-for-tech-savvy-shoppers/"><u>Unlocking the Secrets: How Apple's iPad Pro Price Cut Offers Unbeatable Value Before Prime Day - Insights for Tech Savvy Shoppers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/video-feedback-through-apple-music-streams/"><u>Video Feedback Through Apple Music Streams</u></a></li>
 </ul></div>
 

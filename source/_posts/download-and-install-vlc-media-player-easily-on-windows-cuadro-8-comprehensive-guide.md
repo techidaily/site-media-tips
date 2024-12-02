@@ -1,7 +1,7 @@
 ---
 title: Download and Install VLC Media Player Easily on Windows Cuadro 8 - Comprehensive Guide
-date: 2024-11-13T01:48:51.516Z
-updated: 2024-11-14T05:51:58.209Z
+date: 2024-11-29T17:05:01.329Z
+updated: 2024-12-01T21:42:52.685Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c27c29fba053b8832f23b24095348059aefd5880d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download VLC Player for Windows 8 64 Bit
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -25,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/c27c29fba053b8832f23b24095348059aefd5880d
 While the Windows 10 is coming all the way to capture everyone's attention, there are still lots of Windows users prefer to stick with Windows 8\. And VLC is one of the best HD media players on Windows 8 for it embraces a great deal of amazing features. However, some users questioned in the VLC forum that VLC has a lot of flaws on Windows 8 64 bit, the major one is that it seizes on startup. Well, the simplest reason is probably because you didn't download it right. Try to uninstall it and **download VLC player for Windows 8** in the following ways.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two Official Ways to Download VLC for Windows 8 64/32 bit
@@ -46,16 +47,7 @@ Softonic is a place to download the best software for Windows 8, in where you ca
 ![VLC Encountered a Problem with Windows 8](https://www.5kplayer.com/video-music-player/img/vlc-player-windows-8-xsy-050703.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 VLC is a profound media player which can be used on more than 10 operating systems, currently[VLC Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) is available for download. It is surely becoming everyone's favorite since it has set a good example to the rest of HD media players. But such a dominant player on Windows still has its own defects. Such as "seizes when loading a video file", "stumbles around when trying to update on Windows 8", and "VLC audio delays on Windows 8", "VLC not play DVDs or Blue-rays", etc. Many users have done all solutions that posted on the VLC forum to fix those problems but still no joy, such as updating to the newest version, install a codec package, getting a disk lens cleaner to fix DVD playing problem, and even uninstall other software which is not compatible with VLC. If it's still not working after you tried the above solutions to reinstall a VLC player on Windows 8, you may wanna switch the VLC player to another equally amazing or even slightly better HD video player – [5KPlayer](https://tools.techidaily.com/5kplayer/products/). 
@@ -72,6 +64,10 @@ Check out the main interface of 5KPlayer for Windows. Unlike VLC on Windows 8, 5
 
 ![Best VLC for Windows 8 Alternative - 5KPlayer](https://www.5kplayer.com/video-music-player/img/vlc-player-windows-8-xsy-050701.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Load your Video file to play.
 
 You will find that the difference between 5KPlayer and VLC on Windows 8 is that 5KPLayer added more functional buttons like rotate the video playback left and right, select the most suitable subtitle and audio track, choose to play next episode and beam your video to another screen by simply click "[AirPlay](https://tools.techidaily.com/5kplayer/airplay/)" incon on the top right corner to choose a device.
@@ -79,22 +75,12 @@ You will find that the difference between 5KPlayer and VLC on Windows 8 is that 
 ![Best VLC for Windows 8 Alternative Plays Video](https://www.5kplayer.com/video-music-player/img/vlc-player-windows-8-xsy-050702.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Enough about all the amazing features about 5KPlayer as a [video music player](https://tools.techidaily.com/5kplayer/video-music-player/), besides being a HD media player, 5KPlayer is also an excellent video downloader which is able to download video and music from over 300 [online video sites](https://tools.techidaily.com/5kplayer/youtube-download/). And as I mention before, it also can [AirPlay on Windows 8](https://tools.techidaily.com/5kplayer/airplay/), and All in all, consider the imperfect features of VLC player on Windows 8, 5KPlayer is the best one that can replace VLC player to rock all the Windows 8 users.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,19 +97,20 @@ Enough about all the amazing features about 5KPlayer as a [video music player](h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-earning-mastery-in-streams-a-comprehensive-review-for-2024/"><u>[New] Earning Mastery in Streams A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-youtube-profitability-guide-cpm-and-earnings-analysis/"><u>[New] In 2024, YouTube Profitability Guide CPM and Earnings Analysis</u></a></li>
-<li><a href="https://media-tips.techidaily.com/airplay-your-iphone-or-ipad-on-hdtv-with-the-latest-chromecast-update/"><u>AirPlay Your iPhone or iPad on HDTV with the Latest Chromecast Update</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-free-ios-music-apps-top-picks-for-iphone-xs-xs-max-and-xr-users/"><u>Best FREE iOS Music Apps: Top Picks for iPhone XS, XS Max & XR Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-media-player-classic-software-available-for-windows-10-64-bit-users-direct-download-links/"><u>Free Media Player Classic Software Available for Windows 10 64-Bit Users: Direct Download Links</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guide-transferring-films-and-content-seamlessly-between-mac-and-apple-tv/"><u>Guide: Transferring Films & Content Seamlessly Between Mac and Apple TV</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-fix-av1-video-playback-issues-step-by-step-instructions-for-windows-1/"><u>How to Fix AV1 Video Playback Issues: Step-by-Step Instructions for Windows 1</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/outer-worlds-video-game-review-an-entertaining-sci-fi-adventure/"><u>Outer Worlds Video Game Review: An Entertaining Sci-Fi Adventure</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-in-place-as-the-king-of-fighters-xv-stops-pc-game-crashes/"><u>Resolved: Fixes in Place as 'The King of Fighters XV' Stops PC Game Crashes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-restore-lost-documents-on-your-ipad-using-advanced-recovery-tools/"><u>Step-by-Step Guide: Restore Lost Documents on Your iPad Using Advanced Recovery Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-getting-fortnite-up-and-running-on-android-phones/"><u>Step-by-Step Tutorial: Getting Fortnite Up and Running on Android Phones</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-3-airplay-servers-unveiled-5k-player-x-mirage-and-airserver-review-for-ultimate-streaming-control/"><u>Top 3 AirPlay Servers Unveiled: 5K Player, X-Mirage & AirServer Review for Ultimate Streaming Control</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix .</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unlocking-the-secrets-of-irecorder/"><u>[New] 2024 Approved Unlocking the Secrets of iRecorder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-art-of-transcribing-top-4-tactics-for-fb-chat-recordings/"><u>[New] The Art of Transcribing Top 4 Tactics for FB Chat Recordings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-streamlining-monetization-strategies-on-youtube/"><u>[Updated] In 2024, Streamlining Monetization Strategies on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ee-youtube-thumbnail-makers-to-make-your-own-video-thumbnail-for-2024/"><u>12 FREE YouTube Thumbnail Makers to Make Your Own Video Thumbnail for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-macs-leading-video-shaping-tools-in-big-sur-release/"><u>2024 Approved Mac's Leading Video Shaping Tools in Big Sur Release</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/choosing-your-console-a-review-of-the-nintendo-switch-lite-and-oled-variants/"><u>Choosing Your Console: A Review of the Nintendo Switch Lite and OLED Variants</u></a></li>
+<li><a href="https://media-tips.techidaily.com/public-sentiment-current-events-or-widespread-public-dissatisfaction-with-the-status-quo-can-increase-the-urgency-for-people-to-vote-thus-raising-turnout-fi53/"><u>Public Sentiment: Current Events or Widespread Public Dissatisfaction with the Status Quo Can Increase the Urgency for People to Vote, Thus Raising Turnout Figures.</u></a></li>
+<li><a href="https://media-tips.techidaily.com/revamped-spotify-tv-application-now-streamlines-your-viewing-experience/"><u>Revamped Spotify TV Application Now Streamlines Your Viewing Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/shocking-update-fubotv-drops-off-19-popular-channels-from-the-discovery-group/"><u>Shocking Update: FuboTV Drops Off 19 Popular Channels From the Discovery Group</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snowbound-sagas-2022-olympic-milestones/"><u>Snowbound Sagas 2022 Olympic Milestones</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streaming-wars-how-netflix-stacks-up-against-hulu-amazon-prime-video-and-more/"><u>Streaming Wars: How Netflix Stacks Up Against Hulu, Amazon Prime Video, and More</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-final-curtain-falls-on-redbox-theaters-nationwide/"><u>The Final Curtain Falls on Redbox Theaters Nationwide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210141699-9781507216262-the-official-guide-to-randonautica/"><u>The Official Guide to Randonautica | Free Book</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-the-distinctions-between-google-tv-and-android-tv/"><u>Understanding the Distinctions Between Google TV and Android TV</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Infinix Note 30i? | Dr.fone</u></a></li>
 </ul></div>
 

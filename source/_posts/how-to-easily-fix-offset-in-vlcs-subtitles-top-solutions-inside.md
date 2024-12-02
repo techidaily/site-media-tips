@@ -1,7 +1,7 @@
 ---
 title: How To Easily Fix Offset in VLC's Subtitles – Top Solutions Inside
-date: 2024-11-10T04:02:08.409Z
-updated: 2024-11-13T23:05:33.438Z
+date: 2024-11-30T05:49:32.286Z
+updated: 2024-12-01T20:40:10.068Z
 tags:
   - vlc
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/3bd086f6ddbea0000b61dea6630a396d485fdb4d6
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VLC Subtitle Delay? How to Adjust Subtitle Timing in VLC?
 
@@ -41,13 +45,6 @@ Since VLC media player is a cross-platform software, we will explain the solutio
 ### Solve VLC Subtitle Delay on Windows, Mac, iOS, Android & TV
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/1.png) **How to Sync Subtitles in VLC on Windows PC?**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Method 1.** When playing a video or movie with VLC media player, you simply use the hotkey to adjust the subtitle delay or forward. If subtitle is ahead of sound, press **G**. If subtitle is behind sound, press **H**. With every key press, it will adjust the subtitle by 50 milliseconds, and you will see the confirmation "Subtitle delay 50ms" or "Subtitle delay -50ms" on the top right corner of the playing screen.
 
@@ -77,10 +74,7 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 #### ![](https://www.5kplayer.com/vlc/../seoimg/2.png) **How to Adjust Subtitle Timing in VLC on Mac?**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Method 1.** During playback, you can press hotkey **H** (decrease delay, subtitles show after sound) or **J** (increase delay, subtitles display before sound) to sync subtitles in VLC. Same with that on Windows PC, every key press will adjust 50 milliseconds.
@@ -104,20 +98,10 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 ![VLC Subtitle Synchronization Android](https://www.5kplayer.com/vlc/img/vlc-subtitle-android.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/4.png) **How to Sync Subtitles in VLC on iOS iPhone/iPad?**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1\. Open a video with VLC media player for iOS.  
  2\. Tap on the **speech balloon** icon in the right-hand bottom corner to check if subtitles have been turned on.  
@@ -129,10 +113,7 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 #### ![](https://www.5kplayer.com/vlc/../seoimg/5.png) **How to Adjust Subtitles in VLC on Apple TV?**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1\. When watching a video on Apple TV, swipe down on your remote’s Touch surface.  
@@ -153,6 +134,10 @@ It is the truth that sometimes subtitles are appeared before the dialogues and s
  Just play a movie or TV show with Soft subtitles, right click on the playing window and select Synchronization. In the new popup window, just drag the **Subtitle track synchronization(ms)** bar from -1s to 1s seconds for a perfect match.
 
 ![5KPlayer Subtitle Synchronization](https://www.5kplayer.com/vlc/img/5kp-subtitle-sync.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Also, it is often the case that many online movies and TV shows have no subtitles or wrong subtitles. Therefore, you can also use 5KPlayer to [add subtitles](https://tools.techidaily.com/5kplayer/video-music-player/) to your movies or TV shows. BTW, you can customize your subtitles by choosing from 40+ default encoding methods, 170+ fonts, font size, text colors, background colors and corresponding color opacity.
 
@@ -175,18 +160,24 @@ Actually VLC not working problems vary, and 5KPlayer is also the best alternativ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-windows-11-guide-titling-video-files-in-photos-app/"><u>[Updated] In 2024, Windows 11 Guide Titling Video Files in Photos App</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-universal-dlna-players-for-cross-device-media-sync-optimal-compatibility-with-pcmac-android-smart-tvs-and-audio-systems/"><u>Best Universal DLNA Players for Cross-Device Media Sync: Optimal Compatibility with PC/Mac, Android, Smart TVs, and Audio Systems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-video-player-options-for-windows-1011-including-daums-free-potplayer-app/"><u>Best Video Player Options for Windows 10/11, Including Daum's Free PotPlayer App</u></a></li>
-<li><a href="https://media-tips.techidaily.com/come-trasformare-il-tuo-pc-con-windows-10-in-un-server-multimediale-con-dlna/"><u>Come Trasformare Il Tuo PC Con Windows 10 in Un Server Multimediale Con DLNA</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-your-cv-with-ais-help-from-chatgpt/"><u>Enhancing Your CV with AI's Help From ChatGPT</u></a></li>
-<li><a href="https://media-tips.techidaily.com/gratis-herunterladbare-dvd-player-programme-fur-windows-11-und-macos-beste-optionen-finden/"><u>Gratis Herunterladbare DVD-Player-Programme Für Windows 11 Und macOS – Beste Optionen Finden</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-gopro-hero5-black-vs-garmin-virb-ultra-30-which-one-is-better/"><u>In 2024, GoPro Hero5 Black VS Garmin Virb Ultra 30 Which One Is Better?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-immediate-frame-grabbers-help/"><u>In 2024, Immediate Frame Grabber's Help</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/levelplay-combat-air-ca4-cpu-cooler-a-thorough-review-on-low-noise-high-performance-cooling-excellence/"><u>Levelplay Combat Air CA^4 CPU Cooler: A Thorough Review on Low Noise, High Performance Cooling Excellence</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mirroring-made-easy-transferring-data-from-your-iphone-to-any-windows-os-in-just-four-steps/"><u>Mirroring Made Easy: Transferring Data From Your iPhone to Any Windows OS in Just Four Steps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/transforming-mac-usage-discover-stellars-fix/"><u>Transforming Mac Usage – Discover Stellar's Fix</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-successfully-casting-your-ipad-air-pro-or-mini-to-computer-mac-and-tv/"><u>Ultimate Guide: Successfully Casting Your iPad Air, Pro, or Mini to Computer, Mac, and TV</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722869933614-your-scoop-on-samsungs-big-day-a-complete-guide-to-whats-coming/"><u>Your Scoop on Samsung's Big Day - A Complete Guide to What’s Coming !</u></a></li>
+<li><a href="https://media-tips.techidaily.com/current-year-sneak-peek-plexs-upcoming-rollout-of-on-demand-movie-and-show-rentals/"><u>[Current Year] Sneak Peek: Plex's Upcoming Rollout of On-Demand Movie and Show Rentals</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-capturing-and-saving-your-favorite-facebook-stories-pcmobile/"><u>[New] 2024 Approved Capturing & Saving Your Favorite Facebook Stories (PC/Mobile)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-capturing-dynamic-action-sequences-on-iphone/"><u>[Updated] In 2024, Capturing Dynamic Action Sequences on iPhone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-away-from-igs-suggestion-engine/"><u>[Updated] In 2024, Navigating Away From IG's Suggestion Engine</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-iphone-photo-illumination-tricks/"><u>[Updated] Pro Iphone Photo Illumination Tricks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/apple-music-subscription-is-the-5-price-offer-no-longer-available/"><u>Apple Music Subscription: Is the $5 Price Offer No Longer Available?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/apples-billing-cut-off-netflix-ends-legacy-support-on-the-ios-platform/"><u>Apple's Billing Cut-Off: Netflix Ends Legacy Support on the iOS Platform</u></a></li>
+<li><a href="https://media-tips.techidaily.com/back-on-track-access-your-favorite-shows-as-hulu-returns-through-disneyplus/"><u>Back on Track: Access Your Favorite Shows as Hulu Returns Through Disney+</u></a></li>
+<li><a href="https://media-tips.techidaily.com/boosting-enjoyment-and-savings-top-7-tips-for-getting-more-from-sling-tv-subscription/"><u>Boosting Enjoyment and Savings: Top 7 Tips for Getting More From Sling TV Subscription</u></a></li>
+<li><a href="https://media-tips.techidaily.com/cant-find-song-lyrics-on-spotify-check-out-these-reliable-alternatives/"><u>Can't Find Song Lyrics on Spotify? Check Out These Reliable Alternatives!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/complete-guide-to-viewing-gymnastic-competitions-in-the-2e24-summer-games/"><u>Complete Guide to Viewing Gymnastic Competitions in the 2E24 Summer Games</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-troubleshooting-steps-for-resolving-iphones-bluetooth-connectivity-problems/"><u>Complete Troubleshooting Steps for Resolving iPhone's Bluetooth Connectivity Problems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/critical-alert-more-than-15000-roku-logins-compromised-through-weak-password-habits/"><u>Critical Alert: More Than 15,000 Roku Logins Compromised Through Weak Password Habits</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-latest-features-of-kodi-version-205-rollout-and-enhancements-unveiled/"><u>Discover the Latest Features of Kodi Version 20.5: Rollout and Enhancements Unveiled!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-oppo-a58-4g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Oppo A58 4G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-and-fresh-zebra-printer-driver-downloads-tailored-for-windows-users/"><u>Secure and Fresh Zebra Printer Driver Downloads Tailored for Windows Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-a-to-z-guide-for-delivering-captivating-streams-using-zoom-and-youtube-for-2024/"><u>The A-to-Z Guide for Delivering Captivating Streams Using Zoom & YouTube for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-narzo-n55-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme Narzo N55 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-se-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone SE is not listed when I run the software? | Stellar</u></a></li>
 </ul></div>
 

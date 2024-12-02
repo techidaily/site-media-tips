@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Playing Any Video in VLC One Frame at a Time"
-date: 2024-11-19T20:48:42.907Z
-updated: 2024-11-23T16:59:20.310Z
+date: 2024-11-26T19:36:13.374Z
+updated: 2024-12-02T05:00:24.588Z
 tags:
   - vlc
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Go Frame by Frame in VLC Media Player??
 
  _Written by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last updated: December 16, 2020 | 3 Mins Read_
@@ -25,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 When you are watching some fast speed videos like the extreme sport videos, you may want to make the video playback slow to reach every detail exactly. Or, you probably need to capture snapshots of every frame of a 4K movie to create desktop wallpapers. Whatever, the **VLC frame by frame** feature is a good helper to let you view a video step by step.
 
 BTW, VLC media player doesn’t support frame by frame backwards as of now, so this guide will teach you how to play forward one frame at a time with VLC, and play videos backwards by frame with some other tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to View Video Frame by Frame in VLC on Mac/PC?
 
@@ -45,7 +45,7 @@ There are two main ways to go through videos frame by frame in VLC media player 
 ![VLC Frame by Frame Hotkeys](https://www.5kplayer.com/vlc/img/vlc-frame-by-frame-hotkey.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **Method 2\. Use Advanced Controls Bar**
@@ -63,7 +63,7 @@ Worth mentioning, problems like VLC frame by frame freezes are inevitable. Besid
 ![VLC Frame by Frame Button](https://www.5kplayer.com/vlc/img/vlc-frame-by-frame-button.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### VLC Player Frame by Frame not Working? How to Solve?
@@ -74,20 +74,20 @@ If you have any issues with VLC media player frame by frame function, you can tu
 
 **Step 2.** Play a video with 5KPlayer, and then click on the "scissors" ![](https://www.5kplayer.com/vlc/../user-guide/img/scissors-icon.jpg) icon on the playback bar of 5KPlayer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** View your favorite part by dragging the progress bar under the main picture window.
 
 **Note:** This is mainly the video processing window of 5KPlayer where you can cut your video into segments.
 
 ![5KPlayer Frame by Frame](https://www.5kplayer.com/vlc/img/5kplayer-frame-by-frame.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### People Also Ask
@@ -123,21 +123,16 @@ To save a frame when playing a video in VLC, VLC frame by frame screenshot is th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-best-microphones-ranked-perfect-companions-for-4k-cinematography/"><u>[Updated] 2024 Approved Best Microphones Ranked Perfect Companions for 4K Cinematography</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-get-started-on-creativity-top-10-apps-for-digital-pencils-on-chrome-os/"><u>[Updated] 2024 Approved Get Started on Creativity Top 10 Apps for Digital Pencils on Chrome OS</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ace-your-media-playback-with-superior-mkv-converters-compatible-with-mac-high-sierra-systems/"><u>Ace Your Media Playback with Superior MKV Converters Compatible with Mac High Sierra Systems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-free-subtitles-players-top-6-picks-for-effortless-viewing-experience/"><u>Best Free Subtitles Players: Top 6 Picks for Effortless Viewing Experience</u></a></li>
-<li><a href="https://fox-http.techidaily.com/convenient-curvature-creation-techniques-in-pixels-for-2024/"><u>Convenient Curvature Creation Techniques in Pixels for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-your-flv-videos-to-mov-format-top-5-free-methods-for-windows-and-mac-users/"><u>Convert Your FLV Videos to MOV Format: Top 5 Free Methods for Windows and Mac Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-convert-and-enjoy-videos-on-your-kindle-fire-a-user-friendly-guide/"><u>How to Convert and Enjoy Videos on Your Kindle Fire: A User-Friendly Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-3-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord 3 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-to-the-latest-hid-compatible-mouse-software/"><u>How to Upgrade to the Latest HID-Compatible Mouse Software</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/maintaining-a-polished-online-presence-blocking-profiles/"><u>Maintaining a Polished Online Presence: Blocking Profiles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-pc-printer-link-fixes/"><u>Mastering PC Printer Link Fixes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-easy-free-methods-to-transform-3gp-video-files-into-avi-format-at-lightning-speeds/"><u>Quick & Easy: Free Methods to Transform 3GP Video Files Into AVI Format at Lightning Speeds</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-methods-to-transform-flv-files-into-3gp-format-with-free-editing-tools/"><u>Simple Methods to Transform Flv Files Into 3Gp Format with Free Editing Tools</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-7-methods-to-transform-your-m4v-files-into-lfv-format-discover-the-best-online-and-offline-converters/"><u>Top 7 Methods to Transform Your M4V Files Into LFV Format: Discover the Best Online and Offline Converters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-tailoring-your-video-for-optimal-instagram-impact/"><u>[New] Tailoring Your Video for Optimal Instagram Impact</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-virtuosity-expertly-attaching-audio-to-youtube-videos/"><u>[New] Video Virtuosity Expertly Attaching Audio to YouTube Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-gaming-recorded-the-complete-breakdown/"><u>2024 Approved Gaming Recorded The Complete Breakdown</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convertissez-votre-fichier-asf-au-format-flash-swf-librement-sur-internet-via-movavi/"><u>Convertissez Votre Fichier ASF Au Format Flash SWF Librement Sur Internet via Movavi</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-guide-streaming-multiple-video-formats-avi-mkv-etc-with-airplay/"><u>Easy Guide: Streaming Multiple Video Formats (AVI, MKV, Etc.) With AirPlay</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-stream-ios-13s-airplay-in-4k-on-windows-11-and-mac-with-an-iphone-nv/"><u>How to Stream IOS 13'S AirPlay in 4K on Windows 11 and Mac with an iPhone Nv</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-samsung-galaxy-f54-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Samsung Galaxy F54 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/resolving-airplay-2-unresponsive-and-firmware-update-issues/"><u>Resolving 'AirPlay 2 Unresponsive' And Firmware Update Issues</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-for-successfully-jailbreaking-ios-13-on-iphone-11-and-ipad-pro/"><u>Step-by-Step Tutorial for Successfully Jailbreaking iOS 13 on iPhone 11 & iPad Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-desk-treadmills-for-active-workers/"><u>Top Rated Desk Treadmills for Active Workers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/troubleshooting-fixes-resolving-ios-screen-recording-glitches-on-ios-15-14-and-13/"><u>Troubleshooting Fixes: Resolving iOS Screen Recording Glitches on iOS 15, 14 & 13</u></a></li>
 </ul></div>
 

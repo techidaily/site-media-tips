@@ -1,7 +1,7 @@
 ---
 title: "1. Ultimate Guide: Correcting VLC Video Timing with Perfect Subtitles"
-date: 2024-11-19T22:36:24.875Z
-updated: 2024-11-23T21:50:25.665Z
+date: 2024-11-28T16:41:08.560Z
+updated: 2024-12-01T16:49:23.399Z
 tags:
   - vlc
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VLC Subtitle Delay? How to Adjust Subtitle Timing in VLC?
 
@@ -42,23 +38,19 @@ Since VLC media player is a cross-platform software, we will explain the solutio
 [Sync Subtitles VLC on Apple TV >>](https://tools.techidaily.com/5kplayer/products/)  
 [Best VLC Alternative to Solve VLC Subtitle Delay >>](https://tools.techidaily.com/5kplayer/products/)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solve VLC Subtitle Delay on Windows, Mac, iOS, Android & TV
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/1.png) **How to Sync Subtitles in VLC on Windows PC?**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Method 1.** When playing a video or movie with VLC media player, you simply use the hotkey to adjust the subtitle delay or forward. If subtitle is ahead of sound, press **G**. If subtitle is behind sound, press **H**. With every key press, it will adjust the subtitle by 50 milliseconds, and you will see the confirmation "Subtitle delay 50ms" or "Subtitle delay -50ms" on the top right corner of the playing screen.
 
 However, this way is suitable only when the dialogue and subtitles come with same frame rate. So, you should try method 2 in other situations.
 
 ![VLC Subtitle Hotkeys](https://www.5kplayer.com/vlc/img/vlc-subtitle-hotkey.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **BTW, if VLC subtitles out of sync with audio only, you can use the advance synchronization**
 
@@ -92,7 +84,7 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 ![VLC Subtitle Synchronization Mac](https://www.5kplayer.com/vlc/img/vlc-subtitle-synchronization-mac.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/3.png) **How to Solve Subtitle Delay in VLC on Android Phones & TV?**
@@ -105,6 +97,10 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 ![VLC Subtitle Synchronization Android](https://www.5kplayer.com/vlc/img/vlc-subtitle-android.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### ![](https://www.5kplayer.com/vlc/../seoimg/4.png) **How to Sync Subtitles in VLC on iOS iPhone/iPad?**
 
 1\. Open a video with VLC media player for iOS.  
@@ -113,6 +109,10 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
  4\. Under subtitles delay, drag the circle icon to set a delay. Drag the bar to the right to delay the subtitles, and drag the bar to the left to solve the VLC subtitle delay problem.
 
 ![VLC Subtitle Synchronization iOS](https://www.5kplayer.com/vlc/img/vlc-subtitle-ios.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/5.png) **How to Adjust Subtitles in VLC on Apple TV?**
 
@@ -142,7 +142,7 @@ Actually VLC not working problems vary, and 5KPlayer is also the best alternativ
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -160,20 +160,19 @@ Actually VLC not working problems vary, and 5KPlayer is also the best alternativ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-from-basic-to-breathtaking-crafting-top-tier-tiktok-videos-using-templates/"><u>[New] 2024 Approved From Basic to Breathtaking Crafting Top-Tier TikTok Videos Using Templates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hero5-mastery-a-comprehensive-guide-to-photo-and-video-excellence/"><u>2024 Approved Hero5 Mastery A Comprehensive Guide to Photo and Video Excellence</u></a></li>
-<li><a href="https://win11.techidaily.com/chrome-freeze-no-more-top-solutions-for-windows-11-users/"><u>Chrome Freeze No More: Top Solutions for Windows 11 Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-new-low-cost-xumo-televisions-at-best-buy/"><u>Discover New Low-Cost Xumo Televisions at Best Buy!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-your-film-community-on-letterboxd-the-hidden-social-hub-for-movie-lovers/"><u>Discover Your Film Community on Letterboxd: The Hidden Social Hub for Movie Lovers</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhance-your-streams-the-ultimate-guide-to-a-premium-netflix-journey/"><u>Enhance Your Streams: The Ultimate Guide to a Premium Netflix Journey</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhanced-amazon-fire-tv-upgraded-with-high-quality-soundbar-latest-4k-devices-and-additional-features/"><u>Enhanced Amazon Fire TV: Upgraded With High-Quality Soundbar, Latest 4K Devices & Additional Features</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enjoy-complimentary-access-to-netflix-through-dish-tv-offer/"><u>Enjoy Complimentary Access to Netflix Through Dish TV Offer!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exclusive-deal-purchase-your-forever-ticket-to-plex-with-a-massive-25-discount/"><u>Exclusive Deal: Purchase Your Forever Ticket to Plex with a Massive 25% Discount!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expecting-a-surge-in-commercials-understanding-youtubes-latest-ad-strategy/"><u>Expecting a Surge in Commercials - Understanding YouTube's Latest Ad Strategy</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-harness-analytics-for-live-event-success/"><u>How to Harness Analytics for Live Event Success</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-securely-capture-web-series-every-time-you-watch/"><u>In 2024, How to Securely Capture Web Series Every Time You Watch</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-unveiling-the-aural-treasures-within-videos-techniques-auditory-extraction/"><u>New Unveiling the Aural Treasures Within Videos Techniques Auditory Extraction</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-implications-of-continuously-refreshed-data-in-chatgpt-for-general-users/"><u>The Implications of Continuously Refreshed Data in ChatGPT for General Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unmatched-mac-visual-scriber-with-sound-capture/"><u>Unmatched Mac Visual Scriber with Sound Capture</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-hdr-creation-in-photoshop-workflows/"><u>[New] Advanced HDR Creation in Photoshop Workflows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unravel-the-10-best-free-iphone-image-organizers-and-designers/"><u>[Updated] In 2024, Unravel the 10 Best FREE iPhone Image Organizers and Designers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/avchd-vs-mp4-showdown-determining-the-perfect-video-format-fit-for-your-needs/"><u>AVCHD Vs. MP4 Showdown: Determining the Perfect Video Format Fit for Your Needs</u></a></li>
+<li><a href="https://media-tips.techidaily.com/decoding-3gp-media-tips-for-accessing-opening-and-playback-of-3gp-videos/"><u>Decoding 3GP Media: Tips for Accessing, Opening, and Playback of 3GP Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-note-30-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Note 30</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-clear-cut-strategy-for-image-border-management-on-canva/"><u>In 2024, The Clear-Cut Strategy for Image Border Management on Canva</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-realme-12-proplus-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Realme 12 Pro+ 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-assessment-lightroom-app-android-edition/"><u>In-Depth Assessment Lightroom App, Android Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-174-update-apple-introduces-podcast-text-support-fresh-emoji-lineup-and-european-app-store-relaunch-the-latest-insights-from-zdnet/"><u>IOS 17.4 Update: Apple Introduces Podcast Text Support, Fresh Emoji Lineup & European App Store Relaunch - The Latest Insights From ZDNet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/speedy-methods-for-changing-tod-documents-to-mp4-videos-on-mac-computers/"><u>Speedy Methods for Changing TOD Documents to MP4 Videos on Mac Computers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-10-no-cost-nokia-video-converter-apps-for-mac-users-get-your-list-here/"><u>Top 10 No-Cost Nokia Video Converter Apps for Mac Users - Get Your List Here</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-mts-mp4-converter-a-3-step-guide-to-flawless-video-format-transformation/"><u>Top Rated MTS-MP4 Converter: A 3-Step Guide to Flawless Video Format Transformation</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-seamless-transformation-of-mkv-files-into-compatible-formats/"><u>Ultimate Guide: Seamless Transformation of MKV Files Into Compatible Formats</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 15 Pro | Dr.fone</u></a></li>
 </ul></div>
 

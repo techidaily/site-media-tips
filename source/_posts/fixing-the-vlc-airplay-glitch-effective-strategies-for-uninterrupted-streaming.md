@@ -1,7 +1,7 @@
 ---
 title: "Fixing the VLC-AirPlay Glitch: Effective Strategies for Uninterrupted Streaming"
-date: 2024-11-22T22:36:13.217Z
-updated: 2024-11-23T16:51:48.184Z
+date: 2024-11-24T23:42:54.048Z
+updated: 2024-12-02T02:19:14.349Z
 tags:
   - vlc
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Solve VLC AirPlay Not Working Issue?
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
  _Written by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21)_ | Last updated: April 30, 2020 
 
 VLC 4's developers have been working on **VLC AirPlay** support for some time and it is confirmed that the feature will be included in the VLC 4 major version upgrade. "Just like with Chromecast, we intend to support AirPlay on any platform." This means that we can get an easier way to stream video and audio files from VLC media player on PC/phones/tablets to a big screen TV, without the need to install additional apps or purchase additional widgets. However, **VLC AirPlay not working issue** stands in the way of a smooth streaming experience every now and then.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VLC AirPlay not working issue 1: VLC AirPlay not showing up, can't find AirPlay renderer
 
@@ -36,18 +40,10 @@ The problem can highly lie in Windows 10 update build 1803, which has managed to
 
 ![VLC 4 AirPlay Not Showing](https://www.5kplayer.com/vlc/img/vlc-airplay-not-working.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Solutions:**  
 1\. Install Bonjour Print Service for Windows from Apple website instead of Bonjour 2.2;  
 2\. Install VLC to "C:xxx" or any other folders, instead of under "C:\\program files\\xxx" and create firewall exceptions for VLC.   
 3\. Also, VLC AirPlay not loading issue can also be resulted from WiFi routers, which can block multicast packets going from wired to wireless if your PC is at wired connection. In this case, your best defense is to buy high-quality APs from companies that care about making sure multicasts work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VLC AirPlay not working issue 2: Apple TV No Sound AirPlay from VLC 4
 
@@ -63,11 +59,19 @@ For the second case, it can be a problem with Apple TV audio output setting.
 1\. Go to Settings > Audio & Video on your Apple TV > Change the Audio Output setting from Auto to 16 bit  
 2\. Change Dolby Digital Out setting: set to Off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VLC AirPlay not working issue 3: Apple TV Sound but No Picture AirPlay from VLC 4
 
 VLC AirPlay not showing video on TV renderer. "Playing a movie through Itunes; it works great. Playing a movie through Beamer; it works great. Using VLC Airplay; all I get is sound and no video." 
 
 ![VLC 4 AirPlay Not Working No Video](https://www.5kplayer.com/vlc/../airplay/img/airplay-pc-to-apple-tv-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Solutions:**   
  Check AirPlay status on the Apple TV. Turn it off and on.  
@@ -83,7 +87,7 @@ If necessary, you may want to
  Restart your mobile device or computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Another Way to Solve VLC AirPlay Not Working
@@ -95,10 +99,6 @@ If necessary, you may want to
 ![VLC AirPlay Not Working Alternative Player](https://www.5kplayer.com/vlc/../dlna/img/dlna-mac-to-tv.jpg) 
 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,14 +115,24 @@ If necessary, you may want to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://media-tips.techidaily.com/7-proven-strategies-to-manage-your-monthly-streaming-costs/"><u>7 Proven Strategies to Manage Your Monthly Streaming Costs</u></a></li>
-<li><a href="https://media-tips.techidaily.com/april-2024-marks-the-expiration-of-federal-broadband-assistance-programs/"><u>April 2024 Marks the Expiration of Federal Broadband Assistance Programs</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/comprehensive-tutorial-steps-to-successfully-add-an-extra-ssd-drive-in-windows-11/"><u>Comprehensive Tutorial: Steps to Successfully Add an Extra SSD Drive in Windows 11</u></a></li>
-<li><a href="https://media-tips.techidaily.com/customizing-your-viewing-experience-how-to-bypass-the-built-in-two-hour-timeout-on-plex-streaming-service/"><u>Customizing Your Viewing Experience: How to Bypass the Built-In Two Hour Timeout on Plex Streaming Service</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-discover-the-potential-detailed-look-at-showmore-as-your-recording-companion/"><u>In 2024, Discover the Potential Detailed Look at ShowMore as Your Recording Companion</u></a></li>
-<li><a href="https://fox-where.techidaily.com/risoluzione-guidata-soluzioni-rapide-per-il-problemi-di-pianificazione-su-windows-server/"><u>Risoluzione Guidata - Soluzioni Rapide per Il Problemi Di Pianificazione Su Windows Server</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-itel-a60-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Itel A60 Location | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-itel-p40-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Itel P40 Screen | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/why-its-essential-the-three-key-advantages-of-rating-the-tv-series-you-enjoy-on-streaming-platforms/"><u>Why It's Essential: The Three Key Advantages of Rating the TV Series You Enjoy on Streaming Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-your-artwork-implementing-3d-text-effects-for-2024/"><u>[New] Elevate Your Artwork Implementing 3D Text Effects for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-stepwise-approach-to-unlinking-and-removing-youtube-content/"><u>[New] In 2024, A Stepwise Approach to Unlinking and Removing YouTube Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-storage-capacity-64gb-vs-128gb-for-video-files/"><u>[New] Storage Capacity 64GB vs 128GB for Video Files</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/treamline-your-songs-with-youtube-playlist-formats/"><u>[New] Streamline Your Songs with YouTube Playlist Formats</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-delving-deep-youtubes-revenue-system-from-publisher-to-you-for-2024/"><u>[Updated] Delving Deep YouTube's Revenue System From Publisher to You for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/converting-content-with-ease-making-creative-zen-files-from-videos-on-a-mac-system/"><u>Converting Content with Ease: Making Creative Zen Files From Videos on a Mac System</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/discover-best-4k-gimbals-for-mirrorless-cameras/"><u>Discover Best 4K Gimbals for Mirrorless Cameras</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-4-step-guide-for-converting-mxf-footage-to-sony-vegas-mp4-with-avchdhevc-encoding/"><u>Easy 4-Step Guide for Converting MXF Footage to Sony Vegas MP4 with AVCHD/HEVC Encoding</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-instructions-for-mov-to-mp4-file-transformation-using-a-mac-computer/"><u>Easy Instructions for MOV to MP4 File Transformation Using a Mac Computer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficient-steps-for-transforming-mts-videos-into-high-quality-avi-playbacks/"><u>Efficient Steps for Transforming MTS Videos Into High-Quality AVI Playbacks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-conversion-guide-transform-videos-for-your-galaxy-series-s10-s9-etc/"><u>Effortless Conversion Guide: Transform Videos for Your Galaxy Series (S10, S9, Etc.)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortlessly-convert-hevc-videos-into-mov-format-seamless-solutions-for-desktops-online-platforms-and-mobile-devices/"><u>Effortlessly Convert HEVC Videos Into MOV Format: Seamless Solutions for Desktops, Online Platforms & Mobile Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-utilize-the-find-my-tool-for-locating-a-lost-ios-device/"><u>How to Utilize the Find My Tool for Locating a Lost iOS Device</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-how-to-create-time-lapse-video-with-canon-camera/"><u>In 2024, How to Create Time-Lapse Video with Canon Camera</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-seamlessly-download-and-install-movie-maker-6/"><u>In 2024, How to Seamlessly Download and Install Movie Maker 6</u></a></li>
+<li><a href="https://media-tips.techidaily.com/in-depth-analysis-of-videopads-editing-capabilities-and-how-to-on-creative-transitions/"><u>In-Depth Analysis of VideoPad's Editing Capabilities & How-To on Creative Transitions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-mxf-files-to-mov-format-on-your-mac-solutions-inside/"><u>Step-by-Step Guide: Converting MXF Files to MOV Format on Your Mac - Solutions Inside!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-transforming-mp4-files-into-wmv-format-for-windows-11-users/"><u>Step-by-Step Tutorial: Transforming MP4 Files Into WMV Format for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-unveiling-the-latest-gadgets-and-components/"><u>Tom's Tech Review: Unveiling the Latest Gadgets and Components</u></a></li>
 </ul></div>
 
