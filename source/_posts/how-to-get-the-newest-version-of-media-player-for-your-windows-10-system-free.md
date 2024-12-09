@@ -1,7 +1,7 @@
 ---
 title: How to Get the Newest Version of Media Player for Your Windows 10 System, Free!
-date: 2024-11-28T16:25:46.985Z
-updated: 2024-12-02T04:16:09.668Z
+date: 2024-12-06T18:00:58.208Z
+updated: 2024-12-09T19:57:31.308Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Media Player Update: How to Update Media Player for Windows 10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 When you upgrade your PC OS to windows 10, correspondingly, you will update your Media Player to be more elastic to handle more files on this greater OS. Media Player version 12 is available to download and update for Windows 10 now. Don't know how to update Media Player on Windows 10? No worries, here teaches you two ways to get your Media Player updated for Windows or Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Update Windows Media Player to Version 12 Manually?
@@ -45,7 +45,7 @@ Step 4: Click on "Check for updates" to see what version of Media Player are you
 ![Media Player Updates  to Version 12](https://www.5kplayer.com/video-music-player/img/upadate-media-player.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And if you want to set your **media player to be updated automatically**, you have to go through the following settings: 
@@ -62,10 +62,6 @@ Now you have updated to Windows Media Player version 12, let's learn about the *
 
 However, Windows media player still can't play DVD in Windows 10 and Windows 8.1, and you also have to install [MKV Media Player codec pack](https://tools.techidaily.com/5kplayer/video-music-player/) to be able to play MKV files. Want to download the best DVD player for Windows 10? Update your Media Player to 5KPlayer - the best alternative media player for Windows 10 now!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Second Solution: Update your media player to 5KPlayer
 
 5KPlayer ranks on the top for the [top 5 media players for Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/), not only because it is an excellent media player, but also that it also does multitask. Look what the best media player is capable of: 
@@ -78,6 +74,10 @@ However, Windows media player still can't play DVD in Windows 10 and Windows 8.1
 
 ![Update Media Player to 5KPlayer](https://www.5kplayer.com/video-music-player/../youtube-download/img/play-4k.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ☆ [Best 4K/8K UHD player](https://tools.techidaily.com/5kplayer/video-music-player/): With the power to play ultra HD videos in AVI (Divx/Xvid), MKV (H.265), MP4 (H.264) and more, better still, it can also download and stream 4K 8K UHD videos on Mac and PC.   
   
 ☆ [Best VR Player:](https://tools.techidaily.com/5kplayer/video-music-player/) load VR videos easily and quickly, and with the ability to donload VR videos from 300+ online video sites.   
@@ -87,7 +87,7 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -105,22 +105,24 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-convert-any-youtube-tracking-ios-solutions-in-6-free-tools/"><u>[New] In 2024, Convert Any YouTube Tracking IOS Solutions in 6 Free Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instas-best-practices-choosing-videography-sizes-and-formats/"><u>[New] In 2024, Insta's Best Practices - Choosing Videography Sizes & Formats</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-speak-the-code-vr-lingo-essentials-for-2024/"><u>[New] Speak the Code VR Lingo Essentials for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-effortless-guide-to-adding-banners-on-gaming-channels/"><u>[Updated] In 2024, Effortless Guide to Adding Banners on Gaming Channels</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-free-mp3-converter-apps-top-10-picks-for-windows-macos-mobile-and-web/"><u>Best Free MP3 Converter Apps: Top 10 Picks for Windows, macOS, Mobile & Web</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-vob-to-wav-a-step-by-step-guide-for-mac-windows-and-online-tools/"><u>Convert VOB to WAV: A Step-by-Step Guide for Mac, Windows & Online Tools</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-steps-creating-iphone-ringtones-from-mp3-files-for-models-x-8-7-6-and-5/"><u>Easy Steps: Creating iPhone Ringtones From MP3 Files for Models X, 8, 7, 6, and 5</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effective-techniques-for-amplifying-mp3-playback-a-guide-to-boosting-your-sound/"><u>Effective Techniques for Amplifying MP3 Playback: A Guide to Boosting Your Sound</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-guide-transforming-your-ringtone-from-m4r-to-mp3-audio/"><u>Effortless Guide: Transforming Your Ringtone From M4R to MP3 Audio</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-google-discover-feature-step-by-step-tutorial-for-smartphones/"><u>Exploring Google Discover Feature - Step-by-Step Tutorial for Smartphones</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nokia-c12-plus-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nokia C12 Plus?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/online-mp3-ringtone-creator-effortless-app-based-mobile-tones-crafting/"><u>Online MP3 Ringtone Creator: Effortless App-Based Mobile Tones Crafting</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-and-effective-methods-ranking-the-top-5-tools-for-converting-ogg-audio-to-mp3/"><u>Simple & Effective Methods: Ranking the Top 5 Tools for Converting OGG Audio to MP3</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-your-audio-instantly-convert-m4a-to-wav-at-no-cost-on-pc-or-mac-systems/"><u>Transform Your Audio: Instantly Convert M4A to WAV at No Cost on PC or Mac Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-asus-rog-phone-7-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Asus ROG Phone 7 Device</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-speedy-techniques-for-transforming-clips-into-gif-format/"><u>[How-To] Speedy Techniques for Transforming Clips Into GIF Format</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-perfectly-inserting-songs-on-instagram-stories-for-2024/"><u>[New] Step-by-Step Perfectly Inserting Songs on Instagram Stories for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-10-best-instagram-video-editor-for-android-pc-online/"><u>[Updated] 10 Best Instagram Video Editor for Android, PC, Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elite-console-emulation-top-5-ps3-options/"><u>[Updated] In 2024, Elite Console Emulation Top 5 PS3 Options</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728480704903-onedrive/"><u>「解決済み」:OneDriveファイルは削除後、必ずゴミ箱に入りますか？</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/achieving-optimal-sound-the-art-of-adjusting-mp3-file-bitrates/"><u>Achieving Optimal Sound: The Art of Adjusting MP3 File Bitrates</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-7-software-solutions-for-converting-flac-files-into-mp3-format/"><u>Best 7 Software Solutions for Converting FLAC Files Into MP3 Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effective-ways-to-minimize-and-compress-gif-files-a-top-rated-guide/"><u>Effective Ways To Minimize and Compress GIF Files: A Top-Rated Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/essential-guide-discover-the-ultimate-6-gif-to-video-converter-applications-for-perfect-transitions/"><u>Essential Guide: Discover the Ultimate 6 GIF-to-Video Converter Applications for Perfect Transitions!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-jetaudio-installation-guide-cross-platform-supported-on-pcs-and-mobile-oses/"><u>Free JetAudio Installation Guide: Cross-Platform Supported on PCs and Mobile OSes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-a-game-changing-deal-the-gigabyte-gs32q-a-quad-hd-fast-32-monitor-at-199/"><u>Get Your Hands on a Game-Changing Deal: The Gigabyte GS32Q – A Quad HD, Fast 32 Monitor at $199</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-smart-8-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Smart 8 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-itel-a60s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Itel A60s without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-wma-your-complete-resource-for-insights-and-necessities/"><u>Mastering WMA: Your Complete Resource for Insights and Necessities</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620262385-online-and-offline-animated-gif-editing-master-the-art-of-cropping-with-our-advanced-gif-cropper-tool/"><u>Online and Offline Animated GIF Editing: Master the Art of Cropping with Our Advanced GIF Cropper Tool</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-driver-upgrades-enhancing-msi-gpu-performance-in-windows-11-and-7/"><u>Seamless Driver Upgrades: Enhancing MSI GPU Performance in Windows 11 and 7</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-tutorial-effortlessly-enhance-your-animation-gifs-with-two-powerful-techniques/"><u>Ultimate Tutorial: Effortlessly Enhance Your Animation GIFs with Two Powerful Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-pro-performance-essential-qualities-that-make-this-lenovo-laptop-shine-on-zdnet/"><u>Unlocking Pro Performance: Essential Qualities That Make This Lenovo Laptop Shine on ZDNet</u></a></li>
 </ul></div>
 

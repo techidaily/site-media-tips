@@ -1,7 +1,7 @@
 ---
 title: Guide to Turning On AirPlay for iPhone 12, Previous Versions with iOS Up to Version 14
-date: 2024-11-25T19:18:57.571Z
-updated: 2024-12-02T02:48:10.232Z
+date: 2024-12-08T20:19:07.753Z
+updated: 2024-12-09T16:08:00.175Z
 tags:
   - airplay
 categories:
@@ -18,15 +18,15 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable AirPlay on iPhone 12/iOS 14 or Before?
 
  _Written by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: October 23, 2020 | 3 Min Read_ 
 
 This article discusses how to **enable AirPlay on iPhone** 12 iOS 14 & Earlier to stream video auido from iPhone to Mac/PC. Turn on AirPlay on your iPhone 12 iOS 14 (or earlier), and with the help of all-in-one AirPlay receiver & sender — 5KPlayer, your can stream movies and music songs from iPhone to Mac/PC easier than ever.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Turn On AirPlay on iPhone 12 iOS 14 Or Before?
 
@@ -47,12 +47,16 @@ After successfully enabling AirPlay on iPhone 12 iOS 14, 5KPlayer can walk you t
  Remember to turn off AirPlay on iPhone 6s/6s Plus when you have finished the video streaming for longer battery life. Just swipe up from the iPhone screen again, click the AirPlay icon, then you're good to go.   
  \* Disconnecting iPhone from the WiFi can also turn off AirPlay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Use iPhone AirPlay Mirroring to Mac/Windows/Apple TV?
 
 When you successfully enable AirPlay on iPhone 12 iOS 14 and connect iPhone to the AirPlay destination, you may find the "Mirroring" slider available to turn on. AirPlay Mirroring iPhone screen with 5KPlayer can blast everything on your mobile phone to Mac or Windows without lag, including the desktop, photos, slide shows. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Instruction to Enable AirPlay and Stream Movies/Music On iPhone
@@ -70,7 +74,7 @@ Download [**5KPlayer**](https://tools.techidaily.com/5kplayer/products/), launch
 ![Connect iPhone and Mac to Enable AirPlay](https://www.5kplayer.com/airplay/img/5kplayer-freeaacplayer-yxt-030603.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2**: After you yurn on AirPlay: Directly AirPlay videos on iPhone, or AirPlay YouTube online. 
@@ -83,16 +87,12 @@ Notice: 5KPlayer AirPlay function now can't stream video music, but it will come
 ![AirPlay Online/Downloaded Movies and Music on iPhone](https://www.5kplayer.com/airplay/img/airplay-iphone-ipad.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** The burgeoning AirPlay-enabled software is bringing users better experience. You can rely on 5KPlayer as an AirPlay server and an online resource tracker. After you use AirPlay to stream movies and music on iPhone, you can rely on 5KPlayer to download music video for free from Instagram, Dailymotion, etc. In the process of image magnifying and music amplifying, 5KPlayer paves exciting ways of AirPlay for you after enabling it on iPhone.
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,21 +109,20 @@ Notice: 5KPlayer AirPlay function now can't stream video music, but it will come
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-unlocking-speed-edit-photos-in-windows-11/"><u>[New] Unlocking Speed Edit Photos in Windows 11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimal-pc-mac-screen-recording-software-for-2024/"><u>[Updated] Optimal PC-Mac Screen Recording Software for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-phones-as-webcams-tips-and-tricks-for-quality-videos-for-2024/"><u>[Updated] Phones as Webcams Tips and Tricks for Quality Videos for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-2023s-premier-ios-emulators-excellent-psp-gaming-choices/"><u>2024 Approved 2023'S Premier iOS Emulators Excellent PSP Gaming Choices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-guide-to-twistedwave-exploring-its-advantages-disadvantages-unique-traits-and-applications/"><u>Comprehensive Guide to TwistedWave: Exploring Its Advantages, Disadvantages, Unique Traits & Applications</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/deciding-the-right-direction-fb-video-posts/"><u>Deciding the Right Direction FB Video Posts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-non-ecobee-non-amazon-smart-thermostat-in-our-latest-zdnet-review/"><u>Discover the Leading Non-Ecobee, Non-Amazon Smart Thermostat in Our Latest ZDNet Review!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-download-top-3-optimal-film-viewer-apps-for-macos-users/"><u>Free Download: Top 3 Optimal Film Viewer Apps for macOS Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-tools-and-methods-capturing-your-iphones-display-without-a-cost/"><u>Free Tools and Methods: Capturing Your iPhone's Display Without a Cost</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oneplus-11r-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from OnePlus 11R Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-resolve-critical-process-died-snipped-0x0000007e-blue-screen-issue-on-windows-vista-and-7/"><u>How to Resolve Critical Process Died, Snipped 0X0000007E Blue Screen Issue on Windows Vista and 7</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-numbers-essential-online-stock-market-guides/"><u>In 2024, Navigating Numbers Essential Online Stock Market Guides</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-guide-streamline-your-messages-with-top-3-whatsapp-audio-compression-tips/"><u>Quick Guide: Streamline Your Messages with Top 3 WhatsApp Audio Compression Tips</u></a></li>
-<li><a href="https://media-tips.techidaily.com/revolutionize-your-videography-a-7-step-tutorial-on-enhancing-videos-with-engaging-sounds-and-music/"><u>Revolutionize Your Videography: A 7-Step Tutorial on Enhancing Videos With Engaging Sounds and Music</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-vocal-comping-tools-for-pc-and-mac-users/"><u>Top Rated Vocal Comping Tools for PC and Mac Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-selection-of-free-upnp-transmitter-tools-for-windows-10-and-macos-mojave-users/"><u>Ultimate Selection of Free UPnP Transmitter Tools for Windows 10 and macOS Mojave Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mycam-vs-others-a-comparative-camera-performance-study/"><u>[New] In 2024, MyCam Vs. Others A Comparative Camera Performance Study</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-leading-editing-pros-in-dev-device-content-for-2024/"><u>[Updated] Leading Editing Pros in Dev Device Content for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/7-must-use-audio-selections-to-elevate-your-video-advertisements-at-no-cost/"><u>7 Must-Use Audio Selections to Elevate Your Video Advertisements at No Cost</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-techniques-for-eliminating-ambient-sounds-from-your-audio-recordings/"><u>Best Techniques for Eliminating Ambient Sounds From Your Audio Recordings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-instructions-to-downloading-and-setting-up-epson-wf-3540-drivers-on-windows-computers/"><u>Complete Instructions to Downloading and Setting Up Epson WF-3540 Drivers on Windows Computers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-guide-choosing-durable-kitchen-utensils-with-extended-warranties-features-and-tips-inside/"><u>Comprehensive Guide: Choosing Durable Kitchen Utensils with Extended Warranties - Features and Tips Inside!</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/discover-essential-utilities-for-efficient-windows-registry-problem-solving-with-yl-software-expertise/"><u>Discover Essential Utilities for Efficient Windows Registry Problem-Solving with YL Software Expertise</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-leading-5-id3-metadata-editors-for-windows-and-macos-a-comprehensive-review/"><u>Discover the Leading 5 ID3 Metadata Editors for Windows and macOS: A Comprehensive Review</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/to-use-free-youtube-downloader-with-mp3-support/"><u>Easy-to-Use Free YouTube Downloader with MP3 Support</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-mp3-tempo-tuning-a-complete-instructional-tutorial-for-perfect-audio-controls/"><u>Effortless MP3 Tempo Tuning - A Complete Instructional Tutorial for Perfect Audio Controls</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-techniques-for-reducing-the-size-of-your-m4a-audio-tracks/"><u>Effortless Techniques for Reducing the Size of Your M4A Audio Tracks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-razr-40-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Razr 40 Ultra by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/instant-recording-audio-enriched-screens-for-2024/"><u>Instant Recording Audio-Enriched Screens for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-picture-guide-mastering-the-art-of-song-layering-in-just-3-moves/"><u>Step-by-Step Picture Guide: Mastering the Art of Song Layering in Just 3 Moves</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-most-exciting-enhancements-of-the-iphone-pro-the-ultimate-features-list-for-gadget-lovers-zdnet/"><u>Unveiling the Most Exciting Enhancements of the iPhone Pro: The Ultimate Features List for Gadget Lovers | ZDNET</u></a></li>
 </ul></div>
 
