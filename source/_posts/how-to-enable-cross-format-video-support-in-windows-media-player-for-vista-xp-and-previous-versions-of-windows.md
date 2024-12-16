@@ -1,7 +1,7 @@
 ---
 title: How to Enable Cross-Format Video Support in Windows Media Player for Vista, XP and Previous Versions of Windows
-date: 2024-12-05T20:14:08.593Z
-updated: 2024-12-09T18:54:02.061Z
+date: 2024-12-12T16:05:56.793Z
+updated: 2024-12-15T20:31:02.598Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free Download Windows Media Player Codec to Play All Videos on Your PC
@@ -36,7 +36,7 @@ Take care when you're about to download and install a Windows Media Player Codec
 ![MKV codec for Windows Media Player](https://www.5kplayer.com/video-music-player/img/h.265player.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Rather than repeating the WMP codecs again, this guide introduces an universal media player which that initiates all Codecs for Windows Media Player: 5KPlayer entails video codec demands all from the beginning, including the controversial MKV codec for WMP. It doesn't welcome the way Windows Media Player Codec installing patches after patches. Why not give wmp codec pack at one time because finally you will give them out?
@@ -45,7 +45,7 @@ To make it clear, 5KPlayer is nifty with [all mainstream video formats](https://
 aa3, aac, aif, aiff, caf, m4a, mid, midi, mka, mp3, mpa,ogg, pcm, ra, ram, wma, flac, wav, alac, 3g2, h264, h265, 3gp, avi, divx,div, flv, m4v, mov, mp4, mkv, mtv, mpeg, mpg, mpg2, mpg4, ogm, rmvb, swf, ts,vcd,vob, webm, wmv, xvid, yuv, tivo,ts, m2ts, mts, iso, dvd media, and almost all video format in use. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play H.265 Videos Without Installing WMP Codec Pack
@@ -63,7 +63,7 @@ aa3, aac, aif, aiff, caf, m4a, mid, midi, mka, mp3, mpa,ogg, pcm, ra, ram, wma, 
 ![play h.265 without windows media player codec](https://www.5kplayer.com/video-music-player/img/5kplayer-freeaacplayer-yxt-030601.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Windows Media Player Codec can work, but it takes frequent add-on patches to suffice, that's why the convenience of this [universal video player](https://tools.techidaily.com/5kplayer/video-music-player/) matters: with regular upgrade notes you can choose either to access the up-to-date video codecs or not; what about the most annoying DVD support absent from Windows Media Player? Well, take it easy because it can [play DVD](https://tools.techidaily.com/5kplayer/video-music-player/) on Windows 10/8/7.
@@ -71,7 +71,7 @@ Windows Media Player Codec can work, but it takes frequent add-on patches to suf
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitemac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -89,22 +89,20 @@ Windows Media Player Codec can work, but it takes frequent add-on patches to suf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-examining-wirecasts-features-against-competitors/"><u>[New] 2024 Approved Examining WireCast's Features Against Competitors</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-peervid-grabber-fb-live/"><u>[New] 2024 Approved PeerVid Grabber FB Live</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-ideal-images-finding-the-perfect-screen-moments-for-2024/"><u>[New] Ideal Images Finding the Perfect Screen Moments for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-find-x7-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ace-your-media-playback-with-superior-mkv-converters-compatible-with-mac-high-sierra-systems/"><u>Ace Your Media Playback with Superior MKV Converters Compatible with Mac High Sierra Systems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-free-subtitles-players-top-6-picks-for-effortless-viewing-experience/"><u>Best Free Subtitles Players: Top 6 Picks for Effortless Viewing Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-your-flv-videos-to-mov-format-top-5-free-methods-for-windows-and-mac-users/"><u>Convert Your FLV Videos to MOV Format: Top 5 Free Methods for Windows and Mac Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/decoding-the-windows-registry-strategies-and-tools-including-revo-uninstaller/"><u>Decoding the Windows Registry: Strategies and Tools, Including Revo Uninstaller</u></a></li>
-<li><a href="https://win-web3.techidaily.com/elevate-your-tech-space-with-air-jordans-exclusive-chromebook-themes-by-yl-software/"><u>Elevate Your Tech Space with Air Jordans: Exclusive Chromebook Themes by YL Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-analysis-complete-look-at-xvideo-studio-essentials/"><u>Expert Analysis Complete Look at XVideo Studio Essentials</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-convert-and-enjoy-videos-on-your-kindle-fire-a-user-friendly-guide/"><u>How to Convert and Enjoy Videos on Your Kindle Fire: A User-Friendly Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oneplus-nord-ce-3-lite-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On OnePlus Nord CE 3 Lite 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-easy-free-methods-to-transform-3gp-video-files-into-avi-format-at-lightning-speeds/"><u>Quick & Easy: Free Methods to Transform 3GP Video Files Into AVI Format at Lightning Speeds</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/quickcapture-chromes-screen-recording-feature-for-2024/"><u>QuickCapture Chrome's Screen Recording Feature for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-methods-to-transform-flv-files-into-3gp-format-with-free-editing-tools/"><u>Simple Methods to Transform Flv Files Into 3Gp Format with Free Editing Tools</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-7-methods-to-transform-your-m4v-files-into-lfv-format-discover-the-best-online-and-offline-converters/"><u>Top 7 Methods to Transform Your M4V Files Into LFV Format: Discover the Best Online and Offline Converters</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-comparing-the-most-effective-online-and-offline-flv-to-dat-conversion-tools/"><u>Ultimate Guide: Comparing the Most Effective Online & Offline FLV to DAT Conversion Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-acceleratedecelerate-your-youtube-videos-a-step-by-step-guide-for-2024/"><u>[New] Accelerate/Decelerate Your YouTube Videos A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-boost-your-tiktok-presence-zoom-integration-guide/"><u>[New] Boost Your TikTok Presence Zoom Integration Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-from-live-to-recorded-simplifying-facebook-broadcasting-for-2024/"><u>[New] From Live to Recorded Simplifying Facebook Broadcasting for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-reactivating-windows-photo-viewer-in-windows-10-methods-unveiled/"><u>[Updated] Reactivating Windows Photo Viewer in Windows 10 - Methods Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-orbi-wi-fi-6-axe4-router-series-evaluation-seamless-high-speed-connectivity-across-homes/"><u>Comprehensive Orbi Wi-Fi 6 (AXE4) Router Series Evaluation: Seamless High-Speed Connectivity Across Homes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-the-best-no-cost-tools-top-4-pc-compatible-with-airplay-technology/"><u>Download the Best No-Cost Tools: Top 4 PC Compatible with AirPlay Technology</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-solution-for-netflix-glitches-utilize-watchmaster-freeware-to-resume-viewing/"><u>Easy Solution for Netflix Glitches – Utilize WatchMaster Freeware to Resume Viewing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-androids-best-collage-creators-our-choices-for-2024/"><u>Explore Android's Best Collage Creators – Our Choices for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-lenovo-thinkphone-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Lenovo ThinkPhone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-oppo-a2-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo A2 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-screen-reflection-syncing-your-computer-with-apple-tv-effortlessly/"><u>Seamless Screen Reflection: Syncing Your Computer with Apple TV Effortlessly</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-to-overcome-screen-recording-issues-in-ios-15-14-and-13/"><u>Step-by-Step Guide to Overcome Screen Recording Issues in iOS 15, 14 & 13</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-access-periscope-on-desktop-for-real-time-broadcasts/"><u>Step-by-Step Guide: Access Periscope on Desktop for Real-Time Broadcasts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streamline-your-media-easy-guide-for-iphone-to-mac-playback-with-airplay/"><u>Streamline Your Media: Easy Guide for iPhone-to-Mac Playback with AirPlay</u></a></li>
+<li><a href="https://solve-news.techidaily.com/transform-online-presence-with-manycam-top-notch-video-editing-and-virtual-webcam-solutions-for-streamers/"><u>Transform Online Presence with ManyCam: Top-Notch Video Editing and Virtual Webcam Solutions for Streamers</u></a></li>
 </ul></div>
 

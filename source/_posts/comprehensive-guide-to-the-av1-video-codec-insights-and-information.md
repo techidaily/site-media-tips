@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to the AV1 Video Codec: Insights and Information"
-date: 2024-12-05T16:26:53.287Z
-updated: 2024-12-09T17:21:42.126Z
+date: 2024-12-12T21:10:21.881Z
+updated: 2024-12-15T18:48:05.659Z
 tags:
   - video-music-player
 categories:
@@ -33,6 +33,10 @@ Con las noticias sobre el **códec AV1** aparecidas a principios de 2023, puede 
 [4\. ¿Qué soporta el códec de video AV1?](https://tools.techidaily.com/5kplayer/video-music-player/)   
 [5\. ¿Cómo descargar el códec de vídeo AV1?](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ¿Qué es el códec AV1?
 
 **AV1 - La tecnología de compresión de vídeo de nueva generación**
@@ -42,10 +46,6 @@ El códec de vídeo AV1, basado en el códec VP9 y VP10 de Google, es un formato
 **AOMedia - El padre del códec de vídeo AV1**
 
 AV1 es el producto de AOMedia (Alliance for Open Media) que está formada por empresas de semiconductores, proveedores de vídeo a la carta, productores de contenidos de vídeo, empresas de desarrollo de software y proveedores de navegadores web, con Google, Mozilla, Cisco, Microsoft, Netflix, Amazon e Intel como los siete miembros fundadores. Para diseñar un formato de vídeo que pueda ayudar a producir con rapidez vídeos web de alta definición de forma gratuita, se propuso el concepto de códec AV1 por primera vez en 2015 por estos siete gigantes de la tecnología y, finalmente, la especificación 1.0 para AV1 salió en 2018\. Viendo el gran beneficio del AV1, hoy en día más y más compañías de renombre, incluidas Apple, YouTube y Facebook, se han unido a AOM para ayudar a acelerar la propagación del AV1 y el reemplazo final de la HEVC de alto costo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ¿Por qué se necesita urgentemente el AV1? \[Explicaciones detalladas\]
 
@@ -61,6 +61,10 @@ En general, el códec AV1 está creado para una transmisión fluida de vídeo de
 
 **Universalidad:** De hecho, no hay ningún códec de archivos multimedia con el que ni siquiera los gigantes de la tecnología puedan conformarse y apoyarlo universalmente. El mejor ejemplo es: Los vídeos de YouTube conn resolución 4K no se pueden transmitir en Safari porque el navegador de Apple no es compatible con el VP9 de Google. Por lo tanto, la aparición del AV1 elimina la brecha y hace la comunicación mucho más fácil.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### AV1 vs. VP9 vs. HEVC
 
 Comparado con el códec HEVC, el códec AV1 no necesita patentes. Mientras que comparado con el VP9 y el H.264, la eficiencia de la codificación ha mejorado en gran medida. Esos son beneficios obvios. Para ser más detallados, basado en la prueba de Bitmovin, el códec AV1 actual ofrece una tasa de compresión un 20% y 30% mejor en comparación con VP9 y HEVC respectivamente, y se predice que la tasa de compresión debería ser un 50% mejor. En la prueba de Facebook de 2018, AV1 logró una compresión de datos 34%, 46,2% y 50,3% más alta que la de libvpx-vp9, x264 de perfil alto y x264 de perfil principal, respectivamente. Además, el fuerte apoyo de AOM le da a AV1 una enorme ventaja competitiva cuando se implementa en navegadores, dispositivos móviles, OTT, televisores inteligentes, etc., y ayuda a YouTube, Netflix, Amazon a distribuir contenidos más rápidamente. Eso es lo que otros códecs no pueden hacer para siempre.
@@ -72,7 +76,7 @@ En 2013, VP9 fue sacado por Google para tener la misma tasa de compresión con H
 ![AV1 VS VP9](https://www.5kplayer.com/video-music-player-es/../video-music-player/img/av1-vs-vp9.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _(Prueba de AV1 vs. VP9 de Bitmovin)_
@@ -86,7 +90,7 @@ El AV1 puede ahorrar hasta un 30%\~50% de ancho de banda para la misma calidad d
 ![AV1 VS HEVC](https://www.5kplayer.com/video-music-player-es/../video-music-player/img/av1-vs-hevc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _(Prueba de AV1 vs. HEVC de Bitmovin)_
@@ -107,13 +111,13 @@ La adopción del códec AV1 es diversa, lo que incluye servicios de streaming on
 
 **Reproductores multimedia:** El reproductor multimedia de código abierto VLC Media Player y [5KPlayer](https://tools.techidaily.com/5kplayer/products/) son los únicos dos programas de reproducción que soportan AV1 en la actualidad.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Las desventajas del códec AV1
 
 La obvia deficiencia del códec de vídeo AV1 que encontramos a partir de ahora es que los algoritmos utilizados en AV1 son un poco más avanzados que los del HEVC, por lo que requiere un hardware y un software más potente para codificar o decodificar. Es por eso que ocurre el problema de que el AV1 no se reproduce, por eso YouTube advierte a sus usuarios con un mensaje de error como "todo los que supere los 480p requerirá un ordenador potente", y por eso el formato de vídeo AV1 no es popular entre el público en la actualidad. No importa, el AV1 será una superestrella al final con un futuro brillante.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### El futuro del códec de vídeo AV1
 
@@ -126,10 +130,6 @@ De hecho, la descarga del códec de vídeo AV1 es realmente necesaria para algui
 En la última versión, 5KPlayer añade soporte para la decodificación de vídeo AV1 para convertirse en un reproductor AV1 cualificado. Después de las pruebas, reproduce vídeos AV1 en 720/1080p HD y 4K hasta 30 fps/60 fps sin problemas. Aunque hay muchos sitios que ofrecen enlaces de descarga de códecs de vídeo AV1, no se garantiza que la fuente sea 100% segura. Como sabes, los códecs descargados de sitios inciertos pueden entrar en conflicto con tu programa e incluso dañar tu sistema informático. Es por eso que se recomienda 5KPlayer como tu reproductor AV1 para reproducir vídeos AV1 en Mac y Windows 10.
 
 ![5KPlayer Plays AV1](https://www.5kplayer.com/video-music-player-es/../video-music-player/img/play-av1-video.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _(5KPlayer reproduce video AV1 en 4K)_
 
@@ -159,15 +159,20 @@ _**Fuente:**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-the-easy-path-to-cleaning-up-conversations-bulk-deletion-on-discord/"><u>[New] The Easy Path to Cleaning Up Conversations Bulk Deletion on Discord</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-seconds-spent-watching-a-20mb-video/"><u>[Updated] 2024 Approved Seconds Spent Watching a 20MB Video</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-free-editing-powerhouses-top-9-simplified-video-tools/"><u>[Updated] Free Editing Powerhouses Top 9 Simplified Video Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-freewayframe-the-road-to-effortless-game-snapshots-in-24-for-2024/"><u>[Updated] FreewayFrame The Road to Effortless Game Snapshots in '24 for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-5-free-swf-player-apps-compatible-with-mac-and-windows-10-your-ultimate-guide-for-animation-and-game-enthusiasts/"><u>Best 5 Free SWF Player Apps Compatible with Mac and Windows 10: Your Ultimate Guide for Animation & Game Enthusiasts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/explore-top-ringtones-for-pixel-devices/"><u>Explore Top Ringtones for Pixel Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-high-definition-video-playback-on-windows-n-top-plays-for-hd-uhd-and-standard-definition-movies/"><u>Free High-Definition Video Playback on Windows N: Top Plays for HD, UHD and Standard Definition Movies</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-motorola-moto-g23-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Motorola Moto G23 Without PUK Codes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-enabling-vlc-airplay-through-effective-alternatives/"><u>Step-by-Step Tutorial on Enabling VLC AirPlay Through Effective Alternatives</u></a></li>
-<li><a href="https://media-tips.techidaily.com/stream-seamlessly-with-airplay-a-guide-to-sharing-videos-between-mac-and-apple-tv-using-beamer/"><u>Stream Seamlessly with AirPlay: A Guide to Sharing Videos Between Mac and Apple TV Using Beamer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-spectacularly-in-3d-apt-selection-of-top-decks/"><u>[New] Spectacularly in 3D Apt Selection of Top Decks</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-strategies-for-enhancing-windows-11-wi-fi-connectivity/"><u>8 Strategies for Enhancing Windows 11 Wi-Fi Connectivity</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-your-media-with-ease-the-ultimate-guide-to-changing-flv-videos-for-iphone/"><u>Convert Your Media with Ease: The Ultimate Guide to Changing FLV Videos for iPhone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/converting-amr-recordings-to-universal-mp3-format-in-just-three-easy-steps/"><u>Converting AMR Recordings to Universal MP3 Format in Just Three Easy Steps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-p2-format-transformation-your-ultimate-guide-to-turning-p2-files-into-mov/"><u>Effortless P2 Format Transformation: Your Ultimate Guide to Turning P2 Files Into MOV</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-it-faster-quick-solutions-for-winning-at-powerpoint-prints-in-windows/"><u>Fix It Faster: Quick Solutions for Winning at PowerPoint Prints in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-11-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 11 Pro 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-twisting-typography-in-visual-screens/"><u>In 2024, Twisting Typography in Visual Screens</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/obs-versus-streamlabs-the-live-stream-software-duel/"><u>OBS Versus Streamlabs – The Live Stream Software Duel</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-quickly-exporting-content-in-final-cut-pro/"><u>Step-by-Step Guide: Quickly Exporting Content in Final Cut Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-odd-angle-intrigue-of-instagram-video-postings-for-2024/"><u>The Odd-Angle Intrigue of Instagram Video Postings for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-seamless-techniques-for-converting-mpeg-videos-to-mp4-format/"><u>Top 5 Seamless Techniques for Converting MPEG Videos to MP4 Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-flipbook-creation-tools-the-ultimate-guide-to-making-engaging-interactive-ebooks/"><u>Top Flipbook Creation Tools: The Ultimate Guide to Making Engaging Interactive Ebooks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-flawless-media-playback-with-these-5-exceptional-avi-to-mpeg-converter-applications/"><u>Unlock Flawless Media Playback with These 5 Exceptional AVI to MPEG Converter Applications!</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-approach-to-turn-off-gpgpu-prioritization-on-winos/"><u>Unveiling the Approach to Turn Off GPGPU Prioritization on WINOS</u></a></li>
 </ul></div>
 

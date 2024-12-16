@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide on Setting Up Personalized Video Timestamps in VLC Media Player
-date: 2024-11-27T00:53:13.958Z
-updated: 2024-12-02T00:35:33.286Z
+date: 2024-12-11T22:21:20.803Z
+updated: 2024-12-15T17:14:46.432Z
 tags:
   - vlc
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6195218912eaa800d5cbedefde726b6171a7555ef
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use VLC Custom Bookmarks to Mark Video Positions?
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/6195218912eaa800d5cbedefde726b6171a7555ef
 How to continue your playback from where you left last time? How to easily access the specific parts in a very long video with a few clicks? **VLC Custom Bookmarks** feature will help remember the video playback position you just want to save. No need to spend much time to step forward your video, you can easily get to the right position without missing a frame.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create Bookmarks in VLC Media Player?
@@ -41,7 +41,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Custom Bookmarks](https://www.5kplayer.com/vlc/img/vlc-custom-bookmark.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** When the **Edit Bookmarks** window pops up, just click on the **Create** button to add bookmarks to your video. 
@@ -49,7 +49,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Create Bookmarks](https://www.5kplayer.com/vlc/img/vlc-create-bookmarks.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4.** To find the specific bookmarked video to play, just click on **Playback** \> **Custom Bookmarks** and choose the one to start playing.
@@ -83,7 +83,7 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -101,18 +101,15 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/astering-youtube-pace-control-top-tips-for-slower-views-48-chars-for-2024/"><u>[New] Mastering YouTube Pace Control Top Tips for Slower Views (48 Chars) for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620222644-access-unlimited-streams-daily-free-updates-of-new-iptv-m3u8-content-available-now/"><u>Access Unlimited Streams – Daily Free Updates of New IPTV M3U8 Content Available Now!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-review-of-mac-compatible-media-editors-for-seamless-video-and-sound-format-changes/"><u>Comprehensive Review of Mac Compatible Media Editors for Seamless Video and Sound Format Changes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fast-and-simple-steps-transforming-your-avi-videos-into-mp4-for-better-quality-streaming/"><u>Fast and Simple Steps: Transforming Your AVI Videos Into MP4 for Better Quality Streaming</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fix-movavi-video-converter-troubleshooting-guide-for-export-issues-and-missing-videos/"><u>Fix Movavi Video Converter: Troubleshooting Guide for Export Issues & Missing Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-gigabit-ethernet-driver-for-your-usb-30-on-windows-os/"><u>Get the Most Recent Gigabit Ethernet Driver for Your USB 3.0 on Windows OS</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-15-pro-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone 15 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mpeg-to-mp4-mov-and-mp3-transcoding-made-easy-with-top-mac-mpeg-converter/"><u>MPEG to MP4, MOV & MP3 Transcoding Made Easy with Top Mac MPEG Converter</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-access-downloading-latest-dell-printer-driver-updates/"><u>Quick Access: Downloading Latest Dell Printer Driver Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-cure-for-windows-11s-slow-poke-problem/"><u>Quick Cure for Windows 11'S Slow Poke Problem</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-methods-successfully-transforming-vob-files-into-mov-format-both-on-and-off-the-internet/"><u>Simple Methods: Successfully Transforming VOB Files Into MOV Format Both On and Off the Internet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-expertise-on-innovative-tech-and-pc-components/"><u>Tom's Expertise on Innovative Tech and PC Components</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-business-potential-top-10-streamlined-channel-setup-ideas-on-youtube-for-2024/"><u>Unlock Business Potential Top 10 Streamlined Channel Setup Ideas on YouTube for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-art-of-capturing-imagination-best-shot-tips/"><u>[New] 2024 Approved The Art of Capturing Imagination Best Shot Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-deciphering-cosmic-constructs-metaverse-vs-multiverse/"><u>[Updated] Deciphering Cosmic Constructs Metaverse vs Multiverse</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-steps-to-acquire-free-picture-frame-videos-for-2024/"><u>[Updated] Steps to Acquire Free Picture Frame Videos for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/before-you-decide-the-5-most-important-considerations-when-selecting-a-wearable-fitness-device/"><u>Before You Decide: The 5 Most Important Considerations When Selecting a Wearable Fitness Device</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-step-by-step-airplay-setup-with-ipad-pro-and-windows/"><u>Comprehensive Step-by-Step AirPlay Setup with iPad Pro & Windows</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-airplay-features-step-by-step-instructions-for-seamless-streaming/"><u>Mastering AirPlay Features: Step-by-Step Instructions for Seamless Streaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/surviving-a-power-cut-with-modern-innovation-the-portable-battery-that-kept-us-lit-and-connected-zdnet/"><u>Surviving a Power Cut with Modern Innovation: The Portable Battery That Kept Us Lit and Connected | ZDNET</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-free-av1-video-players-compatible-with-windows-and-macos-get-yours-now/"><u>Top Free AV1 Video Players: Compatible with Windows & macOS - Get Yours Now!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-free-media-players-compatible-with-windows-10-find-and-install/"><u>Top Free Media Players Compatible with Windows 10: Find & Install</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722985948534-troubleshooting-tips-for-when-ie-wont-open-get-your-browser-running-again/"><u>Troubleshooting Tips for When IE Won’t Open: Get Your Browser Running Again</u></a></li>
 </ul></div>
 

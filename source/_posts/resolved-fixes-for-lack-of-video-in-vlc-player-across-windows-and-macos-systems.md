@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for Lack of Video in VLC Player Across Windows & macOS Systems"
-date: 2024-11-26T04:32:01.016Z
-updated: 2024-12-02T04:36:20.474Z
+date: 2024-12-09T22:48:55.451Z
+updated: 2024-12-15T17:26:40.050Z
 tags:
   - vlc
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/461111458e3b4ce139d48fb2aa4a766468aa7e6bd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix VLC No Video on Mac/Windows 10 When Playing MP4 MKV AVI etc Files
@@ -61,7 +61,7 @@ Someone had solved the VLC no video only audio issue by resetting the Preference
 ![VLC No Video](https://www.5kplayer.com/vlc/img/vlc-output-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Mac:** Click on VLC on the top left corner of Mac > Preferences > Show All > Click on Video on the left bar > Output modules > choose the output mode from the drop down menu.
@@ -69,7 +69,7 @@ Someone had solved the VLC no video only audio issue by resetting the Preference
 ![VLC No Video Only Audio](https://www.5kplayer.com/vlc/img/vlc-ouput-mac.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6\. The particular video has a video format that VLC doesn't support**
@@ -79,7 +79,7 @@ Usually, when there is unsupported video codec contained in the video file, VLC 
 Hope these solutions offer helps. If you have tried the above methods but find VLC no video problem still exists, maybe you should try a [VLC alternative](https://tools.techidaily.com/5kplayer/video-music-player/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best VLC Media Player Alternative Free Download
@@ -89,7 +89,7 @@ Hope these solutions offer helps. If you have tried the above methods but find V
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -107,17 +107,18 @@ Hope these solutions offer helps. If you have tried the above methods but find V
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-foundations-of-motion-design-fundamentals/"><u>[New] Foundations of Motion Design Fundamentals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-enjoy-massive-savings-of-up-to-25-on-the-incredible-85-inch-tcl-tv-this-labor-day-limited-time-offer-at-zdnet/"><u>Don't Miss Out! Enjoy Massive Savings of Up to 25% on the Incredible 85-Inch TCL TV This Labor Day – Limited Time Offer at ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-0x80d03801-glitches-on-microsoft-store/"><u>Eliminating 0X80D03801 Glitches on Microsoft Store</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-elevating-your-instagram-presence-with-optimized-video-sizes/"><u>In 2024, Elevating Your Instagram Presence with Optimized Video Sizes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/new-hulu-subscriber-policy-prohibits-account-passwords-from-spreading/"><u>New Hulu Subscriber Policy Prohibits Account Passwords From Spreading</u></a></li>
-<li><a href="https://media-tips.techidaily.com/optimizing-spotify-streaming-tips-to-save-space-and-bandwidth/"><u>Optimizing Spotify Streaming: Tips to Save Space and Bandwidth</u></a></li>
-<li><a href="https://media-tips.techidaily.com/reclaim-your-smart-tv-display-settings-prevent-youtube-control-on-apple-and-android-tv-screensavers/"><u>Reclaim Your Smart TV Display Settings: Prevent YouTube Control on Apple and Android TV Screensavers</u></a></li>
-<li><a href="https://media-tips.techidaily.com/revolutionize-your-home-screen-with-this-simple-google-tv-upgrade/"><u>Revolutionize Your Home Screen with This Simple Google TV Upgrade</u></a></li>
-<li><a href="https://media-tips.techidaily.com/rising-costs-how-netflix-subscription-fees-are-increasing/"><u>Rising Costs: How Netflix Subscription Fees Are Increasing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-aeiusny-portable-sun-powered-generator-ideal-pure-sine-wave-technology-for-fragile-medical-gadgets/"><u>Unveiling the Aeiusny Portable Sun-Powered Generator: Ideal Pure Sine Wave Technology for Fragile Medical Gadgets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-revolutionary-strategies-for-youtube-and-facebook-integration/"><u>[New] Revolutionary Strategies for YouTube & Facebook Integration</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-boost-communication-merging-skype-and-zoom-functionality/"><u>[Updated] 2024 Approved Boost Communication Merging Skype and Zoom Functionality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-views-to-valuables-the-ultimate-video-income-play/"><u>[Updated] In 2024, From Views to Valuables The Ultimate Video Income Play</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716069308273-updated-in-2024-tiny-titans-top-games-anthology/"><u>[Updated] In 2024, Tiny Titans' Top Games Anthology!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-success-starts-here-best-tutorials-for-starters/"><u>[Updated] YouTube Success Starts Here Best Tutorials for Starters</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-efficiently-compress-your-mp3s-using-audacity-expert-tips-and-techniques/"><u>How to Efficiently Compress Your MP3s Using Audacity - Expert Tips & Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-15-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 15 Properly | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone X</u></a></li>
+<li><a href="https://media-tips.techidaily.com/proven-strategies-to-cut-out-distracting-ambient-noise-from-audio-files/"><u>Proven Strategies to Cut Out Distracting Ambient Noise From Audio Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/smart-aiff-file-compression-strategies-for-efficient-storage-and-management/"><u>Smart AIFF File Compression Strategies for Efficient Storage and Management</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-top-5-best-id3-music-tag-editors-for-windows-and-macos/"><u>The Ultimate Guide: Top 5 Best ID3 Music Tag Editors for Windows & macOS</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-professional-apps-for-eliminating-audio-background-noise-efficiently/"><u>Top 5 Professional Apps for Eliminating Audio Background Noise Efficiently</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ranking-wav-compression-tools-find-your-perfect-choice/"><u>Top-Ranking WAV Compression Tools: Find Your Perfect Choice</u></a></li>
 </ul></div>
 

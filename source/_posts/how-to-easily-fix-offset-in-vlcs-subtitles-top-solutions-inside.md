@@ -1,7 +1,7 @@
 ---
 title: How To Easily Fix Offset in VLC's Subtitles – Top Solutions Inside
-date: 2024-11-30T05:49:32.286Z
-updated: 2024-12-01T20:40:10.068Z
+date: 2024-12-08T20:51:14.352Z
+updated: 2024-12-15T22:30:53.819Z
 tags:
   - vlc
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/3bd086f6ddbea0000b61dea6630a396d485fdb4d6
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VLC Subtitle Delay? How to Adjust Subtitle Timing in VLC?
 
@@ -52,6 +48,10 @@ However, this way is suitable only when the dialogue and subtitles come with sam
 
 ![VLC Subtitle Hotkeys](https://www.5kplayer.com/vlc/img/vlc-subtitle-hotkey.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **BTW, if VLC subtitles out of sync with audio only, you can use the advance synchronization**
 
 Step 1\. Hear and see that subtitles are out of sync.  
@@ -71,11 +71,11 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 ![VLC Subtitle Synchronization](https://www.5kplayer.com/vlc/img/vlc-subtitle-synchronization.jpg) 
 
-#### ![](https://www.5kplayer.com/vlc/../seoimg/2.png) **How to Adjust Subtitle Timing in VLC on Mac?**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+#### ![](https://www.5kplayer.com/vlc/../seoimg/2.png) **How to Adjust Subtitle Timing in VLC on Mac?**
 
 **Method 1.** During playback, you can press hotkey **H** (decrease delay, subtitles show after sound) or **J** (increase delay, subtitles display before sound) to sync subtitles in VLC. Same with that on Windows PC, every key press will adjust 50 milliseconds.
 
@@ -97,11 +97,11 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 ![VLC Subtitle Synchronization Android](https://www.5kplayer.com/vlc/img/vlc-subtitle-android.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### ![](https://www.5kplayer.com/vlc/../seoimg/4.png) **How to Sync Subtitles in VLC on iOS iPhone/iPad?**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1\. Open a video with VLC media player for iOS.  
  2\. Tap on the **speech balloon** icon in the right-hand bottom corner to check if subtitles have been turned on.  
@@ -110,10 +110,14 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 ![VLC Subtitle Synchronization iOS](https://www.5kplayer.com/vlc/img/vlc-subtitle-ios.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### ![](https://www.5kplayer.com/vlc/../seoimg/5.png) **How to Adjust Subtitles in VLC on Apple TV?**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1\. When watching a video on Apple TV, swipe down on your remote’s Touch surface.  
@@ -134,10 +138,6 @@ It is the truth that sometimes subtitles are appeared before the dialogues and s
  Just play a movie or TV show with Soft subtitles, right click on the playing window and select Synchronization. In the new popup window, just drag the **Subtitle track synchronization(ms)** bar from -1s to 1s seconds for a perfect match.
 
 ![5KPlayer Subtitle Synchronization](https://www.5kplayer.com/vlc/img/5kp-subtitle-sync.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Also, it is often the case that many online movies and TV shows have no subtitles or wrong subtitles. Therefore, you can also use 5KPlayer to [add subtitles](https://tools.techidaily.com/5kplayer/video-music-player/) to your movies or TV shows. BTW, you can customize your subtitles by choosing from 40+ default encoding methods, 170+ fonts, font size, text colors, background colors and corresponding color opacity.
 
@@ -160,24 +160,24 @@ Actually VLC not working problems vary, and 5KPlayer is also the best alternativ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://media-tips.techidaily.com/current-year-sneak-peek-plexs-upcoming-rollout-of-on-demand-movie-and-show-rentals/"><u>[Current Year] Sneak Peek: Plex's Upcoming Rollout of On-Demand Movie and Show Rentals</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-capturing-and-saving-your-favorite-facebook-stories-pcmobile/"><u>[New] 2024 Approved Capturing & Saving Your Favorite Facebook Stories (PC/Mobile)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-capturing-dynamic-action-sequences-on-iphone/"><u>[Updated] In 2024, Capturing Dynamic Action Sequences on iPhone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-away-from-igs-suggestion-engine/"><u>[Updated] In 2024, Navigating Away From IG's Suggestion Engine</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-iphone-photo-illumination-tricks/"><u>[Updated] Pro Iphone Photo Illumination Tricks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/apple-music-subscription-is-the-5-price-offer-no-longer-available/"><u>Apple Music Subscription: Is the $5 Price Offer No Longer Available?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/apples-billing-cut-off-netflix-ends-legacy-support-on-the-ios-platform/"><u>Apple's Billing Cut-Off: Netflix Ends Legacy Support on the iOS Platform</u></a></li>
-<li><a href="https://media-tips.techidaily.com/back-on-track-access-your-favorite-shows-as-hulu-returns-through-disneyplus/"><u>Back on Track: Access Your Favorite Shows as Hulu Returns Through Disney+</u></a></li>
-<li><a href="https://media-tips.techidaily.com/boosting-enjoyment-and-savings-top-7-tips-for-getting-more-from-sling-tv-subscription/"><u>Boosting Enjoyment and Savings: Top 7 Tips for Getting More From Sling TV Subscription</u></a></li>
-<li><a href="https://media-tips.techidaily.com/cant-find-song-lyrics-on-spotify-check-out-these-reliable-alternatives/"><u>Can't Find Song Lyrics on Spotify? Check Out These Reliable Alternatives!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/complete-guide-to-viewing-gymnastic-competitions-in-the-2e24-summer-games/"><u>Complete Guide to Viewing Gymnastic Competitions in the 2E24 Summer Games</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/complete-troubleshooting-steps-for-resolving-iphones-bluetooth-connectivity-problems/"><u>Complete Troubleshooting Steps for Resolving iPhone's Bluetooth Connectivity Problems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/critical-alert-more-than-15000-roku-logins-compromised-through-weak-password-habits/"><u>Critical Alert: More Than 15,000 Roku Logins Compromised Through Weak Password Habits</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-latest-features-of-kodi-version-205-rollout-and-enhancements-unveiled/"><u>Discover the Latest Features of Kodi Version 20.5: Rollout and Enhancements Unveiled!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-oppo-a58-4g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Oppo A58 4G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-and-fresh-zebra-printer-driver-downloads-tailored-for-windows-users/"><u>Secure and Fresh Zebra Printer Driver Downloads Tailored for Windows Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-a-to-z-guide-for-delivering-captivating-streams-using-zoom-and-youtube-for-2024/"><u>The A-to-Z Guide for Delivering Captivating Streams Using Zoom & YouTube for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-narzo-n55-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme Narzo N55 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-se-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone SE is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tap-into-asmrs-potential-for-emotional-balance/"><u>[New] Tap Into ASMR’s Potential for Emotional Balance</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outube-growth-strategy-attracting-million-strong-fans-for-2024/"><u>[New] Youtube Growth Strategy Attracting Million-Strong Fans for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/10-parental-controls-a-step-by-step-guide-insights-from-yl-software/"><u>10 Parental Controls: A Step-by-Step Guide - Insights From YL Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hustle-smart-listen-hard-top-tasks-for-podcast-enthusiasts/"><u>2024 Approved Hustle Smart, Listen Hard Top Tasks for Podcast Enthusiasts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/accelerate-gif-performance-discover-the-four-key-ways-to-improve-load-times-on-windows-and-macos/"><u>Accelerate GIF Performance: Discover the Four Key Ways to Improve Load Times on Windows & macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-your-consoles-gameplay-statistics/"><u>Decoding Your Console's Gameplay Statistics</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/feast-your-senses-15-must-try-tiktok-meal-ideas-for-2024/"><u>Feast Your Senses 15 Must-Try TikTok Meal Ideas for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/kernelbasedll-dilemma-overcome-instant-crashing-issues-now/"><u>KernelBase.dll Dilemma? Overcome Instant Crashing Issues Now!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leveraging-alternative-footage-in-filmmaking-for-2024/"><u>Leveraging Alternative Footage in Filmmaking for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oneplus-ace-2-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of OnePlus Ace 2 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-simple-techniques-for-quickly-resizing-and-slimming-down-your-gif-images/"><u>Top 5 Simple Techniques for Quickly Resizing and Slimming Down Your GIF Images</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-ultimate-gif-compression-tools-for-faster-discord-uploads/"><u>Top 5 Ultimate GIF Compression Tools for Faster Discord Uploads</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-6-must-have-tools-convert-your-favorite-gifs-into-videos-seamlessly/"><u>Top 6 Must-Have Tools: Convert Your Favorite GIFs Into Videos Seamlessly!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-two-techniques-for-creating-high-quality-animated-gifs-from-pdf-files/"><u>Top Two Techniques for Creating High-Quality Animated GIFs From PDF Files</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ocal-modification-devices-for-digital-creators-for-2024/"><u>Top Vocal Modification Devices for Digital Creators for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-flash-animation-into-gifs-a-comprehensive-guide-to-converting-swf-files/"><u>Transforming Flash Animation Into GIFs: A Comprehensive Guide to Converting SWF Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-gif-images-into-high-quality-jpgs-with-expert-strategies/"><u>Transforming GIF Images Into High-Quality JPGs with Expert Strategies</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-images-the-top-3-tools-for-converting-png-files-into-gifs/"><u>Transforming Images: The Top 3 Tools for Converting PNG Files Into GIFs</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-webm-videos-into-animation-5-simple-methods/"><u>Transforming WebM Videos Into Animation: 5 Simple Methods</u></a></li>
 </ul></div>
 
