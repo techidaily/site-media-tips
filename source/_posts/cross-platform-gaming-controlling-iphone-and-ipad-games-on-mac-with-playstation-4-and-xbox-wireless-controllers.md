@@ -1,7 +1,7 @@
 ---
 title: "Cross-Platform Gaming: Controlling iPhone and iPad Games on Mac with PlayStation 4 & Xbox Wireless Controllers"
-date: 2024-12-10T22:56:29.716Z
-updated: 2024-12-15T19:57:45.797Z
+date: 2024-12-18T17:40:24.071Z
+updated: 2024-12-24T20:23:07.455Z
 tags:
   - airplay
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play Games from iOS 13/iPadOS to Computer with PS4/Xbox One Controller?
@@ -31,6 +31,10 @@ With the release of Apple Arcade, iOS 13 and iPadOS 13's support for PS4 and Xbo
 **Main Contents:**  
 [Part 1\. Connect PS4 or Xbox One Controller to iOS 13/iPadOS](https://tools.techidaily.com/5kplayer/airplay/)  
 [Part 2\. Screen Mirror iOS 13/iPadOS Game to Computer](https://tools.techidaily.com/5kplayer/airplay/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 1\. How to Connect a PS4/Xbox One Controller on iOS 13/iPadOS?
 
@@ -48,10 +52,6 @@ If you're running iOS 13 or iPadOS 13, you can now use Sony PlayStation 4 DualSh
 
 ![Pair PS4 Controller to iOS 13](https://www.5kplayer.com/airplay/img/pair-ps4-controller-to-ios13.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** Now, on your iPhone or iPad, you should see "DUALSHOCK 4 Wireless Controller" pop up under OTHER DEVICES in the Bluetooth menu. Just tap it.  
 **Step 5.** Now turn to your PS4 DualShock 4 controller again. The light on the back of your DualShock should immediately switch to a reddish-pink color. That means your PlayStation 4 DualShock 4 controller is paired to your iOS 13 iPhone or iPadOS iPad.  
 **Notice:** To disconnect your DualShock 4 from your iPhone or iPad, you can simply hold down the PlayStation button on the controller for 10 seconds. Or alternatively, go to Control Center of your iOS 13 iPhone or iPadOS iPad by swiping from the upper right corner to disconnect the controller.
@@ -68,13 +68,13 @@ If you're running iOS 13 or iPadOS 13, you can now use Sony PlayStation 4 DualSh
 ![Pair Xbox One Controller to iOS 13](https://www.5kplayer.com/airplay/img/pair-xbox-controller-to-ios13.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Notice:** You can use the model number 1708 of Xbox One, aka Xbox One S, to pair to iOS 13 and iPadOS. Also, the new Elite 2 controller with Bluetooth support that Microsoft Xbox just announced at E3 can be an ideal one. You may think that these two kinds of models can pair with the new iOS 13 and iPadOS, but the fact is most modern Xbox One controllers support Bluetooth that you can use to play games on iOS 13 iPhone and iPadOS iPad.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Play Games from iOS 13/iPadOS to Computer with PS4/Xbox One Controller?
@@ -93,13 +93,13 @@ Now that you have connected your game console to iOS 13 or iPadOS, the only job 
 
 ![Mirror iOS 13 Games to Computer](https://www.5kplayer.com/airplay/img/airplay-ipad-2-to-mac.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Fire up a game and you're good to go. Besides helping play games from iOS 13/iPadOS to computer with PS4/Xbox One controller through the iPadOS/[iOS 13 screen mirroring](https://tools.techidaily.com/5kplayer/airplay/) feature, 5KPlayer's screen mirror function also allows for the newest [iPhone 11, 11 Pro, 11 Pro Max AirPlay](https://tools.techidaily.com/5kplayer/airplay/) to Mac and PC. Born to be a multimedia player, downloader and streamer, you are also able to use it to play 4K MP4 MKV etc videos, download video clips as well as [DLNA stream](https://tools.techidaily.com/5kplayer/dlna/) video music to DLNA-compatible devices.
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,21 +116,18 @@ Fire up a game and you're good to go. Besides helping play games from iOS 13/iPa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-harness-quick-download-powers-for-tiktok-videos-for-2024/"><u>[New] Harness Quick-Download Powers for TikTok Videos for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-lullaby-videos-a-study-on-sleep-inducing-stories-for-2024/"><u>[New] Lullaby Videos A Study on Sleep-Inducing Stories for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-video-cutting-edge-tools-devices/"><u>2024 Approved Superior Video Cutting-Edge Tools (Devices)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-free-mac-compatible-nokia-video-converters-top-10-picks/"><u>Best Free Mac-Compatible Nokia Video Converters: Top 10 Picks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-ways-to-convert-ts-video-files-into-mp4-a-list-of-the-top-5-choices/"><u>Best Ways to Convert .TS Video Files Into MP4: A List of the Top 5 Choices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-guide-to-changing-your-videos-tofrom-mp4-on-a-mac-with-top-ranking-media-converter-apps/"><u>Easy Guide to Changing Your Videos To/From MP4 on a Mac with Top-Ranking Media Converter Apps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/engagement-mastery-how-to-craft-instagrams-best-puzzles-for-2024/"><u>Engagement Mastery How to Craft Instagram's Best Puzzles for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-windows-11-a-deep-dive-into-zoom-usage/"><u>In 2024, Navigating Windows 11 A Deep Dive Into Zoom Usage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-review-of-audfreeplus-software-for-2024/"><u>In-Depth Review of AudFreePlus Software for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-ai-for-optimal-domestic-organization/"><u>Integrating AI for Optimal Domestic Organization</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ipod-compatible-video-transformer-enjoy-movies-on-your-mp3-player/"><u>IPod-Compatible Video Transformer: Enjoy Movies on Your MP3 Player</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-easy-steps-mastering-iphones-compatibility-with-mxf-file-format/"><u>Quick and Easy Steps: Mastering iPhones' Compatibility with MXF File Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-and-quick-best-flv-to-youtube-converter-guide/"><u>Simple and Quick: Best FLV to YouTube Converter Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-seamlessly-changing-your-mxf-video-format-into-mov-using-a-specialized-tool/"><u>Ultimate Guide: Seamlessly Changing Your MXF Video Format Into MOV Using a Specialized Tool</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-gear-with-tom-a-comprehensive-guide/"><u>Unveiling the Latest in Computer Gear with Tom - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-essential-10-fcp-plugins/"><u>[New] The Ultimate Guide to Essential 10 FCP Plugins</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hourly-headliners-the-leading-yt-videos-in-the-last-24-hours/"><u>[Updated] 2024 Approved Hourly Headliners The Leading YT Videos in the Last 24 Hours</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-ultimate-roadmap-to-profit-via-instagram-platform/"><u>[Updated] In 2024, The Ultimate Roadmap to Profit via Instagram Platform</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-sharing-authenticity-a-guide-to-personal-youtube-content/"><u>[Updated] Sharing Authenticity A Guide to Personal YouTube Content</u></a></li>
+<li><a href="https://media-tips.techidaily.com/acquisition-alert-paramountplus-and-pluto-tv-join-forces-with-skydance-entertainment/"><u>Acquisition Alert: Paramount+ and Pluto TV Join Forces with Skydance Entertainment</u></a></li>
+<li><a href="https://win11.techidaily.com/bask-in-the-best-of-microsofts-winstore-treasures/"><u>Bask in the Best of Microsoft’s WinStore Treasures</u></a></li>
+<li><a href="https://media-tips.techidaily.com/choosing-the-perfect-screen-how-to-select-the-ideal-television-size/"><u>Choosing the Perfect Screen: How to Select the Ideal Television Size</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-update-bid-farewell-to-netflix-basic-master-innovative-iphone-repair-techniques/"><u>Comprehensive Update: Bid Farewell to Netflix Basic, Master Innovative iPhone Repair Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-improved-storage-solutions-and-google-photos-in-latest-roku-os-125-update/"><u>Discover Improved Storage Solutions and Google Photos in Latest Roku OS 12.5 Update</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-xiaomi-redmi-note-13-proplus-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Xiaomi Redmi Note 13 Pro+ 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-4k-video-editing-potential-the-best-proxy-video-editing-apps/"><u>New Unlock 4K Video Editing Potential The Best Proxy Video Editing Apps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unraveling-the-mysteries-behind-unlimited-what-are-the-real-limits-of-unlimited-dvr-services/"><u>Unraveling the Mysteries Behind 'Unlimited' – What Are the Real Limits of Unlimited DVR Services?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/update-playstation-retains-your-bought-tv-shows-no-deletions-now-guaranteed/"><u>Update: PlayStation Retains Your Bought TV Shows, No Deletions Now Guaranteed</u></a></li>
 </ul></div>
 

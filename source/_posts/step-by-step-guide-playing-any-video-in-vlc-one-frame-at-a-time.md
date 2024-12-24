@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Playing Any Video in VLC One Frame at a Time"
-date: 2024-12-10T17:44:59.405Z
-updated: 2024-12-15T22:41:48.926Z
+date: 2024-12-19T18:52:59.922Z
+updated: 2024-12-24T17:08:37.504Z
 tags:
   - vlc
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Go Frame by Frame in VLC Media Player??
 
  _Written by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last updated: December 16, 2020 | 3 Mins Read_
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 When you are watching some fast speed videos like the extreme sport videos, you may want to make the video playback slow to reach every detail exactly. Or, you probably need to capture snapshots of every frame of a 4K movie to create desktop wallpapers. Whatever, the **VLC frame by frame** feature is a good helper to let you view a video step by step.
 
 BTW, VLC media player doesn’t support frame by frame backwards as of now, so this guide will teach you how to play forward one frame at a time with VLC, and play videos backwards by frame with some other tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View Video Frame by Frame in VLC on Mac/PC?
 
@@ -39,10 +47,6 @@ There are two main ways to go through videos frame by frame in VLC media player 
 **Note:** This shortcut can be applied either when your video is playing or pausing. If the hotkey doesn’t work for you, maybe another shortcut key is doing the task. You can simply go to **Tools** \> **Preferences** \> **Hotkeys** and search for frame to edit it or just keep it as it is. To edit the shortcut, just double-click the hotkey "e" and type a new key to reset.
 
 ![VLC Frame by Frame Hotkeys](https://www.5kplayer.com/vlc/img/vlc-frame-by-frame-hotkey.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **Method 2\. Use Advanced Controls Bar**
 
@@ -59,7 +63,11 @@ Worth mentioning, problems like VLC frame by frame freezes are inevitable. Besid
 ![VLC Frame by Frame Button](https://www.5kplayer.com/vlc/img/vlc-frame-by-frame-button.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### VLC Player Frame by Frame not Working? How to Solve?
@@ -70,24 +78,16 @@ If you have any issues with VLC media player frame by frame function, you can tu
 
 **Step 2.** Play a video with 5KPlayer, and then click on the "scissors" ![](https://www.5kplayer.com/vlc/../user-guide/img/scissors-icon.jpg) icon on the playback bar of 5KPlayer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** View your favorite part by dragging the progress bar under the main picture window.
 
 **Note:** This is mainly the video processing window of 5KPlayer where you can cut your video into segments.
 
 ![5KPlayer Frame by Frame](https://www.5kplayer.com/vlc/img/5kplayer-frame-by-frame.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### People Also Ask
@@ -123,19 +123,20 @@ To save a frame when playing a video in VLC, VLC frame by frame screenshot is th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>[New] 2024 Approved Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-echoes-of-the-past-the-top-10-youtube-sources-for-history-lovers-for-2024/"><u>[New] Echoes of the Past The Top 10 YouTube Sources for History Lovers for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-dive-into-top-online-platforms-for-enhancing-media-subtitles/"><u>[Updated] Dive Into Top Online Platforms for Enhancing Media Subtitles</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-introduce-movement-variance-to-pixels-in-ps/"><u>[Updated] Introduce Movement Variance to Pixels in PS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unveiling-sonys-best-full-review-of-fdr-x1000v-camera/"><u>2024 Approved Unveiling Sony's Best - Full Review of FDR-X1000V Camera</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-7-online-tools-for-effortlessly-converting-wmv-files-to-mp4-format/"><u>Best 7 Online Tools for Effortlessly Converting WMV Files to MP4 Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/catch-all-four-sports-festivals-in-one-place-using-peacock-your-ultimate-multi-event-viewing-platform/"><u>Catch All Four Sports Festivals in One Place Using Peacock – Your Ultimate Multi-Event Viewing Platform!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-tutorial-mastering-videoeffects-with-videopad-the-ultimate-guide/"><u>Comprehensive Tutorial: Mastering VideoEffects with VideoPad - The Ultimate Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cuff-links-zncom/"><u>Cuff Links. ZN.com</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-steps-transferring-m2ts-files-to-your-ipad-using-a-reliable-conversion-tool/"><u>Easy Steps: Transferring M2TS Files to Your iPad Using a Reliable Conversion Tool</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/screen-capture-clarity-with-irecorder-tech/"><u>Screen Capture Clarity with iRecorder Tech</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-30plus-list-of-expertly-curated-cost-free-vfx-tools-for-creatives-for-2024/"><u>The Ultimate 30+ List of Expertly Curated, Cost-Free VFX Tools for Creatives for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-leading-nexus-one-software-tools-for-seamless-video-format-transformation/"><u>Top 5 Leading Nexus One Software Tools for Seamless Video Format Transformation</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-using-aiseesofts-video-conversion-tool-on-windows-platforms/"><u>Ultimate Guide: Using Aiseesoft's Video Conversion Tool on Windows Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-selection-of-apps-to-tame-your-feed/"><u>[New] In 2024, The Ultimate Selection of Apps to Tame Your Feed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-kickstarting-with-a-gopro-unbox-the-perfect-add-ons/"><u>[Updated] 2024 Approved Kickstarting with a GoPro Unbox the Perfect Add-Ons</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unveiling-the-secrets-of-professional-srt-file-generation/"><u>[Updated] In 2024, Unveiling the Secrets of Professional SRT File Generation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-push-past-limitations-showcase-videos-in-social-media-for-2024/"><u>[Updated] Push Past Limitations Showcase Videos in Social Media for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-enhanced-plex-search-interface-say-goodbye-to-frustration/"><u>1. Enhanced Plex Search Interface: Say Goodbye to Frustration!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unleashing-imagination-creating-motion-pictures-with-windows-movie-maker/"><u>2024 Approved Unleashing Imagination Creating Motion Pictures with Windows Movie Maker</u></a></li>
+<li><a href="https://media-tips.techidaily.com/amazons-solution-how-mattercast-compares-with-chromecast-and-airplay/"><u>Amazon's Solution: How Mattercast Compares with Chromecast & AirPlay</u></a></li>
+<li><a href="https://media-tips.techidaily.com/apple-homepod-now-supports-youtube-music-streaming/"><u>Apple HomePod Now Supports YouTube Music Streaming</u></a></li>
+<li><a href="https://media-tips.techidaily.com/artificial-intelligence-enhances-music-experience-with-spotifys-innovative-ai-curated-playlists/"><u>Artificial Intelligence Enhances Music Experience with Spotify's Innovative AI-Curated Playlists</u></a></li>
+<li><a href="https://media-tips.techidaily.com/benq-unveils-stunning-low-delay-4k-resolution-projector-series-for-enhanced-visual-experience/"><u>BenQ Unveils Stunning Low-Delay, 4K Resolution Projector Series for Enhanced Visual Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/channel-loss-across-52-regions-impacts-directv-subscribers/"><u>Channel Loss Across 52 Regions Impacts DirecTV Subscribers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/defend-against-malware-the-creme-de-la-creme-of-iphone-security-apps/"><u>Defend Against Malware: The Crème De La Crème of iPhone Security Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-zte-nubia-z60-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track ZTE Nubia Z60 Ultra by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/invisible-viewers-for-fb-chronicles-for-2024/"><u>Invisible Viewers for FB Chronicles for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-enabling-gpt-3s-new-features/"><u>Mastering the Art of Enabling GPT-3's New Features</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Seamlessly Cast Your Favorite Media From VLC Player to Chromecast - Step-by-Step Guide
-date: 2024-12-08T22:04:16.696Z
-updated: 2024-12-15T18:00:41.382Z
+date: 2024-12-21T17:23:10.242Z
+updated: 2024-12-24T17:37:46.810Z
 tags:
   - vlc
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/0f32298889456fdaca83b5ae25e894332407ac328
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VLC Chromecast | Stream Video Audio from VLC to Chromecast
@@ -48,18 +48,26 @@ thumbnail: https://thmb.techidaily.com/0f32298889456fdaca83b5ae25e894332407ac328
 
 ![VLC Stream to Chromecast](https://www.5kplayer.com/vlc/img/vlc-chromecast.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** Now that you have successfully connected VLC to Chromecast, play a video or audio file with VLC. You can simply drag and drop the media file to VLC to play, or click on Media > Open File menu of VLC to choose a media file to play with VLC.
 
 **Step 6.** When VLC player starts trying to play the file, you'll see an "Insecure site" prompt. Just click on "View certificate" to view your Chromecast's security certificate.
 
 ![VLC Insecure Site](https://www.5kplayer.com/vlc/img/vlc-insecure-site.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7.** Click on "Accept Permanently" to accept your Chromecast's certificate.
 
 ![VLC Insecure Site](https://www.5kplayer.com/vlc/img/vlc-insecure-site-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now, the media file will begin playing immediately on your Chromecast device. You can use the controls in the VLC playback window to pause, fast forward or rewind the playback. You can also choose Playback option in VLC menu bar > Renderer > Local to stop VLC media player Chromecast streaming but just play the media file in VLC.
@@ -72,10 +80,6 @@ To cast VLC Android/iOS to Chromecast is much easier. Just go to Google Play sto
 
 You can also have many options on your mobile device to control the media playback on your Chromecast TV, like subtitle sync, jump to a chapter, change the playback speed. If you want to stop VLC Chromecast on Android or iOS, just press the back button and return to VLC's main screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Solve VLC Media Player Chromecast not Working?
 
 Despite VLC Chromecast feature is in the stable version of VLC media player, it still needs development. Some people has reported that this feature doesn't work perfectly for them and has some problems like missed frames during playback, audio de-synced, no video audio only, no Chromecast device showing up, black screen, etc. To solve the kinds of [Chromecast not working](https://tools.techidaily.com/5kplayer/airplay/) errors, you may try the following methods.
@@ -87,7 +91,7 @@ Despite VLC Chromecast feature is in the stable version of VLC media player, it 
 ![VLC Performance warning](https://www.5kplayer.com/vlc/img/vlc-performance-warning.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Besides that, you have to make sure that the media format is also supported by Chromecast. The default Chromecast video formats are MP4 and WebM, and it can also supports MPEG-DASH, Smooth Streaming and [HTTP Live Streaming](https://tools.techidaily.com/5kplayer/video-music-player/) (HLS) media files. All other video formats are not supported like MKV, VOB, FLV, AVI, MOV, 3G2, M2TS, 3GP, Divx, RMVB, ASF, TS, F4V, etc. So, if you want to stream these media files from VLC to Chromecast, you'd better convert the file to MP4 with a [video converter](https://tools.techidaily.com/5kplayer/products/).
@@ -103,10 +107,6 @@ Since VLC media player Chromecast feature is mainly used to stream video audio f
 With built-in DLNA streaming protocol that can be used as best [Chromecast alternative](https://tools.techidaily.com/5kplayer/airplay/), 5KPlayer can also allow you to stream video music from computer to Sony/LG/Samsung etc smart TV no matter the TV is Chromecast-enabled or not. Smoother performance, higher quality, no errors, that's why you should choose streaming software 5KPlayer. On top of that, you can also [stream Android to PC](https://tools.techidaily.com/5kplayer/dlna/) with 5KPlayer wirelessly.
 
 ![Stream Video to Smart TV](https://www.5kplayer.com/vlc/../dlna/img/5kplayer-dlna-samsung-tv.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
@@ -125,18 +125,17 @@ With built-in DLNA streaming protocol that can be used as best [Chromecast alter
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-leading-5-display-choices-for-ps5-gamers/"><u>[New] 2024 Approved Leading 5 Display Choices for PS5 Gamers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-learning-leaders-most-influential-edu-tutorials-yt/"><u>[New] Learning Leaders Most Influential Edu Tutorials YT</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-acquiring-vivid-clipart-without-investment-for-2024/"><u>[Updated] Acquiring Vivid Clipart Without Investment for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-basics-of-slug-lines-explained/"><u>[Updated] The Basics of Slug Lines Explained</u></a></li>
-<li><a href="https://media-tips.techidaily.com/can-vpn-services-conceal-your-internet-activity-from-isp-and-mobile-providers/"><u>Can VPN Services Conceal Your Internet Activity From ISP and Mobile Providers?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comparing-sling-orange-and-sling-blue-key-features-perks-and-accessories/"><u>Comparing Sling Orange and Sling Blue: Key Features, Perks, and Accessories</u></a></li>
-<li><a href="https://techidaily.com/how-norton-360-software-became-a-surprising-player-in-the-cryptocurrency-mining-scene/"><u>How Norton 360 Software Became a Surprising Player in the Cryptocurrency Mining Scene</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-manage-and-resolve-intense-cpu-utilization-issues-on-your-new-world-experience/"><u>How To Manage and Resolve Intense CPU Utilization Issues on Your New World Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-of-downloading-new-mouse-drivers-for-windows-7-users/"><u>Step-by-Step Process of Downloading New Mouse Drivers for Windows 7 Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unplug-your-vizio-smart-tv-essential-steps-to-safely-severing-its-internet-connection/"><u>Unplug Your Vizio Smart TV: Essential Steps to Safely Severing Its Internet Connection</u></a></li>
-<li><a href="https://media-tips.techidaily.com/upcoming-changes-in-disneyplus-policy-end-of-shared-access-era-approaching/"><u>Upcoming Changes in Disney+ Policy: End of Shared Access Era Approaching</u></a></li>
-<li><a href="https://media-tips.techidaily.com/why-invest-in-online-radio-even-with-the-rise-of-spotify-and-apple-music/"><u>Why Invest in Online Radio Even with the Rise of Spotify and Apple Music</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-lightroom-for-android-unveiled-detailed-assessment/"><u>[New] Lightroom for Android Unveiled Detailed Assessment</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cultivating-growth-selecting-the-right-co-stars-for-youtube/"><u>[Updated] 2024 Approved Cultivating Growth Selecting the Right Co-Stars for YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-cinematic-cadences-finding-film-friendly-sounds-for-2024/"><u>[Updated] Cinematic Cadences Finding Film-Friendly Sounds for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/broadcast-windows-pcs-w10-w8-w7-live-connect-seamlessly-using-beamer-to-apple-tv-via-airplay/"><u>Broadcast Windows PCs (W10, W8, W7) Live - Connect Seamlessly Using Beamer to Apple TV via AirPlay</u></a></li>
+<li><a href="https://win-web3.techidaily.com/deciphering-the-display-driver-issue-causes-and-solutions-for-a-smooth-computer-experience-with-guidance-by-yl-software/"><u>Deciphering the 'Display Driver Issue': Causes and Solutions for a Smooth Computer Experience with Guidance by YL Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ending-invisible-gaming-captures-in-software-for-2024/"><u>Ending Invisible Gaming Captures in Software for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-s23-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel S23 FRP Bypass</u></a></li>
+<li><a href="https://media-tips.techidaily.com/include-provisions-that-require-the-destruction-of-data-after-5-years-unless-renewed-consent-is-given-by-the-patient-or-required-for-ongoing-research-purpos1/"><u>Include Provisions that Require the Destruction of Data After 5 Years Unless Renewed Consent Is Given by the Patient or Required for Ongoing Research Purposes, Citing Section XX, Paragraph YY.</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-new-essential-details-of-making-perfect-talking-face/"><u>New New Essential Details of Making Perfect Talking Face</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-the-top-5-iphone-apps-for-seamless-dlna-media-sharing/"><u>The Ultimate Guide to the Top 5 iPhone Apps for Seamless DLNA Media Sharing</u></a></li>
+<li><a href="https://media-tips.techidaily.com/us-launch-of-tivo-television-units-scheduled-for-next-spring-season/"><u>US Launch of TiVo Television Units Scheduled for Next Spring Season</u></a></li>
+<li><a href="https://media-tips.techidaily.com/weekly-update-exclusive-insights-on-latest-windows-notebooks-and-hidden-strategies-of-spotify/"><u>Weekly Update: Exclusive Insights on Latest Windows Notebooks & Hidden Strategies of Spotify</u></a></li>
 </ul></div>
 
