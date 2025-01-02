@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Sharing Your iOS Gaming Sessions on Twitch via OBS
-date: 2024-12-10T20:07:19.326Z
-updated: 2024-12-15T21:36:11.844Z
+date: 2024-12-28T03:56:16.888Z
+updated: 2025-01-02T02:48:08.418Z
 tags:
   - airplay
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Stream iOS Game with OBS to Twitch?
 
  _Written by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21)_ | Last update: April 28, 2020
@@ -29,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d8
 Anyone who wants to **broadcast iOS games on Twitch.tv using OBS streaming** would find it quite annoying that OBS requires the game to be playing on the desktop in the first place. This is not at all a problem for macOS users, since they can directly mirror iPhone/iPad iOS screen to a Mac. But it can be quite another story for Windows user. How can we add iOS to OBS streaming source on PC Windows to stream Fortnite on Twitch PC? [5KPlayer](https://tools.techidaily.com/5kplayer/products/) freeware holds the answer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stream Fortnite iOS Game with OBS to Twitch/FB/Twitter?
@@ -46,7 +42,7 @@ Ta-dah, your iPad screen is now shown on your Windows computer, ready to be capt
 ![iPhone Xs Max Screen Mirroring](https://www.5kplayer.com/airplay/img/ipad-pro-2-windows-10-b.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Open OBS, under Source, and click on "Add", choose Windows Capture to capture 5KPlayer window precisely.
@@ -54,6 +50,14 @@ Ta-dah, your iPad screen is now shown on your Windows computer, ready to be capt
 **Notice:** 5KPlayer also provides screen recording utility locally. Simply click the recording button and your iOS screen will be recorded with audio. 
 
 ![OBS iPhone Streaming](https://www.5kplayer.com/airplay/img/obs-ios.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Stream iOS Games Fortnite to Twitch.tv with OBS on PC
 
@@ -68,16 +72,12 @@ You will need to get the Stream Key before broadcasting to Twitch.tv
 ![how to stream iOS games with obs](https://www.5kplayer.com/airplay/img/obs-twitch.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5KPlayer can also directly [record your Fortnite game](https://tools.techidaily.com/5kplayer/airplay/) without OBS on PC Windows/Mac wirelessly. Get this free iPhone screen recording and streaming tool to work with OBS now!
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,24 +94,16 @@ You will need to get the Stream Key before broadcasting to Twitch.tv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-transforming-video-makeup-through-color-alignment/"><u>[New] In 2024, Transforming Video Makeup Through Color Alignment</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-top-e-shops-for-unique-tailored-boxed-gifts-and-packages-for-2024/"><u>[New] Top E-Shops for Unique, Tailored Boxed Gifts & Packages for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-timestamps-youtube-video-for-2024/"><u>[Updated] How to Add Timestamps YouTube Video for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopros-greatest-hits-max-360-vs-hero-11-comparison/"><u>2024 Approved GoPro's Greatest Hits Max 360 vs Hero 11 Comparison</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-zoo-matic-guide-to-improved-snapchat-media/"><u>2024 Approved The Zoo-Matic Guide to Improved Snapchat Media</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia G42 5G? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/complete-guide-enable-airplay-on-windows-11-from-iphone-xs-xs-max-and-xr/"><u>Complete Guide: Enable AirPlay on Windows 11 From iPhone XS, XS Max & XR</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-best-no-cost-dependable-video-recording-apps-for-pc-and-mac-users/"><u>Discover the Best No-Cost, Dependable Video Recording Apps for PC and Mac Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-daum-potplayer-emulator-how-to-install-and-use-on-windows-11/"><u>Free Daum PotPlayer Emulator: How to Install and Use on Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-ideas-for-images-with-professional-color-palette/"><u>In 2024, Innovative Ideas for Images with Professional Color Palette</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-screen-mirroring-techniques-for-seamless-iphone-and-ipad-projection-onto-big-screens/"><u>Mastering Screen Mirroring Techniques for Seamless iPhone and iPad Projection Onto Big Screens</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/replicacion-facil-de-una-imagen-de-windows-11-multiplataforma-tres-pasos-simples/"><u>Replicación Fácil De Una Imagen De Windows 11 Multiplataforma | Tres Pasos Simples</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secretive-methods-for-maximizing-ai-potential/"><u>Secretive Methods for Maximizing AI Potential</u></a></li>
-<li><a href="https://media-tips.techidaily.com/section-4b-five-facts-to-remember/"><u>Section 4B: Five Facts to Remember</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-steps-resolving-non-functional-windows-media-player-in-windows-10-systems/"><u>Troubleshooting Steps: Resolving Non-Functional Windows Media Player in Windows 10 Systems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-seamlessly-broadcasting-high-quality-4k-content-from-your-computer-or-mac-to-apple-tv/"><u>Ultimate Guide: Seamlessly Broadcasting High-Quality 4K Content From Your Computer or Mac to Apple TV</u></a></li>
-<li><a href="https://media-tips.techidaily.com/vlc-media-player-and-hevc-codec-support-mastering-high-efficiency-video-coding-for-ultra-hd-content/"><u>VLC Media Player and HEVC Codec Support: Mastering High-Efficiency Video Coding for Ultra HD Content</u></a></li>
-<li><a href="https://media-tips.techidaily.com/wirelessly-sync-and-enjoy-spotify-tunes-from-your-iphone-on-mac-oswindows-via-airplay-connection/"><u>Wirelessly Sync and Enjoy Spotify Tunes From Your iPhone on Mac OS/Windows via AirPlay Connection</u></a></li>
+<li><a href="https://media-tips.techidaily.com/599-deal-access-to-a-full-years-worth-of-apple-tvplus-subscriptions-for-just-three-months/"><u>$5.99 Deal - Access to a Full Year's Worth of Apple TV+ Subscriptions for Just Three Months!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-spectrum-enhanced-by-blades-newest-quad-hd-cameras/"><u>2024 Approved The Spectrum Enhanced by Blade's Newest Quad-HD Cameras</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-oppo-a38-frp-bypass-by-drfone-android/"><u>About Oppo A38 FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-concept-to-creation-painting-ai-masterpieces-on-windows-11-paint-cocreator-edition/"><u>From Concept to Creation: Painting AI Masterpieces on Windows 11, Paint Cocreator Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-achieve-a-seamless-experience-less-latency-more-fps/"><u>How to Achieve a Seamless Experience: Less Latency, More FPS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/key-insights-on-market-research-for-effective-business-decisions/"><u>Key Insights on Market Research for Effective Business Decisions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/why-digital-filmstreams-cant-match-the-charm-of-in-person-dvd-lending-services/"><u>Why Digital Filmstreams Can't Match the Charm of In-Person DVD Lending Services</u></a></li>
+<li><a href="https://media-tips.techidaily.com/why-owning-music-in-mp3-format-beats-the-convenience-of-streaming-services/"><u>Why Owning Music in MP3 Format Beats the Convenience of Streaming Services</u></a></li>
+<li><a href="https://media-tips.techidaily.com/xgimi-vs-sony-battle-of-the-titans-featuring-imax-enhanced-projection-technology/"><u>XGIMI vs Sony: Battle of the Titans Featuring IMAX-Enhanced Projection Technology</u></a></li>
 </ul></div>
 

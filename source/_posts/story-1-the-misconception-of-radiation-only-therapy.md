@@ -1,7 +1,7 @@
 ---
 title: "Story 1: The Misconception of Radiation-Only Therapy"
-date: 2024-12-19T17:33:14.834Z
-updated: 2024-12-24T18:28:41.197Z
+date: 2025-01-01T05:16:21.309Z
+updated: 2025-01-01T21:47:36.435Z
 tags:
   - vlc
 categories:
@@ -51,19 +51,15 @@ Monitor: Samsung SAM08DF S27B370 (27.2 inches)
 
 ![VLC Alternatives for Windows Test](https://www.5kplayer.com/vlc/img/vlc-alternative-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Specification of the Test Video Samples:**
 
 ![VLC Alternatives for Windows Test](https://www.5kplayer.com/vlc/img/vlc-alternative-win-test-vid.jpg) ![VLC Alternatives for Windows Sample Table](https://www.5kplayer.com/vlc/img/vlc-alternative-win-test-vid-info.jpg) 
 
-With above test details given, let's throw videos at those "overbloated" media players and see if they are truly worthy of the praises.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+With above test details given, let's throw videos at those "overbloated" media players and see if they are truly worthy of the praises.
 
 ## Part 2: VLC Alternatives for Windows 8K Video Playback Test
 
@@ -73,9 +69,17 @@ Note that video output was set "Automatic", and it auto choosed Direct3D9\.
 
 ![VLC 8K Video Playback Test](https://www.5kplayer.com/vlc/img/vlc-8k.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **KMplayer 2018.10.7.14 for Windows** \- 8K video playback quality and CPU usage **\[#1\]**
 
 ![VLC 8K Video Playback Test](https://www.5kplayer.com/vlc/img/km-8k.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **PotPlayer 1.7.14804 for Windows** \- 8K video playback quality and CPU usage **\[#2\]**
 
@@ -86,7 +90,7 @@ Note that video output was set "Automatic", and it auto choosed Direct3D9\.
 ![VLC 8K Video Playback Test](https://www.5kplayer.com/vlc/img/gom-8k.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Verdict:**   
@@ -113,7 +117,7 @@ VLC media player was going choppy at first, but given time, it gradually fell in
 ![Windows VLC Alternative 4K Playback](https://www.5kplayer.com/vlc/img/pot-4k.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **GOMplayer 2.3.34.5295 for Windows** \- 4K HDR video playback quality and CPU usage **\[#3\]**
@@ -130,10 +134,6 @@ VLC media player was going choppy at first, but given time, it gradually fell in
 The CPU usage of VLC as well as of all the other players are alarmingly high throughout this tests, and the visuals varies and are not as good as expected. VLC in particular stuck at the first frame and you could only see the playback bar moving without changing to the corresponding frames. 
 
 ![VLC Slowmotion Video Playback Test](https://www.5kplayer.com/vlc/img/vlc-slmo.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **KMplayer 2018.10.7.14 for Windows** \- Slowmo video playback quality and CPU usage **\[#1\]**
 
@@ -152,7 +152,7 @@ VLC media player was going choppy at first, but given time, it gradually fell in
 ![Windows VLC Alternative Slowmotion Playback](https://www.5kplayer.com/vlc/img/gom-slmo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Verdict:**  
@@ -165,6 +165,10 @@ VLC media player was going choppy at first, but given time, it gradually fell in
 VLC media player only supports raw 360-deg videos. It cannot enforce 360 visual to any video as other players do and can only deliver nomo mode for none raw 360-deg videos. [VLC 360 not working issue](https://tools.techidaily.com/5kplayer/products/) happens frequently. 
 
 ![Windows VLC Alternative 360 Video Playback](https://www.5kplayer.com/vlc/img/vlc-360.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **KMplayer 2018.10.7.14 for Windows** \- 360-deg video playback quality and CPU usage **\[#1\]**
 
@@ -186,7 +190,7 @@ There are even more 360-deg video modes in PotPlayer, as we can see from the giv
  GOMplayer delivers flexible and quick 360-deg video interactive response between mouse clicks and the view angle, it also provides a tank of 360-deg videos from online for direct playback with relatively better visuals. GOM is like a 360-deg themed video player, while Potplayer and KMplayer only offers the ability to read those files in serveral modes. VLC is the poorest player to handle 360-deg videos.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Another VLC Player Alternative Windows - 5KPlayer
@@ -196,7 +200,7 @@ Another VLC alternative for Windows would be [5KPlayer](https://tools.techidaily
 ![VLC Player Alternative Windows](https://www.5kplayer.com/vlc/../video-music-player/img/5kplayer-ver-dlna.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 All in all, for 4K/8K 8-bit video(gopro/drone/YouTube downloads,etc), go for KMPlayer > PotPlayer > GOMPlayer.  
@@ -207,10 +211,6 @@ To make story shorter and be even more helpful:
 Install 5KPlayer, KMPlayer, PotPlayer, GOMPlayer, besides VLC. And it is prooved that VLC does not deserve its "BEST" title for Windows PC in terms of the above tested video playback.
 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -227,20 +227,20 @@ Install 5KPlayer, KMPlayer, PotPlayer, GOMPlayer, besides VLC. And it is prooved
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-online-oasis-media-mashup/"><u>[New] 2024 Approved Online Oasis Media Mashup</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elite-visionaries-video-realm-for-2024/"><u>[Updated] Elite Visionaries Video Realm for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-igniting-passion-creating-a-trending-solo-podcast/"><u>[Updated] Igniting Passion Creating a Trending Solo Podcast</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-visual-virtue-essential-resources-for-adding-frames-to-images/"><u>2024 Approved Visual Virtue Essential Resources for Adding Frames to Images</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-dlna-players-and-screen-casting-software-for-windows-10-and-7/"><u>Best DLNA Players & Screen Casting Software for Windows 10 and 7</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/canon-tips-for-effective-time-lapse-photography-for-2024/"><u>Canon Tips for Effective Time-Lapse Photography for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/dvd-tearing-made-easy-master-the-art-of-ripping-with-vlc-software/"><u>DVD Tearing Made Easy - Master the Art of Ripping with VLC Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-lava-yuva-3-pro-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Lava Yuva 3 Pro</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-use-dlna-on-android-devices-as-a-substitute-for-apples-airplay-2/"><u>How to Use DLNA on Android Devices as a Substitute for Apple's AirPlay 2</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-honor-magic-v2-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Honor Magic V2?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/initiate-memelore-creation-on-giphy/"><u>Initiate Memelore Creation on Giphy</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-the-art-of-viewing-3d-films-with-vlc-media-player-troubleshooting-common-issues/"><u>Mastering the Art of Viewing 3D Films with VLC Media Player - Troubleshooting Common Issues</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-setting-up-airplay-capability-on-windows-or-mac-computers/"><u>Step-by-Step Guide: Setting Up AirPlay Capability on Windows or Mac Computers</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-10-must-watch-christmas-films-for-a-festive-holiday-night-in-2019/"><u>Top 10 Must-Watch Christmas Films for a Festive Holiday Night in 2019</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-3-recommended-dvd-players-for-pcs-on-windows-11-free-versions-available/"><u>Top 3 Recommended DVD Players for PCs on Windows 11 - FREE Versions Available</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-high-performance-low-price-excellent-asmr-mics-for-2024/"><u>[New] High Performance, Low Price Excellent ASMR Mics for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-art-of-visual-excellence-leveraging-enhancer-22/"><u>[New] The Art of Visual Excellence - Leveraging Enhancer 2.2</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-ultimate-iphone-photography-playbook/"><u>[New] The Ultimate iPhone Photography Playbook</u></a></li>
+<li><a href="https://solve-info.techidaily.com/how-to-ensure-your-windows-defender-is-always-current-tips-from-yl-computing/"><u>How to Ensure Your Windows Defender Is Always Current: Tips From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-k70-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi K70 Pro To Phone | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/introducing-youtube-musics-latest-feature-the-share-friendly-personal-radio-experience/"><u>Introducing YouTube Music's Latest Feature: The Share-Friendly Personal Radio Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/is-the-discontinuation-of-roku-streambar-pro-on-the-horizon/"><u>Is the Discontinuation of Roku Streambar Pro on the Horizon?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maximizing-your-youtube-premium-experience-tips-and-tricks/"><u>Maximizing Your YouTube Premium Experience: Tips and Tricks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-amazon-prime-video-fee-additional-costs-for-dolby-vision-and-atmos-enhancement/"><u>New Amazon Prime Video Fee: Additional Costs for Dolby Vision and Atmos Enhancement</u></a></li>
+<li><a href="https://media-tips.techidaily.com/on-schedule-upgrade-understanding-the-latest-price-hikes-on-paramountplus/"><u>On Schedule Upgrade: Understanding the Latest Price Hikes on Paramount+</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-corporate-browser-management-hurdles-in-chrome-and-edge/"><u>Overcoming Corporate Browser Management Hurdles in Chrome and Edge</u></a></li>
+<li><a href="https://media-tips.techidaily.com/protect-your-data-privacy-step-by-step-instructions-to-deactivate-youtubes-auto-downloads/"><u>Protect Your Data Privacy: Step-by-Step Instructions to Deactivate YouTube's Auto-Downloads</u></a></li>
+<li><a href="https://media-tips.techidaily.com/revolutionizing-in-car-entertainment-the-future-without-spotifys-car-thing/"><u>Revolutionizing In-Car Entertainment: The Future Without Spotify's 'Car Thing'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-correcting-livekernelevent-error-144/"><u>Troubleshooting Steps for Correcting LiveKernelEvent Error 144</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-hp-z440-computers-graphics-card-drivers-step-by-step-guide/"><u>Update Your HP Z440 Computer's Graphics Card Drivers: Step-by-Step Guide</u></a></li>
 </ul></div>
 
