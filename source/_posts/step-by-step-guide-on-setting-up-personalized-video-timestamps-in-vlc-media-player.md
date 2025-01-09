@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide on Setting Up Personalized Video Timestamps in VLC Media Player
-date: 2024-12-31T04:43:07.923Z
-updated: 2025-01-02T03:54:19.668Z
+date: 2025-01-04T21:30:43.701Z
+updated: 2025-01-09T17:14:38.262Z
 tags:
   - vlc
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6195218912eaa800d5cbedefde726b6171a7555ef
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use VLC Custom Bookmarks to Mark Video Positions?
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/6195218912eaa800d5cbedefde726b6171a7555ef
 How to continue your playback from where you left last time? How to easily access the specific parts in a very long video with a few clicks? **VLC Custom Bookmarks** feature will help remember the video playback position you just want to save. No need to spend much time to step forward your video, you can easily get to the right position without missing a frame.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create Bookmarks in VLC Media Player?
@@ -41,7 +41,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Custom Bookmarks](https://www.5kplayer.com/vlc/img/vlc-custom-bookmark.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** When the **Edit Bookmarks** window pops up, just click on the **Create** button to add bookmarks to your video. 
@@ -49,7 +49,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Create Bookmarks](https://www.5kplayer.com/vlc/img/vlc-create-bookmarks.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4.** To find the specific bookmarked video to play, just click on **Playback** \> **Custom Bookmarks** and choose the one to start playing.
@@ -83,7 +83,7 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -101,16 +101,19 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-step-by-step-guide-to-seamless-editing-of-full-spherical-video-content/"><u>[New] Step-by-Step Guide to Seamless Editing of Full Spherical Video Content</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-best-6-services-for-visual-text-interpretation/"><u>[Updated] 2024 Approved Best 6 Services for Visual Text Interpretation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/better-microsoft-bd-performance-for-windows-versions-1087/"><u>Better Microsoft BD Performance for Windows Versions 10/8/7</u></a></li>
-<li><a href="https://media-tips.techidaily.com/catch-every-nfl-game-live-top-5-essential-streaming-services-for-football-fans/"><u>Catch Every NFL Game Live: Top 5 Essential Streaming Services for Football Fans</u></a></li>
-<li><a href="https://media-tips.techidaily.com/concealing-sponsored-content-eliminating-alcohol-and-betting-promotions-from-your-youtube-experience/"><u>Concealing Sponsored Content: Eliminating Alcohol & Betting Promotions From Your YouTube Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/concealing-your-location-on-netflix-a-guide-to-appear-as-if-streaming-from-home/"><u>Concealing Your Location on Netflix: A Guide to Appear As if Streaming From Home</u></a></li>
-<li><a href="https://media-tips.techidaily.com/digital-streams-surge-forward-yet-cinephiles-cherish-tangible-tributes/"><u>Digital Streams Surge Forward: Yet Cinephiles Cherish Tangible Tributes</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-music-management-for-social-media-iphone-and-android-basics/"><u>In 2024, Music Management for Social Media IPhone & Android Basics</u></a></li>
-<li><a href="https://win-blog.techidaily.com/navigating-the-enigma-comprehensive-analysis-of-beyond-the-wire-incidents/"><u>Navigating the Enigma: Comprehensive Analysis of 'Beyond The Wire' Incidents</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-get-noticed-with-a-professional-video-resume-top-4-makers-for-2024/"><u>New Get Noticed with a Professional Video Resume Top 4 Makers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-expert-tips-for-high-quality-minecraft-saves/"><u>[New] In 2024, Expert Tips for High-Quality Minecraft Saves</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unveil-your-world-in-wide-angle-iosandroid-photo-integration-on-social-media/"><u>[Updated] 2024 Approved Unveil Your World in Wide Angle IOS/Android Photo Integration on Social Media</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-revolutionizing-fb-ads-through-innovative-and-effective-video-techniques/"><u>[Updated] In 2024, Revolutionizing FB Ads Through Innovative and Effective Video Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-faces-to-watch-top-cosmetic-creatives/"><u>[Updated] The Faces to Watch Top Cosmetic Creatives</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-vid-recorders-vault-top-techniques-for-tv-streaming/"><u>[Updated] Vid-Recorder's Vault Top Techniques for TV Streaming</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-simple-guide-converting-flv-files-for-ipad-iphone-and-psp-devices-on-your-mac/"><u>Quick & Simple Guide: Converting FLV Files for iPad, iPhone & PSP Devices on Your Mac</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streamlined-methods-for-transferring-videos-from-final-cut-pro/"><u>Streamlined Methods for Transferring Videos From Final Cut Pro</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streamlining-the-process-expert-tips-on-transforming-footage-into-stunning-4k/"><u>Streamlining the Process: Expert Tips on Transforming Footage Into Stunning 4K</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackling-excessive-processor-load-on-god-of-war-a-comprehensive-guide/"><u>Tackling Excessive Processor Load on God of War: A Comprehensive Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-picks-the-best-online-and-offline-tools-for-media-format-conversion/"><u>Top Picks: The Best Online and Offline Tools for Media Format Conversion</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-iphone-video-transformation-app-flv-to-ios-format/"><u>Top Rated iPhone Video Transformation App: FLV to iOS Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-techniques-for-transforming-flv-files-into-popular-video-types/"><u>Ultimate Techniques for Transforming FLV Files Into Popular Video Types</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to the AV1 Video Codec: Insights and Information"
-date: 2024-12-25T19:53:11.689Z
-updated: 2025-01-01T21:00:42.648Z
+date: 2025-01-03T16:29:16.197Z
+updated: 2025-01-09T20:22:08.979Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Todo sobre el códec de vídeo AV1 - Actualizando
@@ -36,10 +36,6 @@ Con las noticias sobre el **códec AV1** aparecidas a principios de 2023, puede 
 [3\. AV1 vs. VP9 vs. HEVC](https://tools.techidaily.com/5kplayer/video-music-player/)  
 [4\. ¿Qué soporta el códec de video AV1?](https://tools.techidaily.com/5kplayer/video-music-player/)   
 [5\. ¿Cómo descargar el códec de vídeo AV1?](https://tools.techidaily.com/5kplayer/video-music-player/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ¿Qué es el códec AV1?
 
@@ -65,6 +61,10 @@ En general, el códec AV1 está creado para una transmisión fluida de vídeo de
 
 **Universalidad:** De hecho, no hay ningún códec de archivos multimedia con el que ni siquiera los gigantes de la tecnología puedan conformarse y apoyarlo universalmente. El mejor ejemplo es: Los vídeos de YouTube conn resolución 4K no se pueden transmitir en Safari porque el navegador de Apple no es compatible con el VP9 de Google. Por lo tanto, la aparición del AV1 elimina la brecha y hace la comunicación mucho más fácil.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### AV1 vs. VP9 vs. HEVC
 
 Comparado con el códec HEVC, el códec AV1 no necesita patentes. Mientras que comparado con el VP9 y el H.264, la eficiencia de la codificación ha mejorado en gran medida. Esos son beneficios obvios. Para ser más detallados, basado en la prueba de Bitmovin, el códec AV1 actual ofrece una tasa de compresión un 20% y 30% mejor en comparación con VP9 y HEVC respectivamente, y se predice que la tasa de compresión debería ser un 50% mejor. En la prueba de Facebook de 2018, AV1 logró una compresión de datos 34%, 46,2% y 50,3% más alta que la de libvpx-vp9, x264 de perfil alto y x264 de perfil principal, respectivamente. Además, el fuerte apoyo de AOM le da a AV1 una enorme ventaja competitiva cuando se implementa en navegadores, dispositivos móviles, OTT, televisores inteligentes, etc., y ayuda a YouTube, Netflix, Amazon a distribuir contenidos más rápidamente. Eso es lo que otros códecs no pueden hacer para siempre.
@@ -76,7 +76,7 @@ En 2013, VP9 fue sacado por Google para tener la misma tasa de compresión con H
 ![AV1 VS VP9](https://www.5kplayer.com/video-music-player-es/../video-music-player/img/av1-vs-vp9.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _(Prueba de AV1 vs. VP9 de Bitmovin)_
@@ -108,7 +108,7 @@ La adopción del códec AV1 es diversa, lo que incluye servicios de streaming on
 **Reproductores multimedia:** El reproductor multimedia de código abierto VLC Media Player y [5KPlayer](https://tools.techidaily.com/5kplayer/products/) son los únicos dos programas de reproducción que soportan AV1 en la actualidad.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Las desventajas del códec AV1
@@ -116,7 +116,7 @@ La adopción del códec AV1 es diversa, lo que incluye servicios de streaming on
 La obvia deficiencia del códec de vídeo AV1 que encontramos a partir de ahora es que los algoritmos utilizados en AV1 son un poco más avanzados que los del HEVC, por lo que requiere un hardware y un software más potente para codificar o decodificar. Es por eso que ocurre el problema de que el AV1 no se reproduce, por eso YouTube advierte a sus usuarios con un mensaje de error como "todo los que supere los 480p requerirá un ordenador potente", y por eso el formato de vídeo AV1 no es popular entre el público en la actualidad. No importa, el AV1 será una superestrella al final con un futuro brillante.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### El futuro del códec de vídeo AV1
@@ -159,24 +159,16 @@ _**Fuente:**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-from-darkness-to-brilliance-mastering-iphones-hdr-techniques-for-2024/"><u>[New] From Darkness to Brilliance Mastering iPhone's HDR Techniques for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-ultimate-guide-top-20-cost-free-video-editing-websites/"><u>[Updated] Ultimate Guide Top 20 Cost-Free Video Editing Websites</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-smartest-devices-to-modify-your-speech-on-the-go/"><u>2024 Approved Smartest Devices to Modify Your Speech on the Go</u></a></li>
-<li><a href="https://media-tips.techidaily.com/7-simple-methods-to-seamlessly-transform-mp2-files-into-mp3-format-on-windows-mac-or-anywhere-online/"><u>7 Simple Methods to Seamlessly Transform MP2 Files Into MP3 Format on Windows, Mac, or Anywhere Online</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-5-tools-for-adjusting-video-and-audio-bitrates-with-ease/"><u>Best 5 Tools for Adjusting Video and Audio Bitrates with Ease</u></a></li>
-<li><a href="https://media-tips.techidaily.com/download-royalty-free-soundscapes-high-quality-audio-library-available-at-no-cost/"><u>Download Royalty-Free Soundscapes: High-Quality Audio Library Available at No Cost</u></a></li>
-<li><a href="https://media-tips.techidaily.com/efficient-audio-format-transformation-switching-from-mp3-to-m4a-using-top-rated-pc-and-web-conversion-tools/"><u>Efficient Audio Format Transformation: Switching From MP3 to M4A Using Top-Rated PC & Web Conversion Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-inbuilt-ai-work-an-exploration-of-local-machine-learning/"><u>How Does Inbuilt AI Work? An Exploration of Local Machine Learning</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-fix-common-video-errors/"><u>How to Fix Common Video Errors?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-web-based-subtitle-editor-tools/"><u>In 2024, Top 10 Web-Based Subtitle Editor Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lifelike-livestreaming-should-streamers-trust-softwares-or-systems-in-2024/"><u>Lifelike Livestreaming Should Streamers Trust Softwares or Systems, In 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/master-the-art-of-uwu-speech-exploring-the-top-3-software-for-making-anime-style-voices/"><u>Master the Art of Uwu Speech: Exploring the Top 3 Software for Making Anime-Style Voices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-simple-guide-transform-your-m3u8-playlists-into-high-quality-mp3-tracks-at-home-or-online/"><u>Quick and Simple Guide: Transform Your M3U8 Playlists Into High-Quality MP3 Tracks at Home or Online</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-most-effective-authentic-promotion-techniques/"><u>The 8 Most Effective, Authentic Promotion Techniques</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-simplified-approach-for-transforming-flac-music-tracks-into-m4a-format/"><u>The Simplified Approach for Transforming FLAC Music Tracks Into M4A Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transforming-video-files-a-step-by-step-guide-on-converting-mp4s-into-audio/"><u>Transforming Video Files: A Step-by-Step Guide on Converting MP4s Into Audio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-classic-adventures-in-hd-with-scummvm/"><u>Unlock the Full Potential of Classic Adventures in HD with ScummVM</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-pdf-analysis-for-chatgpt-learn-our-top-4-techniques/"><u>Unlocking the Power of PDF Analysis for ChatGPT: Learn Our Top 4 Techniques</u></a></li>
-<li><a href="https://media-tips.techidaily.com/wav-file-transformation-easy-mp3wav-format-conversion-with-top-rated-audio-tool/"><u>WAV File Transformation: Easy MP3/WAV Format Conversion with Top-Rated Audio Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-clearing-picture-edges/"><u>[New] Expert Techniques for Clearing Picture Edges</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-creating-viral-youtube-shorts-videos/"><u>[New] In 2024, A Comprehensive Guide to Creating Viral YouTube Shorts Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-your-blueprint-for-broadcasting-live-on-facebook/"><u>2024 Approved Your Blueprint for Broadcasting Live on Facebook</u></a></li>
+<li><a href="https://media-tips.techidaily.com/business-operators-must-comply-with-both-local-and-federal-laws-to-operate-legally/"><u>Business Operators Must Comply with Both Local and Federal Laws to Operate Legally.</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-steps-for-casting-mkv-files-from-your-computer-to-apple-tv-using-airplay/"><u>Easy Steps for Casting MKV Files From Your Computer to Apple TV Using AirPlay</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-high-resolution-video-casting-from-windows-10-to-apple-tv-models-5-4-and-3-using-airplay/"><u>Seamless High-Resolution Video Casting From Windows 10 to Apple TV Models 5, 4 & 3 Using AirPlay</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/selecting-your-perfect-mp4-device-for-2024/"><u>Selecting Your Perfect MP4 Device for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-strategies-to-flawlessly-project-iphone-display-onto-mac-devices/"><u>Simple Strategies to Flawlessly Project iPhone Display Onto Mac Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-free-media-player-software-for-windows-10-best-picks/"><u>Top Rated Free Media Player Software for Windows 10 - Best Picks</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/tutorial-passo-passo-su-come-connettere-il-tuo-computer-con-una-chiavetta-usb-o-ununita-flash-senza-problemi/"><u>Tutorial Passo-Passo Su Come Connettere Il Tuo Computer Con Una Chiavetta USB O Un'Unità Flash Senza Problemi</u></a></li>
 </ul></div>
 

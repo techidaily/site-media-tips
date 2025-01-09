@@ -1,7 +1,7 @@
 ---
 title: "Story 1: The Misconception of Radiation-Only Therapy"
-date: 2025-01-01T05:16:21.309Z
-updated: 2025-01-01T21:47:36.435Z
+date: 2025-01-02T17:12:27.861Z
+updated: 2025-01-09T20:35:13.331Z
 tags:
   - vlc
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2019 VLC Media Player Alternatives for Windows Free Download
 
@@ -36,6 +40,10 @@ What am I going to do here today is to test out the playback ability of frequent
 [5\. VLC Alternatives for Windows 360-deg Playback Test](https://tools.techidaily.com/5kplayer/products/)  
 [5\. Another VLC Alternatives for Windows - 5KPlayer](https://tools.techidaily.com/5kplayer/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: VLC Alternatives for Windows Test Preparations
 
 **Specification of My Test Computer:**
@@ -51,13 +59,13 @@ Monitor: Samsung SAM08DF S27B370 (27.2 inches)
 
 ![VLC Alternatives for Windows Test](https://www.5kplayer.com/vlc/img/vlc-alternative-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Specification of the Test Video Samples:**
 
 ![VLC Alternatives for Windows Test](https://www.5kplayer.com/vlc/img/vlc-alternative-win-test-vid.jpg) ![VLC Alternatives for Windows Sample Table](https://www.5kplayer.com/vlc/img/vlc-alternative-win-test-vid-info.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 With above test details given, let's throw videos at those "overbloated" media players and see if they are truly worthy of the praises.
 
@@ -69,17 +77,9 @@ Note that video output was set "Automatic", and it auto choosed Direct3D9\.
 
 ![VLC 8K Video Playback Test](https://www.5kplayer.com/vlc/img/vlc-8k.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **KMplayer 2018.10.7.14 for Windows** \- 8K video playback quality and CPU usage **\[#1\]**
 
 ![VLC 8K Video Playback Test](https://www.5kplayer.com/vlc/img/km-8k.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **PotPlayer 1.7.14804 for Windows** \- 8K video playback quality and CPU usage **\[#2\]**
 
@@ -88,10 +88,6 @@ Note that video output was set "Automatic", and it auto choosed Direct3D9\.
 #### **GOMplayer 2.3.34.5295 for Windows** \- 8K video playback quality and CPU usage **\[#3\]**
 
 ![VLC 8K Video Playback Test](https://www.5kplayer.com/vlc/img/gom-8k.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Verdict:**   
  Clearly seen from the above 8K video playback quality of each tested media player, VLC 3.0.4 was apparently rather an 8K disaster! My computer was like screaming in ultrasonic wave during the "color powder" playback, while the CPU usage suddenly surged to 95! Yet, could not see a thing! 
@@ -108,17 +104,21 @@ VLC media player was going choppy at first, but given time, it gradually fell in
 
 ![VLC 4K Video Playback Test](https://www.5kplayer.com/vlc/img/vlc-4k.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **KMplayer 2018.10.7.14 for Windows** \- 4K HDR video playback quality and CPU usage **\[#2\]**
 
 ![Windows VLC Alternative 4K Playback](https://www.5kplayer.com/vlc/img/km-4k.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **PotPlayer 1.7.14804 for Windows** \- 4K HDR video playback quality and CPU usage **\[#1\]**
 
 ![Windows VLC Alternative 4K Playback](https://www.5kplayer.com/vlc/img/pot-4k.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **GOMplayer 2.3.34.5295 for Windows** \- 4K HDR video playback quality and CPU usage **\[#3\]**
 
@@ -126,6 +126,10 @@ VLC media player was going choppy at first, but given time, it gradually fell in
 
 **Verdict:**  
  GOMplayer secretely jumps frames and is slow at starting, but even so, it is still more capable of processing 4K HDR video than VLC in terms of video output quality. PotPlayer delivers constant and relatively smooth visuals as it is with KMplayer, only that PotPlayer takes a higher CPU usage of about 86% while KMPlayer's control bar stays unmoved. The best 4K HDR video player goes to both **KMPlayer** and **Potplayer** in this round. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: VLC Alternatives for Windows SlowMo Playback Test
 
@@ -141,19 +145,23 @@ KMPlayer was doing good in slow-motion video playback. It reads the video as if 
 
 ![Windows VLC Alternative Slowmotion Playback](https://www.5kplayer.com/vlc/img/km-slmo.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **PotPlayer 1.7.14804 for Windows** \- Slowmo video playback quality and CPU usage **\[#2\]**
 
 VLC media player was going choppy at first, but given time, it gradually fell in the tune with the video and started to read it, but still in a poorly manner at an alarming high CPU usage of 90\. 
 
 ![Windows VLC Alternative Slowmotion Playback](https://www.5kplayer.com/vlc/img/pot-slmo.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **GOMplayer 2.3.34.5295 for Windows** \- Slowmo video playback quality and CPU usage **\[#3\]**
 
 ![Windows VLC Alternative Slowmotion Playback](https://www.5kplayer.com/vlc/img/gom-slmo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Verdict:**  
  From above comparison, **KMPlayer** is the most stable media player for iPhone recorded slow motion videos no matter in HEVC or AVC H264\. It successfully reads iOS recorded slow-mo video with speed marks as contained in the video data. However, Gomplayer jumps frames rapidly; VLC freezes at the first frame, unable to read; Potplayer only reads slow motion video in HEVC codec and plays AVC H264 slow-mo video at normal speed. 
@@ -166,15 +174,15 @@ VLC media player only supports raw 360-deg videos. It cannot enforce 360 visual 
 
 ![Windows VLC Alternative 360 Video Playback](https://www.5kplayer.com/vlc/img/vlc-360.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **KMplayer 2018.10.7.14 for Windows** \- 360-deg video playback quality and CPU usage **\[#1\]**
 
 There are three 360 degree video modes to choose in KMPlayer: original size, normal mode VR and little planet mode VR. The only drawback of this player for 360 video playback is its relatively slow interactive response and poor video quality. 
 
 ![Windows VLC Alternative 360 Video Playback](https://www.5kplayer.com/vlc/img/km-360.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **PotPlayer 1.7.14804 for Windows** \- 360-deg video playback quality and CPU usage **\[#2\]**
 
@@ -189,19 +197,11 @@ There are even more 360-deg video modes in PotPlayer, as we can see from the giv
 **Verdict**:  
  GOMplayer delivers flexible and quick 360-deg video interactive response between mouse clicks and the view angle, it also provides a tank of 360-deg videos from online for direct playback with relatively better visuals. GOM is like a 360-deg themed video player, while Potplayer and KMplayer only offers the ability to read those files in serveral modes. VLC is the poorest player to handle 360-deg videos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Another VLC Player Alternative Windows - 5KPlayer
 
 Another VLC alternative for Windows would be [5KPlayer](https://tools.techidaily.com/5kplayer/products/). This media player is a more elegant version of VLC which provides AirPlay mirroring recording, DLNA streaming, YouTube download, live streaming, as well as 4K HEVC video playback utilities. You can not only use it to play common videos audio in MOV MP4 MPEG ASF DivX FLV and MP3 WAV AAC etc, but also open CDs and DVDs. Even better, this Windows VLC player alternative allows you to adjust movies and extract audio from a video. 
 
 ![VLC Player Alternative Windows](https://www.5kplayer.com/vlc/../video-music-player/img/5kplayer-ver-dlna.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 All in all, for 4K/8K 8-bit video(gopro/drone/YouTube downloads,etc), go for KMPlayer > PotPlayer > GOMPlayer.  
 For 360-deg VR video, go for PotPlayer = GOMPlayer = KMPlayer.   
@@ -227,20 +227,18 @@ Install 5KPlayer, KMPlayer, PotPlayer, GOMPlayer, besides VLC. And it is prooved
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-high-performance-low-price-excellent-asmr-mics-for-2024/"><u>[New] High Performance, Low Price Excellent ASMR Mics for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-art-of-visual-excellence-leveraging-enhancer-22/"><u>[New] The Art of Visual Excellence - Leveraging Enhancer 2.2</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-ultimate-iphone-photography-playbook/"><u>[New] The Ultimate iPhone Photography Playbook</u></a></li>
-<li><a href="https://solve-info.techidaily.com/how-to-ensure-your-windows-defender-is-always-current-tips-from-yl-computing/"><u>How to Ensure Your Windows Defender Is Always Current: Tips From YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-k70-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi K70 Pro To Phone | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/introducing-youtube-musics-latest-feature-the-share-friendly-personal-radio-experience/"><u>Introducing YouTube Music's Latest Feature: The Share-Friendly Personal Radio Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/is-the-discontinuation-of-roku-streambar-pro-on-the-horizon/"><u>Is the Discontinuation of Roku Streambar Pro on the Horizon?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maximizing-your-youtube-premium-experience-tips-and-tricks/"><u>Maximizing Your YouTube Premium Experience: Tips and Tricks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/new-amazon-prime-video-fee-additional-costs-for-dolby-vision-and-atmos-enhancement/"><u>New Amazon Prime Video Fee: Additional Costs for Dolby Vision and Atmos Enhancement</u></a></li>
-<li><a href="https://media-tips.techidaily.com/on-schedule-upgrade-understanding-the-latest-price-hikes-on-paramountplus/"><u>On Schedule Upgrade: Understanding the Latest Price Hikes on Paramount+</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-corporate-browser-management-hurdles-in-chrome-and-edge/"><u>Overcoming Corporate Browser Management Hurdles in Chrome and Edge</u></a></li>
-<li><a href="https://media-tips.techidaily.com/protect-your-data-privacy-step-by-step-instructions-to-deactivate-youtubes-auto-downloads/"><u>Protect Your Data Privacy: Step-by-Step Instructions to Deactivate YouTube's Auto-Downloads</u></a></li>
-<li><a href="https://media-tips.techidaily.com/revolutionizing-in-car-entertainment-the-future-without-spotifys-car-thing/"><u>Revolutionizing In-Car Entertainment: The Future Without Spotify's 'Car Thing'</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-correcting-livekernelevent-error-144/"><u>Troubleshooting Steps for Correcting LiveKernelEvent Error 144</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-hp-z440-computers-graphics-card-drivers-step-by-step-guide/"><u>Update Your HP Z440 Computer's Graphics Card Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-virtualvicar-video-vetting/"><u>[New] VirtualVicar Video Vetting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-stand-out-yt-thumbnail-size-and-engagement-strategies/"><u>[Updated] 2024 Approved How to Stand Out YT Thumbnail Size and Engagement Strategies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unified-media-exchange-android-ios/"><u>[Updated] Unified Media Exchange Android-iOS</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/server-20122016201n92022/"><u>不间断保存：Server 2012、2016、201N9、2022的最强数据备份指南</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-a14-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy A14 5G Phone Screen?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-12-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 12 to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-xr-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone XR to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/making-memes-made-easy-a-step-by-step-iphone-tutorial-for-beginners-featuring-the-newest-meme-creators/"><u>Making Memes Made Easy: A Step-by-Step iPhone Tutorial for Beginners, Featuring the Newest Meme Creators</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-gif-background-creation-a-comprehensive-guide-for-multiplatform-use/"><u>Mastering GIF Background Creation: A Comprehensive Guide for Multiplatform Use</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-morning-greetings-how-to-design-engaging-animated-gifs-for-a-fresh-start/"><u>Mastering Morning Greetings: How to Design Engaging Animated GIFs for a Fresh Start</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-ai-explanation-guide/"><u>Simple AI Explanation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-tailoring-your-alerts-in-android-applications/"><u>Step-by-Step Guide: Tailoring Your Alerts in Android Applications</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-10-screenshot-to-gif-conversion-applications-the-ultimate-guide/"><u>Top 10 Screenshot-to-GIF Conversion Applications: The Ultimate Guide</u></a></li>
 </ul></div>
 

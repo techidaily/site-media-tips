@@ -1,7 +1,7 @@
 ---
 title: "Fixing the VLC-AirPlay Glitch: Effective Strategies for Uninterrupted Streaming"
-date: 2024-12-29T21:38:02.670Z
-updated: 2025-01-02T06:59:26.685Z
+date: 2025-01-06T16:06:18.893Z
+updated: 2025-01-09T18:48:57.249Z
 tags:
   - vlc
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Solve VLC AirPlay Not Working Issue?
 
@@ -38,7 +42,7 @@ The problem can highly lie in Windows 10 update build 1803, which has managed to
 3\. Also, VLC AirPlay not loading issue can also be resulted from WiFi routers, which can block multicast packets going from wired to wireless if your PC is at wired connection. In this case, your best defense is to buy high-quality APs from companies that care about making sure multicasts work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VLC AirPlay not working issue 2: Apple TV No Sound AirPlay from VLC 4
@@ -48,7 +52,7 @@ VLC AirPlay no sound on Apple TV issue can be, case 1, "volume still plays on th
 ![VLC 4 AirPlay No Sound Apple TV](https://www.5kplayer.com/vlc/img/Apple-TV-Audio-16bit.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 For the first case, you might want to reset your core audio. On Mac, launch the terminal and enter the command: sudo killall coreaudiod and press Enter; on Windows and Apple TV, reboot your devices to restart audio drive.
@@ -59,15 +63,15 @@ For the second case, it can be a problem with Apple TV audio output setting.
 1\. Go to Settings > Audio & Video on your Apple TV > Change the Audio Output setting from Auto to 16 bit  
 2\. Change Dolby Digital Out setting: set to Off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VLC AirPlay not working issue 3: Apple TV Sound but No Picture AirPlay from VLC 4
 
 VLC AirPlay not showing video on TV renderer. "Playing a movie through Itunes; it works great. Playing a movie through Beamer; it works great. Using VLC Airplay; all I get is sound and no video." 
 
 ![VLC 4 AirPlay Not Working No Video](https://www.5kplayer.com/vlc/../airplay/img/airplay-pc-to-apple-tv-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Solutions:**   
  Check AirPlay status on the Apple TV. Turn it off and on.  
@@ -82,10 +86,6 @@ If necessary, you may want to
  Restart your router. (Also try removing it’s power cord for at least 30 seconds)  
  Restart your mobile device or computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Another Way to Solve VLC AirPlay Not Working
 
 **VLC AirPlayer Alternative – [5KPlayer](https://tools.techidaily.com/5kplayer/products/) \- Recommend Workaround.**
@@ -97,7 +97,7 @@ If necessary, you may want to
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -115,17 +115,21 @@ If necessary, you may want to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-from-capture-to-share-a-quick-guide-to-instagram-video-uploads-on-desktop/"><u>[New] From Capture to Share A Quick Guide to Instagram Video Uploads on Desktop</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-identifying-best-free-online-and-web-services-tiktok-to-mp3-converter-list-6/"><u>[New] In 2024, Identifying Best Free Online and Web Services TikTok to MP3 Converter List (6)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ave-money-and-time-creating-engaging-youtube-intros-without-paying-for-2024/"><u>[New] Save Money & Time Creating Engaging YouTube Intros Without Paying for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-navigating-social-streams-find-just-watched-video-list-on-facebook-for-2024/"><u>[Updated] Navigating Social Streams Find Just-Watched Video List on Facebook for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-steadicam-models-compatible-with-dslr-cameras-for-2024/"><u>[Updated] Top Steadicam Models Compatible with DSLR Cameras for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-lut-sets-unlocked-dji-mini-air-2-in-the-spotlight/"><u>2024 Approved Free LUT Sets Unlocked - DJI Mini, Air 2 in the Spotlight</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fastest-ways-convert-dat-files-into-mp4-format-with-top-3-reliable-tools/"><u>Fastest Ways: Convert DAT Files Into MP4 Format with Top 3 Reliable Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-peak-laughter-edit-suite/"><u>In 2024, Peak Laughter Edit Suite</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-steps-how-to-effortlessly-transform-your-hd-videos-into-perfectly-playable-formats-for-psp-using-a-specialized-video-converter/"><u>Simple Steps: How to Effortlessly Transform Your HD Videos Into Perfectly Playable Formats for PSP Using a Specialized Video Converter</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-your-videos-effortlessly-learn-how-to-switch-from-flip-mp4-to-mov-or-wmv-formats/"><u>Transform Your Videos Effortlessly: Learn How to Switch From Flip MP4 to MOV or WMV Formats</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-tips-fixing-instagram-video-upload-problems/"><u>Troubleshooting Tips: Fixing Instagram Video Upload Problems</u></a></li>
-<li><a href="https://win-guides.techidaily.com/alkhtoa-bha-nkl-albyanat-byn-windows-10-o-11-mn-ghaz-krsy-thabt/"><u>الخطوة بها نقل البيانات بين Windows 10 و 11 من جهاز قرصي ثابت</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-guide-to-laughing-photo-editing-tools-iosandroid/"><u>[New] In 2024, Ultimate Guide to Laughing Photo Editing Tools (iOS/Android)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gratitude-gift-selecting-high-quality-otus-freepaid/"><u>[Updated] Gratitude Gift Selecting High-Quality OTUs (Free/Paid)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-visualtwitter-quickly-download-and-share-videos-on-mobile/"><u>[Updated] VisualTwitter Quickly Download and Share Videos on Mobile</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-scripting-success-the-art-of-good-documentaries/"><u>2024 Approved Scripting Success The Art of Good Documentaries</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620206806-access-premium-royalty-free-sfx-get-your-complimentary-sound-package-for-creative-projects-now/"><u>Access Premium Royalty-Free SFX: Get Your Complimentary Sound Package for Creative Projects Now!</u></a></li>
+<li><a href="https://facebook.techidaily.com/cybersecurity-trend-300-oculus-purchases-breached-accounts/"><u>Cybersecurity Trend: $300 Oculus Purchases, Breached Accounts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-top-5-must-have-audio-editors-for-mac-users-looking-to-simplify-music-creation/"><u>Discover the Top 5 MUST-Have Audio Editors for Mac Users Looking to Simplify Music Creation</u></a></li>
+<li><a href="https://media-tips.techidaily.com/fast-methods-for-converting-aiff-files-to-mp3-format-both-online-and-offline-solutions/"><u>Fast Methods for Converting AIFF Files to MP3 Format: Both Online & Offline Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-14-pro-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 14 Pro with iTunes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18-pro-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo S18 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620208633-master-the-art-of-music-blending-a-step-by-step-guide-with-visuals-simplified/"><u>Master the Art of Music Blending: A Step-by-Step Guide with Visuals, Simplified!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/meilleures-logiciels-de-sous-titrage-video-2024-guide-comparatif/"><u>Meilleures Logiciels De Sous-Titrage Vidéo 2024 : Guide Comparatif</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620208865-quick-tips-for-transforming-your-wma-tracks-into-high-quality-wav-files/"><u>Quick Tips for Transforming Your WMA Tracks Into High-Quality WAV Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transition-from-mp3-unlocking-the-advantages-of-converting-to-aac-audio-format/"><u>Transition From MP3: Unlocking the Advantages of Converting to AAC Audio Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-list-of-leading-audio-fusion-software-for-seamless-mp3-integration-ranked-4-to-1/"><u>Ultimate List of Leading Audio Fusion Software for Seamless MP3 Integration, Ranked #4 to #1</u></a></li>
 </ul></div>
 

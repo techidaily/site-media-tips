@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Sharing Your iOS Gaming Sessions on Twitch via OBS
-date: 2024-12-28T03:56:16.888Z
-updated: 2025-01-02T02:48:08.418Z
+date: 2025-01-03T21:41:28.342Z
+updated: 2025-01-09T18:08:32.756Z
 tags:
   - airplay
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d8
 Anyone who wants to **broadcast iOS games on Twitch.tv using OBS streaming** would find it quite annoying that OBS requires the game to be playing on the desktop in the first place. This is not at all a problem for macOS users, since they can directly mirror iPhone/iPad iOS screen to a Mac. But it can be quite another story for Windows user. How can we add iOS to OBS streaming source on PC Windows to stream Fortnite on Twitch PC? [5KPlayer](https://tools.techidaily.com/5kplayer/products/) freeware holds the answer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stream Fortnite iOS Game with OBS to Twitch/FB/Twitter?
@@ -42,7 +42,7 @@ Ta-dah, your iPad screen is now shown on your Windows computer, ready to be capt
 ![iPhone Xs Max Screen Mirroring](https://www.5kplayer.com/airplay/img/ipad-pro-2-windows-10-b.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Open OBS, under Source, and click on "Add", choose Windows Capture to capture 5KPlayer window precisely.
@@ -52,11 +52,7 @@ Ta-dah, your iPad screen is now shown on your Windows computer, ready to be capt
 ![OBS iPhone Streaming](https://www.5kplayer.com/airplay/img/obs-ios.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stream iOS Games Fortnite to Twitch.tv with OBS on PC
@@ -72,12 +68,16 @@ You will need to get the Stream Key before broadcasting to Twitch.tv
 ![how to stream iOS games with obs](https://www.5kplayer.com/airplay/img/obs-twitch.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5KPlayer can also directly [record your Fortnite game](https://tools.techidaily.com/5kplayer/airplay/) without OBS on PC Windows/Mac wirelessly. Get this free iPhone screen recording and streaming tool to work with OBS now!
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,16 +94,18 @@ You will need to get the Stream Key before broadcasting to Twitch.tv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://media-tips.techidaily.com/599-deal-access-to-a-full-years-worth-of-apple-tvplus-subscriptions-for-just-three-months/"><u>$5.99 Deal - Access to a Full Year's Worth of Apple TV+ Subscriptions for Just Three Months!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-spectrum-enhanced-by-blades-newest-quad-hd-cameras/"><u>2024 Approved The Spectrum Enhanced by Blade's Newest Quad-HD Cameras</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-oppo-a38-frp-bypass-by-drfone-android/"><u>About Oppo A38 FRP Bypass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-concept-to-creation-painting-ai-masterpieces-on-windows-11-paint-cocreator-edition/"><u>From Concept to Creation: Painting AI Masterpieces on Windows 11, Paint Cocreator Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-achieve-a-seamless-experience-less-latency-more-fps/"><u>How to Achieve a Seamless Experience: Less Latency, More FPS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/key-insights-on-market-research-for-effective-business-decisions/"><u>Key Insights on Market Research for Effective Business Decisions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/why-digital-filmstreams-cant-match-the-charm-of-in-person-dvd-lending-services/"><u>Why Digital Filmstreams Can't Match the Charm of In-Person DVD Lending Services</u></a></li>
-<li><a href="https://media-tips.techidaily.com/why-owning-music-in-mp3-format-beats-the-convenience-of-streaming-services/"><u>Why Owning Music in MP3 Format Beats the Convenience of Streaming Services</u></a></li>
-<li><a href="https://media-tips.techidaily.com/xgimi-vs-sony-battle-of-the-titans-featuring-imax-enhanced-projection-technology/"><u>XGIMI vs Sony: Battle of the Titans Featuring IMAX-Enhanced Projection Technology</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discovering-2023s-cinematic-hidden-gems/"><u>[New] 2024 Approved Discovering 2023'S Cinematic Hidden Gems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-balanced-photography-top-phones-and-cameras-tripod/"><u>[New] Balanced Photography Top Phones & Cameras Tripod</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-master-the-art-of-preserving-your-musical-journey-for-2024/"><u>[New] Master the Art of Preserving Your Musical Journey for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-optimal-introduction-editor-software-apps/"><u>[New] Optimal Introduction Editor Software (Apps)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-proper-techniques-to-snag-free-secure-vlc-on-a-mac-device-for-2024/"><u>[New] Proper Techniques to Snag Free, Secure VLC on a Mac Device for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficient-methods-for-high-fidelity-mkv-to-avi-conversion-on-macos-and-windows-platforms/"><u>Efficient Methods for High-Fidelity MKV to AVI Conversion on macOS and Windows Platforms</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-methods-for-converting-videos-seamlessly-from-pc-to-your-xbox/"><u>Effortless Methods for Converting Videos: Seamlessly From PC to Your Xbox</u></a></li>
+<li><a href="https://media-tips.techidaily.com/everything-you-need-to-know-about-tiff-files-explained/"><u>Everything You Need to Know About TIFF Files Explained</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-on-converting-videos-for-optimal-playback-on-your-ipad/"><u>Guide on Converting Videos for Optimal Playback on Your iPad</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-seamlessly-change-mp4-files-to-flv-your-guide-to-the-leading-cost-free-conversion-utilities/"><u>How to Seamlessly Change MP4 Files to FLV: Your Guide to the Leading Cost-Free Conversion Utilities</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-xr-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone XR Device from iCloud</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-sony-xperia-10-v-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Sony Xperia 10 V Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-correcting-previously-detected-issues-with-windows-update-db-on-win10/"><u>Troubleshooting Guide: Correcting Previously Detected Issues with Windows Update DB on Win10</u></a></li>
 </ul></div>
 

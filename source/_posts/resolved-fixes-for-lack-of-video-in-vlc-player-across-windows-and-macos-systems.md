@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for Lack of Video in VLC Player Across Windows & macOS Systems"
-date: 2024-12-09T22:48:55.451Z
-updated: 2024-12-15T17:26:40.050Z
+date: 2025-01-02T16:04:37.197Z
+updated: 2025-01-09T20:53:07.214Z
 tags:
   - vlc
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/461111458e3b4ce139d48fb2aa4a766468aa7e6bd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix VLC No Video on Mac/Windows 10 When Playing MP4 MKV AVI etc Files
@@ -61,7 +61,7 @@ Someone had solved the VLC no video only audio issue by resetting the Preference
 ![VLC No Video](https://www.5kplayer.com/vlc/img/vlc-output-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Mac:** Click on VLC on the top left corner of Mac > Preferences > Show All > Click on Video on the left bar > Output modules > choose the output mode from the drop down menu.
@@ -69,7 +69,7 @@ Someone had solved the VLC no video only audio issue by resetting the Preference
 ![VLC No Video Only Audio](https://www.5kplayer.com/vlc/img/vlc-ouput-mac.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6\. The particular video has a video format that VLC doesn't support**
@@ -79,7 +79,7 @@ Usually, when there is unsupported video codec contained in the video file, VLC 
 Hope these solutions offer helps. If you have tried the above methods but find VLC no video problem still exists, maybe you should try a [VLC alternative](https://tools.techidaily.com/5kplayer/video-music-player/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best VLC Media Player Alternative Free Download
@@ -89,7 +89,7 @@ Hope these solutions offer helps. If you have tried the above methods but find V
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -107,18 +107,18 @@ Hope these solutions offer helps. If you have tried the above methods but find V
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-revolutionary-strategies-for-youtube-and-facebook-integration/"><u>[New] Revolutionary Strategies for YouTube & Facebook Integration</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-boost-communication-merging-skype-and-zoom-functionality/"><u>[Updated] 2024 Approved Boost Communication Merging Skype and Zoom Functionality</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-views-to-valuables-the-ultimate-video-income-play/"><u>[Updated] In 2024, From Views to Valuables The Ultimate Video Income Play</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1716069308273-updated-in-2024-tiny-titans-top-games-anthology/"><u>[Updated] In 2024, Tiny Titans' Top Games Anthology!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-success-starts-here-best-tutorials-for-starters/"><u>[Updated] YouTube Success Starts Here Best Tutorials for Starters</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-efficiently-compress-your-mp3s-using-audacity-expert-tips-and-techniques/"><u>How to Efficiently Compress Your MP3s Using Audacity - Expert Tips & Techniques</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-15-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 15 Properly | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone X</u></a></li>
-<li><a href="https://media-tips.techidaily.com/proven-strategies-to-cut-out-distracting-ambient-noise-from-audio-files/"><u>Proven Strategies to Cut Out Distracting Ambient Noise From Audio Files</u></a></li>
-<li><a href="https://media-tips.techidaily.com/smart-aiff-file-compression-strategies-for-efficient-storage-and-management/"><u>Smart AIFF File Compression Strategies for Efficient Storage and Management</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-top-5-best-id3-music-tag-editors-for-windows-and-macos/"><u>The Ultimate Guide: Top 5 Best ID3 Music Tag Editors for Windows & macOS</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-professional-apps-for-eliminating-audio-background-noise-efficiently/"><u>Top 5 Professional Apps for Eliminating Audio Background Noise Efficiently</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-ranking-wav-compression-tools-find-your-perfect-choice/"><u>Top-Ranking WAV Compression Tools: Find Your Perfect Choice</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-toggle-pip-mode-in-ios-a-step-by-step-approach-for-2024/"><u>[New] How to Toggle PIP Mode in iOS A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-spacious-mini-cities-with-oriental-flair/"><u>[Updated] Spacious Mini Cities with Oriental Flair</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmmakers-companion-filmora-for-youtube-trailers/"><u>2024 Approved Filmmaker's Companion Filmora for YouTube Trailers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/custom-action-implementation-in-idotnet-framework/"><u>Custom Action Implementation in IDotNet Framework</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cutting-edge-radio-theatre-scripting/"><u>Cutting-Edge Radio Theatre Scripting</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-conversion-how-to-upgrade-your-videos-to-stunning-4k-1080p-and-720p-resolutions/"><u>Effortless Conversion: How to Upgrade Your Videos to Stunning 4K, 1080P, and 720P Resolutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-note-50-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Note 50 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-your-hevc-footage-into-mov-files-without-compromising-quality-ideal-for-pc-internet-streaming-and-mobiles/"><u>How to Transform Your HEVC Footage Into MOV Files Without Compromising Quality - Ideal for PC, Internet Streaming & Mobiles</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oneplus-11-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>OnePlus 11 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-guide-enabling-closed-captioning-on-apple-tv-screen/"><u>Quick Guide: Enabling Closed Captioning on Apple TV Screen</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-guide-how-to-seamlessly-transform-vob-format-into-mpeg-transport-stream-ts/"><u>Quick Guide: How to Seamlessly Transform VOB Format Into MPEG-Transport Stream (TS)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-avi-files-into-xvid-format/"><u>Step-by-Step Guide: Converting AVI Files Into Xvid Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transform-your-avchd-files-into-high-quality-avi-a-3-step-guide/"><u>Transform Your AVCHD Files Into High-Quality AVI: A 3-Step Guide</u></a></li>
 </ul></div>
 
