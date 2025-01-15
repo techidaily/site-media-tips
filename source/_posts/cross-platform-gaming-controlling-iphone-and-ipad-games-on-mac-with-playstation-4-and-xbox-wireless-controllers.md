@@ -1,7 +1,7 @@
 ---
 title: "Cross-Platform Gaming: Controlling iPhone and iPad Games on Mac with PlayStation 4 & Xbox Wireless Controllers"
-date: 2025-01-07T18:22:07.432Z
-updated: 2025-01-09T21:41:27.807Z
+date: 2025-01-12T16:03:52.854Z
+updated: 2025-01-15T16:07:24.151Z
 tags:
   - airplay
 categories:
@@ -28,10 +28,6 @@ With the release of Apple Arcade, iOS 13 and iPadOS 13's support for PS4 and Xbo
 [Part 1\. Connect PS4 or Xbox One Controller to iOS 13/iPadOS](https://tools.techidaily.com/5kplayer/airplay/)  
 [Part 2\. Screen Mirror iOS 13/iPadOS Game to Computer](https://tools.techidaily.com/5kplayer/airplay/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Part 1\. How to Connect a PS4/Xbox One Controller on iOS 13/iPadOS?
 
 Now, your iPhone or iPad can be portable PS4 or Xbox One game console, and you can even allow it to access your iOS 13/iPadOS microphone to talk to your friends in a party or through a game chat. If interested, you can also [play Apple Arcade games](https://tools.techidaily.com/5kplayer/airplay/) on iPhone iPad Apple TV through the controllers now. To start playing iOS 13/iPadOS games on computer with PS4 or Xbox One controllers, you need to set up these controllers first.
@@ -47,6 +43,10 @@ If you're running iOS 13 or iPadOS 13, you can now use Sony PlayStation 4 DualSh
 **Step 3.** Now turn to your PS4 DualShock 4 controller. Just firm press the PlayStation button and the Share button at the same time, and hold them down for a few seconds. Then, the light on the back of your DualShock 4 should start flashing intermittently. 
 
 ![Pair PS4 Controller to iOS 13](https://www.5kplayer.com/airplay/img/pair-ps4-controller-to-ios13.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Now, on your iPhone or iPad, you should see "DUALSHOCK 4 Wireless Controller" pop up under OTHER DEVICES in the Bluetooth menu. Just tap it.  
 **Step 5.** Now turn to your PS4 DualShock 4 controller again. The light on the back of your DualShock should immediately switch to a reddish-pink color. That means your PlayStation 4 DualShock 4 controller is paired to your iOS 13 iPhone or iPadOS iPad.  
@@ -64,13 +64,13 @@ If you're running iOS 13 or iPadOS 13, you can now use Sony PlayStation 4 DualSh
 ![Pair Xbox One Controller to iOS 13](https://www.5kplayer.com/airplay/img/pair-xbox-controller-to-ios13.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Notice:** You can use the model number 1708 of Xbox One, aka Xbox One S, to pair to iOS 13 and iPadOS. Also, the new Elite 2 controller with Bluetooth support that Microsoft Xbox just announced at E3 can be an ideal one. You may think that these two kinds of models can pair with the new iOS 13 and iPadOS, but the fact is most modern Xbox One controllers support Bluetooth that you can use to play games on iOS 13 iPhone and iPadOS iPad.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Play Games from iOS 13/iPadOS to Computer with PS4/Xbox One Controller?
@@ -90,7 +90,7 @@ Now that you have connected your game console to iOS 13 or iPadOS, the only job 
 ![Mirror iOS 13 Games to Computer](https://www.5kplayer.com/airplay/img/airplay-ipad-2-to-mac.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Fire up a game and you're good to go. Besides helping play games from iOS 13/iPadOS to computer with PS4/Xbox One controller through the iPadOS/[iOS 13 screen mirroring](https://tools.techidaily.com/5kplayer/airplay/) feature, 5KPlayer's screen mirror function also allows for the newest [iPhone 11, 11 Pro, 11 Pro Max AirPlay](https://tools.techidaily.com/5kplayer/airplay/) to Mac and PC. Born to be a multimedia player, downloader and streamer, you are also able to use it to play 4K MP4 MKV etc videos, download video clips as well as [DLNA stream](https://tools.techidaily.com/5kplayer/dlna/) video music to DLNA-compatible devices.
@@ -98,7 +98,7 @@ Fire up a game and you're good to go. Besides helping play games from iOS 13/iPa
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -116,16 +116,19 @@ Fire up a game and you're good to go. Besides helping play games from iOS 13/iPa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-achieving-1k-subs-in-a-weekend-a-plan-of-action-for-2024/"><u>[Updated] Achieving 1K Subs in a Weekend A Plan of Action for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-compreehing-and-engaging-with-your-twitter-archive/"><u>[Updated] In 2024, Compreehing & Engaging with Your Twitter Archive</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-hacking-the-art-of-high-quality-twitch-video-captures/"><u>[Updated] In 2024, Hacking the Art of High-Quality Twitch Video Captures</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1-mastering-live-streams-a-step-by-step-guide-on-broadcasting-ios-games-on-twitch-using-obs/"><u>1. Mastering Live Streams: A Step-by-Step Guide on Broadcasting iOS Games on Twitch Using OBS</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-complete-splayer-software-downloader-for-windows-11-a-step-by-step-tutorial/"><u>Free Complete SPlayer Software Downloader for Windows 11: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-effortlessly-project-ios-device-display-onto-desktops-and-televisions/"><u>How To Effortlessly Project IOS Device Display Onto Desktops & Televisions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-nubia-red-magic-9-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Nubia Red Magic 9 Pro Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-xstudio-complete-video-setup-analysis-for-2024/"><u>Mastering XStudio Complete Video Setup Analysis for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-the-future-the-premier-drawing-tech-for-creatives-2024-edition/"><u>Navigating the Future: The Premier Drawing Tech for Creatives, 2024 Edition</u></a></li>
-<li><a href="https://media-tips.techidaily.com/understanding-the-h266-standard-a-guide-to-the-versatile-video-coding/"><u>Understanding the H.266 Standard: A Guide to the Versatile Video Coding</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleashing-the-full-potential-of-your-phone-into-vr-realm/"><u>Unleashing the Full Potential of Your Phone Into VR Realm</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-innovative-ideas-for-fb-slideshow-creations/"><u>[New] In 2024, Innovative Ideas for FB Slideshow Creations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-achieve-cinematic-quality-with-ipad-time-lapses/"><u>[Updated] Achieve Cinematic Quality with iPad Time-Lapses</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-ultimate-5-subtitle-conversion-tools-for-effortlessly-changing-txt-to-srtstlasssccttml/"><u>Discover the Ultimate 5 Subtitle Conversion Tools for Effortlessly Changing TXT to SRT/STL/ASS/SCC/TTML</u></a></li>
+<li><a href="https://win-studio.techidaily.com/exploring-parent-control-capabilities-in-microsoft-windows-defender-a-yl-software-perspective/"><u>Exploring Parent Control Capabilities in Microsoft Windows Defender: A YL Software Perspective</u></a></li>
+<li><a href="https://media-tips.techidaily.com/fast-conversion-guide-transforming-tod-files-into-mp4-format-on-your-mac/"><u>Fast Conversion Guide: Transforming TOD Files Into MP4 Format on Your Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-avi-files-into-compatible-mp4-players-for-kindle-fire-using-a-mac/"><u>How to Transform AVI Files Into Compatible MP4 Players for Kindle Fire Using a Mac</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-8-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 8 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-videos-from-mp4-to-divx-format-on-pc-or-mac/"><u>Step-by-Step Guide: Converting Videos From MP4 to DivX Format on PC or Mac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oneplus-11r-by-drfone-android/"><u>Three Ways to Sim Unlock OnePlus 11R</u></a></li>
+<li><a href="https://media-tips.techidaily.com/tutorial-successfully-uploading-an-imovie-to-the-youtube-platform/"><u>Tutorial: Successfully Uploading an iMovie to the YouTube Platform</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-to-the-best-free-video-transcoders-for-psx-and-psp-on-macos-systems/"><u>Ultimate Guide to the Best Free Video Transcoders for PSX and PSP on macOS Systems!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725287586592-dvd/"><u>マルチメディアコンテンツの再生手順一覧 - DVD、動画、音声ファイルの全体的な使用方法</u></a></li>
 </ul></div>
 

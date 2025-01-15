@@ -1,7 +1,7 @@
 ---
 title: "DIY Steps: Transforming Your Desktop Into a Cost-Free PS4 Media Hub"
-date: 2025-01-07T18:41:02.827Z
-updated: 2025-01-09T17:39:42.747Z
+date: 2025-01-09T16:00:06.754Z
+updated: 2025-01-15T16:08:41.060Z
 tags:
   - dlna
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 
 Now that the PS4 media player has made it possible for a **PS4 media server** to connect to the game console to play MKV AVI MP4 videos, MP3 AAC music, or even photos. You may need to turn computer into a PS4 media server Windows 10 to share everything in the computer library to the bigger screen, now check to find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements: PS4 Meida Player + PS 4 Media Server Windows 10/Mac
 
 Whenever you need to stream computer to PS4, the PS4 media player needs to come into play: for classic PlayStation 4 models, the Media Player APP easily helps users stream whatever on a DLNA server to the target TV screen connected to the game console. While for PS4 Pro and PS4 VR models, the APP also receives videos, music & photos stored in a USB driver, on condition that the display supports up to 4K. 
@@ -44,10 +48,14 @@ To set up a PS4 media server Windows 10 or Mac, you'll need to turn the computer
 [![](https://www.5kplayer.com/dlna/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/dlna/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stream PC to PlayStation 4 Wirelessly?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn PC Into a PS4 Media Server
 
@@ -61,13 +69,13 @@ To set up a PS4 media server Windows 10 or Mac, you'll need to turn the computer
 
 ![DLNA server Windows 10](https://www.5kplayer.com/dlna/img/dlna-media-share.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Hit on the "DLNA + AirPlay" icon on the main UI of 5KPlayer, turn on "DLNA server", and now your computer is turned into an open PS4 media server which you can add media files to anytime you want.
 
 ![Turn on PS4 Media Server Windows 10](https://www.5kplayer.com/dlna/img/turn-on-dlna-server.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/dlna/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/dlna/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
@@ -78,7 +86,7 @@ If you have the PS4 Pro at home, don't waste its lifelike HDR color performance 
 This makes one of the [best HDR video players 2019](https://tools.techidaily.com/5kplayer/video-music-player/) – 5KPlayer to be an ideal choice that turns computer into a PS4 media server for PS4 pro. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PS VR: Play 4K VR Content on TV from 5KPlayer
@@ -86,14 +94,6 @@ This makes one of the [best HDR video players 2019](https://tools.techidaily.com
 Even if you have the PlayStation 4 VR headset, the PS camera and VR games are for sale separately. But using the virtual reality gadget to play VR videos from a PS4 media server sounds really nice if you have 5KPlayer, which can [download VR videos](https://tools.techidaily.com/5kplayer/youtube-download/) from the YouTube 360 channel, or directly play VR video files without hassle. Setting up & connect PC to PS4 VR is just like how to can do it with an ordinary PS4 model. But you're sure to be amazed by the virtual reality videos that aren't directly available in the game console. 
 
 ![PS4 VR Server](https://www.5kplayer.com/dlna/img/ps4-vr-media-server.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### FAQs About the PS4 Media Server
 
@@ -119,7 +119,7 @@ Even if you have the PlayStation 4 VR headset, the PS camera and VR games are fo
 ![PS4 VR Server](https://www.5kplayer.com/dlna/img/ps4-vr-media-server.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### FAQs About the PS4 Media Server
@@ -148,18 +148,24 @@ To be specific, you always need to connect PS4 to a TV screen to play games or w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-a-compreeved-look-at-effective-spotify-ad-implementation/"><u>[New] A Compreeved Look at Effective Spotify Ad Implementation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhancing-youtube-content-via-finalcut-pro-techniques/"><u>[Updated] 2024 Approved Enhancing YouTube Content via FinalCut Pro Techniques</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-skyrocketing-subscribers-free-techniques-for-youtube-success/"><u>[Updated] 2024 Approved Skyrocketing Subscribers Free Techniques for YouTube Success</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-capture-excellence-prime-phone-compatible-tripods-for-2024/"><u>[Updated] Capture Excellence Prime Phone-Compatible Tripods for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1-the-ultimate-guide-how-to-use-vlcs-youtube-downloading-feature-at-no-cost/"><u>1. The Ultimate Guide: How to Use VLC's YouTube Downloading Feature at No Cost</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-13-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 13 Pro Max Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-activate-dlna-support-on-windows-10-for-seamless-video-sharing/"><u>How To Activate DLNA Support On Windows 10 For Seamless Video Sharing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-6s-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 6s Lock Screen</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamless-setup-linking-your-apple-tv-with-dlna-enabled-devices/"><u>Seamless Setup: Linking Your Apple TV with DLNA-Enabled Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-instructions-on-setting-up-mkv-video-streaming/"><u>Step-by-Step Instructions on Setting Up MKV Video Streaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixed-itunes-reveals-audio-config-errors/"><u>Troubleshooting Fixed: ITunes Reveals Audio Config Errors</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-macos-big-sur-installer-errors-a-step-by-step-guide/"><u>Troubleshooting MacOS Big Sur Installer Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/2-troubleshooting-steps-when-ios-apps-wont-launch-on-macos-systems/"><u>2. Troubleshooting Steps When iOS Apps Won't Launch on macOS Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-crafting-stories-essential-tips-for-youtube-video-editors/"><u>2024 Approved Crafting Stories Essential Tips for YouTube Video Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-knockout-kings-vs-viewership-titans/"><u>2024 Approved Knockout Kings Vs. Viewership Titans</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-steps-for-casting-mkv-files-from-your-computer-to-apple-tv-using-airplay/"><u>Easy Steps for Casting MKV Files From Your Computer to Apple TV Using AirPlay</u></a></li>
+<li><a href="https://media-tips.techidaily.com/experience-next-gen-views-with-h265-dive-into-crisp-clear-4k-streaming/"><u>Experience Next-Gen Views with H.265: Dive Into Crisp, Clear 4K Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-the-apple-vision-pro-empowers-enterprises-with-advanced-device-management-insights/"><u>How the Apple Vision Pro Empowers Enterprises with Advanced Device Management - Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-poco-c55-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Poco C55</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-break-even-on-youtube-monetizing-with-a-minimum-of-500-viewers/"><u>In 2024, Break Even on Youtube Monetizing with a Minimum of 500 Viewers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715859649632-in-2024-screenmasters-unite/"><u>In 2024, ScreenMasters Unite!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-windows-1nto-update-error-understanding-and-fixing-issue-0xc1900208/"><u>Solve Your Windows 1Nto Update Error: Understanding and Fixing Issue 0xC1900208</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-to-overcome-screen-recording-issues-in-ios-15-14-and-13/"><u>Step-by-Step Guide to Overcome Screen Recording Issues in iOS 15, 14 & 13</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-access-periscope-on-desktop-for-real-time-broadcasts/"><u>Step-by-Step Guide: Access Periscope on Desktop for Real-Time Broadcasts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-essential-step-by-step-tutorial-for-seamless-media-sharing-from-pc-to-samsung-smart-tv/"><u>The Essential Step-by-Step Tutorial for Seamless Media Sharing From PC to Samsung Smart TV</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-free-media-player-software-for-windows-10-best-picks/"><u>Top Rated Free Media Player Software for Windows 10 - Best Picks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ranked-free-gopro-viewer-apps-for-pc-and-macos-get-them-now/"><u>Top-Ranked Free GoPro Viewer Apps for PC and MacOS - Get Them Now!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultra-hd-streaming-unleashed-access-premium-4k1080p-movies-and-tv-shows-on-netflix-effortlessly/"><u>Ultra HD Streaming Unleashed: Access Premium 4K/1080p Movies and TV Shows on Netflix Effortlessly</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/unlocking-exe-files-a-comprehensive-walkthrough-by-yl-software-experts-for-successful-opening-and-usage/"><u>Unlocking EXE Files: A Comprehensive Walkthrough by YL Software Experts for Successful Opening and Usage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-ussd-an-in-depth-look-at-data-messaging-protocols/"><u>Unlocking the Secrets of USSD: An In-Depth Look at Data Messaging Protocols</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for Lack of Video in VLC Player Across Windows & macOS Systems"
-date: 2025-01-02T16:04:37.197Z
-updated: 2025-01-09T20:53:07.214Z
+date: 2025-01-14T16:09:42.371Z
+updated: 2025-01-15T16:09:14.990Z
 tags:
   - vlc
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/461111458e3b4ce139d48fb2aa4a766468aa7e6bd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix VLC No Video on Mac/Windows 10 When Playing MP4 MKV AVI etc Files
@@ -61,7 +61,7 @@ Someone had solved the VLC no video only audio issue by resetting the Preference
 ![VLC No Video](https://www.5kplayer.com/vlc/img/vlc-output-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Mac:** Click on VLC on the top left corner of Mac > Preferences > Show All > Click on Video on the left bar > Output modules > choose the output mode from the drop down menu.
@@ -69,7 +69,7 @@ Someone had solved the VLC no video only audio issue by resetting the Preference
 ![VLC No Video Only Audio](https://www.5kplayer.com/vlc/img/vlc-ouput-mac.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6\. The particular video has a video format that VLC doesn't support**
@@ -79,7 +79,7 @@ Usually, when there is unsupported video codec contained in the video file, VLC 
 Hope these solutions offer helps. If you have tried the above methods but find VLC no video problem still exists, maybe you should try a [VLC alternative](https://tools.techidaily.com/5kplayer/video-music-player/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best VLC Media Player Alternative Free Download
@@ -89,7 +89,7 @@ Hope these solutions offer helps. If you have tried the above methods but find V
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -107,18 +107,14 @@ Hope these solutions offer helps. If you have tried the above methods but find V
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-how-to-toggle-pip-mode-in-ios-a-step-by-step-approach-for-2024/"><u>[New] How to Toggle PIP Mode in iOS A Step-by-Step Approach for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-spacious-mini-cities-with-oriental-flair/"><u>[Updated] Spacious Mini Cities with Oriental Flair</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmmakers-companion-filmora-for-youtube-trailers/"><u>2024 Approved Filmmaker's Companion Filmora for YouTube Trailers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/custom-action-implementation-in-idotnet-framework/"><u>Custom Action Implementation in IDotNet Framework</u></a></li>
-<li><a href="https://fox-access.techidaily.com/cutting-edge-radio-theatre-scripting/"><u>Cutting-Edge Radio Theatre Scripting</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-conversion-how-to-upgrade-your-videos-to-stunning-4k-1080p-and-720p-resolutions/"><u>Effortless Conversion: How to Upgrade Your Videos to Stunning 4K, 1080P, and 720P Resolutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-note-50-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Note 50 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-transform-your-hevc-footage-into-mov-files-without-compromising-quality-ideal-for-pc-internet-streaming-and-mobiles/"><u>How to Transform Your HEVC Footage Into MOV Files Without Compromising Quality - Ideal for PC, Internet Streaming & Mobiles</u></a></li>
-<li><a href="https://android-frp.techidaily.com/oneplus-11-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>OnePlus 11 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-guide-enabling-closed-captioning-on-apple-tv-screen/"><u>Quick Guide: Enabling Closed Captioning on Apple TV Screen</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-guide-how-to-seamlessly-transform-vob-format-into-mpeg-transport-stream-ts/"><u>Quick Guide: How to Seamlessly Transform VOB Format Into MPEG-Transport Stream (TS)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-avi-files-into-xvid-format/"><u>Step-by-Step Guide: Converting AVI Files Into Xvid Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-your-avchd-files-into-high-quality-avi-a-3-step-guide/"><u>Transform Your AVCHD Files Into High-Quality AVI: A 3-Step Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levate-storytelling-free-soundtrack-options-available-for-2024/"><u>[New] Elevate Storytelling - Free Soundtrack Options Available for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-from-flat-panes-to-360-viewing-a-vr-comparison/"><u>[New] From Flat Panes to 360 Viewing A VR Comparison</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-motorola-edge-40-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Motorola Edge 40 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/navigating-the-path-free-and-safe-vlc-installer-for-macos-users/"><u>Navigating the Path Free and Safe VLC Installer for macOS Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/preserving-high-quality-sound-a-guide-to-perfectly-tuning-your-audio-content-for-the-web/"><u>Preserving High-Quality Sound: A Guide to Perfectly Tuning Your Audio Content for the Web</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-cutting-out-extra-sounds-in-your-tiktok-videos/"><u>The Ultimate Guide to Cutting Out Extra Sounds in Your TikTok Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-new-nintendo-switch-joystick-installation/"><u>The Ultimate Guide to New Nintendo Switch Joystick Installation</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-tutorial-on-producing-quality-sound-effects-for-viral-tiktok-videos/"><u>The Ultimate Tutorial on Producing Quality Sound Effects for Viral TikTok Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-4-essential-ogg-audio-compressors-the-must-have-tools-for-quality-sound/"><u>Top 4 Essential Ogg Audio Compressors: The Must-Have Tools for Quality Sound</u></a></li>
 </ul></div>
 

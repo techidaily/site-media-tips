@@ -1,7 +1,7 @@
 ---
 title: "Free Guide: Setting Up Your Mac or PC as an Apple AirPlay Streaming Source"
-date: 2024-12-09T21:35:36.148Z
-updated: 2024-12-15T22:29:48.801Z
+date: 2025-01-10T16:13:49.081Z
+updated: 2025-01-15T16:12:50.274Z
 tags:
   - airplay
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Turn PC/Mac into a Free AirPlay Server
 
  _Written by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21)_ | Last update: April 28, 2020
@@ -33,7 +29,7 @@ Designed with the most user-friendly UI, 5KPlayer requires least computer skills
 The content is [mirroring](https://tools.techidaily.com/5kplayer/airplay/) to the streamed devices, which only takes seconds and does no damage to picture quality. And mirroring will not occupy the memory of the streamed devices, thus it does no influence to the streamed devices. 5KPlayer makes it simple to project or receive the screen of iOS 13/12/11/10/9 devices to your PC/Mac and it allows music from PC/Mac to be played wirelessly to compatible speakers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Currently **5KPlayer** Supports DLNA Streaming & AirPlay Mirroring
@@ -41,6 +37,10 @@ The content is [mirroring](https://tools.techidaily.com/5kplayer/airplay/) to th
 Official Clarification: Since Apple has strengthened the "sign & countersign" for AirPlay Bonjour protocol, 5KPlayer for Windows does not support movie/music AirPlay at present.
 
 We have been working hard on AirPlay streaming to figure out a solution. Please stay with us and trust our dedication and efforts! AirPlay for Windows will be back soon!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Guide to Turn PC/Mac into a Free AirPlay Server
 
@@ -50,16 +50,12 @@ The setup process is quite simple, users can deal with it without any efforts.
 
 ![Best AirPlay receiver](https://www.5kplayer.com/airplay/img/youtube-0119-01.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2**: Set the setting of AirPlay of 5KPlayer, specify a name and password in Preferences, if you wish.
 
 ![Free AirPlay Server Setting](https://www.5kplayer.com/airplay/img/5k-free-airplay-server-trl-020901.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If 5KPlayer acts as AirPlay sender, click the AirPlay button beside the progress bar or the right top of the window while the video or music is playing to activate AirPlay and to select the device to stream to and then you're good to go.
@@ -69,12 +65,16 @@ Please note that to successfully stream media, the AirPlay sender and receiver m
 ![AirPlay receiver stream video audio](https://www.5kplayer.com/airplay/img/5kplayer-airplay-0120.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once you begin to use 5KPlayer, it will surprise you all the way! It is a powerful and highly integrated UHD media player other than being the best free AirPlay server. It can [play 4K even 5K video and music](https://tools.techidaily.com/5kplayer/video-music-player/)with high stability. It can also download videos from [Facebook, Vimeo](https://tools.techidaily.com/5kplayer/youtube-download/) and other 300 websites with high speed and no quality loss. 5KPlayer will never disappoint you as an AirPlay server and UHD video player!
 
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -91,24 +91,20 @@ Once you begin to use 5KPlayer, it will surprise you all the way! It is a powerf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ailoring-your-viewing-experience-with-youtube-tv-for-2024/"><u>[New] Tailoring Your Viewing Experience with YouTube TV for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-early-birds-guide-to-youtube-skip-these-8-potential-pitfalls/"><u>[Updated] The Early Bird's Guide to YouTube Skip These 8 Potential Pitfalls</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-instagram-artistry-easy-steps-to-stunning-collage-photos/"><u>2024 Approved Instagram Artistry Easy Steps to Stunning Collage Photos</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-alternative-applications-to-format-your-drive-on-mac-or-windows-11-systems/"><u>Best Alternative Applications to Format Your Drive on Mac or Windows 11 Systems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/crafting-a-cinematic-look-ken-burns-in-camtasa/"><u>Crafting a Cinematic Look Ken Burns in Camtasa</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-ultimate-6-gif-to-video-converters-everyone-must-try/"><u>Discover the Ultimate 6 GIF to Video Converters Everyone Must Try!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-guide-to-converting-gif-files-to-wmv-on-pcs-and-macs-top-free-online-tools-and-methods/"><u>Effortless Guide to Converting GIF Files to WMV on PCs and MACs - Top Free Online Tools and Methods</u></a></li>
-<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-12-mini-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 12 mini</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-oneplus-11-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, OnePlus 11 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/m-rendezvous-optimal-dj-video-selections/"><u>Rhythm Rendezvous Optimal DJ Video Selections</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-how-to-upload-swf-file-as-an-animated-gif-for-the-web/"><u>Step-by-Step Tutorial on How to Upload SWF File as an Animated GIF for the Web</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/the-role-of-initial-coin-offerings-icos-and-their-importance-unveiled-by-yl-software-experts/"><u>The Role of Initial Coin Offerings (ICOs) and Their Importance Unveiled by YL Software Experts</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-3-techniques-for-removing-digital-watermarks-in-gifs/"><u>Top 3 Techniques for Removing Digital Watermarks in GIFs</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-6-techniques-for-seamlessly-changing-animation-gifs-across-desktops-laptops-phones-and-tablets/"><u>Top 6 Techniques for Seamlessly Changing Animation GIFs Across Desktops, Laptops, Phones & Tablets</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-iphone-snaps-into-funny-or-fancy-gifs-the-ultimate-technique/"><u>Transform iPhone Snaps Into Funny or Fancy GIFs – The Ultimate Technique!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-list-the-top-3d-gif-creation-software-choices-for-immersive-graphics/"><u>Ultimate List: The Top 3D GIF Creation Software Choices for Immersive Graphics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-the-power-of-chatgpt-on-your-phone-strategies-for-both-iphone-and-android-users/"><u>Unleashing the Power of ChatGPT on Your Phone: Strategies for Both iPhone and Android Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unlock-super-fast-video-editing-with-gpu-boost-exploring-aiseesofts-capabilities/"><u>Unlock Super-Fast Video Editing with GPU Boost: Exploring Aiseesoft's Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-miniature-portable-dvd-systems-ranked/"><u>[Updated] Best Miniature Portable DVD Systems Ranked</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-infuse-humor-in-content-simple-text-meme-creation/"><u>[Updated] In 2024, Infuse Humor in Content Simple Text Meme Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-budget-screen-grabber-for-smartphones-for-2024/"><u>Best Budget Screen Grabber for Smartphones for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620218942-discover-the-ultimate-6-gif-to-video-converters-everyone-must-try/"><u>Discover the Ultimate 6 GIF to Video Converters Everyone Must Try</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-and-explore-free-lightworks-software-options-top-lightworks-alternatives/"><u>Download & Explore Free Lightworks Software Options: Top Lightworks Alternatives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-niche-to-noteworthy-the-ultimate-unboxing-strategy-on-instagram-for-2024/"><u>From Niche to Noteworthy The Ultimate Unboxing Strategy on Instagram for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-s24-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy S24?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp4-to-wmv-conversion-guide-compatible-with-windows-11/"><u>MP4 to WMV Conversion Guide: Compatible with Windows 11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quickly-change-flv-videos-to-3gp-cost-free-conversion-techniques-and-editing-features/"><u>Quickly Change Flv Videos to 3Gp: Cost-Free Conversion Techniques & Editing Features</u></a></li>
+<li><a href="https://article-tips.techidaily.com/save-1058-on-lenovos-top-of-the-line-rtx-4080-gpu-equipped-legion-desktop-priced-at-just-2091/"><u>Save $1,058 on Lenovo's Top-of-the-Line RTX 4080 GPU-Equipped Legion Desktop Priced at Just $2,091</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-easy-to-use-mts-to-flv-video-converter-programs-for-pc-and-mac-users/"><u>Top 5 Easy-to-Use MTS to FLV Video Converter Programs for PC & Mac Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-transferring-dvd-content-from-disc-to-pc-step-by-step-instructions/"><u>Ultimate Guide: Transferring DVD Content From Disc to PC – Step-by-Step Instructions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-full-potential-with-ps3-video-converter-on-mac-a-comprehensive-guide/"><u>Unlocking Full Potential with PS3 Video Converter on Mac - A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/utilizing-steams-storage-manager-for-remote-gaming/"><u>Utilizing Steam's Storage Manager for Remote Gaming</u></a></li>
 </ul></div>
 

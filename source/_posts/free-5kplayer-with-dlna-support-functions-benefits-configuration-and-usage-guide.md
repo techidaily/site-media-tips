@@ -1,7 +1,7 @@
 ---
 title: Free 5KPlayer with DLNA Support - Functions, Benefits, Configuration, and Usage Guide
-date: 2025-01-05T16:41:15.726Z
-updated: 2025-01-09T16:11:39.598Z
+date: 2025-01-10T16:09:12.922Z
+updated: 2025-01-15T16:03:02.907Z
 tags:
   - dlna
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5KPlayer DLNA機能について：できること・メリット・設定・使い方
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 **関連記事：**[iPhoneの動画がパソコンに取り込みできない時の対処法｜3分で解決できる](https://tools.techidaily.com/5kplayer/iphone-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5KPlayer DLNAの設定（5KPlayer DLNAの接続方法）
@@ -76,11 +76,19 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 （1）準備：以下の「無料ダウンロード」ボタンをクリックして、DLNA対応ソフト「[5KPlayer![](https://www.5kplayer.com/dlna-jp/../image/download-mac/dicon.png)](https://tools.techidaily.com/5kplayer/products/)」を手元のパソコンにダウンロード・インストールしてください。
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ヒント：[5KPlayerをダウンロード＆インストールする方法](https://tools.techidaily.com/5kplayer/youtube-download/)
 
 （2）5KPlayerを起動し、インタフェースにある「AirPlayer DLNA」アイコンをクリックします。すると、5KPlayer DLNAの設定画面に移動します。そこで、DLNAサービスの有効とサービス名、DLNAデバイスの有効とデバイス名、DLNAIPアドレスの設定を行えます。
 
 ![5KPlayer DLNA](https://www.5kplayer.com/dlna-jp/img/dlna-guide-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 （3）Windows/Mac PCをメディアサーバーとして利用したいとき、DLNAサービスを「OFF」から「ON」にしてください。Windows/Mac PCをDLNAプレイヤーとして、AndroidスマホやタブレットからPCへメディアファイルをミラーリングしたい場合、DLNAデバイスを「ON」にします。これで、5KPlayer DLNA対応を有効にします。 
 
@@ -91,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 ここまで、5KPlayer DLNAの設定が終ります。後は、他のDLNA対応機器を同一のネットワークに繋げると、メディアファイルをやりとりできます。 
 
 [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitewin-jp.png)](https://www.5kplayer.com/5kplayer-download-windows-jp.htm) [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitemac-jp.png)](https://www.5kplayer.com/5kplayer-download-mac-jp.htm)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **関連記事：**[おすすめの動画再生アプリランキング18選｜PC/Mac/iPhone/Android](https://tools.techidaily.com/5kplayer/video-music-player/)
 
@@ -112,6 +116,10 @@ Step3、Androidスマホ上でDLNA対応アプリを開き、ミラーリング�
 
 ![5KPlayer DLNAの使い方](https://www.5kplayer.com/dlna-jp/img/dlna-guide-5.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ※AndroidスマホにDLNA対応アプリをインストールする必要があります。 
 
 ※iPhoneむけの DLNA対応アプリさえあれば、アプリ上のメディアファイルをWindows/Mac PCにミラーリングすることができます。しかし、AirPlay機能を利用したほうが便利過ぎます。 
@@ -127,10 +135,6 @@ Step3、インタフェースの右上隅にある「DLNA」アイコンをク�
  Step4、5KPlayerのインタフェースにある「ビデオ」からミラーリングしたい映像を追加したら、その映画がスマートTVで再生し始めます。 
 
 ![5KPlayer DLNAの使い方](https://www.5kplayer.com/dlna-jp/img/dlna-guide-6.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ※上記の方法を利用して、スマートTVの他、DLNA対応可能なPCやPS4/Xboxにミラーリンググすることができます。別にDLNA対応アプリ等が不要です。
 
@@ -149,10 +153,6 @@ Step4、手元のAndroidスマホ/スマートTV/ PS4/Xboxのアプリ共有セ�
 **ヒント：**[5KPlayerの使い方ガイド＞＞](https://tools.techidaily.com/5kplayer/products/)
 
 ![5KPlayer DLNAの使い方](https://www.5kplayer.com/dlna-jp/img/dlna-guide-7.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ※フォーマットによって、一部のビデオ・オディオは再生できない可能性があります。MP4 / AVI / MKVフォーマットのビデオとMP3 / AAC / WMAフォーマットの音楽を追加することをお勧めします。 
 
@@ -177,21 +177,18 @@ Step4、手元のAndroidスマホ/スマートTV/ PS4/Xboxのアプリ共有セ�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-17-best-lights-and-lighting-equipment-for-youtube/"><u>[New] 2024 Approved 17 Best Lights and Lighting Equipment for YouTube</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-hero-11-vs-max-360-deciding-the-top-tier-gopro-video-camera/"><u>[New] Hero 11 vs Max 360 - Deciding the Top-Tier GoPro Video Camera</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiled-top-10-superior-gopro-housing-options/"><u>[New] Unveiled Top 10 Superior GoPro Housing Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-spectacular-results-with-hdr-portraits/"><u>[New] Unveiling Spectacular Results with HDR Portraits</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-innovative-and-inexpensive-the-best-free-youtube-name-generators/"><u>2024 Approved Innovative & Inexpensive The Best Free YouTube Name Generators</u></a></li>
-<li><a href="https://media-tips.techidaily.com/create-animated-gifs-from-videoimage-content-for-zero-cost-using-our-editing-tool/"><u>Create Animated GIFs From Video/Image Content for Zero Cost Using Our Editing Tool</u></a></li>
-<li><a href="https://media-tips.techidaily.com/creating-animated-gifs-from-your-iphone-pictures-a-step-by-step-guide/"><u>Creating Animated GIFs From Your iPhone Pictures: A Step-by-Step Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/find-the-ideal-gif-shrinkers-speedy-solutions-for-downloading-on-discord/"><u>Find the Ideal GIF Shrinkers: Speedy Solutions for Downloading on Discord</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-online-gif-maker-transform-videos-and-pictures-into-funny-engaging-gifs-easily/"><u>Free Online GIF Maker: Transform Videos & Pictures Into Funny, Engaging GIFs Easily</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-successfully-eliminate-watermarks-from-your-gif-images/"><u>How to Successfully Eliminate Watermarks From Your GIF Images</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c300-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia C300 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/key-tips-for-attracting-brands-as-youtubers-sponsors-for-2024/"><u>Key Tips for Attracting Brands as Youtubers' Sponsors for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maintaining-image-quality-the-ultimate-guide-to-adjusting-gif-size-without-loss-of-clarity/"><u>Maintaining Image Quality: The Ultimate Guide to Adjusting GIF Size without Loss of Clarity</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-wav-m4b-mp3/"><u>Movavi 播客般瀏覽器 – 無限制免費讓 WAV 聲音轉換成 M4B MP3格式</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-through-metas-verified-validity/"><u>Navigating Through Meta's Verified Validity</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-complete-step-by-step-guide-for-adding-stunning-effects-to-animated-gif-images-using-two-easy-methods/"><u>The Complete Step-by-Step Guide for Adding Stunning Effects to Animated GIF Images Using Two Easy Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-quickest-windowed-image-analyzer/"><u>[New] Quickest Windowed Image Analyzer</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-10plus-best-photo-to-cartoon-softwares-for-2024/"><u>[Updated] 10+ Best Photo to Cartoon Softwares for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exclusive-insights-apples-next-move-with-a-secure-operating-system-for-ai-and-data-center-mastery-unveiled-details/"><u>Exclusive Insights: Apple's Next Move with a Secure Operating System for AI & Data Center Mastery - Unveiled Details</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-the-invisible-router-problem-in-windows-10-environments/"><u>Fixing the Invisible Router Problem in Windows 10 Environments</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-and-complete-installation-guide-of-splayer-on-windows-10-ultimate-resource/"><u>Free and Complete Installation Guide of sPlayer on Windows 10: Ultimate Resource</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-download-ultimate-vlc-media-player-64-bit-compatible-with-windows-11/"><u>Free Download: Ultimate VLC Media Player (64-Bit) Compatible with Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/level-up-your-auditory-game-in-valorant-with-this-must-try-free-tool-for-2024/"><u>Level Up Your Auditory Game in Valorant with This Must-Try, Free Tool for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-avi-files-essential-vlc-media-player-guide-on-playback-and-conversion/"><u>Mastering AVI Files: Essential VLC Media Player Guide on Playback & Conversion</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/online-video-subtitle-integration-breaking-down-linguistic-obstacles/"><u>Online Video Subtitle Integration: Breaking Down Linguistic Obstacles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps5-compatibility-are-your-favorite-ps4-titles-playable/"><u>PS5 Compatibility: Are Your Favorite PS4 Titles Playable?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-generation-ai-puzzle-why-does-chatgpt-4-take-its-time-when-chatgpt-35-was-faster/"><u>The Next Generation AI Puzzle: Why Does ChatGPT-4 Take Its Time When ChatGPT-3.5 Was Faster?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/windows7-how-to-successfully-play-blu-ray-discs-on-your-windows7-pc/"><u>ブルーレイの再生がWindows7でうまくいかない？ - How to Successfully Play Blu-Ray Discs on Your Windows7 PC</u></a></li>
 </ul></div>
 

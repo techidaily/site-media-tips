@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide on Setting Up Personalized Video Timestamps in VLC Media Player
-date: 2025-01-04T21:30:43.701Z
-updated: 2025-01-09T17:14:38.262Z
+date: 2025-01-10T16:11:20.926Z
+updated: 2025-01-15T16:02:55.391Z
 tags:
   - vlc
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6195218912eaa800d5cbedefde726b6171a7555ef
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use VLC Custom Bookmarks to Mark Video Positions?
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/6195218912eaa800d5cbedefde726b6171a7555ef
 How to continue your playback from where you left last time? How to easily access the specific parts in a very long video with a few clicks? **VLC Custom Bookmarks** feature will help remember the video playback position you just want to save. No need to spend much time to step forward your video, you can easily get to the right position without missing a frame.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create Bookmarks in VLC Media Player?
@@ -41,7 +41,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Custom Bookmarks](https://www.5kplayer.com/vlc/img/vlc-custom-bookmark.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** When the **Edit Bookmarks** window pops up, just click on the **Create** button to add bookmarks to your video. 
@@ -49,7 +49,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Create Bookmarks](https://www.5kplayer.com/vlc/img/vlc-create-bookmarks.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4.** To find the specific bookmarked video to play, just click on **Playback** \> **Custom Bookmarks** and choose the one to start playing.
@@ -83,7 +83,7 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -101,19 +101,18 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-expert-tips-for-high-quality-minecraft-saves/"><u>[New] In 2024, Expert Tips for High-Quality Minecraft Saves</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unveil-your-world-in-wide-angle-iosandroid-photo-integration-on-social-media/"><u>[Updated] 2024 Approved Unveil Your World in Wide Angle IOS/Android Photo Integration on Social Media</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-revolutionizing-fb-ads-through-innovative-and-effective-video-techniques/"><u>[Updated] In 2024, Revolutionizing FB Ads Through Innovative and Effective Video Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-faces-to-watch-top-cosmetic-creatives/"><u>[Updated] The Faces to Watch Top Cosmetic Creatives</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-vid-recorders-vault-top-techniques-for-tv-streaming/"><u>[Updated] Vid-Recorder's Vault Top Techniques for TV Streaming</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-simple-guide-converting-flv-files-for-ipad-iphone-and-psp-devices-on-your-mac/"><u>Quick & Simple Guide: Converting FLV Files for iPad, iPhone & PSP Devices on Your Mac</u></a></li>
-<li><a href="https://media-tips.techidaily.com/streamlined-methods-for-transferring-videos-from-final-cut-pro/"><u>Streamlined Methods for Transferring Videos From Final Cut Pro</u></a></li>
-<li><a href="https://media-tips.techidaily.com/streamlining-the-process-expert-tips-on-transforming-footage-into-stunning-4k/"><u>Streamlining the Process: Expert Tips on Transforming Footage Into Stunning 4K</u></a></li>
-<li><a href="https://win-blog.techidaily.com/tackling-excessive-processor-load-on-god-of-war-a-comprehensive-guide/"><u>Tackling Excessive Processor Load on God of War: A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-picks-the-best-online-and-offline-tools-for-media-format-conversion/"><u>Top Picks: The Best Online and Offline Tools for Media Format Conversion</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-iphone-video-transformation-app-flv-to-ios-format/"><u>Top Rated iPhone Video Transformation App: FLV to iOS Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-techniques-for-transforming-flv-files-into-popular-video-types/"><u>Ultimate Techniques for Transforming FLV Files Into Popular Video Types</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-revolutionary-6-applications-to-enhance-photo-editing-experience/"><u>[New] 2024 Approved Revolutionary 6 Applications to Enhance Photo Editing Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtube-studio-validating-earnings-flow/"><u>[Updated] 2024 Approved YouTube Studio Validating Earnings Flow</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-new-era-facebooks-quintessential-features-showcased/"><u>[Updated] In 2024, New Era Facebook's Quintessential Features Showcased</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-iphone-11-friendly-screen-recorders-for-ios-13-top-picks-and-free-downloads/"><u>Best iPhone 11 Friendly Screen Recorders for iOS 13: Top Picks & Free Downloads</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-the-newest-smplayer-64-bit-version-for-windows-10-at-no-cost/"><u>Download the Newest SMPlayer 64-Bit Version for Windows 10 at No Cost</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-complet-pour-convertir-votre-pc-windows-10-en-un-media-server-avec-dlna/"><u>Guide Complet Pour Convertir Votre PC Windows 10 en Un Media Server Avec DLNA</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-magic-5-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor Magic 5 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/la-conversion-dun-pc-sous-windows-amoins-en-un-reseau-homme-ordinateur-guide-pratique-dlna/"><u>La Conversion D’un PC Sous Windows Amoins en Un Réseau Homme-Ordinateur : Guide Pratique DLNA</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210549739-9781778070334-manifest-it/"><u>Manifest It! | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sensor-malfunction-no-print-scanning/"><u>Sensor Malfunction: No Print Scanning</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-accessing-live-coverage-of-rio-2016-olympics-with-apple-tv/"><u>Step-by-Step Tutorial: Accessing Live Coverage of Rio 2016 Olympics with Apple TV</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-intersection-of-convenience-and-caution-analyzing-the-impact-of-using-facebook-login/"><u>The Intersection of Convenience and Caution: Analyzing the Impact of Using Facebook Login</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-selection-of-the-top-5-high-quality-4k-blu-ray-media-players/"><u>Ultimate Selection of the Top 5 High-Quality 4K Blu-Ray Media Players</u></a></li>
 </ul></div>
 

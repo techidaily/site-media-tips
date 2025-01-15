@@ -1,7 +1,7 @@
 ---
 title: Mastering Video Navigation with VLC's Custom Bookmark Feature
-date: 2024-12-12T20:17:42.531Z
-updated: 2024-12-15T19:39:32.579Z
+date: 2025-01-10T16:06:51.729Z
+updated: 2025-01-15T16:13:53.842Z
 tags:
   - vlc
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use VLC Custom Bookmarks to Mark Video Positions?
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 How to continue your playback from where you left last time? How to easily access the specific parts in a very long video with a few clicks? **VLC Custom Bookmarks** feature will help remember the video playback position you just want to save. No need to spend much time to step forward your video, you can easily get to the right position without missing a frame.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create Bookmarks in VLC Media Player?
@@ -41,7 +41,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Custom Bookmarks](https://www.5kplayer.com/vlc/img/vlc-custom-bookmark.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** When the **Edit Bookmarks** window pops up, just click on the **Create** button to add bookmarks to your video. 
@@ -49,7 +49,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Create Bookmarks](https://www.5kplayer.com/vlc/img/vlc-create-bookmarks.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4.** To find the specific bookmarked video to play, just click on **Playback** \> **Custom Bookmarks** and choose the one to start playing.
@@ -83,7 +83,7 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -101,21 +101,22 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-from-viewers-to-valuables-mastering-video-monetization-on-vimeo/"><u>[Updated] In 2024, From Viewers to Valuables Mastering Video Monetization on Vimeo</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-chronicles-unveiled-an-array-of-more-than-a-hundred-inspiring-title-concepts/"><u>[Updated] In 2024, Snapchat Chronicles Unveiled An Array of More Than a Hundred Inspiring Title Concepts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-note-30-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Note 30 Pro Fingerprint Lock</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-assessment-of-the-anker-superspeed-usb-30-multiport-charger/"><u>Comprehensive Assessment of the Anker SuperSpeed USB 3.0 Multiport Charger</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-wma-ultimate-guide-discover-all-facets-and-essentials/"><u>Comprehensive WMA Ultimate Guide: Discover All Facets and Essentials</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fast-methods-for-converting-aiff-files-to-mp3-format-both-online-and-offline-solutions/"><u>Fast Methods for Converting AIFF Files to MP3 Format: Both Online & Offline Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/firestick-frustrations-a-step-by-step-guide-to-resolve-paramountplus-playback-issues/"><u>Firestick Frustrations: A Step-by-Step Guide to Resolve Paramount+ Playback Issues</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-golden-nuggets-revealing-the-hottest-reddit-topics-10/"><u>In 2024, Golden Nuggets Revealing the Hottest Reddit Topics (10)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-starting-your-youtubian-journey-from-launchpad-to-loot/"><u>In 2024, Starting Your Youtubian Journey From Launchpad to Loot</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/precision-control-for-incredible-android-time-lapses-for-2024/"><u>Precision Control for Incredible Android Time-Lapses for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-extracting-audio-tracks-from-video-files/"><u>Step-by-Step Guide: Extracting Audio Tracks From Video Files</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-5-easy-steps-to-transform-ogg-files-into-mp3-format/"><u>The Ultimate Guide: 5 Easy Steps to Transform OGG Files Into MP3 Format</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-y100-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo Y100 5G FRP</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-mp3-audio-converter-effortlessly-change-videos-and-soundtracks-into-mp3-format/"><u>Top Rated MP3 Audio Converter: Effortlessly Change Videos & Soundtracks Into MP3 Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transforming-your-flac-tracks-into-portable-mp3-format-a-beginners-tutorial/"><u>Transforming Your FLAC Tracks Into Portable MP3 Format - A Beginner's Tutorial</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-list-of-leading-audio-fusion-software-for-seamless-mp3-integration-ranked-4-to-1/"><u>Ultimate List of Leading Audio Fusion Software for Seamless MP3 Integration, Ranked #4 to #1</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-significant-strategies-for-modifying-playback-speed-on-spotify/"><u>[New] Significant Strategies for Modifying Playback Speed on Spotify</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-path-to-youtube-earnings-setting-up-and-selling-content/"><u>[New] Your Path to YouTube Earnings Setting Up and Selling Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-get-facebook-links-fetched-top-8-free-tools-for-23/"><u>[Updated] 2024 Approved Get Facebook Links Fetched Top 8 Free Tools for '23</u></a></li>
+<li><a href="https://media-tips.techidaily.com/audio-clarity-showdown-comparing-mp3-and-mp4-formats-which-delivers-better-sound-quality-and-smaller-file-size/"><u>Audio Clarity Showdown: Comparing MP3 & MP4 Formats - Which Delivers Better Sound Quality & Smaller File Size?</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-soundscape-of-affordability-comprehensive-review-of-the-steelseries-arctis-nova-7-wireless-headset-for-all-heads-gadgetguruhub/"><u>Exploring the Soundscape of Affordability: Comprehensive Review of the SteelSeries Arctis Nova 7 Wireless Headset for All Heads | GadgetGuruHub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-new-canon-mg2900-printer-drivers-with-this-comprehensive-tutorial/"><u>Find and Install New Canon MG2900 Printer Drivers with This Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-audiophile-tools-best-audio-interfaces-for-podcasters/"><u>In 2024, Audiophile Tools Best Audio Interfaces for Podcasters</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-picture-perfection-at-a-click-endless-free-space-plus-charged-cloud-haven/"><u>In 2024, Picture Perfection at a Click Endless Free Space + Charged Cloud Haven</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-changing-tide-of-youtube-earnings/"><u>In 2024, The Changing Tide of YouTube Earnings</u></a></li>
+<li><a href="https://media-tips.techidaily.com/preserve-superior-sound-clarity-when-editing-mp3s-online-and-offline-a-comprehensive-tutorial/"><u>Preserve Superior Sound Clarity When Editing MP3s Online and Offline - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-wma-audio-to-wav-format-quickly-and-easily/"><u>Step-by-Step Guide: Converting WMA Audio to WAV Format Quickly & Easily</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-flac-files-into-apples-superior-alac-format/"><u>Step-by-Step Guide: Transforming FLAC Files Into Apple's Superior ALAC Format</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-improving-windows-audio-capabilities-easily/"><u>Troubleshooting and Improving Windows Audio Capabilities Easily</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-asf-to-mp3-converter-manual-a-step-by-step-tutorial-for-perfect-sound-quality/"><u>Ultimate ASF to MP3 Converter Manual: A Step-by-Step Tutorial for Perfect Sound Quality</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-pick-of-the-best-6-audio-blenders-expert-tips-for-harmonizing-tracks-and-fusing-sounds/"><u>Ultimate Pick of the Best 6 Audio Blenders - Expert Tips for Harmonizing Tracks and Fusing Sounds</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-audio-formats-a-detailed-look-at-flac-versus-wav/"><u>Understanding Audio Formats: A Detailed Look at FLAC versus WAV</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unraveling-the-mystery-of-3d-audio-technology-functionality-and-reliable-download-sources/"><u>Unraveling the Mystery of 3D Audio Technology: Functionality & Reliable Download Sources</u></a></li>
 </ul></div>
 
