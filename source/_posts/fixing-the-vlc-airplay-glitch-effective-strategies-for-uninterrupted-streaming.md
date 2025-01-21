@@ -1,7 +1,7 @@
 ---
 title: "Fixing the VLC-AirPlay Glitch: Effective Strategies for Uninterrupted Streaming"
-date: 2025-01-10T16:00:31.876Z
-updated: 2025-01-15T16:01:54.115Z
+date: 2025-01-14T18:13:58.753Z
+updated: 2025-01-21T20:12:16.376Z
 tags:
   - vlc
 categories:
@@ -32,13 +32,17 @@ The problem can highly lie in Windows 10 update build 1803, which has managed to
 
 ![VLC 4 AirPlay Not Showing](https://www.5kplayer.com/vlc/img/vlc-airplay-not-working.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Solutions:**  
 1\. Install Bonjour Print Service for Windows from Apple website instead of Bonjour 2.2;  
 2\. Install VLC to "C:xxx" or any other folders, instead of under "C:\\program files\\xxx" and create firewall exceptions for VLC.   
 3\. Also, VLC AirPlay not loading issue can also be resulted from WiFi routers, which can block multicast packets going from wired to wireless if your PC is at wired connection. In this case, your best defense is to buy high-quality APs from companies that care about making sure multicasts work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VLC AirPlay not working issue 2: Apple TV No Sound AirPlay from VLC 4
@@ -46,6 +50,10 @@ The problem can highly lie in Windows 10 update build 1803, which has managed to
 VLC AirPlay no sound on Apple TV issue can be, case 1, "volume still plays on the computer itself and does not transfer to the TV when watching a video"; case 2, Apple TV no sound at all during AirPlay. Make sure that sound level is set to the highest before you rush to preference settings.
 
 ![VLC 4 AirPlay No Sound Apple TV](https://www.5kplayer.com/vlc/img/Apple-TV-Audio-16bit.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For the first case, you might want to reset your core audio. On Mac, launch the terminal and enter the command: sudo killall coreaudiod and press Enter; on Windows and Apple TV, reboot your devices to restart audio drive.
 
@@ -55,19 +63,11 @@ For the second case, it can be a problem with Apple TV audio output setting.
 1\. Go to Settings > Audio & Video on your Apple TV > Change the Audio Output setting from Auto to 16 bit  
 2\. Change Dolby Digital Out setting: set to Off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VLC AirPlay not working issue 3: Apple TV Sound but No Picture AirPlay from VLC 4
 
 VLC AirPlay not showing video on TV renderer. "Playing a movie through Itunes; it works great. Playing a movie through Beamer; it works great. Using VLC Airplay; all I get is sound and no video." 
 
 ![VLC 4 AirPlay Not Working No Video](https://www.5kplayer.com/vlc/../airplay/img/airplay-pc-to-apple-tv-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Solutions:**   
  Check AirPlay status on the Apple TV. Turn it off and on.  
@@ -82,6 +82,10 @@ If necessary, you may want to
  Restart your router. (Also try removing it’s power cord for at least 30 seconds)  
  Restart your mobile device or computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Another Way to Solve VLC AirPlay Not Working
 
 **VLC AirPlayer Alternative – [5KPlayer](https://tools.techidaily.com/5kplayer/products/) \- Recommend Workaround.**
@@ -91,14 +95,10 @@ If necessary, you may want to
 ![VLC AirPlay Not Working Alternative Player](https://www.5kplayer.com/vlc/../dlna/img/dlna-mac-to-tv.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,21 +115,16 @@ If necessary, you may want to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-pixelprobe-criticism-engine-for-2024/"><u>[New] PixelProbe Criticism Engine for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-leading-edge-fb-video-repository/"><u>[Updated] 2024 Approved Leading Edge FB Video Repository</u></a></li>
-<li><a href="https://media-tips.techidaily.com/windvd/"><u>【最新更新版】winDVDで再生問題が起きた場合の改善方法</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-macbooks-shadow-a-surprising-tech-marvel-emerges-as-one-of-the-top-performers-tested/"><u>Beyond MacBook's Shadow: A Surprising Tech Marvel Emerges as One of the Top Performers Tested</u></a></li>
-<li><a href="https://media-tips.techidaily.com/bypass-airplay-buffering-seamless-streaming-from-iphone-to-mac-or-pc/"><u>Bypass AirPlay Buffering: Seamless Streaming From iPhone to Mac or PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/designing-tailored-ai-companions-using-geminis-powerful-gems-expert-insights-from-zdnet/"><u>Designing Tailored AI Companions Using Geminis' Powerful Gems | Expert Insights From ZDNET</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-methods-syncing-your-iphone-data-to-a-mac-using-an-airplay-receiver/"><u>Free Methods: Syncing Your iPhone Data to a Mac Using an AirPlay Receiver</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/raw-to-refined-tailoring-youtube-videos-with-premiere-pro-for-2024/"><u>From Raw to Refined Tailoring YouTube Videos with Premiere Pro for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/get-your-ultra-fast-video-viewer-for-pcs-windows-11-7-at-zero-price/"><u>Get Your Ultra-Fast Video Viewer for PCs (Windows 11, 7) at Zero Price!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/guia-facil-de-recuperar-archivos-de-un-disco-duro-externo-sin-formatear/"><u>Guía Fácil De Recuperar Archivos De Un Disco Duro Externo Sin Formatear</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-meizuwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Meizuwith/without a PC</u></a></li>
-<li><a href="https://media-tips.techidaily.com/play-high-quality-hd-mkv-movies-in-4k-using-the-free-vlc-media-player-get-it-now/"><u>Play High-Quality HD MKV Movies in 4K Using the Free VLC Media Player – Get It Now!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reigning-fast-the-quintessential-wins-performance-aids/"><u>Reigning Fast: The Quintessential Win's Performance Aids</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-to-setting-up-screen-mirroring-with-iphone-models-xs-xs-max-and-xr/"><u>Step-by-Step Guide to Setting Up Screen Mirroring with iPhone Models XS, XS Max & XR</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-process-for-iphone-reflection-on-windows-systems-win-11-8-7/"><u>Step-by-Step Process for iPhone Reflection on Windows Systems (Win 11, 8, 7)</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-best-of-the-best-free-vob-video-editing-software-for-2024/"><u>The Best of the Best Free VOB Video Editing Software for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-libre-meditation-harmonies/"><u>[New] 2024 Approved Libre Meditation Harmonies</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-fixing-sidecar-connectivity-issues-bridging-mac-and-ipad-on-big-sur/"><u>1. Fixing Sidecar Connectivity Issues: Bridging Mac and iPad on Big Sur</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-software-top-5-pc-apps-for-apple-airplay-streaming/"><u>Best Free Software: Top 5 PC Apps for Apple AirPlay Streaming</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/discovering-datto-substitutes-a-path-from-problems-to-answers/"><u>Discovering Datto Substitutes: A Path From Problems to Answers</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-single-board-pcs-for-windows-users/"><u>Efficient Single-Board PCs for Windows Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhance-your-mac-display-with-iphone-12-mastering-the-art-of-airplay-streaming/"><u>Enhance Your Mac Display with iPhone 12: Mastering the Art of AirPlay Streaming</u></a></li>
+<li><a href="https://media-tips.techidaily.com/expert-guide-how-to-easily-get-and-set-up-quicktime-player-in-your-windows-cuarto-pantalla/"><u>Expert Guide: How to Easily Get & Set Up QuickTime Player in Your Windows Cuarto Pantalla</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-video-casting-how-to-wirelessly-share-your-pcs-movies-on-tv/"><u>Free Video Casting: How to Wirelessly Share Your PC's Movies on TV</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-xboxs-game-pass-price-tide-rise/"><u>Navigating Through Xbox's Game Pass Price Tide Rise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-finding-and-installing-hp-officejet-4650-printer-software-on-windows/"><u>Step-by-Step Tutorial: Finding and Installing HP OfficeJet 4650 Printer Software on Windows</u></a></li>
 </ul></div>
 

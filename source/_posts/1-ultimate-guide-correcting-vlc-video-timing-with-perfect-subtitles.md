@@ -1,7 +1,7 @@
 ---
 title: "1. Ultimate Guide: Correcting VLC Video Timing with Perfect Subtitles"
-date: 2025-01-08T16:04:13.196Z
-updated: 2025-01-15T16:06:06.003Z
+date: 2025-01-14T17:58:43.483Z
+updated: 2025-01-21T16:28:15.251Z
 tags:
   - vlc
 categories:
@@ -38,9 +38,17 @@ Since VLC media player is a cross-platform software, we will explain the solutio
 [Sync Subtitles VLC on Apple TV >>](https://tools.techidaily.com/5kplayer/products/)  
 [Best VLC Alternative to Solve VLC Subtitle Delay >>](https://tools.techidaily.com/5kplayer/products/)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solve VLC Subtitle Delay on Windows, Mac, iOS, Android & TV
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/1.png) **How to Sync Subtitles in VLC on Windows PC?**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Method 1.** When playing a video or movie with VLC media player, you simply use the hotkey to adjust the subtitle delay or forward. If subtitle is ahead of sound, press **G**. If subtitle is behind sound, press **H**. With every key press, it will adjust the subtitle by 50 milliseconds, and you will see the confirmation "Subtitle delay 50ms" or "Subtitle delay -50ms" on the top right corner of the playing screen.
 
@@ -67,6 +75,10 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 ![VLC Subtitle Synchronization](https://www.5kplayer.com/vlc/img/vlc-subtitle-synchronization.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### ![](https://www.5kplayer.com/vlc/../seoimg/2.png) **How to Adjust Subtitle Timing in VLC on Mac?**
 
 **Method 1.** During playback, you can press hotkey **H** (decrease delay, subtitles show after sound) or **J** (increase delay, subtitles display before sound) to sync subtitles in VLC. Same with that on Windows PC, every key press will adjust 50 milliseconds.
@@ -79,10 +91,6 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 ![VLC Subtitle Synchronization Mac](https://www.5kplayer.com/vlc/img/vlc-subtitle-synchronization-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### ![](https://www.5kplayer.com/vlc/../seoimg/3.png) **How to Solve Subtitle Delay in VLC on Android Phones & TV?**
 
 1\. Play a video or movie with VLC media player on your Android device.  
@@ -93,14 +101,10 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 ![VLC Subtitle Synchronization Android](https://www.5kplayer.com/vlc/img/vlc-subtitle-android.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### ![](https://www.5kplayer.com/vlc/../seoimg/4.png) **How to Sync Subtitles in VLC on iOS iPhone/iPad?**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1\. Open a video with VLC media player for iOS.  
@@ -111,14 +115,10 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 ![VLC Subtitle Synchronization iOS](https://www.5kplayer.com/vlc/img/vlc-subtitle-ios.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/5.png) **How to Adjust Subtitles in VLC on Apple TV?**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1\. When watching a video on Apple TV, swipe down on your remote’s Touch surface.  
  2\. Swipe right to see the Subtitles or Audio menus  
@@ -160,24 +160,20 @@ Actually VLC not working problems vary, and 5KPlayer is also the best alternativ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>[New] 2024 Approved Frame It Right Essential 2023 Tools & Sites for Image Edits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-formulating-a-seamless-subscription-hyperlink-to-youtube-for-2024/"><u>[New] Formulating a Seamless Subscription Hyperlink to YouTube for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/edia-script-synthesizer-for-2024/"><u>[New] Media Script Synthesizer for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-quick-start-guide-to-recording-remote-meetings-with-ease-windows-mac/"><u>[Updated] Quick-Start Guide to Recording Remote Meetings with Ease (Windows, Mac)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1-live-stream-nba-2023-finals-matches-free-online-viewing/"><u>1. Live Stream NBA 2023 Finals Matches - Free Online Viewing</u></a></li>
-<li><a href="https://media-tips.techidaily.com/airplay-your-iphoneipad-content-directly-without-needing-an-apple-tv/"><u>AirPlay Your iPhone/iPad Content Directly Without Needing an Apple TV</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-steps-to-resolve-airplay-connectivity-problems-on-your-ios-and-macos-gadgets/"><u>Comprehensive Steps to Resolve AirPlay Connectivity Problems on Your iOS and macOS Gadgets</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-mp4-video-file-player-downloads-for-windows-11mac-works-with-winamp-imovie-and-vlc-media-player/"><u>Free MP4 Video File Player Downloads for Windows 11/Mac – Works With Winamp, iMovie, and VLC Media Player</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/getting-started-easy-video-intros-available-for-2024/"><u>Getting Started Easy Video Intros Available for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guide-watching-the-2016-rio-olympics-on-your-apple-tv/"><u>Guide: Watching the 2016 Rio Olympics on Your Apple TV</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-rid-of-the-black-screen-glitch-in-persona-5-strikers/"><u>How to Get Rid of the Black Screen Glitch in Persona 5 Strikers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-lg-k51-beautiful-design-overshadowed-by-performance-issues/"><u>In-Depth Analysis of the LG K51: Beautiful Design Overshadowed by Performance Issues</u></a></li>
-<li><a href="https://facebook.techidaily.com/integrating-mobile-code-generators-in-fb-for-enhanced-safety/"><u>Integrating Mobile Code Generators in FB for Enhanced Safety</u></a></li>
-<li><a href="https://media-tips.techidaily.com/regular-inspections-by-the-atf-ensure-compliance-with-safety-regulations/"><u>Regular Inspections by the ATF Ensure Compliance with Safety Regulations.</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamless-wireless-dlna-media-streaming-connect-your-iphone-to-pc-or-smart-tv/"><u>Seamless Wireless DLNA Media Streaming: Connect Your iPhone to PC or Smart TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-winhttpdll-files-on-your-computer-tips-and-solutions/"><u>Troubleshooting Missing Winhttp.dll Files on Your Computer – Tips and Solutions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/understanding-screen-mirroring-how-to-cast-your-iphone-or-ipad-on-a-larger-display/"><u>Understanding Screen Mirroring: How to Cast Your iPhone or iPad on a Larger Display</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-clear-audio-from-your-hyperx-cloud-alpha-headset-a-step-by-step-fix-for-mute-mics/"><u>Unlock Clear Audio From Your HyperX Cloud Alpha Headset - A Step-by-Step Fix for Mute Mics</u></a></li>
-<li><a href="https://media-tips.techidaily.com/zero-cost-video-players-compatible-with-flv-and-modern-html5-streams/"><u>Zero Cost Video Players: Compatible with Flv and Modern HTML5 Streams</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-professional-video-quality-with-top-youtube-to-webm-tools/"><u>[New] Unlock Professional Video Quality with Top YouTube-to-WebM Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-iphone-editing-supremacy-cameo-vs-filmorago-face-off/"><u>[Updated] 2024 Approved IPhone Editing Supremacy Cameo Vs. FilmoraGo Face-Off</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-maximizing-revenue-crafting-engaging-fb-animation-ads/"><u>[Updated] 2024 Approved Maximizing Revenue Crafting Engaging FB Animation Ads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-insider-tips-creating-unique-podcast-names/"><u>[Updated] Insider Tips Creating Unique Podcast Names</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom/"><u>2024 Approved Expert Tips for Blending Multiple HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://media-tips.techidaily.com/hd1080p/"><u>全功能免費HD播放器:支援1080p高清並可轉換多種影片格式</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-3-mp3-devices-for-free-music-management-and-storage/"><u>Best 3 MP3 Devices for FREE Music Management & Storage</u></a></li>
+<li><a href="https://media-tips.techidaily.com/come-trasformare-il-tuo-computer-windows-11-in-un-potente-server-multimediale-dlna/"><u>Come Trasformare Il Tuo Computer Windows 11 in Un Potente Server Multimediale DLNA</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-movie-and-song-sharing-from-pc-to-tv-the-ultimate-guide-on-connecting-devices-efficiently/"><u>Effortless Movie and Song Sharing From PC to TV: The Ultimate Guide on Connecting Devices Efficiently</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-15-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 15 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leading-tools-for-clear-uncompromised-4k-recordings/"><u>Leading Tools for Clear, Uncompromised 4K Recordings</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-replace-the-sky-in-your-media-read-the-article-to-learn-how-to-change-the-sky-app-on-your-mobile-phone/"><u>New 2024 Approved Do You Want to Replace the Sky in Your Media? Read the Article to Learn How to Change the Sky App on Your Mobile Phone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ranked-free-flv-media-player-unlocking-seamless-flv-video-enjoyment/"><u>Top-Ranked Free FLV Media Player: Unlocking Seamless FLV Video Enjoyment</u></a></li>
+<li><a href="https://media-tips.techidaily.com/universal-video-codec-compatibility-with-windows-media-player-in-windows-11-8-and-7/"><u>Universal Video Codec Compatibility with Windows Media Player in Windows 11, 8 & 7</u></a></li>
 </ul></div>
 

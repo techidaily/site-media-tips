@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to the AV1 Video Codec: Insights and Information"
-date: 2025-01-14T16:04:36.538Z
-updated: 2025-01-15T16:02:31.149Z
+date: 2025-01-15T17:12:38.699Z
+updated: 2025-01-21T17:35:09.845Z
 tags:
   - video-music-player
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Todo sobre el códec de vídeo AV1 - Actualizando
 
@@ -34,7 +38,7 @@ Con las noticias sobre el **códec AV1** aparecidas a principios de 2023, puede 
 [5\. ¿Cómo descargar el códec de vídeo AV1?](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ¿Qué es el códec AV1?
@@ -61,10 +65,6 @@ En general, el códec AV1 está creado para una transmisión fluida de vídeo de
 
 **Universalidad:** De hecho, no hay ningún códec de archivos multimedia con el que ni siquiera los gigantes de la tecnología puedan conformarse y apoyarlo universalmente. El mejor ejemplo es: Los vídeos de YouTube conn resolución 4K no se pueden transmitir en Safari porque el navegador de Apple no es compatible con el VP9 de Google. Por lo tanto, la aparición del AV1 elimina la brecha y hace la comunicación mucho más fácil.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### AV1 vs. VP9 vs. HEVC
 
 Comparado con el códec HEVC, el códec AV1 no necesita patentes. Mientras que comparado con el VP9 y el H.264, la eficiencia de la codificación ha mejorado en gran medida. Esos son beneficios obvios. Para ser más detallados, basado en la prueba de Bitmovin, el códec AV1 actual ofrece una tasa de compresión un 20% y 30% mejor en comparación con VP9 y HEVC respectivamente, y se predice que la tasa de compresión debería ser un 50% mejor. En la prueba de Facebook de 2018, AV1 logró una compresión de datos 34%, 46,2% y 50,3% más alta que la de libvpx-vp9, x264 de perfil alto y x264 de perfil principal, respectivamente. Además, el fuerte apoyo de AOM le da a AV1 una enorme ventaja competitiva cuando se implementa en navegadores, dispositivos móviles, OTT, televisores inteligentes, etc., y ayuda a YouTube, Netflix, Amazon a distribuir contenidos más rápidamente. Eso es lo que otros códecs no pueden hacer para siempre.
@@ -74,10 +74,6 @@ Comparado con el códec HEVC, el códec AV1 no necesita patentes. Mientras que c
 En 2013, VP9 fue sacado por Google para tener la misma tasa de compresión con HEVC. Comparado con el H.264/AVC, el VP9 es un 30% \~ 50% más eficiente. En cuanto al AV1 vs. VP9, el códec de vídeo AV1 ofrece una compresión 20% mejor que la VP9, mostrando así una calidad de imagen similar a menores velocidades de datos. Por ejemplo, Netflix ha probado que el AV1 ayuda a reducir el consumo de datos de Netflix hasta un 20% en comparación con el VP9 sin afectar a la calidad del vídeo.
 
 ![AV1 VS VP9](https://www.5kplayer.com/video-music-player-es/../video-music-player/img/av1-vs-vp9.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _(Prueba de AV1 vs. VP9 de Bitmovin)_
 
@@ -90,14 +86,10 @@ El AV1 puede ahorrar hasta un 30%\~50% de ancho de banda para la misma calidad d
 ![AV1 VS HEVC](https://www.5kplayer.com/video-music-player-es/../video-music-player/img/av1-vs-hevc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _(Prueba de AV1 vs. HEVC de Bitmovin)_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Adopción del AV1 - ¿Qué soporta el códec de vídeo AV1 ahora?
 
@@ -119,9 +111,17 @@ La adopción del códec AV1 es diversa, lo que incluye servicios de streaming on
 
 La obvia deficiencia del códec de vídeo AV1 que encontramos a partir de ahora es que los algoritmos utilizados en AV1 son un poco más avanzados que los del HEVC, por lo que requiere un hardware y un software más potente para codificar o decodificar. Es por eso que ocurre el problema de que el AV1 no se reproduce, por eso YouTube advierte a sus usuarios con un mensaje de error como "todo los que supere los 480p requerirá un ordenador potente", y por eso el formato de vídeo AV1 no es popular entre el público en la actualidad. No importa, el AV1 será una superestrella al final con un futuro brillante.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### El futuro del códec de vídeo AV1
 
 Además de lo todo lo mencionado arriba compatible con AV1, AV1 se usará en más plataformas. Según las noticias, el AV1 aparecerá en las consolas de juegos, decodificadores, procesadores, tarjetas gráficas, chipsets, más televisores inteligentes de las marcas Samsung y LG, nuevos Fire TV y productos Roku, etc. Con todo, un mayor despliegue del AV1 que es imposible hoy en día, será posible en un futuro próximo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ¿Cómo descargar el códec de vídeo AV1?
 
@@ -159,18 +159,14 @@ _**Fuente:**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-tomorrows-insight-rethinking-choices/"><u>[New] Tomorrow's Insight Rethinking Choices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-leap-from-youtube-to-dailymotion-with-ease/"><u>[Updated] 2024 Approved Leap From YouTube to Dailymotion with Ease</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-navigate-away-from-bot-influenced-metrics/"><u>[Updated] Navigate Away From Bot-Influenced Metrics</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-no-pay-necessary-the-art-of-unpaid-football-editing/"><u>2024 Approved No Pay Necessary The Art of Unpaid Football Editing</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-steps-to-make-your-movies-compatible-with-psp-universal-video-conversion-tool/"><u>Easy Steps to Make Your Movies Compatible with PSP - Universal Video Conversion Tool</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/groundwork-for-animate-infographic-creation-for-2024/"><u>Groundwork for Animate Infographic Creation for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guide-converting-ms-video-files-into-imovie-edits-for-enhanced-visual-storytelling/"><u>Guide: Converting MS Video Files Into iMovie Edits for Enhanced Visual Storytelling</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-ensure-headphones-detect-playback-devices-on-windows-11-systems/"><u>How to Ensure Headphones Detect Playback Devices on Windows 11 Systems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620219701-mastering-3d-viewing-techniques-learn-what-is-3d-and-experience-movies-in-depth-fast/"><u>Mastering 3D Viewing Techniques - Learn What Is 3D and Experience Movies in Depth Fast</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-imovie-to-mp4-transfers-in-depth-explanatory-videos-for-professionals/"><u>Mastering iMovie to MP4 Transfers: In-Depth Explanatory Videos for Professionals</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mpg-to-divx-video-conversion-for-windows-and-macos-users-a-comprehensive-tutorial/"><u>MPG to DivX Video Conversion for Windows and macOS Users - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mpg-to-vob-conversion-tutorial-a-comprehensive-how-to-approach/"><u>MPG to VOB Conversion Tutorial: A Comprehensive How-To Approach</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Max Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dive-into-digital-green-magic-top-4-youtube-sources-for-no-cost-background-workshops/"><u>[New] 2024 Approved Dive Into Digital Green Magic Top 4 YouTube Sources for No-Cost Background Workshops</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-stream-switch-and-succeed-the-complete-guide-to-using-float-on-netflix/"><u>2024 Approved Stream, Switch and Succeed The Complete Guide to Using Float on Netflix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-prevent-automatic-jump-to-top-on-windows-11-explorer-scrollbar/"><u>How to Prevent Automatic Jump to Top on Windows 11 Explorer Scrollbar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nubia-red-magic-8s-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nubia Red Magic 8S Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/is-viewing-4k-signals-via-over-the-air-broadcast-feasible-a-detailed-insight/"><u>Is Viewing 4K Signals via Over-the-Air Broadcast Feasible? A Detailed Insight</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-thrustmaster-t300-controller-software-for-windows-11-and-10-free-download-options/"><u>Latest Thrustmaster T300 Controller Software for Windows 11 & 10 - Free Download Options</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-and-exciting-watch-major-league-games-with-mlb-networks-budget-friendly-monthly-subscription-for-only-6/"><u>New and Exciting: Watch Major League Games with MLB Network's Budget-Friendly Monthly Subscription for Only $6!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/potential-phasing-out-the-future-of-roku-streambar-pro-in-question/"><u>Potential Phasing Out: The Future of Roku Streambar Pro in Question</u></a></li>
+<li><a href="https://media-tips.techidaily.com/rewind-live-broadcasts-easily-discover-the-power-of-nbcuniversals-now-service-and-nextgen-tv-technology/"><u>Rewind Live Broadcasts Easily: Discover the Power of NBCUniversal's Now Service and NextGen TV Technology</u></a></li>
 </ul></div>
 

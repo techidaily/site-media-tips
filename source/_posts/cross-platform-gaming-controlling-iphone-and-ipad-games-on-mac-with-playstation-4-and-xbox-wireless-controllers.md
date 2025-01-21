@@ -1,7 +1,7 @@
 ---
 title: "Cross-Platform Gaming: Controlling iPhone and iPad Games on Mac with PlayStation 4 & Xbox Wireless Controllers"
-date: 2025-01-12T16:03:52.854Z
-updated: 2025-01-15T16:07:24.151Z
+date: 2025-01-14T17:04:08.683Z
+updated: 2025-01-21T19:01:25.365Z
 tags:
   - airplay
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Play Games from iOS 13/iPadOS to Computer with PS4/Xbox One Controller?
 
@@ -45,7 +49,7 @@ If you're running iOS 13 or iPadOS 13, you can now use Sony PlayStation 4 DualSh
 ![Pair PS4 Controller to iOS 13](https://www.5kplayer.com/airplay/img/pair-ps4-controller-to-ios13.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4.** Now, on your iPhone or iPad, you should see "DUALSHOCK 4 Wireless Controller" pop up under OTHER DEVICES in the Bluetooth menu. Just tap it.  
@@ -63,14 +67,10 @@ If you're running iOS 13 or iPadOS 13, you can now use Sony PlayStation 4 DualSh
 
 ![Pair Xbox One Controller to iOS 13](https://www.5kplayer.com/airplay/img/pair-xbox-controller-to-ios13.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Notice:** You can use the model number 1708 of Xbox One, aka Xbox One S, to pair to iOS 13 and iPadOS. Also, the new Elite 2 controller with Bluetooth support that Microsoft Xbox just announced at E3 can be an ideal one. You may think that these two kinds of models can pair with the new iOS 13 and iPadOS, but the fact is most modern Xbox One controllers support Bluetooth that you can use to play games on iOS 13 iPhone and iPadOS iPad.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Play Games from iOS 13/iPadOS to Computer with PS4/Xbox One Controller?
@@ -90,7 +90,7 @@ Now that you have connected your game console to iOS 13 or iPadOS, the only job 
 ![Mirror iOS 13 Games to Computer](https://www.5kplayer.com/airplay/img/airplay-ipad-2-to-mac.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Fire up a game and you're good to go. Besides helping play games from iOS 13/iPadOS to computer with PS4/Xbox One controller through the iPadOS/[iOS 13 screen mirroring](https://tools.techidaily.com/5kplayer/airplay/) feature, 5KPlayer's screen mirror function also allows for the newest [iPhone 11, 11 Pro, 11 Pro Max AirPlay](https://tools.techidaily.com/5kplayer/airplay/) to Mac and PC. Born to be a multimedia player, downloader and streamer, you are also able to use it to play 4K MP4 MKV etc videos, download video clips as well as [DLNA stream](https://tools.techidaily.com/5kplayer/dlna/) video music to DLNA-compatible devices.
@@ -98,7 +98,7 @@ Fire up a game and you're good to go. Besides helping play games from iOS 13/iPa
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -116,19 +116,24 @@ Fire up a game and you're good to go. Besides helping play games from iOS 13/iPa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-innovative-ideas-for-fb-slideshow-creations/"><u>[New] In 2024, Innovative Ideas for FB Slideshow Creations</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-achieve-cinematic-quality-with-ipad-time-lapses/"><u>[Updated] Achieve Cinematic Quality with iPad Time-Lapses</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-ultimate-5-subtitle-conversion-tools-for-effortlessly-changing-txt-to-srtstlasssccttml/"><u>Discover the Ultimate 5 Subtitle Conversion Tools for Effortlessly Changing TXT to SRT/STL/ASS/SCC/TTML</u></a></li>
-<li><a href="https://win-studio.techidaily.com/exploring-parent-control-capabilities-in-microsoft-windows-defender-a-yl-software-perspective/"><u>Exploring Parent Control Capabilities in Microsoft Windows Defender: A YL Software Perspective</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fast-conversion-guide-transforming-tod-files-into-mp4-format-on-your-mac/"><u>Fast Conversion Guide: Transforming TOD Files Into MP4 Format on Your Mac</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-transform-avi-files-into-compatible-mp4-players-for-kindle-fire-using-a-mac/"><u>How to Transform AVI Files Into Compatible MP4 Players for Kindle Fire Using a Mac</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-8-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 8 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-videos-from-mp4-to-divx-format-on-pc-or-mac/"><u>Step-by-Step Guide: Converting Videos From MP4 to DivX Format on PC or Mac</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oneplus-11r-by-drfone-android/"><u>Three Ways to Sim Unlock OnePlus 11R</u></a></li>
-<li><a href="https://media-tips.techidaily.com/tutorial-successfully-uploading-an-imovie-to-the-youtube-platform/"><u>Tutorial: Successfully Uploading an iMovie to the YouTube Platform</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-to-the-best-free-video-transcoders-for-psx-and-psp-on-macos-systems/"><u>Ultimate Guide to the Best Free Video Transcoders for PSX and PSP on macOS Systems!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725287586592-dvd/"><u>マルチメディアコンテンツの再生手順一覧 - DVD、動画、音声ファイルの全体的な使用方法</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-brush-up-your-skills-the-definitive-list-of-top-10-drawing-apps-for-android/"><u>[New] Brush Up Your Skills The Definitive List of Top 10 Drawing Apps for Android</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-innovative-digital-editing-software-without-cost/"><u>[Updated] 2024 Approved Innovative Digital Editing Software Without Cost</u></a></li>
+<li><a href="https://media-tips.techidaily.com/acquisition-alert-paramountplus-and-pluto-tv-join-forces-with-skydance-entertainment/"><u>Acquisition Alert: Paramount+ and Pluto TV Join Forces with Skydance Entertainment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/avoiding-disarray-in-frames/"><u>Avoiding Disarray in Frames</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-error-80070n00e-efficiently-correct-windows-update-issues-now/"><u>Bypass Error 80070N00E: Efficiently Correct Windows Update Issues Now</u></a></li>
+<li><a href="https://media-tips.techidaily.com/choosing-the-perfect-screen-how-to-select-the-ideal-television-size/"><u>Choosing the Perfect Screen: How to Select the Ideal Television Size</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comprehensive-guide-top-android-malware-threats-and-prevention-strategies/"><u>Comprehensive Guide: Top Android Malware Threats & Prevention Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-how-to-free-up-space-on-android-by-clearing-cache/"><u>Comprehensive Tutorial: How to Free Up Space on Android by Clearing Cache</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-update-bid-farewell-to-netflix-basic-master-innovative-iphone-repair-techniques/"><u>Comprehensive Update: Bid Farewell to Netflix Basic, Master Innovative iPhone Repair Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-improved-storage-solutions-and-google-photos-in-latest-roku-os-125-update/"><u>Discover Improved Storage Solutions and Google Photos in Latest Roku OS 12.5 Update</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-steps-to-sync-dissolve-links-and-reboot-your-google-tv-remote-control/"><u>Effortless Steps to Sync, Dissolve Links, and Reboot Your Google TV Remote Control</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-war-thunder-from-freezing-and-crashing-essential-troubleshooting-guide-for-gamers/"><u>How To Stop War Thunder From Freezing and Crashing: Essential Troubleshooting Guide for Gamers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-smart-8-plus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Smart 8 Plus to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rise-to-the-top-the-essentials-of-starting-a-youtube-gaming-sensation-for-2024/"><u>Rise to the Top The Essentials of Starting a YouTube Gaming Sensation for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/11-on-building-sports-video-gold-for-2024/"><u>The 411 on Building Sports Video Gold for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/tired-of-unwanted-youtube-content-discover-the-secrets-to-improving-your-personalized-video-recommendations/"><u>Tired of Unwanted YouTube Content? Discover the Secrets to Improving Your Personalized Video Recommendations</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unleash-a-world-of-new-melodies-make-apple-music-radio-your-primary-music-discovery-tool-today/"><u>Unleash a World of New Melodies - Make Apple Music Radio Your Primary Music Discovery Tool Today!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unraveling-the-mysteries-behind-unlimited-what-are-the-real-limits-of-unlimited-dvr-services/"><u>Unraveling the Mysteries Behind 'Unlimited' – What Are the Real Limits of Unlimited DVR Services?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/update-playstation-retains-your-bought-tv-shows-no-deletions-now-guaranteed/"><u>Update: PlayStation Retains Your Bought TV Shows, No Deletions Now Guaranteed</u></a></li>
 </ul></div>
 
