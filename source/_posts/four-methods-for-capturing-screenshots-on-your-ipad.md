@@ -1,7 +1,7 @@
 ---
 title: Four Methods for Capturing Screenshots on Your iPad
-date: 2025-01-15T16:27:58.344Z
-updated: 2025-01-21T18:55:51.222Z
+date: 2025-01-25T16:49:26.400Z
+updated: 2025-01-29T01:02:52.867Z
 tags:
   - airplay
 categories:
@@ -49,6 +49,10 @@ iPad with iOS 11 or later and iPadOS has an embedded screen recorder that you ca
 
 ![Add Screen Recording to Control Center](https://www.5kplayer.com/airplay/img/add-screen-recording-to-control-center.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2\. Activate iPad screen recording**  
  1\. Swipe up from the bottom of any screen if you have an iOS 11 iPad, or swipe down from the upper-right corner of the screen if you have an iPad with iOS 12 or iPadOS.  
  2\. Firm press the icon ![](https://www.5kplayer.com/airplay/img/record-icon-1.jpg) and tap Microphone to turn on it if you want to screen recording iPad with sound or turn off it to record no sound. Here, you can also choose a different destination for the screen recording other than the Photos library.  
@@ -57,22 +61,14 @@ iPad with iOS 11 or later and iPadOS has an embedded screen recorder that you ca
 ![Start Recording iPad](https://www.5kplayer.com/airplay/img/start-ipad-screen-recording.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3\. Start recording iPad screen**  
  When the icon ![](https://www.5kplayer.com/airplay/img/record-icon-1.jpg) turns red, it means the recording starts. Now, do operations on your iPad and every action will be recorded.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4\. Stop iPad screen recording**  
  Open Control Center and tap ![](https://www.5kplayer.com/airplay/img/record-icon-2.jpg) to stop the recording. Alternatively, tap the red icon with a timer on the upper-right corner of your iPad screen and then a message will pop up to allow you to stop recording. Now, you can find the recording file in Photos and trim it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Cons of this way:**   
  \* Only available to iPad with iOS 11 or later and iPadOS.  
@@ -119,7 +115,7 @@ Like QuickTime Player, 5KPlayer is also a media player which supports iPad/[iPho
 ![Turn on 5KPlayer AirPlay](https://www.5kplayer.com/airplay/img/turn-on-airplay-5kplayer.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** Connect your iPad and your computer to the same WiFi network.
@@ -132,6 +128,10 @@ Like QuickTime Player, 5KPlayer is also a media player which supports iPad/[iPho
 
 ![Screen Record iOS via 5KPlayer](https://www.5kplayer.com/airplay/img/5kplayer-record-iphone-screen.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Cons of this way:**   
  \* Need installation.  
  \* Need WiFi.  
@@ -143,7 +143,7 @@ As an AirPlay-enabled 4K video player, 5KPlayer has improved its [AirPlay](https
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -161,22 +161,22 @@ As an AirPlay-enabled 4K video player, 5KPlayer has improved its [AirPlay](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/est-gamers-streaming-tools/"><u>[New] Best Gamers' Streaming Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-supercharge-videos-with-dynamic-titles-for-2024/"><u>[Updated] Supercharge Videos with Dynamic Titles for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-synthesizing-sound-and-slides-incorporating-melodies-in-ppt/"><u>2024 Approved Synthesizing Sound and Slides Incorporating Melodies in PPT</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/connecting-with-clarity-4-ways-to-share-stories/"><u>Connecting with Clarity 4 Ways to Share Stories</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/constructing-home-made-vr-headgear-with-google-cards-for-2024/"><u>Constructing Home-Made VR Headgear with Google Cards for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-dos-and-donts-navigating-the-common-blunders-in-generative-ai-usage/"><u>Essential Dos and Don'ts: Navigating the Common Blunders in Generative AI Usage</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-oppo-a78-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Oppo A78 5G Phone that is Locked?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/introducing-enhanced-lg-smart-tv-integration-in-the-latest-kodi-release-210-omega/"><u>Introducing Enhanced LG Smart TV Integration in the Latest Kodi Release - 21.0 Omega</u></a></li>
-<li><a href="https://media-tips.techidaily.com/leverage-top-seller-deals-on-amazon-prime-day-set-up-your-personalized-plex-media-hub/"><u>Leverage Top-Seller Deals on Amazon Prime Day: Set Up Your Personalized Plex Media Hub</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/restore-your-pc-with-ease-a-step-by-step-tutorial-on-using-images-for-windows-recovery/"><u>Restore Your PC with Ease: A Step-by-Step Tutorial on Using Images for Windows Recovery</u></a></li>
-<li><a href="https://media-tips.techidaily.com/revamped-soundscapes-google-upgrades-nest-and-chromecast-with-new-dual-speaker-capabilities/"><u>Revamped Soundscapes: Google Upgrades Nest & Chromecast with New Dual Speaker Capabilities</u></a></li>
-<li><a href="https://media-tips.techidaily.com/stream-your-favorite-films-at-no-cost-using-top-rated-phone-applications/"><u>Stream Your Favorite Films at No Cost Using Top Rated Phone Applications</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-no-cost-4k-hevc-decoders-the-ultimate-guide/"><u>Top No-Cost 4K HEVC Decoders: The Ultimate Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-ranking-qled-televisions-a-comprehensive-guide/"><u>Top-Ranking QLED Televisions : A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-your-car-ride-into-a-concert-experience-using-spotifys-high-quality-equalizer-settings/"><u>Transform Your Car Ride Into a Concert Experience Using Spotify's High-Quality Equalizer Settings</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unveiling-my-reasons-the-decision-to-abandon-apple-podcasts-forever/"><u>Unveiling My Reasons: The Decision to Abandon Apple Podcasts Forever</u></a></li>
-<li><a href="https://media-tips.techidaily.com/upcoming-discontinuation-of-googles-audiobook-platform-a-look-at-the-end-of-google-podcasts/"><u>Upcoming Discontinuation of Google's Audiobook Platform: A Look at the End of Google Podcasts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-eliminate-grainy-footage-tips-for-social-media-apps/"><u>[Updated] Eliminate Grainy Footage Tips for Social Media Apps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/catch-russia-play-live-in-the-201n-fifa-tournament-for-free-via-apple-tv-platform/"><u>Catch Russia Play Live in the 201N FIFA Tournament for Free via Apple TV Platform</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-methods-to-enable-and-use-airplay-technology-with-your-desktop-computer/"><u>Easy Methods to Enable and Use AirPlay Technology with Your Desktop Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-deal-alert-get-the-ideal-apple-watch-ultra-2-at-100-less-this-labor-day-a-perfect-fit-for-tech-enthusiasts/"><u>Exclusive Deal Alert: Get the Ideal Apple Watch Ultra 2 at $100 Less This Labor Day - A Perfect Fit for Tech Enthusiasts!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-for-connecting-your-iphone-or-ipad-with-ios-13-to-windowsmac-via-airplay/"><u>Guide for Connecting Your iPhone or iPad with iOS 13 to Windows/Mac via AirPlay</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-huawei-p60-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Huawei P60</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-microsoft-copilot-a-comprehensive-tutorial-for-mac-users/"><u>Mastering Microsoft Copilot: A Comprehensive Tutorial for Mac Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-the-world-with-ease-66-expert-travel-tweets-offering-pro-tips-steals-and-wanderlust-stories/"><u>Navigate the World with Ease: 66 Expert Travel Tweets Offering Pro Tips, Steals, and Wanderlust Stories</u></a></li>
+<li><a href="https://media-tips.techidaily.com/overcoming-4k-playback-hurdles-how-to-solve-non-streaming-and-airplay-errors-on-apple-devices/"><u>Overcoming 4K Playback Hurdles: How to Solve Non-Streaming & AirPlay Errors on Apple Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211472921-9798330457786-shadows-of-a-secret/"><u>Shadows of a Secret | Free Book</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-playing-any-video-in-vlc-one-frame-at-a-time/"><u>Step-by-Step Guide: Playing Any Video in VLC One Frame at a Time</u></a></li>
+<li><a href="https://win11.techidaily.com/taskmasters-triumph-essential-apps-to-elevate-workday-productivity/"><u>Taskmaster's Triumph: Essential Apps to Elevate Workday Productivity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-evolution-samsung-ubd-k8500-2023-edition/"><u>The Evolution Samsung UBD-K8500 2023 Edition</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5kplayer-reviews-the-ultimate-microsoft-media-player-substitute-on-windows/"><u>Top 5KPlayer Reviews: The Ultimate Microsoft Media Player Substitute on Windows</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-free-downloadable-mac-media-players-compatible-with-mojave-and-catalina/"><u>Top Rated Free Downloadable Mac Media Players Compatible with Mojave & Catalina</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-the-best-three-expert-tips-to-enjoy-free-films-anytime-on-your-apple-devices/"><u>Unlock the Best: Three Expert Tips to Enjoy Free Films Anytime on Your Apple Devices</u></a></li>
+<li><a href="https://win-updates.techidaily.com/yl-softwares-cryptocurrency-balance-checker-is-it-free-or-does-it-charge/"><u>YL Software's Cryptocurrency Balance Checker: Is It Free or Does It Charge?</u></a></li>
 </ul></div>
 
