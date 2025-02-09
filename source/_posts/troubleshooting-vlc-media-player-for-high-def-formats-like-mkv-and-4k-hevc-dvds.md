@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting VLC Media Player for High-Def Formats Like MKV and 4K HEVC DVDs
-date: 2024-09-25T22:29:03.507Z
-updated: 2024-10-01T00:49:18.691Z
+date: 2025-02-06T17:52:29.160Z
+updated: 2025-02-09T16:20:41.018Z
 tags:
   - vlc
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/62017b9a75f2be738008dfd82e88e32736119212b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VLC Crashes? Solutions to VLC Crashing MKV 4K HEVC DVD etc
 
  _Posted by [Amanda Hu](https://www.quora.com/profile/Amanda-Hu-21) | Last updated: October 22, 2019_
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/62017b9a75f2be738008dfd82e88e32736119212b
 _"How do I disable crash reporting? In other words - stop the ever repeating "VLC has crashed yada-yada" pop-up. I never want to see that thing again."_
 
 Besides the **VLC crashing** reporting, the frozen picture and blank/black screen also reflect the existence of VLC crashing problem. When VLC media player crashes, it can't be closed but be killed as you have to use the task manager to force quit it. And of course, you will fail to play your MKV MP4 4K HEVC/H.254 DVD etc files with this media player when the issue is unresolved. VLC keeps crashing because of multiple reasons including corrupted program components and compatibility with your system. So, to meet your different requirements, we have gathered all the possible solutions to help solve VLC crashing errors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Solve VLC Media Player Crashing Problem?
 
@@ -51,6 +59,10 @@ Besides the **VLC crashing** reporting, the frozen picture and blank/black scree
 
 ![VLC Keeps Crashing](https://www.5kplayer.com/vlc/img/vlc-crashing-01.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2\. Change Hardware-accelerated decoding:**  
  Someone has changed the hardware acceleration of VLC from Automatic to DirectX Video Acceleration(DVXA) 2.0, and find it works for VLC crashing MKV. If you wanna try, you can click on Tools > Preferences > Input/Codecs > Hardware-accelerated decoding > choose DirectX Video Acceleration (DVXA) 2.0 and Save.
 
@@ -69,13 +81,6 @@ If you try any one of the above VLC crashing solutions, you will find it is not 
 
 [![](https://www.5kplayer.com/vlc/../img/winx_btn.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../img/mac_btn.png)](https://tools.techidaily.com/5kplayer/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/vlc/../seoimg/2.png) **VLC Crashing 4K/x265? \[Solved\]**
 
 ![VLC Crash 4K](https://www.5kplayer.com/vlc/../video-music-player/img/5kp-vlc-h265-zjy.jpg) 
@@ -85,6 +90,10 @@ If you try any one of the above VLC crashing solutions, you will find it is not 
 **Answer:** A VLC user said he used VLC version 2.2.4 and 2.2.6 again, and VLC worked perfectly. However, I guess you do not really want to downgrade your VLC as you can't use the new features of VLC. Luckily, VLC 3.0.0 starts supporting for H.265 playback by adding the HEVC [hardware decoding](https://tools.techidaily.com/5kplayer/video-music-player/). Now, the 4K HEVC/H.265 videos should be played successfully with VLC.
 
 ![](https://www.5kplayer.com/vlc/../seoimg/3.png) **VLC Crashing When Playing DVD? \[Solved\]**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Question:** _"So I have had a couple computers at my school just start having this issue where when you try to play a DVD, it thinks about it and then the VLC window just disappears. I have tried uninstalling and reinstalling VLC and still having the issue."_
 
@@ -104,6 +113,10 @@ If you try any one of the above VLC crashing solutions, you will find it is not 
 
 ![](https://www.5kplayer.com/vlc/../seoimg/4.png) **VLC Crashing after VLC Update? \[Solved\]**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Question:** _"I am currently on windows 10 1709 64 bit, the problem is that vlc crashes after about 2 minutes of playback on every start if i am using vlc 3.0.0 or 3.0.1, but this issue is not there on 2.2.8."_
 
 **Answer:** Sometimes, you may only update your VLC player and do nothing to your computer, but still encounter VLC crashing problem. The reason must be the VLC player itself. If you are not using the VLC latest version, try to download it to see if it works. If it is still the same issue, try to download the previous version 2.2.8 you used successfully.
@@ -111,13 +124,6 @@ If you try any one of the above VLC crashing solutions, you will find it is not 
 Some people also solve this VLC media player crashing problem by disabling the hardware decoding, changing the hardware acceleration codec to DXVA, or switching to openGL video output when black screen occurs.
 
 ![](https://www.5kplayer.com/vlc/../seoimg/5.png) **VLC VLSUB Crashes While Searching for Subtitles? \[Solved\]**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1\. Download the Notepad++ from here and install it on your computer.  
  2\. (For MacOS X and Linux Users) Download any free hex editor program.  
@@ -146,10 +152,7 @@ It seems that VLC crashing Mac problem happens most on VLC 3.x.x, and downgradin
 You can also try the old method to see if it works: Quit VLC if it is running > delete the VLC folder in /Users/USERNAME/Library/Preferences > delete org.videolan.vlc.plist in /Users/USERNAME/Library/Preferences > delete org.videolan.vlc.plist in /DRIVENAME/Library/Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So Time-consuming? Why not Try VLC Media Player Alternative
@@ -160,21 +163,7 @@ It would be better if you spent much time and solved the VLC keeps crashing prob
 
 ![Solve VLC Crashing](https://www.5kplayer.com/vlc/../video-music-player/img/5kplayer-ver-dlna.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![](https://www.5kplayer.com/vlc/../img/winx_btn.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../img/mac_btn.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -191,18 +180,19 @@ It would be better if you spent much time and solved the VLC keeps crashing prob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-essential-screen-capture-best-mac-apps-reviewed-and-rated/"><u>[New] 2024 Approved Essential Screen Capture Best Mac Apps Reviewed & Rated</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-5-economical-hd-camcorders-for-adventure-for-2024/"><u>[New] Top 5 Economical HD Camcorders for Adventure for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-edit-your-video-with-youtube-studio-editor/"><u>2024 Approved How to Edit Your Video with YouTube Studio Editor</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-step-by-step-periscope-utilization-complete-manual/"><u>2024 Approved Step-by-Step Periscope Utilization Complete Manual</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-uwu-audio-modifiers-the-top-3-picks-and-tips-on-crafting-perfect-anime-vocalizations/"><u>Best Uwu Audio Modifiers: The Top 3 Picks & Tips on Crafting Perfect Anime Vocalizations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-libre-y-gratuita-de-musica-flac-a-video-wmv-en-linea-una-guia-paso-por-paso-con-movavi/"><u>Conversión Libre Y Gratuita De Música FLAC a Vídeo WMV en Línea: Una Guía Paso Por Paso Con Movavi</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-conversion-top-7-strategies-for-changing-mp2-audio-tracks-into-mp3-on-pcmac-and-via-web-services/"><u>Effortless Conversion: Top 7 Strategies for Changing MP2 Audio Tracks Into MP3 on PC/Mac and via Web Services</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhance-your-conversations-top-5-tts-software-solutions-for-effective-communication/"><u>Enhance Your Conversations: Top 5 TTS Software Solutions for Effective Communication</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-ultimate-guide-to-installing-logitech-g-pro-drivers-on-windows-11-10-8-and-7/"><u>Free Download: Ultimate Guide to Installing Logitech G PRO Drivers on Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-itel-s23-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-seamlessly-transform-your-aac-files-into-mp3-format-tips-and-tricks/"><u>How to Seamlessly Transform Your AAC Files Into MP3 Format: Tips & Tricks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-mov-files-to-mp3-format-across-computers-and-smartphones/"><u>Step-by-Step Guide: Converting MOV Files to MP3 Format Across Computers and Smartphones</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/opusogg/"><u>オンラインで無料のOPUSからOGGへの直接変換 - ムーヴァヴィ</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-top-6-facebook-lite-video-downloaders-for-2024/"><u>[New] Top 6 Facebook Lite Video Downloaders for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unlocking-desktop-recording-the-ezvide-approach/"><u>[Updated] 2024 Approved Unlocking Desktop Recording - The EZvide Approach</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-face-editing-battle-is-hero-series-better-than-the-cube/"><u>[Updated] Face-Editing Battle Is Hero Series Better Than The Cube?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-profit-maximizers-playlist-8-tools-and-products-to-elevate-your-business-game/"><u>[Updated] Profit Maximizers Playlist 8 Tools & Products to Elevate Your Business Game</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-mastery-in-motion-building-high-impact-gifs/"><u>2024 Approved Vimeo Mastery in Motion Building High-Impact GIFs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-apple-iphone-xr-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from Apple iPhone XR</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp3/"><u>如何将电影音频转换为MP3格式？推荐无限制下的自由软件解决方案</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-airplay-speakers-of-2023-top-picks-and-how-to-choose-the-right-device/"><u>Best AirPlay Speakers of 2023: Top Picks and How to Choose the Right Device</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-enable-and-play-mp4-files-on-any-version-of-ipad-the-ultimate-troubleshooting-manual/"><u>How To Enable & Play MP4 Files on Any Version of iPad: The Ultimate Troubleshooting Manual</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-enjoy-high-quality-flac-music-discover-the-best-complimentary-players-for-windows-and-macos-systems/"><u>How to Enjoy High-Quality FLAC Music: Discover the Best Complimentary Players for Windows & macOS Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-computer-stuck-on-windows-10-boot-screen/"><u>How to Fix a Computer Stuck on Windows 10 Boot Screen</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-guide-setting-up-your-pc-as-a-dlna-media-streamer-on-windows-11/"><u>How-To Guide: Setting Up Your PC as a DLNA Media Streamer on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-live-photos-iphone-usage-tips/"><u>In 2024, Mastering Live Photos IPhone Usage Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
 

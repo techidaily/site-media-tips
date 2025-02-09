@@ -1,7 +1,7 @@
 ---
 title: "Mastering VLC Media Player: Building Custom Playlists with M3U, IPTV and Direct Files for an Enhanced Viewing Experience"
-date: 2024-09-27T18:28:41.104Z
-updated: 2024-09-30T18:08:50.057Z
+date: 2025-02-08T17:46:54.598Z
+updated: 2025-02-09T16:18:11.731Z
 tags:
   - vlc
 categories:
@@ -31,13 +31,6 @@ _"The simple act of setting up a playlist on VLC is a nightmare!"_
 What? A bit surprised at hearing people complaining about having trouble creating playlist in VLC. Isn't it just one of the many basic features of a decent media player? Not even believing it after doing some searches. It is true that VLC playlist issue has been for a fairly long history of over 5 years and hasn't been settled yet. Though it is confirmed that the overhauled playlist feature will be added in the VLC 4 upgrade, it is still yet to come at hand.
 
 Here I would like to share several ways to create new playlists in VLC, including local media playlists and IPTV m3u/m3u8 playlists. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Create New Playlists in VLC for Local Media?
 
@@ -72,10 +65,7 @@ However, M3U/M3U8/HTML playlist options are for IPTV playlists. If you want to c
 ![VLC Playlist Option](https://www.5kplayer.com/vlc/img/save-playlist-formats.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The drawback of this method is that you might not find it easy to edit the playlist created in VLC if you want to add some more tracks into it (deleting tracks can be easy), since they are already formed into a VLC playlist file. As \*.XSPF is a basically text file format, **Notepad** could be one of the best program to open it for further editing. 
@@ -105,10 +95,7 @@ To open the VLC playlist, you can directly click on "Media" drop-down menu and s
 ![Create VLC Playlist Shortcut](https://www.5kplayer.com/vlc/img/vlc-playlist-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create IPTV M3U/M3U8 VLC Playlist?
@@ -126,18 +113,15 @@ There are two ways to get IPTV playlist:
 
 ![VLC Stream IPTV Playlist](https://www.5kplayer.com/vlc/img/iptv-vlc-playlist.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Make Multiple Playlists Listed on VLC Playlist Sidebar?
 
 To make multiple playlists listed on the sidebar (well, not exactly the sidebar location), you will have to add created playlist file/folder in "Media Library" rather than "Playlist", since only "Media Library" remembers. 
 
 For both \*.XSPF files and shortcuts folder playlist, directly drag and drop them to the "Media Library". 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hate VLC Playlist? Use 5KPlayer, A User-friendly Solution
 
@@ -147,13 +131,14 @@ This media streaming player also supports M3U8/M3U IPTV playlist streams and liv
 
 ![VLC Playlist Workaround](https://www.5kplayer.com/vlc/img/5kplayer-new-playlist.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -171,21 +156,22 @@ This media streaming player also supports M3U8/M3U IPTV playlist streams and liv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-efficient-mp4-conversion-software-facebook-targeted/"><u>[New] Efficient MP4 Conversion Software (Facebook Targeted)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-detailed-walkthrough-to-flawless-youtube-videos-using-imovie-software/"><u>[Updated] In 2024, Detailed Walkthrough to Flawless YouTube Videos Using iMovie Software</u></a></li>
-<li><a href="https://article-files.techidaily.com/2023-ultimate-guide-sj7s-4k-star-cam-reviews-for-2024/"><u>2023 Ultimate Guide SJ7's 4K Star Cam Reviews for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-windows-11-guide-to-recording-games/"><u>2024 Approved The Ultimate Windows 11 Guide to Recording Games</u></a></li>
-<li><a href="https://media-tips.techidaily.com/2024s-top-tools-for-extracting-audio-from-mp4-videos-comprehensive-desktop-and-online-solutions/"><u>2024'S Top Tools for Extracting Audio From MP4 Videos: Comprehensive Desktop & Online Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/24-hour-film-size-gb-measurement-guide-for-2024/"><u>24-Hour Film Size GB Measurement Guide for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/4-outstanding-conversion-methods-secure-your-music-files-from-bandcamp-in-various-audio-formats-at-no-cost/"><u>4 Outstanding Conversion Methods: Secure Your Music Files From Bandcamp in Various Audio Formats at No Cost!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/audio-clarity-showdown-comparing-mp3-and-mp4-formats-which-delivers-better-sound-quality-and-smaller-file-size/"><u>Audio Clarity Showdown: Comparing MP3 & MP4 Formats - Which Delivers Better Sound Quality & Smaller File Size?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620209216-create-customizable-mp3-ringtones-with-our-user-friendly-cutting-tool/"><u>Create Customizable MP3 Ringtones with Our User-Friendly Cutting Tool</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/l-earning-maestro-of-video-content-for-2024/"><u>Global Earning Maestro of Video Content for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/preserve-superior-sound-clarity-when-editing-mp3s-online-and-offline-a-comprehensive-tutorial/"><u>Preserve Superior Sound Clarity When Editing MP3s Online and Offline - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-wma-audio-to-wav-format-quickly-and-easily/"><u>Step-by-Step Guide: Converting WMA Audio to WAV Format Quickly & Easily</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-flac-files-into-apples-superior-alac-format/"><u>Step-by-Step Guide: Transforming FLAC Files Into Apple's Superior ALAC Format</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-tech-advancements-for-mac-users-our-best-4k-recommendations/"><u>Top Tech Advancements for Mac Users - Our Best 4K Recommendations</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unraveling-the-mystery-of-3d-audio-technology-functionality-and-reliable-download-sources/"><u>Unraveling the Mystery of 3D Audio Technology: Functionality & Reliable Download Sources</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-5-best-dvd-creators-for-macos-sierra/"><u>[New] 5 Best DVD Creators for macOS Sierra</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elevate-your-craft-a-deep-dive-into-top-6-nft-platforms-for-2024/"><u>[New] Elevate Your Craft - A Deep Dive Into Top 6 NFT Platforms for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-apples-m1-battle-is-the-air-or-pro-more-efficient/"><u>[Updated] 2024 Approved Apple's M1 Battle Is the Air or Pro More Efficient?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-vlcs-potential-for-mpeg-4-and-diverse-file-alterations/"><u>[Updated] Unlocking VLC's Potential for MPEG-4 and Diverse File Alterations</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-fixing-sidecar-connectivity-issues-bridging-mac-and-ipad-on-big-sur/"><u>1. Fixing Sidecar Connectivity Issues: Bridging Mac and iPad on Big Sur</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-direct-capture-tool-for-chrome-systems/"><u>2024 Approved Direct Capture Tool for Chrome Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-software-top-5-pc-apps-for-apple-airplay-streaming/"><u>Best Free Software: Top 5 PC Apps for Apple AirPlay Streaming</u></a></li>
+<li><a href="https://media-tips.techidaily.com/connecting-your-xbox-one-console-to-the-windows/"><u>Connecting Your Xbox One Console to the Windows</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-top-3-free-mac-alternatives-to-vlc-media-player-install-today/"><u>Discover the Top 3 Free Mac Alternatives to VLC Media Player – Install Today!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhance-your-mac-display-with-iphone-12-mastering-the-art-of-airplay-streaming/"><u>Enhance Your Mac Display with iPhone 12: Mastering the Art of AirPlay Streaming</u></a></li>
+<li><a href="https://media-tips.techidaily.com/expert-guide-how-to-easily-get-and-set-up-quicktime-player-in-your-windows-cuarto-pantalla/"><u>Expert Guide: How to Easily Get & Set Up QuickTime Player in Your Windows Cuarto Pantalla</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-video-casting-how-to-wirelessly-share-your-pcs-movies-on-tv/"><u>Free Video Casting: How to Wirelessly Share Your PC's Movies on TV</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-newest-realtek-audio-control-software-for-windows-operating-systems-11107/"><u>Install Newest Realtek Audio Control Software for Windows Operating Systems (11/10/7)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-no-cost-cad-software-options-you-cant-miss/"><u>Top 4 No-Cost CAD Software Options You Can't Miss</u></a></li>
+<li><a href="https://media-tips.techidaily.com/wireless-display-sharing-with-ipados-15-a-step-by-step-tutorial-for-mirroring-to-a-computerapple-tvmac-screen/"><u>Wireless Display Sharing with iPadOS 15: A Step-by-Step Tutorial for Mirroring to a Computer/Apple TV/Mac Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028217259-youtube/"><u>YouTubeで削除されたコンテンツを復活させる究極ガイド</u></a></li>
 </ul></div>
 

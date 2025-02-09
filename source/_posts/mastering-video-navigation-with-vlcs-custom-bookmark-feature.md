@@ -1,7 +1,7 @@
 ---
 title: Mastering Video Navigation with VLC's Custom Bookmark Feature
-date: 2025-01-21T18:23:32.272Z
-updated: 2025-01-29T07:44:05.954Z
+date: 2025-02-07T18:34:07.818Z
+updated: 2025-02-09T18:28:42.183Z
 tags:
   - vlc
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use VLC Custom Bookmarks to Mark Video Positions?
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 How to continue your playback from where you left last time? How to easily access the specific parts in a very long video with a few clicks? **VLC Custom Bookmarks** feature will help remember the video playback position you just want to save. No need to spend much time to step forward your video, you can easily get to the right position without missing a frame.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create Bookmarks in VLC Media Player?
@@ -41,7 +41,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Custom Bookmarks](https://www.5kplayer.com/vlc/img/vlc-custom-bookmark.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** When the **Edit Bookmarks** window pops up, just click on the **Create** button to add bookmarks to your video. 
@@ -49,7 +49,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Create Bookmarks](https://www.5kplayer.com/vlc/img/vlc-create-bookmarks.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4.** To find the specific bookmarked video to play, just click on **Playback** \> **Custom Bookmarks** and choose the one to start playing.
@@ -83,7 +83,7 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -101,24 +101,20 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-fb-content-downloader-showdown-1-5-best-picks-unveiled/"><u>[Updated] 2024 Approved FB Content Downloader Showdown - #1-5 Best Picks Unveiled</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-entrepreneurs-pathway-to-profitable-vlogging/"><u>[Updated] The Entrepreneur's Pathway to Profitable Vlogging</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-inexpensive-pc-capture-programs-reviewed/"><u>2024 Approved Inexpensive PC Capture Programs Reviewed</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-step-by-step-guide-altering-numbers-on-tiktok/"><u>2024 Approved Step-by-Step Guide Altering Numbers on TikTok</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-meizu-21-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Meizu 21 FRP</u></a></li>
-<li><a href="https://media-tips.techidaily.com/7-proven-strategies-to-manage-your-monthly-streaming-costs/"><u>7 Proven Strategies to Manage Your Monthly Streaming Costs</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726030172013-aviutl/"><u>音声編集ガイド：AviUtlでの切り取り・レベリング技術を学ぶ</u></a></li>
-<li><a href="https://media-tips.techidaily.com/april-2024-marks-the-expiration-of-federal-broadband-assistance-programs/"><u>April 2024 Marks the Expiration of Federal Broadband Assistance Programs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/complete-review-of-the-always-on-fitbit-inspire-hr-your-personalized-fitness-companion-around-the-clock/"><u>Complete Review of the Always-On Fitbit Inspire HR - Your Personalized Fitness Companion Around the Clock!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/customizing-your-viewing-experience-how-to-bypass-the-built-in-two-hour-timeout-on-plex-streaming-service/"><u>Customizing Your Viewing Experience: How to Bypass the Built-In Two Hour Timeout on Plex Streaming Service</u></a></li>
-<li><a href="https://media-tips.techidaily.com/do-the-perks-of-spotify-premium-justify-its-cost-a-deep-dive-into-essential-features/"><u>Do the Perks of Spotify Premium Justify Its Cost: A Deep Dive Into Essential Features</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhancing-streaming-and-video-on-demand-with-unique-value-added-functions/"><u>Enhancing Streaming & Video-On-Demand with Unique Value-Added Functions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exclusive-deal-alert-get-your-max-plan-discounted-by-as-much-as-45-now/"><u>Exclusive Deal Alert: Get Your Max Plan Discounted by as Much as 45% Now!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experience-enhanced-viewing-with-hisenses-cutting-edge-mini-projector-featuring-4k-and-dolby-vision/"><u>Experience Enhanced Viewing with Hisense's Cutting-Edge Mini Projector Featuring 4K and Dolby Vision</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experience-top-tier-soundtracks-at-no-cost-with-spotifys-limited-time-premium-offer/"><u>Experience Top-Tier Soundtracks at No Cost with Spotify's Limited-Time Premium Offer</u></a></li>
-<li><a href="https://media-tips.techidaily.com/explore-the-hidden-world-of-youtube-gaming-start-playing-now/"><u>Explore the Hidden World of YouTube Gaming - Start Playing Now!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/how-to-make-a-good-podcast-trailer/"><u>How To Make A Good Podcast Trailer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Xiaomi Redmi Note 12 Pro 5G</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/premium-pc-gaming-on-the-go-with-the-asus-rog-ally-x-a-comprehensive-review/"><u>Premium PC Gaming On-the-Go with the Asus ROG Ally X - A Comprehensive Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterpiece-makers-discovering-these-6-unmatched-nft-tools/"><u>[New] Masterpiece Makers Discovering These 6 Unmatched NFT Tools</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/44cm44oj44op44kk44ow44gu44ov44kh44kk44or5bgl5q2044gr6kiy6yyy44gv44km44ga44cb5asj5pu05pa55rovic0g5ly844gf44ki44gg44gq5osp5zuz44cn/"><u>「ドライブのファイル履歴に記録されず、変更方法 - 似たような意図」</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862716225-ace-gamers-deal-the-ultimate-combo-of-power-and-savings-msi-bravo-laptop-with-rtx-4060-under-1k/"><u>Ace Gamers’ Deal: The Ultimate Combo of Power and Savings - MSI Bravo Laptop with RTX 4060 Under $1K</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-for-debugging-and-repairing-opengl-errors-within-minecraft/"><u>Effective Techniques for Debugging and Repairing OpenGL Errors Within Minecraft</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enjoy-complimentary-access-to-netflix-through-dish-tv-offer/"><u>Enjoy Complimentary Access to Netflix Through Dish TV Offer!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exclusive-deal-purchase-your-forever-ticket-to-plex-with-a-massive-25-discount/"><u>Exclusive Deal: Purchase Your Forever Ticket to Plex with a Massive 25% Discount!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/expecting-a-surge-in-commercials-understanding-youtubes-latest-ad-strategy/"><u>Expecting a Surge in Commercials - Understanding YouTube's Latest Ad Strategy</u></a></li>
+<li><a href="https://media-tips.techidaily.com/experience-concerts-at-home-with-spotifys-latest-addition-of-artist-music-videos/"><u>Experience Concerts at Home with Spotify's Latest Addition of Artist Music Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exploring-amazons-matter-cast-a-rival-for-chromecast-and-apples-airplay-technology/"><u>Exploring Amazon's Matter Cast - A Rival for Chromecast and Apple's AirPlay Technology</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exploring-the-world-of-online-entertainment-what-to-stream-on-your-nintendo-switch/"><u>Exploring the World of Online Entertainment: What to Stream on Your Nintendo Switch?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, iPogo will be the new iSpoofer On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-resolving-disconnected-sound-on-obs-broadcast/"><u>In 2024, Resolving Disconnected Sound on OBS Broadcast</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy F34 5G</u></a></li>
 </ul></div>
 

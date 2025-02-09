@@ -1,7 +1,7 @@
 ---
 title: Guide to Turning On AirPlay for iPhone 12, Previous Versions with iOS Up to Version 14
-date: 2025-01-24T16:51:50.866Z
-updated: 2025-01-29T04:47:06.718Z
+date: 2025-02-07T17:39:47.312Z
+updated: 2025-02-09T16:11:25.030Z
 tags:
   - airplay
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable AirPlay on iPhone 12/iOS 14 or Before?
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 This article discusses how to **enable AirPlay on iPhone** 12 iOS 14 & Earlier to stream video auido from iPhone to Mac/PC. Turn on AirPlay on your iPhone 12 iOS 14 (or earlier), and with the help of all-in-one AirPlay receiver & sender — 5KPlayer, your can stream movies and music songs from iPhone to Mac/PC easier than ever.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Turn On AirPlay on iPhone 12 iOS 14 Or Before?
@@ -51,16 +51,12 @@ After successfully enabling AirPlay on iPhone 12 iOS 14, 5KPlayer can walk you t
  Remember to turn off AirPlay on iPhone 6s/6s Plus when you have finished the video streaming for longer battery life. Just swipe up from the iPhone screen again, click the AirPlay icon, then you're good to go.   
  \* Disconnecting iPhone from the WiFi can also turn off AirPlay.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How To Use iPhone AirPlay Mirroring to Mac/Windows/Apple TV?
 
 When you successfully enable AirPlay on iPhone 12 iOS 14 and connect iPhone to the AirPlay destination, you may find the "Mirroring" slider available to turn on. AirPlay Mirroring iPhone screen with 5KPlayer can blast everything on your mobile phone to Mac or Windows without lag, including the desktop, photos, slide shows. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Instruction to Enable AirPlay and Stream Movies/Music On iPhone
@@ -77,6 +73,10 @@ Download [**5KPlayer**](https://tools.techidaily.com/5kplayer/products/), launch
 
 ![Connect iPhone and Mac to Enable AirPlay](https://www.5kplayer.com/airplay/img/5kplayer-freeaacplayer-yxt-030603.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: After you yurn on AirPlay: Directly AirPlay videos on iPhone, or AirPlay YouTube online. 
 
 \* **AirPlay videos on iPhone**: For downloaded .mov, .m4v, .mp4 videos on iPhone. You can activate AirPlay on iPhone and directly stream them to Mac Windows.  
@@ -91,7 +91,7 @@ Notice: 5KPlayer AirPlay function now can't stream video music, but it will come
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -109,16 +109,16 @@ Notice: 5KPlayer AirPlay function now can't stream video music, but it will come
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-premium-cameras-for-next-level-music-video-production-for-2024/"><u>[New] Premium Cameras for Next-Level Music Video Production for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-free-youtube-end-screen-templates-plushow-tos/"><u>[Updated] 2024 Approved Free YouTube End Screen Templates [+How-Tos]</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-churning-charts-todays-1-backdrop-music-for-youtube-shorts-for-2024/"><u>[Updated] Churning Charts Today's #1 Backdrop Music for YouTube Shorts for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726028549540-pc/"><u>「PC用ガイド：動画から高品質なスクリーンショットをキャプチャする方法」</u></a></li>
-<li><a href="https://win-net.techidaily.com/de-mysterieux-ontsnapping-van-microsofts-gegooid-geheugen-verhaal-bewezen/"><u>De Mysterieux Ontsnapping Van Microsoft's Gegooid Geheugen - Verhaal Bewezen!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-methods-to-increase-the-loudness-of-your-wav-audio/"><u>Easy Methods to Increase the Loudness of Your WAV Audio</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effective-techniques-for-eliminating-unwanted-background-sounds-in-your-recordings/"><u>Effective Techniques for Eliminating Unwanted Background Sounds in Your Recordings</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essentials-for-youtube-music-playlists-for-2024/"><u>Essentials for YouTube Music Playlists for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/five-expert-techniques-for-efficient-audio-editing-across-macwindowsmobile-platforms-and-online-services/"><u>Five Expert Techniques for Efficient Audio Editing Across MAC/Windows/Mobile Platforms & Online Services</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-3-techniques-for-seamless-audio-integration-on-your-computer-and-web/"><u>Top 3 Techniques for Seamless Audio Integration on Your Computer and Web</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-targus-usb-monitor-adapter-on-windows-compatible-with-win11-8-and-7/"><u>Update Your Targus USB Monitor Adapter on Windows: Compatible with Win11, 8, and 7</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-maximize-your-vr-journey-oculus-rift-readiness/"><u>[Updated] In 2024, Maximize Your VR Journey Oculus Rift Readiness</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-seamless-avi-media-playback-ideal-for-everyones-device-for-2024/"><u>[Updated] Seamless Avi Media Playback - Ideal for Everyone's Device for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-troubleshooting-airplay-issues-how-to-fix-connection-problems-on-macbook-imac-and-mac-mini/"><u>1. Troubleshooting AirPlay Issues: How to Fix Connection Problems on MacBook, iMac & Mac Mini</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-video-players-for-macos-top-5-picks/"><u>Best Free Video Players for macOS: Top 5 Picks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-red-dead-online-keeps-freezing-or-crashing-on-your-pc/"><u>Fixing the Issue: Why Red Dead Online Keeps Freezing or Crashing on Your PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-fine-details-focused-discussions-zoom-tips-for-teams/"><u>In 2024, Fine Details, Focused Discussions Zoom Tips for Teams</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-40-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 40 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/premium-featured-free-windows-10-video-viewer-universal-format-playback/"><u>Premium Featured Free Window's 10 Video Viewer - Universal Format Playback</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-troubleshooting-steps-for-cygwin1dll-not-found-mistake/"><u>The Ultimate Troubleshooting Steps for Cygwin1.dll Not Found Mistake</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-to-hdmi-enabled-screen-sharing-seamless-pc-windows-10-and-hdtv-smart-tv-integration/"><u>Ultimate Guide to HDMI-Enabled Screen Sharing: Seamless PC Windows 10 & HDTV Smart TV Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-top-tv-choices-devoted-viewing-habits-of-our-editors-revealed/"><u>ZDNet's Top TV Choices: Devoted Viewing Habits of Our Editors Revealed!</u></a></li>
 </ul></div>
 

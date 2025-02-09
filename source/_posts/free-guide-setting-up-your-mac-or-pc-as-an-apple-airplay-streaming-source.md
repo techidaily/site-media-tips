@@ -1,7 +1,7 @@
 ---
 title: "Free Guide: Setting Up Your Mac or PC as an Apple AirPlay Streaming Source"
-date: 2025-01-22T02:54:42.645Z
-updated: 2025-01-28T19:27:25.919Z
+date: 2025-02-07T17:19:13.296Z
+updated: 2025-02-09T16:46:22.114Z
 tags:
   - airplay
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn PC/Mac into a Free AirPlay Server
 
  _Written by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21)_ | Last update: April 28, 2020
@@ -28,10 +32,6 @@ Designed with the most user-friendly UI, 5KPlayer requires least computer skills
 
 The content is [mirroring](https://tools.techidaily.com/5kplayer/airplay/) to the streamed devices, which only takes seconds and does no damage to picture quality. And mirroring will not occupy the memory of the streamed devices, thus it does no influence to the streamed devices. 5KPlayer makes it simple to project or receive the screen of iOS 13/12/11/10/9 devices to your PC/Mac and it allows music from PC/Mac to be played wirelessly to compatible speakers. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Currently **5KPlayer** Supports DLNA Streaming & AirPlay Mirroring
 
 Official Clarification: Since Apple has strengthened the "sign & countersign" for AirPlay Bonjour protocol, 5KPlayer for Windows does not support movie/music AirPlay at present.
@@ -39,7 +39,7 @@ Official Clarification: Since Apple has strengthened the "sign & countersign" fo
 We have been working hard on AirPlay streaming to figure out a solution. Please stay with us and trust our dedication and efforts! AirPlay for Windows will be back soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Guide to Turn PC/Mac into a Free AirPlay Server
@@ -51,7 +51,7 @@ The setup process is quite simple, users can deal with it without any efforts.
 ![Best AirPlay receiver](https://www.5kplayer.com/airplay/img/youtube-0119-01.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2**: Set the setting of AirPlay of 5KPlayer, specify a name and password in Preferences, if you wish.
@@ -59,7 +59,7 @@ The setup process is quite simple, users can deal with it without any efforts.
 ![Free AirPlay Server Setting](https://www.5kplayer.com/airplay/img/5k-free-airplay-server-trl-020901.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If 5KPlayer acts as AirPlay sender, click the AirPlay button beside the progress bar or the right top of the window while the video or music is playing to activate AirPlay and to select the device to stream to and then you're good to go.
@@ -73,7 +73,7 @@ Once you begin to use 5KPlayer, it will surprise you all the way! It is a powerf
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -91,20 +91,18 @@ Once you begin to use 5KPlayer, it will surprise you all the way! It is a powerf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-clip-narration-devisee/"><u>[Updated] Clip Narration Devisee</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-ultimate-video-creation-top-8-linux-apps/"><u>2024 Approved Ultimate Video Creation Top 8 Linux Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-step-by-step-approach-how-to-record-and-archive-online-radio-for-2024/"><u>A Step-by-Step Approach How To Record & Archive Online Radio for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723013129294-easy-fixes-for-common-fortnite-login-problems-get-back-in-action-now/"><u>Easy Fixes for Common Fortnite Login Problems – Get Back In Action Now</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experience-seamless-time-travel-on-your-screen-with-nbcus-nextgen-tv-and-ota-channel-rewinding-feature-the-latest-innovation/"><u>Experience Seamless Time Travel on Your Screen with NBCU's NextGen TV & OTA Channel Rewinding Feature - The Latest Innovation!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experience-the-new-look-amazon-prime-videos-latest-app-overhaul/"><u>Experience the New Look: Amazon Prime Video's Latest App Overhaul</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expert-picks-leading-apple-devices-podcasting-tools-for-your-mobile-experience/"><u>Expert Picks: Leading Apple Devices Podcasting Tools for Your Mobile Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fcc-prohibits-secret-charges-understanding-new-regulations-on-hidden-wireless-costs/"><u>FCC Prohibits Secret Charges: Understanding New Regulations on Hidden Wireless Costs</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/improving-spotify-suggestions-keeping-your-playlist-habits-from-disrupting-discovery/"><u>Improving Spotify Suggestions: Keeping Your Playlist Habits From Disrupting Discovery</u></a></li>
-<li><a href="https://media-tips.techidaily.com/latest-kodi-version-203-released-discover-the-exciting-updates/"><u>Latest Kodi Version 20.3 Released - Discover the Exciting Updates!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-youtube-comment-formatting-tips-for-cross-out-bolding-and-italicizing-text/"><u>Mastering YouTube Comment Formatting: Tips for Cross-Out, Bolding, and Italicizing Text</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-how-to-fix-bluetooth-stack-service-not-starting-problem/"><u>Resolving Issues: How to Fix 'Bluetooth Stack Service Not Starting' Problem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/testing-the-limits-why-microsofts-surface-devices-are-outperforming-my-macbook-a-firsthand-review/"><u>Testing the Limits: Why Microsoft's Surface Devices Are Outperforming My MacBook – A Firsthand Review</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-compendium-selecting-the-best-free-srt-translation-tools/"><u>[New] The Ultimate Compendium Selecting the Best Free SRT Translation Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-c55-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-swift-screen-preserve-audio-accompanying/"><u>2024 Approved Swift Screen Preserve Audio Accompanying</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-adventures-how-ai-is-reshaping-game-development/"><u>Crafting Adventures: How AI Is Reshaping Game Development</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/listening-in-text-out-no-fee-required/"><u>Listening In, Text Out – No Fee Required</u></a></li>
+<li><a href="https://media-tips.techidaily.com/navigating-the-changes-understanding-why-direct-tv-show-acquisitions-disappeared-from-google-tv-platforms/"><u>Navigating the Changes: Understanding Why Direct TV Show Acquisitions Disappeared From Google TV Platforms</u></a></li>
+<li><a href="https://media-tips.techidaily.com/navigating-the-complexities-of-accessing-4k-ota-content-stream/"><u>Navigating the Complexities of Accessing 4K OTA Content Stream</u></a></li>
+<li><a href="https://media-tips.techidaily.com/navigating-the-shift-maximizing-visibility-with-ad-placement-on-amazon-prime-video-streaming-service/"><u>Navigating the Shift: Maximizing Visibility with Ad Placement on Amazon Prime Video Streaming Service</u></a></li>
+<li><a href="https://media-tips.techidaily.com/netflix-vs-competitors-hulu-disneyplus-and-others-a-comprehensive-showdown/"><u>Netflix Vs. Competitors: Hulu, Disney+ & Others – A Comprehensive Showdown</u></a></li>
+<li><a href="https://media-tips.techidaily.com/post-discount-era-begins-with-comcasts-new-affordable-30-internet-plan/"><u>Post-Discount Era Begins with Comcast's New Affordable $30 Internet Plan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-tech-setup-downloading-and-deploying-msix-extensions/"><u>Streamline Your Tech Setup: Downloading & Deploying MSIX Extensions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-infinix-note-30-by-drfone-android/"><u>Three Ways to Sim Unlock Infinix Note 30</u></a></li>
 </ul></div>
 

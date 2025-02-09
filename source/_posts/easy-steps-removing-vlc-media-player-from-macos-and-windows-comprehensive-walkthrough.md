@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Removing VLC Media Player From macOS & Windows - Comprehensive Walkthrough"
-date: 2024-09-30T01:32:34.917Z
-updated: 2024-09-30T16:29:43.742Z
+date: 2025-02-06T17:34:50.776Z
+updated: 2025-02-09T16:01:37.152Z
 tags:
   - vlc
 categories:
@@ -33,15 +33,16 @@ Besides the newfound flaw, [VLC's security problem](https://tools.techidaily.com
 [How to Uninstall VLC on Mac?](https://tools.techidaily.com/5kplayer/products/)  
 [Best VLC Alternative to Play Media Files after Uninstalling VLC.](https://tools.techidaily.com/5kplayer/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Uninstall VLC Media Player on Windows?
 
 **![](https://www.5kplayer.com/vlc/../seoimg/1.png) Method 1: Commonly-used Way to Uninstall VLC**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Uninstall VLC Media Player on Windows 7**  
@@ -54,27 +55,17 @@ Besides the newfound flaw, [VLC's security problem](https://tools.techidaily.com
 
 ![](https://www.5kplayer.com/vlc/../seoimg/2.png) **Method 2: Uninstall VLC with Its Uninstall.exe**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1.** Right-click on your VLC icon on your desktop > choose Properties > remember the folder path that saves your VLC media player, like "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe".  
 **Step 2.** Go to the folder you just remembered, where you could find the uninstall.exe.  
 **Step 3.** Double-click the uninstall.exe, and then follow the steps to uninstall your VLC media player.
 
 ![Uninstall VLC Media Player on Windows](https://www.5kplayer.com/vlc/img/uninstall-vlc-windows-02.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Luckily, the recent flaw of VLC didn't affect the macOS version. But if you want to learn how to uninstall VLC on Mac completely, below is the easiest method.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Uninstall VLC on Mac Completely?
 
@@ -85,6 +76,10 @@ Luckily, the recent flaw of VLC didn't affect the macOS version. But if you want
 **Step 2.** Remove VLC from the Applications folder. Go to your Applications folder and find VLC media player, then right-click on VLC to Show Package Contents, and move all the contents to trash. Then, go back to move VLC icon to Trash as well.
 
 ![Uninstall VLC on Mac](https://www.5kplayer.com/vlc/img/uninstall-vlc-mac-02.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** Completely uninstall VLC with all the service files of VLC. Just go to Menu bar to choose "Go to Folder" and then find the following services in the folder. Remove them all, and then your VLC media player will be uninstalled completely on your Mac.
 
@@ -100,10 +95,7 @@ Luckily, the recent flaw of VLC didn't affect the macOS version. But if you want
 Now that you have uninstalled VLC media player on Windows or Mac, you may need a [VLC alternative](https://tools.techidaily.com/5kplayer/video-music-player/) to help play multimedia files. And here we recommend you 5KPlayer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best VLC Alternative to Play Videos, Music, DVDs after Uninstalling VLC
@@ -129,24 +121,20 @@ As a free [4K UHD video player](https://tools.techidaily.com/5kplayer/video-musi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-short-film-synopsis-must-know-points/"><u>[New] Short Film Synopsis Must-Know Points!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-sonys-x1000v-detailed-recording-experience-review-for-2024/"><u>[New] Sony's X1000V Detailed Recording Experience Review for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-revolutionize-your-profile-picture-top-11-online-makers-ranked-for-2024/"><u>[Updated] Revolutionize Your Profile Picture Top 11 Online Makers Ranked for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/a-step-by-step-beginners-guide-sharing-your-podcast-across-various-social-networks/"><u>A Step-by-Step Beginner's Guide: Sharing Your Podcast Across Various Social Networks</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-of-tech-mwc-and-makeuseof-awards-showcase/"><u>Best of Tech: MWC & MakeUseOf Awards Showcase</u></a></li>
-<li><a href="https://media-tips.techidaily.com/creating-personalized-text-tone-alerts-on-iphone-and-android-devices/"><u>Creating Personalized Text Tone Alerts on iPhone and Android Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/daily-videography-size-byte-conversion-to-gb/"><u>Daily Videography Size Byte Conversion to GB</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dayz-first-person-shooter-instant-and-simple-fixes-for-game-crashes/"><u>DayZ First-Person Shooter: Instant and Simple Fixes for Game Crashes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-leading-id3-tagging-software-options-compatible-with-windows-10-8-7-and-macos-systems/"><u>Discover the Leading ID3 Tagging Software Options Compatible with Windows 10, 8, 7 & macOS Systems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/essential-tips-and-tricks-for-newbies-to-broadcast-their-podcasts-on-different-social-platforms-a-comprehensive-manual/"><u>Essential Tips and Tricks for Newbies to Broadcast Their Podcasts on Different Social Platforms - A Comprehensive Manual</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-minimize-file-size-of-powerpoint-presentations-including-sound-default-methods-and-other-options/"><u>How to Minimize File Size of PowerPoint Presentations Including Sound: Default Methods & Other Options</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-12r-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-quick-windows-gallery-app/"><u>In 2024, Best Quick Windows Gallery App</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-zte-blade-a73-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On ZTE Blade A73 5G Device</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-choice-tools-for-efficiently-compressing-wav-files-made-available-now/"><u>Top Choice Tools for Efficiently Compressing WAV Files Made Available Now</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-methods-for-optimizing-and-reducing-size-of-onlinedesktop-ogg-media/"><u>Top Methods for Optimizing and Reducing Size of Online/Desktop Ogg Media</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-perfecting-audio-file-compression-techniques-in-itunes/"><u>Ultimate Guide: Perfecting Audio File Compression Techniques in iTunes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unbiased-evaluation-of-audacity-why-it-stands-out-in-sound-recording-tools-market/"><u>Unbiased Evaluation of Audacity: Why It Stands Out in Sound Recording Tools Market</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Where Is the Best Place to Catch Dratini On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-demystifying-igtv-for-a-comprehensive-social-media-experience-for-2024/"><u>[New] Demystifying IGTV For a Comprehensive Social Media Experience for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-netflix-archive-the-complete-guide-to-screencapturing-your-views/"><u>[New] In 2024, Netflix Archive The Complete Guide to ScreenCapturing Your Views</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-visuals-that-stand-out-top-10-ig-grid-making-innovations-for-2024/"><u>[New] Visuals that Stand Out Top 10 IG Grid Making Innovations for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-excellent-no-cost-online-radio-software-top-picks-and-downloads/"><u>Discover Excellent No-Cost Online Radio Software – Top Picks and Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-harmony-how-to-seamlessly-integrate-multiple-m4a-audio-clips-into-one-with-the-ultimate-audio-merge-tool/"><u>Effortless Harmony: How to Seamlessly Integrate Multiple M4A Audio Clips Into One with the Ultimate Audio Merge Tool</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-techniques-for-seamlessly-mirroring-your-iphone-screen-on-a-mac/"><u>Effortless Techniques for Seamlessly Mirroring Your iPhone Screen on a Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-guide-for-cost-free-live-broadcast-on-smartphones/"><u>Essential Guide for Cost-Free Live Broadcast on Smartphones</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-high-definition-playback-software-compatible-with-windows-and-macos-enhanced-with-4k-hdr-support/"><u>Free High Definition Playback Software: Compatible with Windows and macOS, Enhanced with 4K HDR Support!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/from-green-to-blue-discover-the-top-three-iphone-16-innovations-that-could-persuade-an-android-devotee/"><u>From Green to Blue: Discover the Top Three iPhone 16 Innovations That Could Persuade an Android Devotee</u></a></li>
+<li><a href="https://media-tips.techidaily.com/get-your-free-copy-of-umplayer-today-seamless-multimedia-experience-on-windows-11-systems/"><u>Get Your Free Copy of UMPlayer Today! Seamless Multimedia Experience on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpts-capabilities-for-tough-workplace-tasks/"><u>Harnessing ChatGPT's Capabilities for Tough Workplace Tasks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-free-youtube-video-download-using-the-vlc-media-player/"><u>Step-by-Step Tutorial on Free YouTube Video Download Using the VLC Media Player</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-amendment-should-be-introduced-as-the-protection-of-urinalysis-data-act/"><u>The Amendment Should Be Introduced as The Protection of Urinalysis Data Act.</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/troubleshooting-guide-fixing-samsung-smart-tvs-airplay-connectivity-issues/"><u>Troubleshooting Guide: Fixing Samsung Smart TV's AirPlay Connectivity Issues</u></a></li>
 </ul></div>
 

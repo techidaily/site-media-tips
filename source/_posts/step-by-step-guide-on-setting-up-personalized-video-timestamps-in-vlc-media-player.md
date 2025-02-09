@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide on Setting Up Personalized Video Timestamps in VLC Media Player
-date: 2025-01-23T19:13:54.460Z
-updated: 2025-01-29T02:32:47.387Z
+date: 2025-02-08T18:07:43.353Z
+updated: 2025-02-09T18:04:45.832Z
 tags:
   - vlc
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6195218912eaa800d5cbedefde726b6171a7555ef
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use VLC Custom Bookmarks to Mark Video Positions?
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/6195218912eaa800d5cbedefde726b6171a7555ef
 How to continue your playback from where you left last time? How to easily access the specific parts in a very long video with a few clicks? **VLC Custom Bookmarks** feature will help remember the video playback position you just want to save. No need to spend much time to step forward your video, you can easily get to the right position without missing a frame.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create Bookmarks in VLC Media Player?
@@ -41,7 +41,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Custom Bookmarks](https://www.5kplayer.com/vlc/img/vlc-custom-bookmark.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** When the **Edit Bookmarks** window pops up, just click on the **Create** button to add bookmarks to your video. 
@@ -49,7 +49,7 @@ How to continue your playback from where you left last time? How to easily acces
 ![VLC Create Bookmarks](https://www.5kplayer.com/vlc/img/vlc-create-bookmarks.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4.** To find the specific bookmarked video to play, just click on **Playback** \> **Custom Bookmarks** and choose the one to start playing.
@@ -83,7 +83,7 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -101,20 +101,16 @@ To create persisting video bookmarks, 5KPlayer is the best VLC bookmark alternat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-advanced-techniques-for-gradual-volume-change/"><u>[New] 2024 Approved Advanced Techniques for Gradual Volume Change</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-perfect-video-demos-in-adobe-captivate/"><u>[New] 2024 Approved Perfect Video Demos in Adobe Captivate</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-essential-convertor-list-best-5-online-gif-to-video-apps/"><u>[Updated] Essential Convertor List Best 5 Online GIF to Video Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-spectrum-surge-tools-for-sharper-web-videos/"><u>[Updated] Spectrum Surge Tools for Sharper Web Videos</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comparing-mp3-vs-mp4-audio-formats-detailed-analysis-of-sound-clarity-and-storage-space/"><u>Comparing MP3 vs MP4 Audio Formats: Detailed Analysis of Sound Clarity & Storage Space</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-guide-mastering-the-divx-video-converter-on-your-mac/"><u>Comprehensive Guide: Mastering the DivX Video Converter on Your Mac</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-transformation-of-mxf-into-flv-a-comprehensive-guide-on-file-format-conversion/"><u>Effortless Transformation of MXF Into FLV: A Comprehensive Guide on File Format Conversion</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/elevate-your-mac-broadcast-top-5-live-streaming-applications-for-2024/"><u>Elevate Your Mac Broadcast Top 5 Live Streaming Applications for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-access-a-dat-file-a-comprehensive-guide-for-windows-and-mac-users/"><u>How to Access a DAT File: A Comprehensive Guide for Windows & Mac Users</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/immediate-action-for-macs-flashy-question-mark-icons/"><u>Immediate Action for Mac's Flashy Question-Mark Icons</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-v29e-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo V29e Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/master-the-switch-from-mp4-to-wav-audio-discover-five-effective-strategies-inside/"><u>Master the Switch From MP4 to WAV Audio: Discover Five Effective Strategies Inside</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620231867-speedy-conversion-guide-turning-your-3gp-videos-into-avi-for-no-cost-and-fast-results/"><u>Speedy Conversion Guide: Turning Your 3GP Videos Into AVI for No Cost and Fast Results</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-comprehensive-method-for-changing-ape-audio-tracks-to-high-quality-mp3-playback/"><u>The Comprehensive Method for Changing APE Audio Tracks to High-Quality MP3 Playback</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-capture-memorable-moments-check-out-these-top-20-snaps-filters/"><u>[Updated] In 2024, Capture Memorable Moments Check Out These Top 20 Snaps Filters</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-maximizing-your-videos-impact-with-perfect-post-times-for-2024/"><u>[Updated] Maximizing Your Videos' Impact with Perfect Post Times for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-dynamic-world-of-digital-gifts-a-complete-guide-to-snapchat-gifs/"><u>[Updated] The Dynamic World of Digital Gifts A Complete Guide to Snapchat Gifs</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comment-sauver-vos-informations-sur-un-disque-rar-endommage-sans-pertes-de-donnees/"><u>Comment Sauver Vos Informations Sur Un Disque RAR Endommagé Sans Pertes De Données?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620217168-discover-the-ultimate-convertor-for-avi-and-3g2-files-your-go-to-solution/"><u>Discover the Ultimate Convertor for AVI and 3G2 Files: Your Go-To Solution</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-guide-to-transforming-swf-files-into-avi-format/"><u>Easy Guide to Transforming SWF Files Into AVI Format</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-in-depth-examination-androids-photography-solution-lightroom/"><u>In 2024, In-Depth Examination Android's Photography Solution, Lightroom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instagram-collage-hacks-unveiled-for-2024/"><u>Instagram Collage Hacks Unveiled for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-3-effective-ways-to-digitize-your-mini-dv-tapes-seamlessly/"><u>Top 3 Effective Ways to Digitize Your Mini DV Tapes Seamlessly</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-no-cost-mp4-to-wmv-transcriber-easy-steps-for-quick-file-changeover/"><u>Top No-Cost MP4 to WMV Transcriber: Easy Steps for Quick File Changeover</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-the-world-of-3d-a-quick-guide-on-understanding-and-enjoying-3d-films-within-5-mins/"><u>Unlock the World of 3D: A Quick Guide on Understanding & Enjoying 3D Films Within 5 Mins</u></a></li>
 </ul></div>
 
