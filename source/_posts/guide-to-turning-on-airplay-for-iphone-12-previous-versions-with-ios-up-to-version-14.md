@@ -1,7 +1,7 @@
 ---
 title: Guide to Turning On AirPlay for iPhone 12, Previous Versions with iOS Up to Version 14
-date: 2025-02-07T17:39:47.312Z
-updated: 2025-02-09T16:11:25.030Z
+date: 2025-02-13T19:28:39.567Z
+updated: 2025-02-19T18:44:23.204Z
 tags:
   - airplay
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable AirPlay on iPhone 12/iOS 14 or Before?
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 This article discusses how to **enable AirPlay on iPhone** 12 iOS 14 & Earlier to stream video auido from iPhone to Mac/PC. Turn on AirPlay on your iPhone 12 iOS 14 (or earlier), and with the help of all-in-one AirPlay receiver & sender — 5KPlayer, your can stream movies and music songs from iPhone to Mac/PC easier than ever.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Turn On AirPlay on iPhone 12 iOS 14 Or Before?
@@ -51,12 +51,16 @@ After successfully enabling AirPlay on iPhone 12 iOS 14, 5KPlayer can walk you t
  Remember to turn off AirPlay on iPhone 6s/6s Plus when you have finished the video streaming for longer battery life. Just swipe up from the iPhone screen again, click the AirPlay icon, then you're good to go.   
  \* Disconnecting iPhone from the WiFi can also turn off AirPlay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Use iPhone AirPlay Mirroring to Mac/Windows/Apple TV?
 
 When you successfully enable AirPlay on iPhone 12 iOS 14 and connect iPhone to the AirPlay destination, you may find the "Mirroring" slider available to turn on. AirPlay Mirroring iPhone screen with 5KPlayer can blast everything on your mobile phone to Mac or Windows without lag, including the desktop, photos, slide shows. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Instruction to Enable AirPlay and Stream Movies/Music On iPhone
@@ -73,10 +77,6 @@ Download [**5KPlayer**](https://tools.techidaily.com/5kplayer/products/), launch
 
 ![Connect iPhone and Mac to Enable AirPlay](https://www.5kplayer.com/airplay/img/5kplayer-freeaacplayer-yxt-030603.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2**: After you yurn on AirPlay: Directly AirPlay videos on iPhone, or AirPlay YouTube online. 
 
 \* **AirPlay videos on iPhone**: For downloaded .mov, .m4v, .mp4 videos on iPhone. You can activate AirPlay on iPhone and directly stream them to Mac Windows.  
@@ -91,7 +91,7 @@ Notice: 5KPlayer AirPlay function now can't stream video music, but it will come
 [![](https://www.5kplayer.com/airplay/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/airplay/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -109,16 +109,20 @@ Notice: 5KPlayer AirPlay function now can't stream video music, but it will come
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-maximize-your-vr-journey-oculus-rift-readiness/"><u>[Updated] In 2024, Maximize Your VR Journey Oculus Rift Readiness</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-seamless-avi-media-playback-ideal-for-everyones-device-for-2024/"><u>[Updated] Seamless Avi Media Playback - Ideal for Everyone's Device for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1-troubleshooting-airplay-issues-how-to-fix-connection-problems-on-macbook-imac-and-mac-mini/"><u>1. Troubleshooting AirPlay Issues: How to Fix Connection Problems on MacBook, iMac & Mac Mini</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-free-video-players-for-macos-top-5-picks/"><u>Best Free Video Players for macOS: Top 5 Picks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-red-dead-online-keeps-freezing-or-crashing-on-your-pc/"><u>Fixing the Issue: Why Red Dead Online Keeps Freezing or Crashing on Your PC</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-fine-details-focused-discussions-zoom-tips-for-teams/"><u>In 2024, Fine Details, Focused Discussions Zoom Tips for Teams</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-40-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 40 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/premium-featured-free-windows-10-video-viewer-universal-format-playback/"><u>Premium Featured Free Window's 10 Video Viewer - Universal Format Playback</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-troubleshooting-steps-for-cygwin1dll-not-found-mistake/"><u>The Ultimate Troubleshooting Steps for Cygwin1.dll Not Found Mistake</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-to-hdmi-enabled-screen-sharing-seamless-pc-windows-10-and-hdtv-smart-tv-integration/"><u>Ultimate Guide to HDMI-Enabled Screen Sharing: Seamless PC Windows 10 & HDTV Smart TV Integration</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-top-tv-choices-devoted-viewing-habits-of-our-editors-revealed/"><u>ZDNet's Top TV Choices: Devoted Viewing Habits of Our Editors Revealed!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-inverting-film-tracks-in-mobile-devices/"><u>[New] Inverting Film Tracks in Mobile Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-ideal-mic-selection-for-online-vloggers/"><u>[Updated] 2024 Approved Ideal Mic Selection for Online Vloggers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-elite-club-of-youtubes-favorite-shorter-videos/"><u>[Updated] 2024 Approved The Elite Club of YouTube's Favorite Shorter Videos</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/enhance-collaboration-effortlessly-using-abbyy-timeline-5s-new-task-mining-technology/"><u>Enhance Collaboration Effortlessly Using ABBYY Timeline 5’S New Task Mining Technology</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-minimize-file-size-of-powerpoint-presentations-including-sound-default-methods-and-other-options/"><u>How to Minimize File Size of PowerPoint Presentations Including Sound: Default Methods & Other Options</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-narzo-60-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme Narzo 60 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus with/without SIM Card</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-aac-codec-compression-key-applications-and-programs-for-streamlined-audio-processing/"><u>Mastering AAC Codec Compression: Key Applications and Programs for Streamlined Audio Processing</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-methods-to-decrease-mp3-bitrate-without-losing-quality/"><u>Simple Methods to Decrease MP3 Bitrate Without Losing Quality</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simplest-methods-compressing-m4a-audio-files-made-simple/"><u>Simplest Methods: Compressing M4A Audio Files Made Simple</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-how-to-open-and-extract-files-from-an-ape-archive-in-multiple-operating-systems-windows-mac-and-linux/"><u>Step-by-Step Guide: How To Open And Extract Files From an .APE Archive in Multiple Operating Systems (Windows, Mac & Linux)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-instant-mp3-album-artwork-insertion-for-all-platforms-windowsmaciphoneandroid/"><u>Step-by-Step Tutorial: Instant MP3 Album Artwork Insertion for All Platforms (Windows/Mac/iPhone/Android)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-most-popular-and-effective-music-editing-tools-for-202-generate-a-list-of-5-detailed-features-to-look-out-for-in-the-best-music-editing-softwareapponlin1/"><u>The Most Popular & Effective Music Editing Tools for 202# Generate a List of 5 Detailed Features to Look Out for in the Best Music Editing Software/App/Online Platforms Available This Year, with an Emphasis on User Experience and Functionality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncovering-root-of-microsoft-teams-disruption-service-side-snag-or-personal-network-problems/"><u>Uncovering Root of Microsoft Teams Disruption – Service-Side Snag or Personal Network Problems?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726224869669-mp3-3g2-movavi/"><u>무료 MP3 파일을 3G2 서비스가 지원하는 경우에만 원격 보내기와 같은 사용을 위해 Movavi의 이식 기술</u></a></li>
 </ul></div>
 

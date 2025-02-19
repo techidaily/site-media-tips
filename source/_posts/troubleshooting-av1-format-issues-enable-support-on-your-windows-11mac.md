@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting AV1 Format Issues: Enable Support on Your Windows 11/Mac"
-date: 2025-02-06T16:40:26.408Z
-updated: 2025-02-09T16:07:21.726Z
+date: 2025-02-13T17:13:09.801Z
+updated: 2025-02-19T16:30:35.591Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f6b900a7e2a78e7ffb6b0f28d526eebcba1c857a7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AV1 Can't Play? How to Play AV1 on Windows 10/Mac?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: September 30, 2020 | 3 Min Read_
@@ -32,15 +36,15 @@ thumbnail: https://thmb.techidaily.com/f6b900a7e2a78e7ffb6b0f28d526eebcba1c857a7
 [3\. AV1 Playback Issues with VLC?](https://tools.techidaily.com/5kplayer/video-music-player/)  
 [4\. Best Free AV1 Video Player >>](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **AV1 not Playing on Windows 10? \[Solved\]**
 
 Trying to [play AV1 video on Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) with the native Windows 10 application but only receive an error message: "_Can't play. This item was encoded in a format that's not supported. 0xc00d5212_"? 
 
 ![Can't Play AV1 on Windows 10](https://www.5kplayer.com/video-music-player/img/av1-not-playing-windows-10.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As a matter of fact, Windows 10 doesn't supply a native application which contains the required [AV1 codec](https://tools.techidaily.com/5kplayer/video-music-player/) to support AV1 playback on Windows 10 as of now. To enable your Movies & TV app or Edge to open AV1 videos on Windows 10 successfully, you need to download Microsoft's AV1 Video Extension to power the default media player.
 
@@ -49,7 +53,7 @@ As a matter of fact, Windows 10 doesn't supply a native application which contai
 ![AV1 Video Extension](https://www.5kplayer.com/video-music-player/img/av1-video-extension.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **AV1 not Playing on Mac? \[Solved\]**
@@ -61,7 +65,7 @@ Though Apple joined the AV1 codec consortium earlier in 2018, it doesn't mean de
 Obviously, the file you play on Mac now is a converted version which has a totally different video codec. To directly play video files encoded with AV1 codec without changing anything, you may need professional [AV1 player](https://tools.techidaily.com/5kplayer/video-music-player/) to play AV1 on Mac and 5KPlayer is highly recommended.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **AV1 Playback Issue with VLC**
@@ -73,6 +77,10 @@ Even the quite new VLC 3.0.8 can't play AV1 video files though [VLC AV1](https:/
 
 **Solution:** Upgrade your VLC media player to the latest version 3.0.10 to see if it works. Or manually set the configuration to the right situation by unchecking the "Use hardware YUV -> RGB conversions" checkbox or set the Output to DirectX, Direct3D, Windows GDI or OpenGL. Or just switch to professional AV1 video player 5KPlayer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AV1 not Playing? Try Free AV1 Video Player 5KPlayer
 
 AV1 won't play on Windows 10/Mac not only because AV1 video codec is new but also it is a heavier codec requiring more powerful media software to decode it. According to the test from Bitmovin, current AV1 codec offers about 20% and 30% better compression rate compared to VP9 and HEVC respectively, and it is predicted that the compression rate should be 50% better. What does that mean? It means that video encoded with AV1 will contain more details compared to the same size video encoded with VP9 or HEVC. And the media player for AV1 playback should be typically designed to meet the demand of playing videos with such high compression standard.
@@ -83,15 +91,7 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 ![AV1 Player](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,19 +108,20 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevate-your-video-projects-storyremix-meets-windows-11-photos/"><u>[New] In 2024, Elevate Your Video Projects StoryRemix Meets Windows 11 Photos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-webcam-innovation-cutting-edge-live-video-technology/"><u>[New] In 2024, Webcam Innovation Cutting-Edge Live Video Technology</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capturing-the-world-in-iphone-slow-motion/"><u>[Updated] 2024 Approved Capturing the World in iPhone Slow Motion</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-diving-deep-into-nikons-d500-for-exceptional-4k-imaging/"><u>[Updated] 2024 Approved Diving Deep Into Nikon's D500 for Exceptional 4K Imaging</u></a></li>
-<li><a href="https://media-tips.techidaily.com/airplaying-your-51-surround-sound-system-with-apple-tv-generation-4-3-and-2/"><u>AirPlaying Your 5.1 Surround Sound System with Apple TV (Generation 4, 3 & 2)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-4-alternative-streaming-devices-to-googles-cast/"><u>Best 4 Alternative Streaming Devices to Google's Cast</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-tecno-camon-20-pro-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Camon 20 Pro 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/connect-mobile-media-to-big-screens-easy-tutorial-for-video-playback-from-phones-to-tvs-across-ios-and-android-platforms/"><u>Connect Mobile Media to Big Screens: Easy Tutorial for Video Playback From Phones to TVs Across iOS and Android Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-ios-why-apple-arcade-wins-my-heart/"><u>Discovering iOS: Why Apple Arcade Wins My Heart</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-media-player-replacement-fixing-common-mplayer-difficulties-easily/"><u>Free Media Player Replacement: Fixing Common MPlayer Difficulties Easily!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-poco-c65-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Poco C65? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-stream-apple-music-on-your-windows-pc-a-guide-with-lyric-display/"><u>How to Stream Apple Music on Your Windows PC: A Guide with Lyric Display</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamless-screen-reflection-syncing-your-computer-with-apple-tv-effortlessly/"><u>Seamless Screen Reflection: Syncing Your Computer with Apple TV Effortlessly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-connecting-oculus-quest-2-headset-with-your-smartphone/"><u>Ultimate Guide: Connecting Oculus Quest 2 Headset with Your Smartphone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-heart-of-storytelling-engaging-dialogue-in-scripts-for-2024/"><u>[New] The Heart of Storytelling Engaging Dialogue in Scripts for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-rhythmic-revelations-adding-audio-to-your-vimeo-videos/"><u>[Updated] 2024 Approved Rhythmic Revelations Adding Audio to Your Vimeo Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-beyond-the-dance-understanding-copyright-pre-upload/"><u>[Updated] Beyond the Dance Understanding Copyright Pre-Upload</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-ultimate-fb-downloading-kit-best-for-ff-browser-users-for-2024/"><u>[Updated] Ultimate FB Downloading Kit - Best for FF Browser Users for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-fix-your-4k-streaming-issues-troubleshoot-and-resolve-airplay-not-working/"><u>1. Fix Your 4K Streaming Issues: Troubleshoot and Resolve AirPlay Not Working</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-precise-user-level-group-policies-in-windows-devices/"><u>Crafting Precise User-Level Group Policies in Windows Devices</u></a></li>
+<li><a href="https://media-tips.techidaily.com/dlna-ready-5kplayer-free-software-learn-about-its-capabilities-and-advantages-for-seamless-media-streaming/"><u>DLNA-Ready 5KPlayer Free Software - Learn About Its Capabilities & Advantages for Seamless Media Streaming</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-best-free-windows-compatible-upnp-dlna-streaming-servers-windows-10-8-7/"><u>Download Best FREE Windows Compatible UPnP DLNA Streaming Servers (Windows 10 / 8 / 7)</u></a></li>
+<li><a href="https://win-studio.techidaily.com/integrating-your-digital-flipbooks-with-ease-on-web-pages-using-flipbuilder/"><u>Integrating Your Digital Flipbooks with Ease on Web Pages Using FlipBuilder</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/solve-your-popcorn-app-and-apple-tv-connectivity-woes-a-step-by-step-guide-with-5kplayer/"><u>Solve Your Popcorn App and Apple TV Connectivity Woes: A Step-by-Step Guide With 5KPlayer</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/thriving-as-a-team-on-youtube-perfect-pairings-for-success/"><u>Thriving as a Team on YouTube Perfect Pairings for Success</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-funktionsreicher-kostenloser-mkv-player-auf-windows-nahtlose-wiedergabe-mit-einfachster-bedienung/"><u>Top Funktionsreicher Kostenloser MKV-Player Auf Windows - Nahtlose Wiedergabe Mit Einfachster Bedienung</u></a></li>
+<li><a href="https://media-tips.techidaily.com/troubleshooting-fixing-mp4-playback-issues-in-vlc-media-player-on-windows-and-mac-systems/"><u>Troubleshooting: Fixing MP4 Playback Issues in VLC Media Player on Windows & Mac Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-using-a-dlna-compatible-device-for-media-playback-on-windows-operating-systems/"><u>Ultimate Guide: Using a DLNA Compatible Device for Media Playback on Windows Operating Systems</u></a></li>
 </ul></div>
 

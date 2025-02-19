@@ -1,7 +1,7 @@
 ---
 title: How To Easily Fix Offset in VLC's Subtitles – Top Solutions Inside
-date: 2025-02-02T17:47:56.472Z
-updated: 2025-02-09T18:49:45.888Z
+date: 2025-02-16T19:46:26.693Z
+updated: 2025-02-19T17:49:40.901Z
 tags:
   - vlc
 categories:
@@ -39,22 +39,22 @@ Since VLC media player is a cross-platform software, we will explain the solutio
 [Best VLC Alternative to Solve VLC Subtitle Delay >>](https://tools.techidaily.com/5kplayer/products/)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solve VLC Subtitle Delay on Windows, Mac, iOS, Android & TV
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/1.png) **How to Sync Subtitles in VLC on Windows PC?**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Method 1.** When playing a video or movie with VLC media player, you simply use the hotkey to adjust the subtitle delay or forward. If subtitle is ahead of sound, press **G**. If subtitle is behind sound, press **H**. With every key press, it will adjust the subtitle by 50 milliseconds, and you will see the confirmation "Subtitle delay 50ms" or "Subtitle delay -50ms" on the top right corner of the playing screen.
 
 However, this way is suitable only when the dialogue and subtitles come with same frame rate. So, you should try method 2 in other situations.
 
 ![VLC Subtitle Hotkeys](https://www.5kplayer.com/vlc/img/vlc-subtitle-hotkey.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **BTW, if VLC subtitles out of sync with audio only, you can use the advance synchronization**
 
@@ -87,11 +87,11 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 ![VLC Subtitle Synchronization Mac](https://www.5kplayer.com/vlc/img/vlc-subtitle-synchronization-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### ![](https://www.5kplayer.com/vlc/../seoimg/3.png) **How to Solve Subtitle Delay in VLC on Android Phones & TV?**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1\. Play a video or movie with VLC media player on your Android device.  
  2\. Tap on the **speech balloon** icon next to the big play icon. On your Android TV, there’s a couple of rewind icons between the two.  
@@ -103,20 +103,12 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/4.png) **How to Sync Subtitles in VLC on iOS iPhone/iPad?**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1\. Open a video with VLC media player for iOS.  
  2\. Tap on the **speech balloon** icon in the right-hand bottom corner to check if subtitles have been turned on.  
  3\. Tap on the clock symbol in the right-hand bottom corner.  
  4\. Under subtitles delay, drag the circle icon to set a delay. Drag the bar to the right to delay the subtitles, and drag the bar to the left to solve the VLC subtitle delay problem.
 
 ![VLC Subtitle Synchronization iOS](https://www.5kplayer.com/vlc/img/vlc-subtitle-ios.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/5.png) **How to Adjust Subtitles in VLC on Apple TV?**
 
@@ -128,6 +120,10 @@ If you don't see an option for SDH, or you want to turn on CC or SDH by default,
 
 On Apple TV (2nd generation) or Apple TV (3rd generation), hold down Select on your remote for three seconds while a video is playing to see the Subtitles tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Above Methods not Working? Try Subtitle Player 5KPlayer
 
 It is the truth that sometimes subtitles are appeared before the dialogues and sometimes they are displayed later. Often the case, the subtitles out of sync problem arise when movies or videos downloaded from one source and the subtitles from another source. So, you need a professional [subtitle player](https://tools.techidaily.com/5kplayer/video-music-player/) that can adjust the subtitles’ timing correctly.
@@ -138,6 +134,10 @@ It is the truth that sometimes subtitles are appeared before the dialogues and s
  Just play a movie or TV show with Soft subtitles, right click on the playing window and select Synchronization. In the new popup window, just drag the **Subtitle track synchronization(ms)** bar from -1s to 1s seconds for a perfect match.
 
 ![5KPlayer Subtitle Synchronization](https://www.5kplayer.com/vlc/img/5kp-subtitle-sync.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Also, it is often the case that many online movies and TV shows have no subtitles or wrong subtitles. Therefore, you can also use 5KPlayer to [add subtitles](https://tools.techidaily.com/5kplayer/video-music-player/) to your movies or TV shows. BTW, you can customize your subtitles by choosing from 40+ default encoding methods, 170+ fonts, font size, text colors, background colors and corresponding color opacity.
 
@@ -160,15 +160,20 @@ Actually VLC not working problems vary, and 5KPlayer is also the best alternativ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-syma-x8c-mastering-advanced-maneuvers/"><u>[New] Syma X8C Mastering Advanced Maneuvers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastery-of-planting-the-finest-valheim-seeds/"><u>[Updated] 2024 Approved Mastery of Planting The Finest Valheim Seeds</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exclusive-deal-alert-get-your-max-plan-discounted-by-as-much-as-45-now/"><u>Exclusive Deal Alert: Get Your Max Plan Discounted by as Much as 45% Now!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experience-enhanced-viewing-with-hisenses-cutting-edge-mini-projector-featuring-4k-and-dolby-vision/"><u>Experience Enhanced Viewing with Hisense's Cutting-Edge Mini Projector Featuring 4K and Dolby Vision</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experience-top-tier-soundtracks-at-no-cost-with-spotifys-limited-time-premium-offer/"><u>Experience Top-Tier Soundtracks at No Cost with Spotify's Limited-Time Premium Offer</u></a></li>
-<li><a href="https://media-tips.techidaily.com/explore-the-hidden-world-of-youtube-gaming-start-playing-now/"><u>Explore the Hidden World of YouTube Gaming - Start Playing Now!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-xiaomi-redmi-k70e-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Xiaomi Redmi K70E PC | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-quick-start-engaging-with-friends-on-insta-chat/"><u>In 2024, Quick Start Engaging with Friends on Insta Chat</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stop-the-interruptions-managing-and-correcting-unplanned-computer-sleep-mode/"><u>Stop the Interruptions: Managing and Correcting Unplanned Computer Sleep Mode</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/mov-m4v/"><u>무료 MOV M4V 파일 변환기 - 화면을 위한 원활한 이미지로 전환하는 가장 최신 도구</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-becoming-a-pro-the-ultimate-guide-to-microsofts-movie-maker-in-win11-for-2024/"><u>[New] Becoming a Pro The Ultimate Guide to Microsoft's Movie Maker in Win11 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/avigating-the-economic-landscape-of-short-video-royalties/"><u>[New] Navigating the Economic Landscape of Short Video Royalties</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-from-crafting-to-screen-sharing-comprehensive-windows-pc-manual-for-tv-recording-for-2024/"><u>[Updated] From Crafting to Screen-Sharing Comprehensive Windows PC Manual for TV Recording for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-androids-fastest-video-speed-adjusters/"><u>[Updated] In 2024, Android's Fastest Video Speed Adjusters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-stepping-into-the-spotlight-5-core-principles-for-social-media-promotion/"><u>[Updated] In 2024, Stepping Into the Spotlight 5 Core Principles for Social Media Promotion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-to-eliminate-speaker-feedback-and-sizzle-on-your-pc-windows-107/"><u>DIY Fixes to Eliminate Speaker Feedback & Sizzle on Your PC (Windows 10/7)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-divided-footage-delight-top-cam-discussion/"><u>In 2024, Divided Footage Delight Top Cam Discussion?</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-offline-mode-in-microsoft-onedrive/"><u>Setting Up Offline Mode in Microsoft OneDrive</u></a></li>
+<li><a href="https://media-tips.techidaily.com/uncover-the-ideal-live-sports-streaming-sites-your-definitive-guide/"><u>Uncover the Ideal Live Sports Streaming Sites – Your Definitive Guide!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-the-benefits-how-pausing-your-apple-music-listening-history-enhances-privacy/"><u>Understanding the Benefits: How Pausing Your Apple Music Listening History Enhances Privacy</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-the-impact-when-will-usgifted-internet-subsidies-cease/"><u>Understanding the Impact: When Will USGifted Internet Subsidies Cease?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-savings-with-directtv-stream-secure-your-90-off-deal-today-only-dont-miss-out/"><u>Unlock Savings with DirectTV Stream - Secure Your $90 Off Deal Today Only – Don't Miss Out!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-the-full-potential-of-your-videos-on-youtube-discover-why-a-paid-membership-is-worth-it/"><u>Unlock the Full Potential of Your Videos on YouTube - Discover Why a Paid Membership Is Worth It!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unplug-your-vizio-smart-tv-essential-steps-to-safely-severing-its-internet-connection/"><u>Unplug Your Vizio Smart TV: Essential Steps to Safely Severing Its Internet Connection</u></a></li>
+<li><a href="https://media-tips.techidaily.com/upcoming-changes-in-disneyplus-policy-end-of-shared-access-era-approaching/"><u>Upcoming Changes in Disney+ Policy: End of Shared Access Era Approaching</u></a></li>
 </ul></div>
 

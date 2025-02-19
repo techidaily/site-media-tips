@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for Lack of Video in VLC Player Across Windows & macOS Systems"
-date: 2025-02-02T16:58:16.432Z
-updated: 2025-02-09T17:33:36.058Z
+date: 2025-02-12T18:40:20.966Z
+updated: 2025-02-19T18:44:38.164Z
 tags:
   - vlc
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/461111458e3b4ce139d48fb2aa4a766468aa7e6bd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix VLC No Video on Mac/Windows 10 When Playing MP4 MKV AVI etc Files
@@ -61,7 +61,7 @@ Someone had solved the VLC no video only audio issue by resetting the Preference
 ![VLC No Video](https://www.5kplayer.com/vlc/img/vlc-output-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Mac:** Click on VLC on the top left corner of Mac > Preferences > Show All > Click on Video on the left bar > Output modules > choose the output mode from the drop down menu.
@@ -69,7 +69,7 @@ Someone had solved the VLC no video only audio issue by resetting the Preference
 ![VLC No Video Only Audio](https://www.5kplayer.com/vlc/img/vlc-ouput-mac.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6\. The particular video has a video format that VLC doesn't support**
@@ -79,7 +79,7 @@ Usually, when there is unsupported video codec contained in the video file, VLC 
 Hope these solutions offer helps. If you have tried the above methods but find VLC no video problem still exists, maybe you should try a [VLC alternative](https://tools.techidaily.com/5kplayer/video-music-player/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best VLC Media Player Alternative Free Download
@@ -89,7 +89,7 @@ Hope these solutions offer helps. If you have tried the above methods but find V
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -107,22 +107,22 @@ Hope these solutions offer helps. If you have tried the above methods but find V
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-effortless-facebook-video-extras-the-best-fire-browser-plugins-of-2023/"><u>[New] 2024 Approved Effortless Facebook Video Extras The Best Fire-Browser Plugins of 2023</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unlock-video-communication-using-whatsapp-browser-on-your-notebook-pc/"><u>[New] Unlock Video Communication Using WhatsApp Browser on Your Notebook PC</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-navigating-adsense-income-on-youtube-per-1000-viewer-earning/"><u>[Updated] 2024 Approved Navigating AdSense Income on YouTube Per 1,000 Viewer Earning</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-your-youtube-earnings-on-mobile-devices-a-comprehensive-guide/"><u>[Updated] In 2024, Boosting Your YouTube Earnings on Mobile Devices - A Comprehensive Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-your-blueprint-for-an-instantaneously-crafted-virtual-avatar/"><u>[Updated] In 2024, Your Blueprint for an Instantaneously Crafted Virtual Avatar</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-all-inclusive-iptv-delivery-systems/"><u>2024 Approved All-Inclusive IPTV Delivery Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-fundamentals-of-creating-dynamic-podcast-feeds/"><u>2024 Approved The Fundamentals of Creating Dynamic Podcast Feeds</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-7-online-tools-for-effortlessly-converting-wmv-files-to-mp4-format/"><u>Best 7 Online Tools for Effortlessly Converting WMV Files to MP4 Format</u></a></li>
-<li><a href="https://media-tips.techidaily.com/catch-all-four-sports-festivals-in-one-place-using-peacock-your-ultimate-multi-event-viewing-platform/"><u>Catch All Four Sports Festivals in One Place Using Peacock – Your Ultimate Multi-Event Viewing Platform!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/combining-disneyplus-hulu-and-max-a-trifecta-bundle-launching-in-summer/"><u>Combining Disney+, Hulu & Max: A Trifecta Bundle Launching in Summer!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-tutorial-mastering-videoeffects-with-videopad-the-ultimate-guide/"><u>Comprehensive Tutorial: Mastering VideoEffects with VideoPad - The Ultimate Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-steps-transferring-m2ts-files-to-your-ipad-using-a-reliable-conversion-tool/"><u>Easy Steps: Transferring M2TS Files to Your iPad Using a Reliable Conversion Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-adobe-photoshop-closure-issues-on-latest-oses/"><u>Resolving Adobe Photoshop Closure Issues on Latest OSes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-compatible-ways-to-access-and-edit-asf-media-files-across-various-gadgets/"><u>Step-by-Step Guide: Compatible Ways to Access and Edit ASF Media Files Across Various Gadgets</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-leading-nexus-one-software-tools-for-seamless-video-format-transformation/"><u>Top 5 Leading Nexus One Software Tools for Seamless Video Format Transformation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tuning-into-iphones-sound-scenarios/"><u>Tuning Into iPhone's Sound Scenarios</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-using-aiseesofts-video-conversion-tool-on-windows-platforms/"><u>Ultimate Guide: Using Aiseesoft's Video Conversion Tool on Windows Platforms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-subtlety-savvy-sound-settings-for-garageband/"><u>[New] In 2024, Subtlety Savvy Sound Settings for Garageband</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-10-free-graphics-websites-a-compreran-analysis/"><u>[New] In 2024, Top 10 FREE Graphics Websites A Compreran Analysis</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-metaverse-life-your-ultimate-device-list/"><u>2024 Approved Mastering Metaverse Life Your Ultimate Device List</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photoshop-color-adjustments-for-beginners/"><u>In 2024, Photoshop Color Adjustments for Beginners</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavis-free-and-web-based-image-format-converter-for-pgm-files-faca-sua-mudanca-gratuita-agora/"><u>Movavi's Free and Web-Based Image Format Converter for PGM Files - Faça Sua Mudança Gratuita Agora!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/nfl-game-pass-subscribers-rejoice-youtube-tv-slashes-prices-by-50/"><u>NFL Game Pass Subscribers Rejoice: YouTube TV Slashes Prices by 50%!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/paramountplus-announces-regular-price-increases-what-subscribers-need-to-know/"><u>Paramount+ Announces Regular Price Increases: What Subscribers Need to Know</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-in-photos-iphone-apps-for-accurate-cropping-for-2024/"><u>Precision in Photos IPhone Apps for Accurate Cropping for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/predicting-the-unknown-through-melodies-discover-your-future-on-spotifys-playlist-oracle/"><u>Predicting the Unknown Through Melodies: Discover Your Future on Spotify's Playlist Oracle</u></a></li>
+<li><a href="https://media-tips.techidaily.com/rising-subscription-fees-disneyplus-espnplus-and-hulu-announce-price-hike/"><u>Rising Subscription Fees: Disney+, ESPN+, & Hulu Announce Price Hike</u></a></li>
+<li><a href="https://media-tips.techidaily.com/roku-television-receives-significant-image-clarity-improvements-for-a-superior-display/"><u>Roku Television Receives Significant Image Clarity Improvements for a Superior Display</u></a></li>
+<li><a href="https://media-tips.techidaily.com/secure-a-250-discount-on-the-portable-marvel-xgimis-mogo/"><u>Secure a $250 Discount on the Portable Marvel: XGIMI's MoGo</u></a></li>
+<li><a href="https://media-tips.techidaily.com/speedy-search-tips-for-checking-movies-and-tv-shows-on-popular-streaming-platforms/"><u>Speedy Search Tips for Checking Movies and TV Shows on Popular Streaming Platforms</u></a></li>
+<li><a href="https://media-tips.techidaily.com/spotifys-new-personalized-experience-my-spotify-awaits-you/"><u>Spotify's New Personalized Experience: My Spotify Awaits You!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96417758-9780486113005-the-kybalion/"><u>The Kybalion | Free Book</u></a></li>
 </ul></div>
 

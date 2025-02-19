@@ -1,7 +1,7 @@
 ---
 title: "Mastering VLC Media Player: Building Custom Playlists with M3U, IPTV and Direct Files for an Enhanced Viewing Experience"
-date: 2025-02-08T17:46:54.598Z
-updated: 2025-02-09T16:18:11.731Z
+date: 2025-02-12T19:03:36.699Z
+updated: 2025-02-19T17:06:12.979Z
 tags:
   - vlc
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create Playlists in VLC? M3U/IPTV/Local Playlists
 
@@ -64,13 +68,13 @@ However, M3U/M3U8/HTML playlist options are for IPTV playlists. If you want to c
 
 ![VLC Playlist Option](https://www.5kplayer.com/vlc/img/save-playlist-formats.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The drawback of this method is that you might not find it easy to edit the playlist created in VLC if you want to add some more tracks into it (deleting tracks can be easy), since they are already formed into a VLC playlist file. As \*.XSPF is a basically text file format, **Notepad** could be one of the best program to open it for further editing. 
 
 ![How to Edit VLC Playlist](https://www.5kplayer.com/vlc/img/open-xspf-playlist.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Guide 2:**
 
@@ -87,6 +91,10 @@ After creating file shortcut, you should gather them together in a new folder.
 
 ![Create VLC Playlist Shortcut](https://www.5kplayer.com/vlc/img/playlist-vlc-guide-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Left click create new folder and name the playlist folder.   
 **Step 6:** Drag and drop all the shortcuts to the playlist folder.
 
@@ -95,7 +103,7 @@ To open the VLC playlist, you can directly click on "Media" drop-down menu and s
 ![Create VLC Playlist Shortcut](https://www.5kplayer.com/vlc/img/vlc-playlist-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create IPTV M3U/M3U8 VLC Playlist?
@@ -120,7 +128,7 @@ To make multiple playlists listed on the sidebar (well, not exactly the sidebar 
 For both \*.XSPF files and shortcuts folder playlist, directly drag and drop them to the "Media Library". 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hate VLC Playlist? Use 5KPlayer, A User-friendly Solution
@@ -131,15 +139,7 @@ This media streaming player also supports M3U8/M3U IPTV playlist streams and liv
 
 ![VLC Playlist Workaround](https://www.5kplayer.com/vlc/img/5kplayer-new-playlist.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,22 +156,15 @@ This media streaming player also supports M3U8/M3U IPTV playlist streams and liv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-5-best-dvd-creators-for-macos-sierra/"><u>[New] 5 Best DVD Creators for macOS Sierra</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-elevate-your-craft-a-deep-dive-into-top-6-nft-platforms-for-2024/"><u>[New] Elevate Your Craft - A Deep Dive Into Top 6 NFT Platforms for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-apples-m1-battle-is-the-air-or-pro-more-efficient/"><u>[Updated] 2024 Approved Apple's M1 Battle Is the Air or Pro More Efficient?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-vlcs-potential-for-mpeg-4-and-diverse-file-alterations/"><u>[Updated] Unlocking VLC's Potential for MPEG-4 and Diverse File Alterations</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1-fixing-sidecar-connectivity-issues-bridging-mac-and-ipad-on-big-sur/"><u>1. Fixing Sidecar Connectivity Issues: Bridging Mac and iPad on Big Sur</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-direct-capture-tool-for-chrome-systems/"><u>2024 Approved Direct Capture Tool for Chrome Systems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-free-software-top-5-pc-apps-for-apple-airplay-streaming/"><u>Best Free Software: Top 5 PC Apps for Apple AirPlay Streaming</u></a></li>
-<li><a href="https://media-tips.techidaily.com/connecting-your-xbox-one-console-to-the-windows/"><u>Connecting Your Xbox One Console to the Windows</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-top-3-free-mac-alternatives-to-vlc-media-player-install-today/"><u>Discover the Top 3 Free Mac Alternatives to VLC Media Player – Install Today!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhance-your-mac-display-with-iphone-12-mastering-the-art-of-airplay-streaming/"><u>Enhance Your Mac Display with iPhone 12: Mastering the Art of AirPlay Streaming</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expert-guide-how-to-easily-get-and-set-up-quicktime-player-in-your-windows-cuarto-pantalla/"><u>Expert Guide: How to Easily Get & Set Up QuickTime Player in Your Windows Cuarto Pantalla</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-video-casting-how-to-wirelessly-share-your-pcs-movies-on-tv/"><u>Free Video Casting: How to Wirelessly Share Your PC's Movies on TV</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-newest-realtek-audio-control-software-for-windows-operating-systems-11107/"><u>Install Newest Realtek Audio Control Software for Windows Operating Systems (11/10/7)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-4-no-cost-cad-software-options-you-cant-miss/"><u>Top 4 No-Cost CAD Software Options You Can't Miss</u></a></li>
-<li><a href="https://media-tips.techidaily.com/wireless-display-sharing-with-ipados-15-a-step-by-step-tutorial-for-mirroring-to-a-computerapple-tvmac-screen/"><u>Wireless Display Sharing with iPadOS 15: A Step-by-Step Tutorial for Mirroring to a Computer/Apple TV/Mac Screen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028217259-youtube/"><u>YouTubeで削除されたコンテンツを復活させる究極ガイド</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-step-by-step-process-to-get-a-clean-canvas-in-figma/"><u>[New] 2024 Approved Step-by-Step Process to Get a Clean Canvas in Figma</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-understanding-and-resolving-the-issue-of-missing-shorts-thumbnails/"><u>[Updated] 2024 Approved Understanding & Resolving the Issue of Missing Shorts Thumbnails</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-universal-dlna-players-for-cross-device-media-sync-optimal-compatibility-with-pcmac-android-smart-tvs-and-audio-systems/"><u>Best Universal DLNA Players for Cross-Device Media Sync: Optimal Compatibility with PC/Mac, Android, Smart TVs, and Audio Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/come-trasformare-il-tuo-pc-con-windows-10-in-un-server-multimediale-con-dlna/"><u>Come Trasformare Il Tuo PC Con Windows 10 in Un Server Multimediale Con DLNA</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-activate-dlna-on-windows-11-two-effective-strategies-for-video-streaming/"><u>How to Activate DLNA on Windows 11: Two Effective Strategies for Video Streaming</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-nokia-c12-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Nokia C12 Face Lock?</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-access-blockage-enabling-roblox-games-on-windows/"><u>Overcoming Access Blockage: Enabling Roblox Games on WINDOWS</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-for-when-logitech-g-hub-stops-responding-in-windows-environment/"><u>Solution Guide for When Logitech G Hub Stops Responding in Windows Environment</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-free-dvd-player-programs-for-windows-11-and-macos/"><u>Top Rated Free DVD Player Programs for Windows 11 and macOS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Ultimate Guide: Correcting VLC Video Timing with Perfect Subtitles"
-date: 2025-02-08T16:52:28.105Z
-updated: 2025-02-09T17:21:48.873Z
+date: 2025-02-13T19:32:35.632Z
+updated: 2025-02-19T17:41:57.112Z
 tags:
   - vlc
 categories:
@@ -42,19 +42,11 @@ Since VLC media player is a cross-platform software, we will explain the solutio
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/1.png) **How to Sync Subtitles in VLC on Windows PC?**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Method 1.** When playing a video or movie with VLC media player, you simply use the hotkey to adjust the subtitle delay or forward. If subtitle is ahead of sound, press **G**. If subtitle is behind sound, press **H**. With every key press, it will adjust the subtitle by 50 milliseconds, and you will see the confirmation "Subtitle delay 50ms" or "Subtitle delay -50ms" on the top right corner of the playing screen.
 
 However, this way is suitable only when the dialogue and subtitles come with same frame rate. So, you should try method 2 in other situations.
 
 ![VLC Subtitle Hotkeys](https://www.5kplayer.com/vlc/img/vlc-subtitle-hotkey.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **BTW, if VLC subtitles out of sync with audio only, you can use the advance synchronization**
 
@@ -89,6 +81,10 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/3.png) **How to Solve Subtitle Delay in VLC on Android Phones & TV?**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1\. Play a video or movie with VLC media player on your Android device.  
  2\. Tap on the **speech balloon** icon next to the big play icon. On your Android TV, there’s a couple of rewind icons between the two.  
  3\. Tap on **Subtitles track** to check if subtitles are turned on.  
@@ -99,6 +95,10 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 #### ![](https://www.5kplayer.com/vlc/../seoimg/4.png) **How to Sync Subtitles in VLC on iOS iPhone/iPad?**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1\. Open a video with VLC media player for iOS.  
  2\. Tap on the **speech balloon** icon in the right-hand bottom corner to check if subtitles have been turned on.  
  3\. Tap on the clock symbol in the right-hand bottom corner.  
@@ -106,10 +106,14 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 
 ![VLC Subtitle Synchronization iOS](https://www.5kplayer.com/vlc/img/vlc-subtitle-ios.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### ![](https://www.5kplayer.com/vlc/../seoimg/5.png) **How to Adjust Subtitles in VLC on Apple TV?**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1\. When watching a video on Apple TV, swipe down on your remote’s Touch surface.  
@@ -119,10 +123,6 @@ Besides subtitle synchronization, you can also adjust the subtitle frames per se
 If you don't see an option for SDH, or you want to turn on CC or SDH by default, go to Settings > General > Accessibility > Subtitles and Captioning. Choose "Closed Captions and SDH" to turn it on. If you want to customize captions and subtitles, choose Style, then choose from the options.
 
 On Apple TV (2nd generation) or Apple TV (3rd generation), hold down Select on your remote for three seconds while a video is playing to see the Subtitles tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Above Methods not Working? Try Subtitle Player 5KPlayer
 
@@ -135,15 +135,15 @@ It is the truth that sometimes subtitles are appeared before the dialogues and s
 
 ![5KPlayer Subtitle Synchronization](https://www.5kplayer.com/vlc/img/5kp-subtitle-sync.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Also, it is often the case that many online movies and TV shows have no subtitles or wrong subtitles. Therefore, you can also use 5KPlayer to [add subtitles](https://tools.techidaily.com/5kplayer/video-music-player/) to your movies or TV shows. BTW, you can customize your subtitles by choosing from 40+ default encoding methods, 170+ fonts, font size, text colors, background colors and corresponding color opacity.
 
 Actually VLC not working problems vary, and 5KPlayer is also the best alternative. Besides subtitle delay problem, people also encounter different types of issues when using VLC media player, including no sound or video, can’t play 360-degree/HDR/4K videos, AirPlay not working, crashing, washed out colors, and [more](https://tools.techidaily.com/5kplayer/products/). As a versatile multimedia player, 5KPlayer plays kinds of media files successfully, plus DLNA/AirPlay function to stream video music, and download ability to get online files.
 
 [![](https://www.5kplayer.com/vlc/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/vlc/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,20 +160,18 @@ Actually VLC not working problems vary, and 5KPlayer is also the best alternativ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-income-on-instagram-comprehensive-step-by-step-guide/"><u>[New] In 2024, Income on Instagram Comprehensive Step-by-Step Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-minds-on-trial-best-general-knowledge-channels/"><u>2024 Approved Minds on Trial Best General Knowledge Channels</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-tecno-spark-20-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Tecno Spark 20 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-online-gif-maker-transform-videos-and-pictures-into-funny-engaging-gifs-easily/"><u>Free Online GIF Maker: Transform Videos & Pictures Into Funny, Engaging GIFs Easily</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-successfully-eliminate-watermarks-from-your-gif-images/"><u>How to Successfully Eliminate Watermarks From Your GIF Images</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 15 Pro Max</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maintaining-image-quality-the-ultimate-guide-to-adjusting-gif-size-without-loss-of-clarity/"><u>Maintaining Image Quality: The Ultimate Guide to Adjusting GIF Size without Loss of Clarity</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-how-to-download-4k-videos-in-mp4-format-a-beginners-guide-for-2024/"><u>New How to Download 4K Videos in MP4 Format A Beginners Guide for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/streamline-fitness-transform-your-ripped-ballet-exercise-dvd-into-various-digitally-playable-formats/"><u>Streamline Fitness: Transform Your Ripped Ballet Exercise DVD Into Various Digitally-Playable Formats</u></a></li>
-<li><a href="https://network-issues.techidaily.com/system-update-enhances-com-integrity/"><u>System Update Enhances COM Integrity</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-complete-step-by-step-guide-for-adding-stunning-effects-to-animated-gif-images-using-two-easy-methods/"><u>The Complete Step-by-Step Guide for Adding Stunning Effects to Animated GIF Images Using Two Easy Methods</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-must-have-animation-gif-editors-available-on-pcmac-and-web/"><u>Top 5 Must-Have Animation GIF Editors Available on PC/Mac & Web</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-crafting-the-perfect-good-morning-animated-gifs/"><u>Ultimate Guide: Crafting the Perfect 'Good Morning' Animated GIFs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/echno-gamers-channel-income-guide-for-2024/"><u>[New] Techno-Gamers' Channel Income Guide for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-track-heres-what-to-do-when-your-device-appears-offline-on-find-my-iphone/"><u>Can't Track? Here's What to Do When Your Device Appears Offline on Find My iPhone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/creating-low-volume-effects-a-guide-for-fading-out-audio-in-logic-pro-for-2024/"><u>Creating Low Volume Effects A Guide for Fading Out Audio in Logic Pro for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-redmi-12-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi Redmi 12 Device SIM</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-xiaomi-redmi-k70e-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Xiaomi Redmi K70E Through Google Earth?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-2-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/rapid-solution-transform-your-mkv-videos-into-mp4-seamlessly-and-swiftly/"><u>Rapid Solution: Transform Your MKV Videos Into MP4 Seamlessly & Swiftly</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-guide-converting-avi-videos-to-play-smoothly-on-your-ipad/"><u>Simple Guide: Converting AVI Videos to Play Smoothly on Your iPad</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-steps-to-change-your-videos-into-mp4-and-make-them-play-on-psp/"><u>Simple Steps to Change Your Videos Into MP4 and Make Them Play on PSP</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-10-tips-for-transforming-videos-into-engaging-animated-gifs/"><u>Top 10 Tips for Transforming Videos Into Engaging Animated GIFs</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-free-techniques-to-transform-gif-images-into-wmv-format-windows-and-mac-solutions/"><u>Top Free Techniques to Transform GIF Images Into WMV Format: Windows and Mac Solutions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728485108579-404/"><u>ウェブページ検索失敗:エラー404につい지った理由</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DIY Steps: Transforming Your Desktop Into a Cost-Free PS4 Media Hub"
-date: 2025-02-03T16:45:36.752Z
-updated: 2025-02-09T16:56:01.623Z
+date: 2025-02-12T16:13:53.548Z
+updated: 2025-02-19T18:06:57.556Z
 tags:
   - dlna
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn Computer into PS4 Media Server?
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 Now that the PS4 media player has made it possible for a **PS4 media server** to connect to the game console to play MKV AVI MP4 videos, MP3 AAC music, or even photos. You may need to turn computer into a PS4 media server Windows 10 to share everything in the computer library to the bigger screen, now check to find out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements: PS4 Meida Player + PS 4 Media Server Windows 10/Mac
@@ -37,10 +37,6 @@ Now that the PS4 media player has made it possible for a **PS4 media server** to
 Whenever you need to stream computer to PS4, the PS4 media player needs to come into play: for classic PlayStation 4 models, the Media Player APP easily helps users stream whatever on a DLNA server to the target TV screen connected to the game console. While for PS4 Pro and PS4 VR models, the APP also receives videos, music & photos stored in a USB driver, on condition that the display supports up to 4K. 
 
 Now that you've launched the PS4 Media Player, and the last step to successfully stream PC to PS4 is a reliable PS4 Media Server Windows 10 or Mac. You may start to set up computer or Mac into a [DLNA server Windows 10](https://tools.techidaily.com/5kplayer/dlna/) using such software as Universal Media Server, or free 5KPlayer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why We Choose 5KPlayer to Set Up Computer As PS4 Media Server?
 
@@ -55,19 +51,11 @@ To set up a PS4 media server Windows 10 or Mac, you'll need to turn the computer
 
 [![](https://www.5kplayer.com/dlna/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/dlna/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Stream PC to PlayStation 4 Wirelessly?
 
 ## How to Turn PC Into a PS4 Media Server
 
  Now check out how to set-up computer as a PS4 media server using 5KPlayer. Here below you may navigate through the list of your PS4 models to see how to set up computer as a PS4 media server before wirelessly streaming video or music. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 1: Turn Computer Into Media Server with 5KPlayer
 
@@ -83,6 +71,14 @@ To set up a PS4 media server Windows 10 or Mac, you'll need to turn the computer
 
 [![](https://www.5kplayer.com/dlna/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/dlna/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### PS4 Pro: Browse 4K UHD Videos on PS4 Media Server
 
 If you have the PS4 Pro at home, don't waste its lifelike HDR color performance with any other PS4 media servers unless it's 5KPlayer. If you'd ask why, High Dynamic Range (HDR) technologies is one of the most cutting-edge color rendering skills born from Apple and would put HDR movies to stunning TV sets with unbelievably vibrant colors. 
@@ -96,7 +92,7 @@ Even if you have the PlayStation 4 VR headset, the PS camera and VR games are fo
 ![PS4 VR Server](https://www.5kplayer.com/dlna/img/ps4-vr-media-server.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### FAQs About the PS4 Media Server
@@ -109,6 +105,10 @@ By the time you managed to make a computer a PS4 media server, it's not just the
 #### **How to Use PS4 as a Media Streamer?**
 
 To be specific, you always need to connect PS4 to a TV screen to play games or watch videos movies. The PS4 itself doesn't turn into any forms of media servers, but it can read the media content when the set-up PS4 media server uses DLNA protocol. In that form, the only way to use PS4 as a media streamer is to make contents on a PS4 media server recognizable for the console.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### PS4 Pro: Browse 4K UHD Videos on PS4 Media Server
 
@@ -148,18 +148,17 @@ To be specific, you always need to connect PS4 to a TV screen to play games or w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-snapsnatcher-fb-media-extraction/"><u>[New] SnapSnatcher FB Media Extraction</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-ultimate-action-cams-face-off-black-and-star/"><u>[New] Ultimate Action Cams Face-Off Black & Star</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-5-engaging-book-promo-videos/"><u>[Updated] Exploring 5 Engaging Book Promo Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/captivating-books-in-video-form/"><u>Captivating Books in Video Form</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-in-minutes/"><u>ChatGPT Mastery in Minutes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guaranteed-techniques-transforming-your-live-photos-into-animation-gifs/"><u>Guaranteed Techniques: Transforming Your Live Photos Into Animation GIFs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138571838-9780595913855-healthiology-101/"><u>Healthiology 101 | Free Book</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-find-x6-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo Find X6 Phone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/making-memes-made-easy-a-step-by-step-iphone-tutorial-for-beginners-featuring-the-newest-meme-creators/"><u>Making Memes Made Easy: A Step-by-Step iPhone Tutorial for Beginners, Featuring the Newest Meme Creators</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-gif-background-creation-a-comprehensive-guide-for-multiplatform-use/"><u>Mastering GIF Background Creation: A Comprehensive Guide for Multiplatform Use</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-morning-greetings-how-to-design-engaging-animated-gifs-for-a-fresh-start/"><u>Mastering Morning Greetings: How to Design Engaging Animated GIFs for a Fresh Start</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-oppo-k11-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Oppo K11 5G without backup.</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mirthful-mastery-no-monetary-boundaries/"><u>[New] Mirthful Mastery, No Monetary Boundaries</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-2023-guide-to-discovering-facebook-hosted-films-and-shows/"><u>2024 Approved 2023 Guide to Discovering Facebook-Hosted Films & Shows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-crafting-successful-youtube-sponsorship-deals/"><u>2024 Approved Crafting Successful YouTube Sponsorship Deals</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effective-methods-for-converting-dv-footage-into-high-quality-avi-format/"><u>Effective Methods for Converting DV Footage Into High-Quality AVI Format</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/elevare-limmagine-a-4k8k10k-usando-tecnologia-di-intelligenza-artificiale-di-winxvideo/"><u>Elevare L'immagine a 4K/8K/10K Usando Tecnologia Di Intelligenza Artificiale Di WinxVideo</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-nokia-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Nokia FRP Without Computer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-xlossless-audio-conversion-in-windows-using-xld-a-comprehensive-guide-to-flawless-playback/"><u>Mastering XLossless Audio Conversion in Windows Using XLD - A Comprehensive Guide to Flawless Playback</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>New How To Translate Videos in Tamil for a Wider Reach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/nouvelle-version-de-abbyy-finereader-15-facilitez-la-digitisation-rapide-et-efficace-les-informations-essentielles/"><u>Nouvelle Version De ABBYY FineReader 15 : Facilitez La Digitisation Rapide Et Efficace - Les Informations Essentielles</u></a></li>
+<li><a href="https://media-tips.techidaily.com/selecting-top-quality-software-a-guide-to-finding-ideal-mpeg-to-vob-video-converters/"><u>Selecting Top-Quality Software: A Guide to Finding Ideal MPEG to VOB Video Converters</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-videos-into-zen-vision-format-using-your-mac/"><u>Step-by-Step Guide: Transforming Videos Into Zen Vision Format Using Your Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/tiny-screenplay-scheme/"><u>Tiny Screenplay Scheme</u></a></li>
 </ul></div>
 

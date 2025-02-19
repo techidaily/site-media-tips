@@ -1,7 +1,7 @@
 ---
 title: Free 5KPlayer with DLNA Support - Functions, Benefits, Configuration, and Usage Guide
-date: 2025-02-03T16:40:51.261Z
-updated: 2025-02-09T18:38:42.416Z
+date: 2025-02-14T17:28:49.341Z
+updated: 2025-02-19T18:04:19.876Z
 tags:
   - dlna
 categories:
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 ![5KPlayer DLNA](https://www.5kplayer.com/dlna-jp/img/dlna-guide-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **[DLNAとは](https://tools.techidaily.com/5kplayer/dlna/)**
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 （1）準備：以下の「無料ダウンロード」ボタンをクリックして、DLNA対応ソフト「[5KPlayer![](https://www.5kplayer.com/dlna-jp/../image/download-mac/dicon.png)](https://tools.techidaily.com/5kplayer/products/)」を手元のパソコンにダウンロード・インストールしてください。
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ヒント：[5KPlayerをダウンロード＆インストールする方法](https://tools.techidaily.com/5kplayer/youtube-download/)
@@ -81,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 （2）5KPlayerを起動し、インタフェースにある「AirPlayer DLNA」アイコンをクリックします。すると、5KPlayer DLNAの設定画面に移動します。そこで、DLNAサービスの有効とサービス名、DLNAデバイスの有効とデバイス名、DLNAIPアドレスの設定を行えます。
 
 ![5KPlayer DLNA](https://www.5kplayer.com/dlna-jp/img/dlna-guide-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 （3）Windows/Mac PCをメディアサーバーとして利用したいとき、DLNAサービスを「OFF」から「ON」にしてください。Windows/Mac PCをDLNAプレイヤーとして、AndroidスマホやタブレットからPCへメディアファイルをミラーリングしたい場合、DLNAデバイスを「ON」にします。これで、5KPlayer DLNA対応を有効にします。 
 
@@ -93,14 +97,10 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitewin-jp.png)](https://www.5kplayer.com/5kplayer-download-windows-jp.htm) [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitemac-jp.png)](https://www.5kplayer.com/5kplayer-download-mac-jp.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **関連記事：**[おすすめの動画再生アプリランキング18選｜PC/Mac/iPhone/Android](https://tools.techidaily.com/5kplayer/video-music-player/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5KPlayer DLNAの使い方（具体的な例を挙げる）
 
@@ -115,6 +115,10 @@ Step2、インタフェースにある「AirPlayer DLNA」アイコンをクリ�
 Step3、Androidスマホ上でDLNA対応アプリを開き、ミラーリングしたい映像を選択し、アプリのオプションにある「DLNA」（アプルによって表示単語が異なる）が表示されて、5KPlayerを搭載したPCを選択します。これで、AndroidスマホからWindows/Mac PCに動画がミラーリングされます。
 
 ![5KPlayer DLNAの使い方](https://www.5kplayer.com/dlna-jp/img/dlna-guide-5.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ※AndroidスマホにDLNA対応アプリをインストールする必要があります。 
 
@@ -150,10 +154,6 @@ Step4、手元のAndroidスマホ/スマートTV/ PS4/Xboxのアプリ共有セ�
 
 ![5KPlayer DLNAの使い方](https://www.5kplayer.com/dlna-jp/img/dlna-guide-7.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ※フォーマットによって、一部のビデオ・オディオは再生できない可能性があります。MP4 / AVI / MKVフォーマットのビデオとMP3 / AAC / WMAフォーマットの音楽を追加することをお勧めします。 
 
 [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitewin-jp.png)](https://www.5kplayer.com/5kplayer-download-windows-jp.htm) [![](https://www.5kplayer.com/dlna-jp/../button/freedownwhitemac-jp.png)](https://www.5kplayer.com/5kplayer-download-mac-jp.htm)
@@ -177,16 +177,24 @@ Step4、手元のAndroidスマホ/スマートTV/ PS4/Xboxのアプリ共有セ�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hdr-advantages-in-video-workflow-over-traditional-sdr/"><u>[New] HDR Advantages in Video Workflow Over Traditional SDR</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-from-device-to-inshot-a-guide-to-audio-integration/"><u>[New] In 2024, From Device to InShot A Guide to Audio Integration</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-maximizing-video-quality-in-zoom-conferences-on-win11-for-2024/"><u>[New] Maximizing Video Quality in Zoom Conferences on Win11 for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ailoring-your-content-youtube-video-length-reduction-guide/"><u>[New] Tailoring Your Content YouTube Video Length Reduction Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-dynamic-wallpaper-change-the-editors-companion-list/"><u>[Updated] 2024 Approved Dynamic Wallpaper Change The Editor's Companion List</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-key-components-to-a-smooth-watching-experience-facebook-livestream/"><u>[Updated] 2024 Approved Key Components to a Smooth Watching Experience Facebook Livestream</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-guide-on-imovie-mp4-conversion-techniques-and-expert-tutorials/"><u>Comprehensive Guide on iMovie MP4 Conversion Techniques & Expert Tutorials</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-your-m4p-audio-tracks-to-mp3-at-no-cost-with-our-simple-tool/"><u>Convert Your M4P Audio Tracks to MP3 at No Cost with Our Simple Tool</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-stream-smoothly-with-obs-studio-on-your-android/"><u>In 2024, Stream Smoothly with OBS Studio on Your Android</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-your-4k-xavc-videos-seamlessly-into-mp4-format-with-an-exceptional-free-converter-for-avid-users/"><u>Transform Your 4K XAVC Videos Seamlessly Into MP4 Format with an Exceptional Free Converter for AVID Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-list-of-top-12-tools-add-ons-and-plugins-to-boost-your-windows-movie-maker-experience/"><u>Ultimate List of Top 12 Tools, Add-Ons, and Plugins to Boost Your Windows Movie Maker Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-cut-beyond-youtube-unveiling-the-top-5-video-editor-options/"><u>[New] In 2024, Cut Beyond Youtube Unveiling the Top 5 Video Editor Options</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-all-inclusive-list-of-prime-no-money-streaming-applications-and-software/"><u>[Updated] All-Inclusive List of Prime No-Money Streaming Applications & Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-essential-leaderboard-scratcher-youtube-trending-analysis-for-2024/"><u>[Updated] Essential Leaderboard Scratcher YouTube Trending Analysis for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-techniques-efficiently-collecting-photo-and-video-banners/"><u>[Updated] Expert Techniques Efficiently Collecting Photo and Video Banners</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-prime-fb-downloader-pack-for-ff-browsing-enthusiasts/"><u>2024 Approved Prime FB Downloader Pack for FF Browsing Enthusiasts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-mkv-to-xvid-transformation-a-user-friendly-tutorial-for-smooth-video-conversion/"><u>Effortless MKV-to-Xvid Transformation - A User-Friendly Tutorial for Smooth Video Conversion</u></a></li>
+<li><a href="https://media-tips.techidaily.com/get-your-fast-free-mkv-player-codec-supports-all-formats/"><u>Get Your Fast, Free MKV Player Codec - Supports All Formats</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-seamlessly-transform-your-mp3s-into-high-quality-aiff-audio-with-the-best-mp3-to-aiff-conversion-tools-available/"><u>How to Seamlessly Transform Your MP3s Into High-Quality AIFF Audio with the Best MP3-to-AIFF Conversion Tools Available</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-strategies-for-successful-youtube-monetization/"><u>In 2024, Strategies for Successful YouTube Monetization</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp4-conversion-from-mpg-without-cost-safe-easy-guide-for-mac-users/"><u>MP4 Conversion From MPG without Cost: Safe, Easy Guide for Mac Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mxf-to-avi-transformation-for-free-the-ultimate-guide-on-easy-conversion-techniques/"><u>MXF to AVI Transformation for Free - The Ultimate Guide on Easy Conversion Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/preserve-excellent-video-clarity-a-guide-to-converting-mov-files-into-stunning-gif-images-with-top-strategies/"><u>Preserve Excellent Video Clarity: A Guide to Converting MOV Files Into Stunning GIF Images with Top Strategies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-avi-videos-into-premium-wma-format/"><u>Step-by-Step Guide: Transforming AVI Videos Into Premium WMA Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-complete-walkthrough-on-how-to-convert-and-watch-rmvb-videos/"><u>The Complete Walkthrough on How to Convert and Watch RMVB Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transform-mp4-videos-into-mpeg-with-simple-techniques-for-mac-users-free-conversion-tips/"><u>Transform MP4 Videos Into MPEG with Simple Techniques for Mac Users - Free Conversion Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-correcting-the-infamous-code-28-on-your-pc/"><u>Troubleshooting and Correcting the Infamous Code 28 on Your PC</u></a></li>
 </ul></div>
 
